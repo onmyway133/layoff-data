@@ -3,7 +3,7 @@
   "industry": "E-commerce",
   "hqCountry": "United States",
   "domain": "amazon.com",
-  "icon": "amazon.png",
+  "icon": "missing.png",
   "events": [
     {
       "id": "fe98ade9-a028-4b14-bbe8-e56b27b0d5cf",
@@ -16,6 +16,9 @@
       "sources": [
         {
           "url": "https://www.channelweb.co.uk/news/2026/amazon-layoffs"
+        },
+        {
+          "url": "https://www.aboutamazon.com/news/x"
         }
       ]
     },
