@@ -23,13 +23,27 @@ jobs:
   deploy:
     name: deploy
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd # v6.3.0
         with:
           role-to-assume: ${{ vars.AWS_DEPLOY_ROLE_ARN }}
           aws-region: us-east-1
+      # Amplify refuses a job while another is pending or running on the branch, and that build may
+      # have read the data before this push. Wait for it (up to 10 minutes) and start a fresh one.
       - name: Start the site build
         run: |
-          aws amplify start-job --app-id d1rnj3kiay05gb --branch-name main --job-type RELEASE \
-            --query 'jobSummary.{jobId:jobId,status:status}' --output text
+          for attempt in $(seq 1 30); do
+            if out=$(aws amplify start-job --app-id d1rnj3kiay05gb --branch-name main --job-type RELEASE \
+              --query 'jobSummary.{jobId:jobId,status:status}' --output text 2>&1); then
+              echo "$out"
+              exit 0
+            fi
+            echo "$out"
+            case "$out" in
+              *LimitExceededException*) sleep 20 ;;
+              *) exit 1 ;;
+            esac
+          done
+          echo "a build was still running after 10 minutes; giving up"
+          exit 1
