@@ -21,25 +21,6 @@
           "siteName": "BNN Bloomberg"
         }
       ]
-    },
-    {
-      "id": "10cd992c-660d-4747-8d4e-3a2d73c2ec14",
-      "date": "2026-07-30",
-      "headcount": 100,
-      "percent": 3,
-      "country": "Canada",
-      "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
-      "externalId": "ailayoffs:bd31be41ef59cc1df13b",
-      "sources": [
-        {
-          "url": "https://betakit.com/lightspeed-narrows-net-loss-beats-revenue-expectations-in-fiscal-q1/",
-          "title": "Lightspeed stock sinks despite narrower net loss, revenue beat in fiscal Q1 | BetaKit",
-          "description": "The Montréal firm reveals it cut three percent of workforce amid AI and productivity push.",
-          "image": "https://cdn.betakit.com/wp-content/uploads/2025/12/Lightspeed_HQ_2025_1237_LogoScene-e1764957615149.jpg",
-          "siteName": "BetaKit"
-        }
-      ]
     }
   ]
 }

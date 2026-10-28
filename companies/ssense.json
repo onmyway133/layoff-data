@@ -5,24 +5,6 @@
   "icon": "ssense.png",
   "events": [
     {
-      "id": "5e2e1da2-d9ce-4257-a7d2-40a4568f21d6",
-      "date": "2026-06-22",
-      "headcount": 12,
-      "country": "Canada",
-      "reason": "other",
-      "dataset": "ai-layoffs-index",
-      "externalId": "ailayoffs:1fc25fa22716ac4328b3",
-      "sources": [
-        {
-          "url": "https://montrealgazette.com/business/ssense-lays-off-visuals-department-to-replace-with-ai-former-photographer-reveals/",
-          "title": "Ssense lays off most of visuals department to replace with AI, former photographer alleges",
-          "description": "Makeup artists and retouchers also let go as 'Ssense is evolving our studio operating model'",
-          "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/07/0704-ssense-3.jpg",
-          "siteName": "Montreal Gazette"
-        }
-      ]
-    },
-    {
       "id": "3a476f5b-a926-4dbc-9b69-6318d277f39a",
       "date": "2026-02-06",
       "headcount": 215,

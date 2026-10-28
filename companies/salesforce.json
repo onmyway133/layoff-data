@@ -6,24 +6,6 @@
   "icon": "salesforce.png",
   "events": [
     {
-      "id": "ffa5f686-6a14-4190-b8b2-e3b44a0447f8",
-      "date": "2026-06-10",
-      "headcount": 86,
-      "country": "United States",
-      "reason": "other",
-      "dataset": "curated",
-      "externalId": "curated:25c33642191711eefaea",
-      "sources": [
-        {
-          "url": "https://americanbazaaronline.com/2026/06/10/salesforce-lays-off-more-employees-in-new-round-of-cuts-482543/",
-          "title": "Salesforce lays off more employees in new round of cuts",
-          "description": "Salesforce announces another round of layoffs impacting Agentforce, Mulesoft, Marketing Cloud teams amid growing AI-driven transformation.",
-          "image": "https://americanbazaaronline.com/wp-content/uploads/2025/08/Salesforce-logo-scaled.webp",
-          "siteName": "The American Bazaar"
-        }
-      ]
-    },
-    {
       "id": "18d8b999-452f-40b4-8451-5524387cfd63",
       "date": "2026-02-10",
       "headcount": 1000,

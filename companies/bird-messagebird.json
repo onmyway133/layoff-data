@@ -21,22 +21,6 @@
           "siteName": "TechCrunch"
         }
       ]
-    },
-    {
-      "id": "40d4bdef-4572-44ad-a392-c2bb3a2a6578",
-      "date": "2024-02-29",
-      "headcount": 90,
-      "percent": 20,
-      "country": "Netherlands",
-      "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
-      "externalId": "ailayoffs:0873b86fb09bc3d10dee",
-      "sources": [
-        {
-          "url": "https://www.deondernemer.nl/innovatie/techbedrijf-vervangt-binnen-7-minuten-90-mensen-door-ai-maak-me-zorgen-om-de-mensheid~3baf01b",
-          "title": "DPG Media Privacy Gate"
-        }
-      ]
     }
   ]
 }

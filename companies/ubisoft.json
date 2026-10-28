@@ -5,24 +5,6 @@
   "icon": "ubisoft.png",
   "events": [
     {
-      "id": "4016d985-fae8-44e7-933c-b3de339a2549",
-      "date": "2026-10-15",
-      "headcount": 100,
-      "country": "Germany",
-      "reason": "restructuring",
-      "dataset": "curated",
-      "externalId": "curated:6dd2b70c5da58d39ee3e",
-      "sources": [
-        {
-          "url": "https://www.invenglobal.com/articles/27243/ubisoft-in-consultations-to-cut-jobs-across-3-german-studios",
-          "title": "Ubisoft in Consultations to Cut Jobs Across 3 German Studios",
-          "description": "© UbisoftUbisoft is pursuing workforce reductions across three studios in Germany.",
-          "image": "https://static.invenglobal.com/upload/image/2026/10/15/i1792070887164792.jpeg",
-          "siteName": "InvenGlobal"
-        }
-      ]
-    },
-    {
       "id": "6eaa4150-2a03-40ba-8528-94cde9fbacb6",
       "date": "2026-06-10",
       "headcount": 380,
@@ -81,24 +63,6 @@
           "description": "One week after announcing major restructuring plans at Ubisoft, the company has now begun a voluntary redundancy process at its Paris, France headquarters.",
           "image": "https://cdn.mos.cms.futurecdn.net/FwXCb2Yh8kujXd7YJdYrXJ-2560-80.jpg",
           "siteName": "TechRadar"
-        }
-      ]
-    },
-    {
-      "id": "46229414-43c6-4415-ad25-feb6db2976b2",
-      "date": "2026-01-07",
-      "headcount": 71,
-      "country": "Canada",
-      "reason": "cost_cutting",
-      "dataset": "curated",
-      "externalId": "curated:5012ce78fcdb684a91fc",
-      "sources": [
-        {
-          "url": "https://www.gamesindustry.biz/ubisoft-shuttering-freshly-unionised-halifax-studio-71-jobs-affected",
-          "title": "Ubisoft shuttering freshly-unionised Halifax studio, 71 jobs affected",
-          "description": "The studio is the latest to be hit by the company's ongoing cutbacks.",
-          "image": "https://assetsio.gnwcdn.com/new_ubisoft_logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "siteName": "GamesIndustry.biz"
         }
       ]
     }

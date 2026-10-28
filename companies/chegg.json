@@ -110,28 +110,6 @@
           "siteName": "InvestorPlace"
         }
       ]
-    },
-    {
-      "id": "af501fb4-e938-4e2d-bfa2-120dcd3645f1",
-      "date": "2023-06-12",
-      "headcount": 80,
-      "percent": 4,
-      "country": "United States",
-      "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
-      "externalId": "ailayoffs:136f92e4553e2183a78c",
-      "sources": [
-        {
-          "url": "https://www.sakshipost.com/news/edtech-firm-chegg-cut-4-staff-ai-risks-business-199473",
-          "title": "Edtech firm Chegg to cut 4% of staff as AI risks business",
-          "description": "San Francisco, June 14 (IANS) US-based online learning platform Chegg has revealed its plans to cut about 4 per cent of its workforce, just weeks after its CEO admitted that OpenAI's ChatGPT was crushing its business as more students are turning to artificial intelligence for homework assistance.",
-          "image": "https://www.sakshipost.com/sites/default/files/styles/topnews_main/public/article_images/2023/06/14/3402b58a21f013973df266484f2a67a6-1686750002.jpg?itok=XK6QdEFi",
-          "siteName": "Sakshi Post"
-        },
-        {
-          "url": "https://www.tipranks.com/news/chegg-nysechgg-trims-workforce-chatgpt-threat-lingers"
-        }
-      ]
     }
   ]
 }

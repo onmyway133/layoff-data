@@ -5,24 +5,6 @@
   "icon": "linkedin.png",
   "events": [
     {
-      "id": "8c38564e-1653-4990-aef1-31ca00556df9",
-      "date": "2026-08-11",
-      "headcount": 50,
-      "country": "Israel",
-      "reason": "restructuring",
-      "dataset": "curated",
-      "externalId": "curated:4ca736c4a08c1b9f111d",
-      "sources": [
-        {
-          "url": "https://www.calcalistech.com/ctechnews/article/rjrwxydizg",
-          "title": "LinkedIn to shut down Israeli R&D operations and lay off nearly all employees | CTech",
-          "description": "The center, which employs about 50 people, was established in 2022 following LinkedIn’s $80 million-$90 million acquisition of Israeli analytics startup Oribi.",
-          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2020/06/18/998704/998704_0_104_1017_573_0_large.jpg",
-          "siteName": "ctech"
-        }
-      ]
-    },
-    {
       "id": "d1d40746-3402-458e-b908-bc42945877b9",
       "date": "2026-05-13",
       "headcount": 875,

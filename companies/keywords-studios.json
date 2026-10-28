@@ -21,25 +21,6 @@
           "siteName": "Game Developer"
         }
       ]
-    },
-    {
-      "id": "263644eb-7aeb-4f96-a1f7-a1b6fcce97e9",
-      "date": "2024-06-27",
-      "headcount": 31,
-      "percent": 20,
-      "country": "Italy",
-      "reason": "other",
-      "dataset": "ai-layoffs-index",
-      "externalId": "ailayoffs:78ab2eb9cf0055a93a2d",
-      "sources": [
-        {
-          "url": "https://www.ilgiorno.it/milano/cronaca/keywords-studios-licenziamenti-s9azvd2l",
-          "title": "Licenziati dall’intelligenza artificiale, nell’azienda Keyword Studios perdono il posto 31 lavoratori",
-          "description": "Oltre alla sostituzione di uomini e donne con la macchina, c’è anche il trasferimento in Polonia. I sindacati insorgono",
-          "image": "https://www.ilgiorno.it/image-service/view/acePublic/alias/contentid/MDY3M2M2YjQtMGJhZS00/0/videogame-uno-dei-campi-piu-fertili-per-l-applicazione-dell-intelligenza-artificiale.jpg?f=16:9&w=1200&h=675",
-          "siteName": "Il Giorno"
-        }
-      ]
     }
   ]
 }
