@@ -1,0 +1,32 @@
+{
+  "name": "E.W. Scripps",
+  "industry": "Broadcast media (local TV stations)",
+  "events": [
+    {
+      "id": "e-w-scripps-2026-10-27",
+      "date": "2026-10-27",
+      "headcount": 431,
+      "percent": 10,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:7ee39c7cd185ae0b4888",
+      "sources": [
+        {
+          "url": "https://www.thewrap.com/media-platforms/tv/scripps-lays-off-431-employees-promises-to-create-100-new-positions/",
+          "title": "Scripps Layoffs Continue With 431 Cuts as CEO Promises 100 New Jobs in 'Enterprise-Wide Transformation'",
+          "description": "More layoffs are underway at Scripps, with the company revealing Tuesday it would eliminate 431 positions while adding 100 new jobs as part of an \"enterprise-wide transformation.\"",
+          "image": "https://www.thewrap.com/wp-content/uploads/2026/08/scripps-symson.jpg",
+          "siteName": "TheWrap"
+        },
+        {
+          "url": "https://thedesk.net/2026/10/scripps-layoffs-done-politica-ad-forecast-higher/",
+          "title": "Scripps says layoffs done for now, touts higher political ad forecast | TheDesk.net",
+          "description": "The higher political ad forecast projection comes one day after Scripps eliminated 430 positions across the company.",
+          "image": "https://thedesk.net/wp-content/uploads/2024/10/BLANK-EW-Scripps-Company-WEBP-TD.webp",
+          "siteName": "TheDesk.net"
+        }
+      ]
+    }
+  ]
+}
