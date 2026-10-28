@@ -10,7 +10,7 @@
 
 ## Checklist
 
-- [ ] Every number is stated in a linked press article.
+- [ ] Every number is stated in a linked press article, and each layoff is of more than 100 people.
 - [ ] I checked `companies/` for the company and for an existing event (no duplicate).
 - [ ] Events stay sorted newest first, and I didn't rename files or change existing ids.
 - [ ] I agree that my contribution is licensed to the maintainers under the terms in [LICENSE](../LICENSE).

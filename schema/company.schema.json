@@ -38,7 +38,7 @@
           },
           "headcount": {
             "type": "integer",
-            "exclusiveMinimum": 0,
+            "exclusiveMinimum": 100,
             "maximum": 9007199254740991
           },
           "percent": {

@@ -1,5 +1,5 @@
 name: Report a layoff
-description: Add a layoff reported by the press, without editing JSON.
+description: Add a layoff reported by the press, without editing JSON. We list layoffs of more than 100 people.
 title: "Add: "
 labels: ["new layoff"]
 body:
@@ -21,7 +21,7 @@ body:
     id: headcount
     attributes:
       label: Jobs cut
-      description: As stated in the articles. Don't estimate.
+      description: As stated in the articles. Don't estimate. Must be more than 100.
       placeholder: "120"
     validations:
       required: true

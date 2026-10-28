@@ -10,7 +10,8 @@ Not comfortable editing JSON? Open an issue with the
 ## What belongs here
 
 Layoffs at tech companies and startups, reported by the press. One event is
-one announced round of cuts. (Events imported from the AI Layoffs Index also
+one announced round of cuts. We list layoffs of more than 100 people: an event
+with a `headcount` of 100 or fewer is refused by the check. (Events imported from the AI Layoffs Index also
 cover cuts at other companies that it links to AI.)
 
 ## Before you start
@@ -85,7 +86,7 @@ npm run validate
 - A new event's `id` is `<company>-<YYYY-MM-DD>`, then `-2`, `-3` for another
   event on the same day. Older events have UUIDs; keep them.
 - `date` is when the layoff was announced or reported, `YYYY-MM-DD`.
-- `headcount` is the number of jobs cut (a whole number above 0). `percent` is
+- `headcount` is the number of jobs cut (a whole number above 100). `percent` is
   the share of the workforce (0 to 100), only when an article states it.
 - `country` is the country the cuts happened in, written out in English
   (`United States`, `Germany`).

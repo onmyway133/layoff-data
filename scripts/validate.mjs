@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Validates every data file against schema/*.schema.json, then runs the cross-file checks
-// (unique event ids and external ids, rejected ids, icons, press-only sources, event order,
-// trusted domains). Exits 1 and lists every problem on failure.
+// (headcount over the threshold, unique event ids and external ids, rejected ids, icons, press-only
+// sources, event order, trusted domains). Exits 1 and lists every problem on failure.
 //
 // Usage: node scripts/validate.mjs [repo dir]   (defaults to the current directory)
 
@@ -12,6 +12,9 @@ import addFormats from 'ajv-formats'
 
 const root = resolve(process.argv[2] ?? '.')
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
+// Scope: only layoffs of more than this many people are listed (layoff-tracker's
+// HEADCOUNT_THRESHOLD; the schema says the same with `exclusiveMinimum`).
+const HEADCOUNT_THRESHOLD = 100
 
 const errors = []
 const add = (file, message) => errors.push({ file, message })
@@ -160,6 +163,9 @@ for (const { slug, file } of companies) {
   file.events.forEach((event, index) => {
     const at = `event ${event.id}`
     checkText(where, `/events/${index}`, event, ['country'])
+    if (!(event.headcount > HEADCOUNT_THRESHOLD)) {
+      add(where, `${at}: headcount ${event.headcount} is not more than ${HEADCOUNT_THRESHOLD}; only larger layoffs are listed`)
+    }
     const seen = eventIds.get(event.id)
     if (seen) add(where, `${at}: duplicate event id (also in ${seen})`)
     else eventIds.set(event.id, where)

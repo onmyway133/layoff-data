@@ -2,6 +2,7 @@
 
 Tech layoff data: companies, layoff events and the press articles they come
 from, one JSON file per company. It powers [layoffmap.com](https://layoffmap.com).
+We list layoffs of more than 100 people.
 
 Every merged pull request is published to the site automatically. Want to add a
 layoff, fix a number or report a broken link? See
