@@ -15,6 +15,7 @@ icons/<company>.<ext>      the company's icon
 trusted-domains.json       press outlets the site marks as trusted
 rejected.json              imported events that were turned down (never re-added)
 schema/*.schema.json       JSON Schema of each file (generated)
+scripts/validate.mjs       the pull request check (`npm ci && npm run validate`)
 ```
 
 `<company>` is the slug used in the site's links (`/companies/<company>`), so
