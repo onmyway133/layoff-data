@@ -1,0 +1,41 @@
+{
+  "name": "Vodafone Germany",
+  "industry": "Telecom",
+  "domain": "vodafone.de",
+  "icon": "vodafone-germany.png",
+  "events": [
+    {
+      "id": "f3090065-91d7-49d1-9a7a-61f297cd8ad9",
+      "date": "2024-03-26",
+      "headcount": 2000,
+      "percent": 13,
+      "country": "Germany",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:459dd2135362f955fa59",
+      "sources": [
+        {
+          "url": "https://telcotitans.com/vodafonewatch/vodafone-germany-to-axe-2000-jobs-in-400m-cost-cutting-drive/7948.article",
+          "title": "Vodafone Germany to axe 2,000 jobs in €400m cost-cutting drive",
+          "description": "Vodafone Germany embarks on a cost-cutting journey with job cuts and investments going elsewhere.",
+          "image": "https://db8n10t56pnoz.cloudfront.net/Pictures/1024x536/1/7/7/12177_vfgermanyjobcutsmar241_516667.jpg",
+          "siteName": "TelcoTitans.com"
+        },
+        {
+          "url": "https://totaltele.com/vodafone-germany-to-cut-2000-jobs/",
+          "title": "Vodafone Germany to cut 2,000 jobs - Total Telecom",
+          "description": "Vodafone Germany has announced today that it will cut 2,000 jobs over the next two years as part wider company restructuring. The company says the move will save €400 million over the next two years.",
+          "image": "https://totaltele.com/wp-content/uploads/2022/09/Sede-Vodafone-Portugal-4.jpg",
+          "siteName": "Total Telecom"
+        },
+        {
+          "url": "https://www.pcwelt.de/article/1676498/vodafone-deutschland-2000-stellen-fallen-weg.html",
+          "title": "Vodafone Deutschland: Weitere 2.000 Stellen fallen weg",
+          "description": "Bereits die zweite Massenentlassung bei Vodafone Deutschland binnen 12 Monaten: 2.000 Stellen fallen weg. Nach 1.300 Stellen, die 2023 weggefallen sind.",
+          "image": "https://www.pcwelt.de/wp-content/uploads/2024/03/Vodafone-2.jpg?quality=50&strip=all&w=1024",
+          "siteName": "PC-WELT"
+        }
+      ]
+    }
+  ]
+}

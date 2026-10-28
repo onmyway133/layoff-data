@@ -1,0 +1,27 @@
+{
+  "name": "Artlist",
+  "industry": "Creative technology (stock media and AI video tools)",
+  "domain": "artlist.io",
+  "icon": "artlist.png",
+  "events": [
+    {
+      "id": "683c1ee7-974f-4303-9da3-c1f8da0a0435",
+      "date": "2026-06-16",
+      "headcount": 200,
+      "percent": 40,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:efba80b1f52345f41fb1",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/xrqudqiq6",
+          "title": "Unicorn Artlist to cut 200 jobs, 40% of workforce, despite surpassing $300 million ARR | CTech",
+          "description": "Israeli creative-tech company says it is restructuring around an AI-native operating model despite rapid growth.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/25/rJsiIE7811e/rJsiIE7811e_1_433_1667_939_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "DocuSign",
+  "industry": "Software",
+  "hqCountry": "United States",
+  "domain": "docusign.com",
+  "icon": "docusign.png",
+  "events": [
+    {
+      "id": "7cc8862e-9b9c-49da-a461-dc6eb423abbd",
+      "date": "2023-02-16",
+      "headcount": 700,
+      "percent": 10,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://channelfutures.com/business-models/docusign-cutting-700-workers-in-latest-layoffs-amid-restructuring"
+        },
+        {
+          "url": "https://www.cnbc.com/amp/2023/02/16/docusign-layoffs-company-to-cut-10percent-of-workforce.html",
+          "title": "DocuSign to lay off 10% of its workforce, or about 700 employees",
+          "description": "E-signature software company DocuSign on Thursday announced plans to cut around 10% of its workforce.",
+          "image": "https://image.cnbcfm.com/api/v1/image/106984230-1638546523988-gettyimages-1232071132-DOCUSIGN_APP.jpeg?v=1728412895",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://www.fool.com/investing/2023/02/16/why-docusign-rose-today/",
+          "title": "Why DocuSign Rose Today | The Motley Fool",
+          "description": "Shares of the e-signature company rose as management announced a round of layoffs.",
+          "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F721182%2Fbusiness-partners-collaboration-team-work.jpg&w=1200&op=resize",
+          "siteName": "The Motley Fool"
+        }
+      ]
+    }
+  ]
+}

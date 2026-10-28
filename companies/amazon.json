@@ -1,0 +1,71 @@
+{
+  "name": "Amazon",
+  "industry": "E-commerce",
+  "hqCountry": "United States",
+  "domain": "amazon.com",
+  "icon": "amazon.png",
+  "events": [
+    {
+      "id": "fe98ade9-a028-4b14-bbe8-e56b27b0d5cf",
+      "date": "2026-01-28",
+      "headcount": 16000,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:6e9c794e6fe43ebba42b",
+      "sources": [
+        {
+          "url": "https://www.channelweb.co.uk/news/2026/amazon-layoffs"
+        }
+      ]
+    },
+    {
+      "id": "e7f668ff-29dd-40ec-9be2-2c41ece1f675",
+      "date": "2025-10-28",
+      "headcount": 14000,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:05a5b17d6bb4609b2764",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/amazon-cuts-14-000-corporate-123834043.html"
+        },
+        {
+          "url": "https://jamaica-gleaner.com/article/business/20251029/amazon-cutting-14000-corporate-jobs-spending-ai-accelerates"
+        },
+        {
+          "url": "https://newschannel9.com/news/nation-world/amazon-cuts-30000-corporate-jobs-report-tech-seattle-workers-employment-layoffs-hiring",
+          "title": "Amazon to cut about 14,000 corporate jobs beginning this week, more may be possible",
+          "description": "Amazon is planning to cut approximately 14,000 corporate jobs, according to a message shared with Amazon employees and posted on the company website Tuesday.",
+          "image": "https://newschannel9.com/resources/media/68328aa7-32c4-45ab-9e12-774d8b4d03d9-jumbo16x9_AP21341845403366.jpg?1638969787013",
+          "siteName": "WTVC"
+        }
+      ]
+    },
+    {
+      "id": "c3ae0f7a-2152-4392-8863-774459da0603",
+      "date": "2023-01-04",
+      "headcount": 18000,
+      "percent": 1.2,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2023/01/04/amazon-says-it-will-cut-over-18000-jobs-more-than-initially-planned.html",
+          "title": "Amazon says it will cut over 18,000 jobs, more than initially planned",
+          "description": "Amazon has decided to get rid of additional roles after committing to a round of cuts in its corporate workforce in November.",
+          "image": "https://image.cnbcfm.com/api/v1/image/106276447-1575399936185andyjassyfortt-2.jpg?v=1672882535&w=1920&h=1080",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://www.opb.org/article/2023/01/05/amazon-ceo-says-company-will-lay-off-more-than-18000-workers/",
+          "title": "Amazon CEO says company will lay off more than 18,000 workers",
+          "description": "The layoffs represent the single largest number of jobs cut at a technology company since the industry began aggressively downsizing last year.",
+          "image": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/G4CVP5BR5VIPVLX7AMIWEF55H4.jpg?auth=cc764f444f6828b0f9e543c0c3f98f843c8db367944829acde71a220039c2367&width=1200&height=675&smart=true",
+          "siteName": "opb"
+        }
+      ]
+    }
+  ]
+}

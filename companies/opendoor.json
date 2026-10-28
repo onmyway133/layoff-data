@@ -1,0 +1,36 @@
+{
+  "name": "Opendoor",
+  "industry": "Real estate technology (online home buying)",
+  "domain": "opendoor.com",
+  "icon": "opendoor.png",
+  "events": [
+    {
+      "id": "168b0e34-f069-424d-b3da-b2088a90ab1d",
+      "date": "2026-06-10",
+      "headcount": 250,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:0f5707facfd5d9dba2ca",
+      "sources": [
+        {
+          "url": "https://businesstoday.in/technology/news/story/opendoor-eliminates-its-entire-india-workforce-of-250-amid-ai-push-536228-2026-06-11",
+          "title": "OpenDoor lays off its entire India workforce of 250 amid AI push - BusinessToday",
+          "description": "OpenDoor sacked its entire India workforce of nearly 250 employee as artificial intelligence (AI) reshapes operations.",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2a3a7df23a8-opendoor-layoff-india-113256100-16x9.jpg",
+          "siteName": "Business Today"
+        },
+        {
+          "url": "https://sg.finance.yahoo.com/news/us-real-estate-firm-opendoor-091113754.html"
+        },
+        {
+          "url": "https://www.wionews.com/india-news/opendoor-shuts-india-operations-relocates-roles-us-ai-restructuring-1781170462982",
+          "title": "Opendoor shuts India operations, relocates roles to US under AI-driven restructuring",
+          "description": "US-based real estate technology company Opendoor is shutting down its India operations and relocating roles to the US as part of its AI-driven Opendoor 2.0 restructuring plan announced by CEO Kaz Nejatian.",
+          "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260611/image-1781172343064.jpg?imwidth=1200&imheight=900",
+          "siteName": "Wion"
+        }
+      ]
+    }
+  ]
+}

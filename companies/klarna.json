@@ -1,0 +1,36 @@
+{
+  "name": "Klarna",
+  "industry": "Fintech",
+  "hqCountry": "Sweden",
+  "domain": "klarna.com",
+  "icon": "klarna.png",
+  "events": [
+    {
+      "id": "aaf37bc3-4be2-4e3f-84c7-3f6c0c1334b3",
+      "date": "2022-05-23",
+      "headcount": 700,
+      "percent": 10,
+      "country": "Sweden",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://blog.pragmaticengineer.com/layoffs-at-klarna/",
+          "title": "Inside the Layoffs at Klarna",
+          "description": "The FinTech company valued at $45B laid off 10% of its staff. How did it happen, and what can other companies learn from its execution?",
+          "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2022/06/Untitled-design--27-.png",
+          "siteName": "The Pragmatic Engineer"
+        },
+        {
+          "url": "https://www.fintechfutures.com/bnpl-payments/bnpl-giant-klarna-to-cut-10-of-workforce-amid-tumultuous-year-"
+        },
+        {
+          "url": "https://www.fortune.com/2022/05/24/klarna-layoffs-signal-trouble-ahead-for-unicorns-and-consumers",
+          "title": "Klarna layoffs signal trouble ahead for unicorns—and consumers | Fortune",
+          "description": "The buy now, pay later giant preps for \"a very different world.\"",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2022/05/GettyImages-1230710942.jpg?resize=1200,600",
+          "siteName": "Fortune"
+        }
+      ]
+    }
+  ]
+}

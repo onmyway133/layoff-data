@@ -1,0 +1,27 @@
+{
+  "name": "Yellow.ai",
+  "industry": "Conversational AI software",
+  "domain": "yellow.ai",
+  "icon": "yellow-ai.png",
+  "events": [
+    {
+      "id": "64614396-cbe2-4f8f-9326-7d7f003bc68f",
+      "date": "2025-12-23",
+      "headcount": 100,
+      "percent": 30,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:21468e610b0cff09ad24",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/exclusive-yellow-ai-lays-off-over-100-employees-amid-automation-push/",
+          "title": "Exclusive: Yellow.ai Lays Off Over 100 Employees Amid Automation Push",
+          "description": "The layoffs, which accounted for about 30% of the startup’s workforce, were carried out in multiple phases and largely affected engineering and product teams",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/12/soc-3-1.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

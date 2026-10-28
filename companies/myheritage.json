@@ -1,0 +1,27 @@
+{
+  "name": "MyHeritage",
+  "industry": "Consumer internet",
+  "domain": "myheritage.com",
+  "icon": "myheritage.png",
+  "events": [
+    {
+      "id": "5cb2e70c-2a6f-4dc8-a23a-9b517e23da22",
+      "date": "2026-07-08",
+      "headcount": 75,
+      "percent": 15,
+      "country": "Israel",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:d483f48fb294fb25e391",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001548761",
+          "title": "MyHeritage to lay off 15% of workforce",
+          "description": "MyHeritage currently has 500 employees in Israel, the US and Europe.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1614242398/direct/GILAD_MyHeritage_2_r30w8y.jpg",
+          "siteName": "Globes"
+        }
+      ]
+    }
+  ]
+}

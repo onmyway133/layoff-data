@@ -1,0 +1,40 @@
+{
+  "name": "Elastic N.V.",
+  "industry": "Software / Search & observability",
+  "domain": "elastic.co",
+  "icon": "elastic-n-v.png",
+  "events": [
+    {
+      "id": "85d59a16-a3ac-4e38-a7bb-767e52addda7",
+      "date": "2026-06-23",
+      "headcount": 281,
+      "percent": 7,
+      "country": "Netherlands",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:1afd370091849b38ac12",
+      "sources": [
+        {
+          "url": "https://aiweekly.co/alerts/elastic-cuts-7-of-staff-ceo-cites-ai-enabling-leaner-teams",
+          "title": "Elastic Cuts 7% of Staff, CEO Cites AI Enabling Leaner Teams | AI Weekly",
+          "description": "Elastic, maker of Elasticsearch and Kibana, is cutting roughly 7% of its workforce — about 280 people out of approximately 4,019 — while reporting Q4…",
+          "siteName": "AI Weekly"
+        },
+        {
+          "url": "https://hoodline.com/2026/06/bay-area-s-elastic-axes-281-jobs-as-ai-shakeup-hits-home/",
+          "title": "Bay Area’s Elastic Axes 281 Jobs As AI Shakeup Hits Home",
+          "description": "Elastic to cut about 281 jobs as it reorganizes around AI.",
+          "image": "https://img.hoodline.com/2026/6/bay-areas-elastic-axes-281-jobs-as-ai-shakeup-hits-home-18.webp",
+          "siteName": "Hoodline"
+        },
+        {
+          "url": "https://www.theregister.com/a/5261993",
+          "title": "Elastic stretches workforce 7% thinner as AI does more of the heavy lifting",
+          "description": "CEO says automation is enabling leaner teams as engineering is split into three core areas",
+          "image": "https://image.theregister.com/256672.jpg?imageId=256672&x=0&y=16.57&cropw=100&croph=75&panox=0&panoy=16.57&panow=100&panoh=75&width=1200&height=683",
+          "siteName": "theregister"
+        }
+      ]
+    }
+  ]
+}

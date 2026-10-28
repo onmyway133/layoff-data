@@ -1,0 +1,26 @@
+{
+  "name": "Bitcoin Suisse",
+  "industry": "Crypto / Fintech",
+  "domain": "bitcoinsuisse.com",
+  "icon": "bitcoin-suisse.png",
+  "events": [
+    {
+      "id": "c94c1c47-8fcd-4012-852d-4634d66a168d",
+      "date": "2026-09-11",
+      "headcount": 60,
+      "country": "Switzerland",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:16bc00b6e8df195728bf",
+      "sources": [
+        {
+          "url": "https://www.swissinfo.ch/eng/workplace/bitcoin-suisse-cuts-60-jobs-in-switzerland/92043040",
+          "title": "Bitcoin Suisse plans to cut up to 60 jobs in Switzerland",
+          "description": "Bitcoin Suisse plans to cut up to half of its 120 Swiss jobs as it reorganises from a primarily Swiss crypto firm into an international financial services group.",
+          "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/09/d6ee6bfb400e3b7e0ce339ea783c2f23e5b67410-92042593.jpg?ver=28e85538&fit=1200,900",
+          "siteName": "SWI swissinfo.ch"
+        }
+      ]
+    }
+  ]
+}

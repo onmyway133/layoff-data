@@ -1,0 +1,41 @@
+{
+  "name": "Wix.com",
+  "industry": "Website Builder / SaaS",
+  "domain": "wix.com",
+  "icon": "wix-com.png",
+  "events": [
+    {
+      "id": "5b16c764-afa3-4c8d-a1e2-d0e02fdd7a00",
+      "date": "2026-05-28",
+      "headcount": 1000,
+      "percent": 20,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:25d0789c9e32c93b2a24",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/bking8xxml",
+          "title": "Wix CEO to employees: “I won’t pretend that we’re not looking at potential changes” | CTech",
+          "description": "Company reportedly preparing to cut 1,000 jobs as AI pressures mount.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/09/02/SJLnhKV9xx/SJLnhKV9xx_0_0_2000_1126_0_large.jpg",
+          "siteName": "ctech"
+        },
+        {
+          "url": "https://www.peoplematters.in/news/strategic-hr/wix-to-cut-1000-jobs-nearly-20percent-of-workforce-as-ai-takes-over-key-roles-49916",
+          "title": "Wix to cut 1,000 jobs, nearly 20% of workforce, as AI takes over key roles",
+          "description": "The website-building company is reportedly restructuring around artificial intelligence tools as rising AI investments, mounting costs and broader tech sector pressures reshape hiring priorities.",
+          "image": "https://asset.peoplematters.in/images/19242456-ac1a-41c3-a211-4d5df7febc7e.jpg",
+          "siteName": "People Matters"
+        },
+        {
+          "url": "https://www.techspot.com/news/112573-wix-lays-off-1000-workers-ai-jobs-apocalypse.html",
+          "title": "Wix lays off 1,000 workers as the AI jobs apocalypse keeps looking very real",
+          "description": "CEO Avishai Abrahami wrote on X that reducing the Wix team by 20%, or around 1,000 people, was a \"hard decision\" (four times).",
+          "image": "https://www.techspot.com/images2/news/bigimage/2026/05/2026-05-29-image-5.jpg",
+          "siteName": "TechSpot"
+        }
+      ]
+    }
+  ]
+}

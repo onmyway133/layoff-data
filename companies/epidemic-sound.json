@@ -1,0 +1,27 @@
+{
+  "name": "Epidemic Sound",
+  "industry": "Music licensing and creative software",
+  "domain": "epidemicsound.com",
+  "icon": "epidemic-sound.png",
+  "events": [
+    {
+      "id": "47f72b19-1be7-4cc0-abf2-88de89515d90",
+      "date": "2026-04-21",
+      "headcount": 150,
+      "percent": 33,
+      "country": "Sweden",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:234218242ebee7a4f0f1",
+      "sources": [
+        {
+          "url": "https://www.marketscreener.com/news/eqt-backed-epidemic-sound-to-cut-150-jobs-in-ai-pivot-di-ce7f59dad18efe20",
+          "title": "EQT-backed Epidemic Sound to cut 150 jobs in AI pivot - Di",
+          "description": "Epidemic Sound, whose largest shareholder is the private equity firm EQT, plans to reduce its workforce by 150 positions, equivalent to one-third of its staff, according to Dagens Industri .The move...",
+          "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+          "siteName": "MarketScreener"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Taboola",
+  "events": [
+    {
+      "id": "2cab2eb7-4465-4c43-a395-7276eb62491a",
+      "date": "2026-04-15",
+      "headcount": 100,
+      "percent": 5,
+      "country": "Israel",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:12e6330a2d911e323cf6",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/hku03an3bg",
+          "title": "Taboola lays off 100 employees, 5% of workforce | CTech",
+          "description": "The company continues hiring as it accelerates DeeperDive expansion with major media partners.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2022/09/18/SJexGwXVZj/SJexGwXVZj_0_124_3000_1689_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

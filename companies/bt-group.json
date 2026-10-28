@@ -1,0 +1,26 @@
+{
+  "name": "BT Group",
+  "industry": "Telecom",
+  "domain": "bt.com",
+  "icon": "bt-group.png",
+  "events": [
+    {
+      "id": "fd5a1a06-8e79-4bc0-87fd-6fab3138e688",
+      "date": "2023-05-18",
+      "headcount": 10000,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:1420b09d927cf9fe5f82",
+      "sources": [
+        {
+          "url": "https://www.clickondetroit.com/business/2023/05/18/uk-telecom-company-bt-plans-to-shed-up-to-55000-jobs-replace-some-with-ai/",
+          "title": "UK telecom company BT plans to shed up to 55,000 jobs, replace some with AI",
+          "description": "U.K. telecom company BT Group plans to shed up to 55,000 jobs by the end of the decade and replace some of them with artificial intelligence.",
+          "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/NGVGWOF5V5AUBMKKB475YPVHNA.jpg?api_key=clickondetroit_06f87fefb2123598",
+          "siteName": "WDIV"
+        }
+      ]
+    }
+  ]
+}

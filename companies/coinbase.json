@@ -1,0 +1,62 @@
+{
+  "name": "Coinbase",
+  "industry": "Crypto",
+  "hqCountry": "United States",
+  "domain": "coinbase.com",
+  "icon": "coinbase.png",
+  "events": [
+    {
+      "id": "1a70770c-b6ed-4363-acec-717cf247f911",
+      "date": "2026-05-05",
+      "headcount": 700,
+      "percent": 14,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:caf21c0d6faa967e9bc3",
+      "sources": [
+        {
+          "url": "https://americanbanker.com/news/coinbase-cuts-14-of-staff-citing-crypto-slump-and-ai",
+          "title": "Coinbase cuts 14% of staff, citing crypto slump and AI",
+          "description": "CEO Brian Armstrong said the company will flatten its org chart to five management layers and concentrate hiring around \"AI-native\" pods.",
+          "image": "https://arizent.brightspotcdn.com/dims4/default/aa5d45f/2147483647/strip/true/crop/4000x2100+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F07%2Fa7%2F8879194f42ccad5876f6b12f1cc6%2F447859987.jpg",
+          "siteName": "American Banker"
+        },
+        {
+          "url": "https://decrypt.co/366765/coinbase-cuts-14-of-staff-amid-crypto-down-market-ai-adoption-ceo",
+          "title": "Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO - Decrypt",
+          "description": "The crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said.",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png",
+          "siteName": "Decrypt"
+        },
+        {
+          "url": "https://www.newser.com/story/388560/coinbase-ceo-were-cutting-14-of-staff-thanks-to-ai.html",
+          "title": "Coinbase CEO: We're Cutting 14% of Staff Thanks to AI",
+          "description": "CEO Brian Armstrong says AI efficiencies reduce the need for workers",
+          "image": "https://cdn.newser.com/image/1682789-12-20260505084402.jpeg",
+          "siteName": "Newser"
+        }
+      ]
+    },
+    {
+      "id": "ccb84bc5-5eae-4669-a0f7-c8d04887d05c",
+      "date": "2022-06-14",
+      "headcount": 1100,
+      "percent": 18,
+      "country": "United States",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2022/06/14/coinbase-ceo-says-it-is-laying-off-18-of-its-workers/",
+          "title": "Coinbase CEO says it is laying off 18% of its workers",
+          "description": "Rapidly changing economic conditions, managing costs in down markets and Coinbase growing \"too quickly\" are the primary reason for announced layoffs.",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811312.jpg",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.axios.com/2022/06/14/coinbase-layoff-crypto-recession-fears"
+        }
+      ]
+    }
+  ]
+}

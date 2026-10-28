@@ -1,0 +1,34 @@
+{
+  "name": "Robinhood",
+  "industry": "Fintech",
+  "domain": "robinhood.com",
+  "icon": "robinhood.png",
+  "events": [
+    {
+      "id": "bcc2046f-c261-43e0-82b8-c6de1ec8b91b",
+      "date": "2026-06-16",
+      "headcount": 290,
+      "percent": 10,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:153af293f5898d431720",
+      "sources": [
+        {
+          "url": "https://fortune.com/2026/06/16/robinhood-announces-layoffs-vladimir-tenev/",
+          "title": "Robinhood announces it will reduce headcount by 10%, CEO seeks to avoid ‘heavily-layered’ organization | Fortune",
+          "description": "Robinhood is cutting hundreds of jobs even as profits rise and new products like prediction markets help bolster growth.",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2264482512-e1781627230413.jpg?resize=1200,600",
+          "siteName": "Fortune"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+          "title": "Robinhood's note on 10% layoffs shows blaming AI isn't cutting it | TechCrunch",
+          "description": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/01/robinhood-volatility.jpg?resize=1200,675",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

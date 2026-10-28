@@ -1,0 +1,67 @@
+{
+  "name": "Dropbox",
+  "industry": "Software",
+  "domain": "dropbox.com",
+  "icon": "dropbox.png",
+  "events": [
+    {
+      "id": "82494521-be7c-453a-9e73-3a5fb4c6bf86",
+      "date": "2024-10-30",
+      "headcount": 528,
+      "percent": 20,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:f58280a6b1d7447f4977",
+      "sources": [
+        {
+          "url": "https://ktvu.com/news/dropbox-cuts-20-percent-workforce",
+          "title": "San Francisco-based Dropbox slashes 20% of workforce",
+          "description": "San Francisco-based Dropbox announced on Wednesday that it is slashing 20% of its workforce.",
+          "image": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/10/1200/630/gettyimages-2173141066-scaled.jpg?ve=1&tl=1",
+          "siteName": "KTVU FOX 2 San Francisco"
+        },
+        {
+          "url": "https://siliconrepublic.com/?p=1098377",
+          "title": "Dropbox is laying off another 500 employees",
+          "description": "Dropbox is cutting 20pc of its workforce, or 528 employees, as the company goes through a ‘transitional period’, according to the CEO.",
+          "image": "https://www.siliconrepublic.com/wp-content/uploads/2024/10/Dropbox.jpeg",
+          "siteName": "Silicon Republic"
+        },
+        {
+          "url": "https://www.nbcnews.com/business/business-news/dropbox-slashes-20-percent-global-workforce-rcna178050",
+          "title": "Dropbox slashes 20% of global workforce, eliminating more than 500 roles",
+          "description": "The company is in a “transitional period” as its file sync and share business and its Dash artificial intelligence search feature mature.",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241030-dropbox-se-1249p-243cd4.jpg",
+          "siteName": "NBC News"
+        }
+      ]
+    },
+    {
+      "id": "82fc27b2-735b-4e70-9fcd-1c1c26f087bf",
+      "date": "2023-04-27",
+      "headcount": 500,
+      "percent": 16,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:567650b3cbc50530a594",
+      "sources": [
+        {
+          "url": "https://www.businesstoday.in/amp/technology/news/story/tech-layoffs-dropbox-removes-16-workforce-plans-to-hire-new-employees-with-ai-skills-379218-2023-04-28",
+          "title": "Tech layoffs: Dropbox removes 16% workforce, plans to hire new employees with AI skills - BusinessToday",
+          "description": "Dropbox had 3,118 full-time employees at the end of 2022, with 2,583 located in the United States",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202304/your_paragraph_text_30-sixteen_nine.jpg",
+          "siteName": "Business Today"
+        },
+        {
+          "url": "https://www.nbcbayarea.com/news/business/money-report/dropbox-to-lay-off-500-employees-or-about-16-of-its-workforce/3215741/",
+          "title": "Dropbox to Lay Off 500 Employees, Or About 16% of Its Workforce",
+          "description": "Dropbox is laying off 500 employees, or about 16% of its workforce, the company said.",
+          "image": "https://media.nbcbayarea.com/2023/04/106879430-1620330525190-gettyimages-1177090607-mw1_5318_20190925102039276.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "siteName": "NBC Bay Area"
+        }
+      ]
+    }
+  ]
+}

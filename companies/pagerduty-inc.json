@@ -1,0 +1,26 @@
+{
+  "name": "PagerDuty, Inc.",
+  "industry": "Software (incident management / DevOps SaaS)",
+  "domain": "pagerduty.com",
+  "icon": "pagerduty-inc.png",
+  "events": [
+    {
+      "id": "11811cdf-91a4-403e-8618-6eab280fefe5",
+      "date": "2026-08-26",
+      "headcount": 173,
+      "percent": 15,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:d5b7e0fb4be5d15e09c6",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pagerduty-pd-hits-milestone-while-083053100.html"
+        },
+        {
+          "url": "https://www.tipranks.com/news/company-announcements/pagerduty-announces-restructuring-amid-focus-on-profitable-growth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "On The Beach",
+  "industry": "online travel agency",
+  "domain": "onthebeach.co.uk",
+  "icon": "on-the-beach.png",
+  "events": [
+    {
+      "id": "27b8845c-f693-4d54-8fbb-39296b4b1508",
+      "date": "2026-03-26",
+      "headcount": 107,
+      "percent": 21,
+      "country": "United Kingdom",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:4b45718f7596d5c4c2c2",
+      "sources": [
+        {
+          "url": "https://travelweekly.co.uk/news/on-the-beach-cuts-107-jobs-in-tech-automation-push",
+          "title": "On the Beach cuts 107 jobs in tech automation push",
+          "description": "More than 20% of OTA workforce affected following consultation",
+          "image": "https://dcxnozgahgy2a.cloudfront.net/AcuCustom/Sitename/DAM/383/On-the-Beach-logo-cropped1.webp",
+          "siteName": "Travel Weekly"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Riot Games",
+  "events": [
+    {
+      "id": "cb285ee9-252a-4d2b-8813-5faf80ffba87",
+      "date": "2026-02-10",
+      "headcount": 80,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:5e341a66b0f91b2e76d0",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/riot-games-downsizes-2xko-team-about-80-employees-affected",
+          "title": "Riot Games downsizes 2XKO team, about 80 employees affected",
+          "description": "Free-to-play fighting title \"hasn't reached the level needed to support a team of this size long term,\" says executive producer",
+          "image": "https://assetsio.gnwcdn.com/2xko_uq7BAqc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

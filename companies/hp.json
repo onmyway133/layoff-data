@@ -1,0 +1,32 @@
+{
+  "name": "HP Inc.",
+  "industry": "Hardware",
+  "hqCountry": "United States",
+  "domain": "hp.com",
+  "icon": "hp.png",
+  "events": [
+    {
+      "id": "225b0e82-3266-4c48-b42f-04e3384b66b4",
+      "date": "2022-11-22",
+      "headcount": 6000,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://fortune.com/2022/11/22/hp-inc-layoffs-thousands-of-employees-decling-sales-economy",
+          "title": "HP Inc. is cutting up to 6,000 employees as it becomes the latest tech company to announce major layoffs | Fortune",
+          "description": "The layoffs come amid weaker sales and a faltering economy, with HP Inc.’s CEO describing it as a “volatile macro-environment.”",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2022/11/GettyImages-1179053334.jpg?resize=1200,600",
+          "siteName": "Fortune"
+        },
+        {
+          "url": "https://www.businesstoday.in/amp/technology/news/story/after-meta-twitter-google-amazon-hp-decides-to-cut-up-to-6000-jobs-353820-2022-11-23",
+          "title": "After Meta, Twitter, Google, Amazon, HP decides to cut up to 6000 jobs - BusinessToday",
+          "description": "HP Inc currently employs nearly 50,000 people. The company has announced that it will sack around 4,000 to 6,000 employees in the coming years.",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202211/untitled_design_3-sixteen_nine.jpg",
+          "siteName": "Business Today"
+        }
+      ]
+    }
+  ]
+}

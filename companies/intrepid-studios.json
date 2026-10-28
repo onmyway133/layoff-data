@@ -1,0 +1,23 @@
+{
+  "name": "Intrepid Studios",
+  "events": [
+    {
+      "id": "ea116249-d2ca-40ff-a526-759d3cc7d652",
+      "date": "2026-02-02",
+      "headcount": 123,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:cdc961f89a189a30461d",
+      "sources": [
+        {
+          "url": "https://www.gamedeveloper.com/business/report-ashes-of-creation-developer-intrepid-studios-shuts-down",
+          "title": "Ashes of Creation developer Intrepid Studios shuts down",
+          "description": "A statement from co-founder Steven Sharif indicates the closure is the result of an internal feud.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt533a03ef27366d95/698090f4902b40613249f085/Ashes_of_Creation.png?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Game Developer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Freshworks",
+  "industry": "Software",
+  "domain": "freshworks.com",
+  "icon": "freshworks.png",
+  "events": [
+    {
+      "id": "b2a6a3c3-7096-45a5-a855-f8dccf4156be",
+      "date": "2026-05-05",
+      "headcount": 500,
+      "percent": 11,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:53f3452cfbf5370757a2",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/freshworks-posts-4-8-mn-loss-in-q1-2026-to-lay-off-11-workforce/",
+          "title": "Freshworks Posts $4.8 Mn Loss In Q1 2026; To Lay Off 11% Workforce",
+          "description": "In line with other IT competitors, Freshworks is ramping up AI adoption across the board and has undertaken automation of routine work",
+          "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Freshworks-ftr.jpg",
+          "siteName": "Inc42 Media"
+        },
+        {
+          "url": "https://india.entrepreneur.com/business-news/freshworks-lays-off-500-employees-amid-ai-led-restructuring-push",
+          "title": "Freshworks Lays Off 500 Employees Amid AI-Led Restructuring Push",
+          "description": "The company had around 4,500 full-time employees as of December 31, 2025.",
+          "image": "https://india.entrepreneur.com/wp-content/uploads/sites/5/2026/05/Photo-2026-05-06T112727.508.png?resize=1024,682",
+          "siteName": "Entrepreneur India"
+        },
+        {
+          "url": "https://www.marketscreener.com/news/freshworks-to-cut-11-jobs-as-ai-reshapes-software-sector-ce7f58dcd08af723",
+          "title": "Freshworks to cut 11% jobs as AI reshapes software industry",
+          "description": "Freshworks said on Tuesday it would cut 11% of its workforce, or about 500 jobs, as the business-software company navigates the industrywide disruptions caused by the rapid advances in artificial...",
+          "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2023-10/2023-10-24T132018Z_5_LYNXMPEJ8C0NZ_RTROPTP_3_TECH-AI-EDUCATION.JPG",
+          "siteName": "MarketScreener"
+        }
+      ]
+    },
+    {
+      "id": "a0561243-3cea-4813-819b-83a84ca7bdfc",
+      "date": "2024-11-06",
+      "headcount": 660,
+      "percent": 13,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:14575666e5c74b2ad00b",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/freshworks-to-cut-660-jobs-in-restructuring-exercise/amp",
+          "title": "Freshworks To Cut 660 Jobs In Restructuring Exercise",
+          "description": "Nasdaq-listed SaaS major Freshworks plans to cut 13% of its global workforce by the end of December 2024, affecting about 660 employees.",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2023/08/Freshworks-layoffs-social.png",
+          "siteName": "Inc42 Media"
+        },
+        {
+          "url": "https://www.outlookbusiness.com/start-up/news/freshworks-lays-off-660-employees-globally-amid-strong-q3-results",
+          "title": "Freshworks Lays Off 660 Employees Globally Amid Strong Q3 Results – Outlook Business",
+          "description": "Meanwhile, Woodside has also highlighted that the company’s business is profitable.",
+          "image": "https://media.assettype.com/outlookbusiness/import/uploadimage/library/16_9/16_9_5/IMAGE_1668582262.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "Outlook Business"
+        }
+      ]
+    }
+  ]
+}

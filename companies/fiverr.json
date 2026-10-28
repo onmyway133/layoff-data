@@ -1,0 +1,41 @@
+{
+  "name": "Fiverr",
+  "industry": "Internet / Marketplace",
+  "domain": "fiverr.com",
+  "icon": "fiverr.png",
+  "events": [
+    {
+      "id": "08e426fb-20a2-4ad1-9106-d2563cabc4e7",
+      "date": "2025-09-15",
+      "headcount": 250,
+      "percent": 30,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:664f9ffb631c3a6113a2",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001521884",
+          "title": "Fiverr to lay off 30% of workforce",
+          "description": "Most of the 250 employees who will lose their jobs are based in Israel.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1634730303/direct/FVRR-OB-Photo-190613-Photo-12_fjz7yn.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://www.peoplematters.in/news/strategic-hr/freelance-platform-fiverr-cuts-30percent-of-staff-in-ai-restructuring-43594",
+          "title": "Freelance platform Fiverr cuts 30% of staff in AI restructuring",
+          "description": "Marketplace platform cuts 250 jobs in restructuring aimed at embedding artificial intelligence at the core of its operations.",
+          "image": "https://asset.peoplematters.in/images/0950f0f9-f8f5-46ac-8e53-54db66ccda41.jpg",
+          "siteName": "People Matters"
+        },
+        {
+          "url": "https://www.smartcompany.com.au/people-human-resources/fiverr-layoffs-staff-ai-startup-mode-announcement/",
+          "title": "Fiverr cuts 250 staff, re-enters \"startup mode\" by going all-in on AI",
+          "description": "Named after the $5 odd jobs once available through the service, Fiverr connects copywriters, graphic designers, coders, and marketing consultants, among others, to paying clients.",
+          "image": "https://www.smartcompany.com.au/wp-content/uploads/sites/4/2025/09/micha-kaufman.jpeg?quality=70&w=800",
+          "siteName": "SmartCompany"
+        }
+      ]
+    }
+  ]
+}

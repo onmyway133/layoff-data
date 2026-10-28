@@ -1,0 +1,26 @@
+{
+  "name": "Innovaccer",
+  "industry": "Healthcare technology (SaaS)",
+  "domain": "innovaccer.com",
+  "icon": "innovaccer.png",
+  "events": [
+    {
+      "id": "15938c8a-5b98-451a-9603-e86243f3eeac",
+      "date": "2026-05-15",
+      "headcount": 340,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:d755630a7002ca138414",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/exclusive-healthtech-unicorn-innovaccer-lays-off-340-employees-in-another-restructuring-round/",
+          "title": "Exclusive: Unicorn Innovaccer Lays Off 340 Employees In Another Restructuring Round",
+          "description": "Healthtech unicorn Innovaccer fired 340 employees today as it transitions into an AI native company, sources told Inc42.",
+          "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2022/09/Innovaccer-Layoff-01.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Livspace",
+  "industry": "Home interiors (online platform)",
+  "domain": "livspace.com",
+  "icon": "livspace.png",
+  "events": [
+    {
+      "id": "3abe02c4-596b-47b6-8f8a-c5f13785e716",
+      "date": "2026-02-20",
+      "headcount": 1000,
+      "percent": 12,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:1f291c256151c380c206",
+      "sources": [
+        {
+          "url": "https://www.livemint.com/companies/start-ups/livspace-1000-jobs-cut-ai-transition-cofounder-exits-home-interior-platform-11771595831125.html",
+          "title": "Livspace trims workforce by 1,000 in AI transition, co-founder exits | Company Business News",
+          "description": "The move follows an internal reorganization as Livspace looks at its next phase of growth.",
+          "image": "https://www.livemint.com/lm-img/img/2026/02/20/1600x900/logo/Livspace--which-was-present-in-six-to-seven-cities_1694770439478_1771597573569.png",
+          "siteName": "mint"
+        },
+        {
+          "url": "https://entrackr.com/news/livspace-lays-off-1000-employees-amid-co-founder-exit-and-ai-shift-11140571"
+        },
+        {
+          "url": "https://inc42.com/buzz/livspace-fires-1000-employees-cofounder-quits",
+          "title": "Livspace Fires 1,000 Employees, Cofounder Quits",
+          "description": "Home interior and innovation unicorn Livspace has laid off 1,000 employees, or 12% of its workforce, amid AI push",
+          "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/07/Livspace-social.png",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

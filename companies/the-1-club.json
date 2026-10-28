@@ -1,0 +1,23 @@
+{
+  "name": "The 1% Club",
+  "industry": "Financial education (edtech)",
+  "domain": "onepercentclub.io",
+  "icon": "the-1-club.png",
+  "events": [
+    {
+      "id": "8bf0bef0-ebd9-4e05-a868-6f2c00ccce4d",
+      "date": "2024-11-06",
+      "headcount": 28,
+      "percent": 15,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:bb147886399d9f1a14c9",
+      "sources": [
+        {
+          "url": "https://www.moneycontrol.com/news/business/startup/sharan-hegdes-1-club-lays-off-15-of-its-workforce-as-perplexity-and-ai-makes-jobs-redundant-12859846.html"
+        }
+      ]
+    }
+  ]
+}

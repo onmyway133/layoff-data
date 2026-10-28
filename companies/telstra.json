@@ -1,0 +1,68 @@
+{
+  "name": "Telstra",
+  "industry": "Telecom",
+  "domain": "telstra.com.au",
+  "icon": "telstra.png",
+  "events": [
+    {
+      "id": "1148e439-cd2d-43ff-bd35-8c7172ef048d",
+      "date": "2026-02-10",
+      "headcount": 209,
+      "country": "Australia",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:467b8566cb73f0869e2f",
+      "sources": [
+        {
+          "url": "https://ia.acs.org.au/article/2026/telstra-international-cutting-jobs-amid-ai-push.html",
+          "title": "Telstra International cutting jobs amid AI push",
+          "description": "Automation to increase under new proposal with Accenture.",
+          "image": "https://ia.acs.org.au/content/dam/ia/article/images/2026/telstra%20building%20sydney%20shutterstock.jpg",
+          "siteName": "Information Age"
+        },
+        {
+          "url": "https://oecd.ai/en/incidents/2026-02-10-9d44",
+          "title": "Telstra and Accenture AI Joint Venture Leads to Over 200 Job Losses",
+          "description": "Telstra, in partnership with Accenture, is cutting over 200 jobs as part of a $700 million joint venture to implement AI capabilities and increase efficiency. The job losses are directly linked to AI-driven automation, with some roles being outsourced to India. Affected employees face economic harm from these changes.",
+          "image": "https://img.oecd.ai/customer-support-call-center-technology-1440x811.webp"
+        }
+      ]
+    },
+    {
+      "id": "baa59fa1-1aff-411f-9fae-c70dfc921b34",
+      "date": "2025-07-09",
+      "headcount": 550,
+      "country": "Australia",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:6470e7acee89f8647284",
+      "sources": [
+        {
+          "url": "https://www.hrleader.com.au/tech/27032-telstra-clarifies-550-job-cuts-not-a-result-of-our-adoption-of-ai",
+          "title": "Telstra clarifies 550 job cuts ‘not a result of our adoption of AI’",
+          "description": "Australia’s leading telecommunications company, Telstra, has confirmed the extent of its job cuts, with a proposed 550 staff across the organisation set to face redundancy.",
+          "image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1752046474/HR%20Leader/telstra-hr_lwlaqt.jpg"
+        }
+      ]
+    },
+    {
+      "id": "b8be3cf6-8afa-4b6c-8ee0-4503b3092419",
+      "date": "2024-05-21",
+      "headcount": 2800,
+      "percent": 9,
+      "country": "Australia",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:8b4c2156c15a4d84007c",
+      "sources": [
+        {
+          "url": "https://ia.acs.org.au/article/2024/telstra-cuts-2-800-jobs-as-ai-takes-over.html",
+          "title": "Telstra cuts 2,800 jobs as AI takes over",
+          "description": "Telstra Purple to bear the brunt of Enterprise overhaul.",
+          "image": "https://ia.acs.org.au/content/dam/ia/article/images/2024/telstra%20job%20cuts%202800%20logo.jpg",
+          "siteName": "Information Age"
+        }
+      ]
+    }
+  ]
+}

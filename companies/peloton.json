@@ -1,0 +1,52 @@
+{
+  "name": "Peloton",
+  "industry": "Fitness Tech",
+  "hqCountry": "United States",
+  "domain": "onepeloton.com",
+  "icon": "peloton.png",
+  "events": [
+    {
+      "id": "7c98a975-5f08-46dc-991d-0b157315f5f5",
+      "date": "2026-01-30",
+      "headcount": 286,
+      "percent": 11,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:e8880e0b0f728ce2c871",
+      "sources": [
+        {
+          "url": "https://www.bnnbloomberg.ca/business/2026/01/30/peloton-cuts-11-per-cent-of-staff-in-cost-cutting-push-spokesperson-says/",
+          "title": "Peloton cuts 11% of staff in cost-cutting push, spokesperson says",
+          "description": "Peloton Interactive (PTON.O) has cut 11 per cent of its employees as it aims to reduce costs amid turnaround efforts, a spokesperson for the company said on Friday.",
+          "image": "https://www.bnnbloomberg.ca/resizer/v2/N5TFIWQ2VA5XP6M546KMLMIWGU.jpg?smart=true&auth=ece5151a16830821d8e8c473d1509cfbef255299662ccf2fdab0d449521e8eca&width=1200&height=630",
+          "siteName": "BNN Bloomberg"
+        }
+      ]
+    },
+    {
+      "id": "f9d38bfa-b88c-4873-83d6-80f52272ce22",
+      "date": "2022-02-08",
+      "headcount": 2800,
+      "percent": 20,
+      "country": "United States",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2022/02/08/peloton-ceo-steps-down-as-the-company-cuts-2800-jobs",
+          "title": "Peloton CEO steps down as the company cuts 2,800 jobs | TechCrunch",
+          "description": "Ahead of today’s Peloton earnings report, John Foley announced that he is stepping down as CEO. The longtime chief executive will remain on as executive",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1027941602.jpg?resize=1200,800",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.engadget.com/peloton-will-replace-its-ceo-and-cut-2800-jobs-as-it-tries-to-weather-struggles-111506683.html",
+          "title": "Peloton is replacing its CEO and cutting around 2,800 jobs - Engadget",
+          "description": "Peloton is trying stem to its financial struggles by replacing its CEO, overhauling the board and laying off around 20 percent of its corporate workforce",
+          "image": "https://www.engadget.com/engadget/peloton-will-replace-its-ceo-and-cut-2800-jobs-as-it-tries-to-weather-struggles-111506683/f6f4ed90-88ce-11ec-8f47-aa4706bc84c4.jpg",
+          "siteName": "Engadget"
+        }
+      ]
+    }
+  ]
+}

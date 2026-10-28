@@ -1,0 +1,27 @@
+{
+  "name": "Boozt",
+  "industry": "Online fashion retail",
+  "domain": "boozt.com",
+  "icon": "boozt.png",
+  "events": [
+    {
+      "id": "3660c263-0c62-4d15-bdb2-7fb889260535",
+      "date": "2025-01-13",
+      "headcount": 109,
+      "percent": 10,
+      "country": "Sweden",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:4bc10d75afc3aa396088",
+      "sources": [
+        {
+          "url": "https://www.sgieurope.com/retail/e-com-giant-makes-a-big-ai-investment-and-10-of-staff-has-to-leave/112571.article",
+          "title": "E-com giant makes a big AI investment and 10% of staff has to leave",
+          "description": "AI and new tech are set to replace over 100 employees at fashion online retailer Boozt when the company aims to reach €1.5bn in turnover.",
+          "image": "https://d1f00kj7ad54bu.cloudfront.net/Pictures/1024x536/6/0/3/42603_booztstart_410095.jpg",
+          "siteName": "Sporting Goods Intelligence"
+        }
+      ]
+    }
+  ]
+}

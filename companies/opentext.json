@@ -1,0 +1,70 @@
+{
+  "name": "OpenText",
+  "industry": "Enterprise information management software",
+  "domain": "opentext.com",
+  "icon": "opentext.png",
+  "events": [
+    {
+      "id": "9bf209b0-4b1b-45f5-993c-5b1984ba7c6f",
+      "date": "2026-07-08",
+      "headcount": 400,
+      "percent": 2,
+      "country": "Canada",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:b1b6e7dabdb24619e1ed",
+      "sources": [
+        {
+          "url": "https://betakit.com/opentext-lays-off-two-percent-of-its-workforce/",
+          "title": "OpenText lays off two percent of its workforce | BetaKit",
+          "description": "Roughly 400 global employees are now out of work, but OpenText says Canadian impact is \"minimal.\"",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2025/05/Waterloo-OpenText-1.webp",
+          "siteName": "BetaKit"
+        }
+      ]
+    },
+    {
+      "id": "90392a2f-a3a8-4728-b17b-30c6ff4247a0",
+      "date": "2026-03-24",
+      "headcount": 880,
+      "percent": 4,
+      "country": "Canada",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:5f083b78d60ddcade846",
+      "sources": [
+        {
+          "url": "https://betakit.com/opentext-employees-report-job-cuts-tied-to-apparent-restructuring/",
+          "title": "OpenText lays off four percent of its global workforce | BetaKit",
+          "description": "The cuts come as former IBM Americas president Ayman Antoun prepares to take over as CEO.",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2021/11/OpenText.jpeg",
+          "siteName": "BetaKit"
+        }
+      ]
+    },
+    {
+      "id": "ddf11db1-ba78-4f0f-93cc-8d056628d34e",
+      "date": "2025-04-30",
+      "headcount": 1600,
+      "country": "Canada",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:ecfe619d4ab1daf77d1f",
+      "sources": [
+        {
+          "url": "https://betakit.com/opentext-makes-ai-number-one-priority-as-company-slashes-1600-jobs/",
+          "title": "OpenText makes AI “number-one priority” as company slashes 1,600 jobs",
+          "description": "Enterprise software giant detailed 10-point AI mandate in internal email to employees.",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2025/05/Waterloo-OpenText-1.webp",
+          "siteName": "BetaKit"
+        },
+        {
+          "url": "https://thelogic.co/briefing/opentext-cuts-1600-roles-as-part-of-ai-pivot-report/",
+          "title": "OpenText cuts 1,600 roles as part of AI pivot: Report - The Logic",
+          "image": "https://thelogic.co/wp-content/uploads/2023/12/WP_Logo.jpg",
+          "siteName": "The Logic"
+        }
+      ]
+    }
+  ]
+}

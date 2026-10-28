@@ -1,0 +1,26 @@
+{
+  "name": "Tata Consultancy Services (TCS)",
+  "industry": "IT services / BPO",
+  "domain": "tcs.com",
+  "events": [
+    {
+      "id": "86907d3c-37d3-4bfe-a284-27da1d531765",
+      "date": "2025-07-27",
+      "headcount": 12000,
+      "percent": 2,
+      "country": "India",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:096a8bcd8259e2f2f005",
+      "sources": [
+        {
+          "url": "https://www.outlookbusiness.com/corporate/skill-mismatch-not-ai-tcs-ceo-clarifies-reason-behind-sudden-layoffs",
+          "title": "“Skill Mismatch, Not AI”: TCS CEO Clarifies Reason Behind Sudden Layoffs – Outlook Business",
+          "description": "Despite investing in AI upskilling and training, the company admitted that reskilling hasn’t always led to re-employment, especially for the senior professionals.",
+          "image": "https://media.assettype.com/outlookbusiness/2025-07-11/dszd0car/ChatGPT-Image-Jul-11-2025-085150-AM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "Outlook Business"
+        }
+      ]
+    }
+  ]
+}

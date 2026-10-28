@@ -1,0 +1,26 @@
+{
+  "name": "Zomato (Eternal)",
+  "industry": "Food delivery",
+  "domain": "zomato.com",
+  "icon": "zomato-eternal.png",
+  "events": [
+    {
+      "id": "a65fa9ce-b8b9-453f-bd56-fd5724e7e345",
+      "date": "2026-08-31",
+      "headcount": 250,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:34b843675def131bccad",
+      "sources": [
+        {
+          "url": "https://www.businesstoday.in/technology/news/story/zomato-to-layoff-250-employees-shut-hyderabad-customer-support-centre-552227-2026-08-31",
+          "title": "Zomato to layoff 250 employees; Shut Hyderabad customer support centre - BusinessToday",
+          "description": "Zomato is shutting down its customer support centre in Hyderabad, and it is shifting operations to its Gurugram headquarters amid restructuring plans.",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a9531e45fdb1-zomato-layoffs-314846823-16x9.jpg",
+          "siteName": "Business Today"
+        }
+      ]
+    }
+  ]
+}

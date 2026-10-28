@@ -1,0 +1,26 @@
+{
+  "name": "Redfin",
+  "industry": "Real Estate",
+  "hqCountry": "United States",
+  "domain": "redfin.com",
+  "icon": "redfin.png",
+  "events": [
+    {
+      "id": "6355cea0-bb95-4e8c-a3b4-cc3c666536a0",
+      "date": "2022-11-09",
+      "headcount": 862,
+      "percent": 13,
+      "country": "United States",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://www.hrdive.com/news/redfin-layoffs-troubled-real-estate-industry/636256/",
+          "title": "Redfin lays off 13% of workforce as trouble comes to real estate industry",
+          "description": "This news coincides with Meta’s own Nov. 10 layoff announcement, also amounting to a 13% workforce reduction, and Twitter’s ongoing layoff saga.",
+          "image": "https://imgproxy.divecdn.com/yjNTVrq2UdswR92UMR3r_4w0ax1QmwS7OlovfGRMyWc/g:nowe:6:832/c:5994:3386/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NjkwNTE5MzIuanBn.webp",
+          "siteName": "HR Dive"
+        }
+      ]
+    }
+  ]
+}

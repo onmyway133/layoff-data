@@ -1,0 +1,29 @@
+{
+  "name": "Stripe",
+  "industry": "Fintech",
+  "hqCountry": "United States",
+  "domain": "stripe.com",
+  "icon": "stripe.png",
+  "events": [
+    {
+      "id": "84931a8c-ec6c-4db4-bfc6-d551fbc377f2",
+      "date": "2022-11-03",
+      "headcount": 1120,
+      "percent": 14,
+      "country": "United States",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2022/11/03/stripe-cuts-14-of-its-workforce-ceo-says-they-overhired-for-the-world-were-in",
+          "title": "Stripe cuts 14% of its workforce, CEO says they 'overhired for the world we're in' | TechCrunch",
+          "description": "Stripe has announced that it's laying off 14% of its workers, impacting around 1,120 of the fintech giant's 8,000 workforce.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1242296087-e1674758354141.jpg?resize=1200,675",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.fintechfutures.com/job-cuts-new-hires/stripe-lays-off-14-of-staff-amid-challenging-economic-climate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "WiseTech Global",
+  "industry": "Logistics software (SaaS)",
+  "domain": "wisetechglobal.com",
+  "icon": "wisetech-global.png",
+  "events": [
+    {
+      "id": "63c4537d-3968-42a7-a65e-68bf97aa87ec",
+      "date": "2026-02-25",
+      "headcount": 2000,
+      "country": "Australia",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:385141afaa761707e6f1",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/ai-disruption-prompts-australias-wisetech-085804027.html"
+        },
+        {
+          "url": "https://storyboard18.com/brand-marketing/australias-wisetech-global-plans-2000-job-cuts-amid-ai-overhaul-90668.htm",
+          "title": "WiseTech Global Jobs Cut: Australia’s WiseTech Global plans 2,000 job cuts amid AI overhaul",
+          "description": "WiseTech Global Jobs Cut: WiseTech Global plans to slash 2,000 roles as part of a sweeping AI overhaul aimed at boosting automation and efficiency.",
+          "image": "https://images.storyboard18.com/storyboard18/2026/02/PRESIZE-TB-74-2026-02-b62bf82c8c9dadd8bd2644957641357c-1019x573.png"
+        },
+        {
+          "url": "https://thenightly.com.au/business/wisetech-global-to-cut-2000-jobs-as-ai-overhaul-reshapes-workforce-across-40-countries-c-21747101",
+          "title": "‘Over’: 2000 jobs axed in AI bloodbath",
+          "description": "A major Australian company will slash thousands of jobs as it embraces artificial intelligence in a sweeping overhaul of its operations.",
+          "image": "https://images.thenightly.com.au/publication/C-21747101/a3e31ba089b8e6b12902f62c138c3ab2fe501f9e-16x9-x0y0w1280h720.webp?imwidth=1200",
+          "siteName": "The Nightly"
+        }
+      ]
+    }
+  ]
+}

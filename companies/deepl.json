@@ -1,0 +1,40 @@
+{
+  "name": "DeepL",
+  "industry": "AI language technology (translation software)",
+  "domain": "deepl.com",
+  "icon": "deepl.png",
+  "events": [
+    {
+      "id": "f4b3b6e6-6014-4ecc-a47c-9b429d0d8d19",
+      "date": "2026-05-07",
+      "headcount": 250,
+      "country": "Germany",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:0e6d3e16e9e4e7fc8eb1",
+      "sources": [
+        {
+          "url": "https://heise.de/-11286250",
+          "title": "Cologne AI translator DeepL lays off a quarter of its workforce",
+          "description": "The Cologne-based AI company DeepL is reducing its workforce by around 250 positions. CEO Kutylowski justifies the move with a comprehensive restructuring.",
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/0/7/8/4/8/6/Bildschirmfoto_2021-05-19_um_08-be00b63d173db78b-c6f4e037b91c5a78.webp?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+          "siteName": "heise online"
+        },
+        {
+          "url": "https://t3n.de/news/neuausrichtung-ki-uebersetzungsdienst-deepl-entlaesst-250-mitarbeitende-1741627/",
+          "title": "Neuausrichtung: KI-Übersetzungsdienst DeepL entlässt 250 Mitarbeitende",
+          "description": "Lange galt der KI-Übersetzungsdienst DeepL als deutsche KI-Hoffnung. Gestern kündigte CEO und Gründer des Unternehmens, Jaroslaw Kutylowski, allerdings einen umfassenden Stellenabbau an. Das Unternehmen will sich neu ausrichten. „Heute reduzieren wir die Gesamtbelegschaft von DeepL um etwa 250 Stellen“, schrieb der CEO und Gründer von DeepL, Jaroslaw Kutylowski, gestern in einem Post auf LinkedIn. Das […]",
+          "image": "https://cdn.t3n.de/news/wp-content/uploads/2026/05/Jaroslaw-Kutylowski.jpg?class=content",
+          "siteName": "t3n Magazin"
+        },
+        {
+          "url": "https://tech.eu/2026/05/07/german-ai-translation-startup-deepl-to-axe-250-staff/",
+          "title": "German AI translation startup DeepL to axe 250 staff",
+          "description": "DeepL is moving to what is calls being an “AI native” company.",
+          "image": "https://cdn.tech.eu/uploads/2026/05/deepl-kapak-344-146.jpg",
+          "siteName": "Tech.eu"
+        }
+      ]
+    }
+  ]
+}

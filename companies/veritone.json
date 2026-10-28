@@ -1,0 +1,27 @@
+{
+  "name": "Veritone",
+  "industry": "AI software",
+  "domain": "veritone.com",
+  "icon": "veritone.png",
+  "events": [
+    {
+      "id": "a0192388-5c6d-401b-8da9-c062eebb2684",
+      "date": "2026-06-10",
+      "headcount": 111,
+      "percent": 25,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:8937b8b73cca21fdcc3f",
+      "sources": [
+        {
+          "url": "https://www.ocbj.com/technology/veritone-cutting-25-of-workforce/",
+          "title": "Veritone Cutting 25% of Workforce - Orange County Business Journal",
+          "description": "Veritone faces difficult choices",
+          "image": "https://d27xrzeiyowx7g.cloudfront.net/wp-content/uploads/2023/12/Tech1211-Veritone-offices-e1702061448117.jpg",
+          "siteName": "Orange County Business Journal"
+        }
+      ]
+    }
+  ]
+}

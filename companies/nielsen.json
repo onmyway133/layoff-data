@@ -1,0 +1,26 @@
+{
+  "name": "Nielsen",
+  "industry": "Audience measurement",
+  "domain": "nielsen.com",
+  "icon": "nielsen.png",
+  "events": [
+    {
+      "id": "eeb8bcad-a2c6-448d-b41e-49ea76fb6642",
+      "date": "2026-04-01",
+      "headcount": 43,
+      "country": "Italy",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:84e207186f1aa81ffcb4",
+      "sources": [
+        {
+          "url": "https://www.quotidiano.net/economia/sara-lai-a-gestire-i-854b1b90",
+          "title": "Sarà l’AI a gestire i dati di Sanremo: \"Licenziati in 43\"",
+          "description": "Nielsen Media Italy si affiderà all’intelligenza artificiale per le analisi del prossimo Festival",
+          "image": "https://www.quotidiano.net/image-service/view/acePublic/alias/contentid/YjM2NjhiOGMtNDYwYS00/0/sara-lai-a-gestire-i-dati-di-sanremo-licenziati-in-43.jpg?f=16:9&w=1200&h=675",
+          "siteName": "Quotidiano Nazionale"
+        }
+      ]
+    }
+  ]
+}

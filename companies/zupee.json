@@ -1,0 +1,24 @@
+{
+  "name": "Zupee",
+  "events": [
+    {
+      "id": "87f6f99c-0da3-4243-b844-7c08c1cb77dd",
+      "date": "2026-01-30",
+      "headcount": 200,
+      "percent": 40,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:1c811a272cb2ab21b806",
+      "sources": [
+        {
+          "url": "https://www.outlookbusiness.com/news/zupee-lays-off-200-employees-to-cut-costs-after-money-gaming-ban-disruption",
+          "title": "Zupee Lays Off 200 Employees to Cut Costs After Money Gaming Ban Disruption – Outlook Business",
+          "description": "Zupee has laid off around 200 employees, approximately 40% of its staff, in an attempt to cut costs to cushion the impact of the real money gaming ban",
+          "image": "https://media.assettype.com/outlookbusiness/2026-01-30/90smavhd/ABC.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "Outlook Business"
+        }
+      ]
+    }
+  ]
+}

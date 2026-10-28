@@ -1,0 +1,24 @@
+{
+  "name": "Even Healthcare",
+  "events": [
+    {
+      "id": "df705b19-80fe-4a07-afc2-e744bb10f355",
+      "date": "2026-08-27",
+      "headcount": 350,
+      "percent": 30,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:2985ca75193255edaafe",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/even-healthcare-lays-off-350-employees-amid-hospital-led-pivot-report/",
+          "title": "Even Healthcare Lays Off 350 Employees Amid Hospital-Led Pivot: Report",
+          "description": "Healthtech startup Even Healthcare has reportedly laid off around 350 employees as it phases down its insurance business",
+          "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Untitled-design-15.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

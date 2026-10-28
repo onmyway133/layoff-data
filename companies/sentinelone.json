@@ -1,0 +1,30 @@
+{
+  "name": "SentinelOne",
+  "industry": "cybersecurity software",
+  "domain": "sentinelone.com",
+  "icon": "sentinelone.png",
+  "events": [
+    {
+      "id": "a3408501-a221-41f0-9a62-b3e455653adb",
+      "date": "2026-05-28",
+      "headcount": 232,
+      "percent": 8,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:942ffe1d5e4946b49c7f",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-provides-tepid-quarterly-forecast-205357520.html"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/r1goyeuxgx",
+          "title": "SentinelOne shares tumble after layoffs and weak forecast overshadow earnings | CTech",
+          "description": "Cybersecurity company to cut 8% of workforce as it shifts focus toward AI and data operations.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2021/12/21/BJ1VpZ1oF/BJ1VpZ1oF_159_102_940_530_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Snap Inc.",
+  "industry": "Social Media",
+  "hqCountry": "United States",
+  "domain": "snap.com",
+  "icon": "snap.png",
+  "events": [
+    {
+      "id": "a579ce56-0266-45cf-8fb8-fed9ccb255e2",
+      "date": "2026-04-15",
+      "headcount": 1000,
+      "percent": 16,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:a3feb242f27747ebb14e",
+      "sources": [
+        {
+          "url": "https://abc7news.com/post/snapchat-owner-cuts-1000-jobs-global-staff-latest-round-mass-layoffs/18899394/",
+          "title": "Snapchat cuts 16% of global staff, around 1,000 jobs in latest round of mass layoffs",
+          "description": "The owner of social media platform Snapchat said Wednesday the company is eliminating about 16% of its global workforce, or about 1,000 jobs that will be culled in its latest round of layoffs.",
+          "image": "https://cdn.abcotvs.com/dip/images/18899761_041626-kgo-ap-snap-layoffs-img.jpg?w=1600",
+          "siteName": "ABC7 San Francisco"
+        },
+        {
+          "url": "https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/",
+          "title": "Snap is cutting 1,000 jobs, 16% of its workforce | TechCrunch",
+          "description": "The company cites advancements in AI for the cuts. CEO Evan Spiegel also wrote that the company is closing more than 300 open roles. Snap had about 5,261 full-time employees as of December 2025.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.businesstoday.in/amp/technology/story/snap-lays-off-1000-employees-shuts-over-300-open-roles-525827-2026-04-15",
+          "title": "Snap lays off 1,000 employees, shuts over 300 open roles - BusinessToday",
+          "description": "The visual messaging service app, Snap Inc has laid off 16% of its workforce amid investors pressure.",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69df8129c4253-snap-inc-announces-lay-off-heres-what-we-know-151428233-16x9.jpg",
+          "siteName": "Business Today"
+        }
+      ]
+    },
+    {
+      "id": "ff42c131-2afe-443b-8612-1127983b4d58",
+      "date": "2022-08-31",
+      "headcount": 1200,
+      "percent": 20,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2022/08/31/snap-restructuring-layoffs"
+        },
+        {
+          "url": "https://www.nbcnews.com/tech/tech-news/snap-cutting-20-staff-ad-sales-continue-dry-rcna45663",
+          "title": "Snap is cutting 20% of its staff as ad sales continue to dry up",
+          "description": "In a letter to staff members on Snap Inc.’s website, CEO Evan Spiegel said sales were not keeping up with projections.",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-08/220831-snap-inc-jm-1131-b3b1e0.jpg",
+          "siteName": "NBC News"
+        }
+      ]
+    }
+  ]
+}

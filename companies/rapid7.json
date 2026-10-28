@@ -1,0 +1,33 @@
+{
+  "name": "Rapid7",
+  "industry": "Cybersecurity (SaaS and managed services)",
+  "domain": "rapid7.com",
+  "icon": "rapid7.png",
+  "events": [
+    {
+      "id": "544b6795-523f-4375-b582-910c2c519d05",
+      "date": "2026-08-10",
+      "headcount": 314,
+      "percent": 12,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:51494962c8a21256d48f",
+      "sources": [
+        {
+          "url": "https://www.bankinfosecurity.com/rapid7-lays-off-12-staff-as-new-ceo-reshapes-cyber-firm-a-32526",
+          "title": "Rapid7 Lays Off 12% of Staff as New CEO Reshapes Cyber Firm",
+          "description": "Boston-based Rapid7 will cut roughly 314 jobs, or 12% of its workforce, as new CEO Wael Mohamed restructures the managed cybersecurity operations vendor to raise",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/rapid7-lays-off-12-staff-as-new-ceo-reshapes-cyber-firm-image_large-5-a-32526.jpg"
+        },
+        {
+          "url": "https://www.bostonglobe.com/2026/08/10/business/rapid7-layoffs/",
+          "title": "Boston cybersecurity firm Rapid7 cuts 300 jobs - The Boston Globe",
+          "description": "New CEO Wael Mohamed is overhauling the struggling company amid a focus on adding AI-powered features.",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XDU6GKV7Y4I6TF5STEGUWW642M.jpg?auth=2d5adb7b067d1a99ebddd1399014c1cc2b450031ede41c856b08d11575a75758&width=1440",
+          "siteName": "BostonGlobe.com"
+        }
+      ]
+    }
+  ]
+}

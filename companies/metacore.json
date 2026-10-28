@@ -1,0 +1,23 @@
+{
+  "name": "Metacore",
+  "events": [
+    {
+      "id": "95024d08-08f1-41aa-a93a-4f2b73ae6764",
+      "date": "2026-06-05",
+      "headcount": 159,
+      "country": "Finland",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:533ac7f63823189a7f5e",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/merge-mansion-dev-metacore-lays-off-159-employees-closes-operations-in-germany-and-sweden",
+          "title": "Merge Mansion dev Metacore lays off 159 employees, closes studios in Germany and Sweden",
+          "description": "\"We are doing our best to support these team members in finding their next opportunities,\" says CEO",
+          "image": "https://assetsio.gnwcdn.com/merge-mansion_KWUxSH0.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

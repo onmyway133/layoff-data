@@ -1,0 +1,41 @@
+{
+  "name": "IONOS",
+  "industry": "Web hosting and cloud services",
+  "domain": "ionos.com",
+  "icon": "ionos.png",
+  "events": [
+    {
+      "id": "d888dcc2-90cf-468a-a2ca-aaf820020524",
+      "date": "2026-09-10",
+      "headcount": 450,
+      "percent": 12,
+      "country": "Germany",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:aa3fc560b88d58c8bf76",
+      "sources": [
+        {
+          "url": "https://lightreading.com/business-transformation/eurobites-united-internet-plans-job-cuts-at-1-1-ionos",
+          "title": "Eurobites: United Internet plans job cuts at 1&1, Ionos",
+          "description": "Also in today's EMEA regional roundup: Telefónica and Liberty Global look to cut costs at VMO2, says FT; DT targets multicloud deployments; and more.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt38c4d09f0c77687f/6aa3eae9c1c19f4c6677192a/United_Internet_1&1_16x9_source_united_internet.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Light Reading"
+        },
+        {
+          "url": "https://www.boersen-zeitung.de/unternehmen-branchen/11-und-ionos-bauen-stellen-ab",
+          "title": "1&1 und Ionos bauen Stellen ab | Börsen-Zeitung",
+          "description": "Im United-Internet-Konzern wird umgebaut: Ionos baut 450 Stellen ab, 1&1 Versatel 350. Hier schlägt das Umbauprogramm wohl auch auf das operative Ergebnis durch.",
+          "image": "https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d55ab24a-8f48-4119-b4ec-70c4d90cce23/thumbnails/1edd1a7c-3b66-4dfa-9122-2b2cbd4a8087-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&platform=WEB&w=1200",
+          "siteName": "Börsen-Zeitung"
+        },
+        {
+          "url": "https://www.channelpartner.de/article/4221011/auch-ionos-von-restrukturierung-bei-united-internet-betroffen.html",
+          "title": "Auch Ionos von Restrukturierung bei United Internet betroffen",
+          "description": "Die beiden United-Internet-Töchter 1&1 und Ionos haben Restrukturierungsprogramme zur Kostensenkung aufgesetzt. Dadurch fallen rund 800 Arbeitsplätze weg, davon 450 bei Ionos, 350 bei der 1&1-Sparte Versatel.",
+          "image": "https://www.channelpartner.de/wp-content/uploads/2026/09/4221011-0-59310900-1789111347-original.jpg?quality=50&strip=all&w=1024",
+          "siteName": "ChannelPartner"
+        }
+      ]
+    }
+  ]
+}

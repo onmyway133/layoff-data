@@ -1,0 +1,29 @@
+{
+  "name": "Twilio",
+  "industry": "Software",
+  "hqCountry": "United States",
+  "domain": "twilio.com",
+  "icon": "twilio.png",
+  "events": [
+    {
+      "id": "cc4cc488-33d7-4f98-a57c-0a72ae051e26",
+      "date": "2023-02-13",
+      "headcount": 1500,
+      "percent": 17,
+      "country": "United States",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://channelfutures.com/business-models/twilio-layoffs-impact-17-of-workforce-after-11-cuts-last-fall"
+        },
+        {
+          "url": "https://www.theregister.com/2023/02/13/twilio_trims_workforce/",
+          "title": "Twilio trims workforce by 17% in second round of layoffs",
+          "description": "Already decimated staff in September",
+          "image": "https://image.theregister.com/232108.jpg?imageId=232108&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+          "siteName": "theregister"
+        }
+      ]
+    }
+  ]
+}

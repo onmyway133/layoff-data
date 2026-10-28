@@ -1,0 +1,26 @@
+{
+  "name": "GeoComply",
+  "industry": "geolocation and fraud-prevention software",
+  "domain": "geocomply.com",
+  "icon": "geocomply.png",
+  "events": [
+    {
+      "id": "c2ae3f49-b5fe-4772-82be-72cd308a019f",
+      "date": "2026-04-17",
+      "headcount": 80,
+      "country": "Canada",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:cef1f675bf385bc1f886",
+      "sources": [
+        {
+          "url": "https://techcouver.com/2026/04/23/geocomply-cuts-staff-amid-market-shift/",
+          "title": "GeoComply Cuts Staff Amid Market Shift - Techcouver.com",
+          "description": "Techcouver is an online publication providing real-time reporting and analysis of emerging technology news in Vancouver and throughout British Columbia.",
+          "image": "https://techcouver.com/wp-content/uploads/2023/05/geocomply.jpeg",
+          "siteName": "Techcouver.com"
+        }
+      ]
+    }
+  ]
+}

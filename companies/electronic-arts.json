@@ -1,0 +1,46 @@
+{
+  "name": "Electronic Arts",
+  "industry": "Games",
+  "events": [
+    {
+      "id": "39c683c5-ed2c-42b4-8c40-6e32880726ba",
+      "date": "2026-10-21",
+      "headcount": 400,
+      "percent": 3,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:6e69986e4470ec177578",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+          "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+          "description": "Next Mass Effect project canceled as parent company lays off 400.",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/me3ending-1152x648.webp",
+          "siteName": "Ars Technica"
+        },
+        {
+          "url": "https://gameinformer.com/2026/10/21/ea-is-shutting-down-legendary-rpg-studio-bioware-amid-new-round-of-layoffs",
+          "title": "EA Is Shutting Down Legendary RPG Studio BioWare Amid New Round Of Layoffs",
+          "description": "Electronic Arts is closing the doors on its RPG studio and canceling the in-development Mass Effect. - Game Informer",
+          "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/10/21/4bde700e/mass-effect-3-keyart.jpg.webp",
+          "siteName": "Game Informer"
+        },
+        {
+          "url": "https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware",
+          "title": "Electronic Arts to Shed 400 Jobs, Shut Down BioWare to Cut Costs",
+          "description": "The next ‘Mass Effect’ will be canceled as part of the layoffs",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iISHuAmaF1DM/v1/1200x800.jpg",
+          "siteName": "Bloomberg.com"
+        },
+        {
+          "url": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
+          "title": "EA closes BioWare after 30 years of game development",
+          "description": "EA is laying off a reported 400 employees and shutting down BioWare, celebrated maker of the Mass Effect and Dragon Age franchises.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt073bad4db60aca60/6ad9060882034b2f0283106e/ss_117821694b8c388c702e5628c047b5ad7392b28d.1920x1080.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Game Developer"
+        }
+      ]
+    }
+  ]
+}

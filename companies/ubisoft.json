@@ -1,0 +1,106 @@
+{
+  "name": "Ubisoft",
+  "industry": "Gaming",
+  "domain": "ubisoft.com",
+  "icon": "ubisoft.png",
+  "events": [
+    {
+      "id": "4016d985-fae8-44e7-933c-b3de339a2549",
+      "date": "2026-10-15",
+      "headcount": 100,
+      "country": "Germany",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:6dd2b70c5da58d39ee3e",
+      "sources": [
+        {
+          "url": "https://www.invenglobal.com/articles/27243/ubisoft-in-consultations-to-cut-jobs-across-3-german-studios",
+          "title": "Ubisoft in Consultations to Cut Jobs Across 3 German Studios",
+          "description": "© UbisoftUbisoft is pursuing workforce reductions across three studios in Germany.",
+          "image": "https://static.invenglobal.com/upload/image/2026/10/15/i1792070887164792.jpeg",
+          "siteName": "InvenGlobal"
+        }
+      ]
+    },
+    {
+      "id": "6eaa4150-2a03-40ba-8528-94cde9fbacb6",
+      "date": "2026-06-10",
+      "headcount": 380,
+      "country": "France",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:7fc2a903b3781e93818b",
+      "sources": [
+        {
+          "url": "https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational",
+          "title": "Report: Ubisoft Announces More Studio Closures And Layoffs Amid New Organizational Restructuring",
+          "description": "Ubisoft's Winnipeg and Belgrade studios have reportedly closed their doors. - Game Informer",
+          "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2021/12/21/58cb5c42/ubisoft_black_logo.jpg.webp",
+          "siteName": "Game Informer"
+        },
+        {
+          "url": "https://www.thesixthaxis.com/2026/06/11/report-ubisoft-closes-two-studios-with-up-to-380-job-losses/",
+          "title": "Report – Ubisoft closes two studios with up to 380 job losses | TheSixthAxis",
+          "description": "Ubisoft is making yet more layoffs and closing studios, with as many as 380 jobs set to come from the closure of studios in Winnipeg and Belgrade, and",
+          "image": "https://www.thesixthaxis.com/wp-content/uploads/2015/06/ubie3hero.jpg",
+          "siteName": "TheSixthAxis"
+        }
+      ]
+    },
+    {
+      "id": "02fde8bf-48bd-4e79-81c7-76c131ea6956",
+      "date": "2026-03-19",
+      "headcount": 105,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:dc760b25157334dea51a",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/ubisoft-announces-layoffs-and-the-cease-of-game-development-at-red-storm-entertainment",
+          "title": "Ubisoft announces layoffs and the cease of game development at Red Storm Entertainment",
+          "description": "The studio will remain open, but 105 people are being laid off as part of Ubisoft's cost reduction programme",
+          "image": "https://assetsio.gnwcdn.com/ubisoft-logo-black.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "id": "13dc2f58-1c86-442b-88a6-4d9c141f374c",
+      "date": "2026-01-26",
+      "headcount": 200,
+      "percent": 18,
+      "country": "France",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:7ac92ba25a0940b925ee",
+      "sources": [
+        {
+          "url": "https://www.techradar.com/gaming/gaming-industry/following-its-major-restructuring-announcement-ubisoft-begins-a-collective-voluntary-mutual-termination-agreement-at-its-paris-hq-with-200-jobs-on-the-line",
+          "title": "Ubisoft begins voluntary redundancy process at Paris HQ, proposing 200 employees quit their jobs to align with company's recently announced restructuring plan",
+          "description": "One week after announcing major restructuring plans at Ubisoft, the company has now begun a voluntary redundancy process at its Paris, France headquarters.",
+          "image": "https://cdn.mos.cms.futurecdn.net/FwXCb2Yh8kujXd7YJdYrXJ-2560-80.jpg",
+          "siteName": "TechRadar"
+        }
+      ]
+    },
+    {
+      "id": "46229414-43c6-4415-ad25-feb6db2976b2",
+      "date": "2026-01-07",
+      "headcount": 71,
+      "country": "Canada",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:5012ce78fcdb684a91fc",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/ubisoft-shuttering-freshly-unionised-halifax-studio-71-jobs-affected",
+          "title": "Ubisoft shuttering freshly-unionised Halifax studio, 71 jobs affected",
+          "description": "The studio is the latest to be hit by the company's ongoing cutbacks.",
+          "image": "https://assetsio.gnwcdn.com/new_ubisoft_logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

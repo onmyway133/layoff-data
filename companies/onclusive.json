@@ -1,0 +1,27 @@
+{
+  "name": "Onclusive",
+  "industry": "Media monitoring and PR analytics",
+  "domain": "onclusive.com",
+  "icon": "onclusive.png",
+  "events": [
+    {
+      "id": "d49f2f27-f021-4e48-91a2-5929a59f5c1c",
+      "date": "2023-09-05",
+      "headcount": 218,
+      "percent": 57,
+      "country": "France",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:b31cc48c97a2ff196808",
+      "sources": [
+        {
+          "url": "https://www.solutions-numeriques.com/effectifs-remplaces-par-lia-la-societe-onclusive-va-presenter-son-nouveau-plan-social-le-15-janvier/",
+          "title": "Effectifs remplacés par l’IA : la société Onclusive va présenter son nouveau plan social le 15 janvier - Solutions Numeriques & Cybersécurité",
+          "description": "Alors que le spécialiste de la veille des médias Onclusive indiquait en septembre 2023 licencier près de la moitié de ses effectifs en France, remplacés par l’IA, il a annoncé ce lundi 8 janvier présenter son nouveau plan social le 15 janvier aux membres de son Comité Social et Économique. “La présentation de ce projet […]",
+          "image": "https://solnum.b-cdn.net/wp-content/uploads/2023/09/binary-2175285_1280.jpg",
+          "siteName": "Solutions Numeriques & Cybersécurité"
+        }
+      ]
+    }
+  ]
+}

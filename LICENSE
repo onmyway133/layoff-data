@@ -1,0 +1,65 @@
+Copyright (c) 2026 the layoff-data maintainers. All rights reserved.
+
+This repository (the data, its structure, selection and arrangement, and the
+documentation) is made public so that people can contribute to it. Except as
+stated below, no license is granted.
+
+1. What you may do
+
+   You may view this repository on GitHub, and fork it on GitHub solely to
+   prepare and submit pull requests to this repository.
+
+2. What you may not do
+
+   Without prior written permission from the maintainers, you may not, in whole
+   or in part, for commercial or non-commercial purposes:
+
+   a. copy, download in bulk, scrape, mirror or archive the data;
+   b. publish, redistribute, sell, sublicense or otherwise make it available;
+   c. use it in, or to build, any website, app, API, product, service or
+      dataset;
+   d. use it to train, fine-tune, evaluate or ground any machine learning or
+      AI model or system.
+
+3. Contributions
+
+   By submitting a pull request, issue or other contribution, you confirm that
+   you have the right to submit it, and you grant the maintainers a perpetual,
+   worldwide, irrevocable, royalty-free, non-exclusive license to use, copy,
+   modify, publish, sublicense and distribute your contribution, as part of
+   this repository and in any product built from it. You keep any rights you
+   have in your contribution.
+
+4. Third-party data
+
+   Sections 1 and 2 cover only what the maintainers own. Some records come
+   from others and keep their own terms:
+
+   a. Events with "dataset": "ai-layoffs-index" come from the AI Layoffs Index
+      (https://ailayoffs.org), under its license
+      (https://ailayoffs.org/license). Its terms apply to those records:
+      attribute the AI Layoffs Index and each event's sources, and keep
+      citations dated.
+   b. Part of the historical data was compiled with reference to layoffs.fyi
+      (https://layoffs.fyi), credited as it asks; see README.md.
+   c. Every event links the press articles it is based on. Those articles,
+      their titles, descriptions and images belong to their publishers. The
+      link previews stored here only point to them.
+
+5. Third-party names
+
+   Company names, logos and trademarks belong to their owners. Their
+   appearance here does not imply endorsement.
+
+6. Removal requests
+
+   If you represent a company or a publisher and want information removed or
+   corrected, open an issue in this repository.
+
+7. No warranty
+
+   The data is provided "as is", without warranty of any kind. Figures are
+   taken from the linked press coverage and may be incomplete or out of date.
+   The maintainers are not liable for any claim or damages arising from it.
+
+To ask for permission to use the data, open an issue in this repository.

@@ -1,0 +1,32 @@
+{
+  "name": "Paytm",
+  "industry": "Fintech",
+  "hqCountry": "India",
+  "domain": "paytm.com",
+  "icon": "paytm.png",
+  "events": [
+    {
+      "id": "04d25ac1-7ee8-4ba5-a249-18acec564bfa",
+      "date": "2023-12-25",
+      "headcount": 1000,
+      "country": "India",
+      "reason": "ai_automation",
+      "sources": [
+        {
+          "url": "https://businesstoday.in/latest/corporate/story/paytm-lays-off-over-1000-employees-impacting-10-of-its-headcount-report-410672-2023-12-25",
+          "title": "Paytm lays off over 1,000 employees, impacting 10% of its headcount: Report - BusinessToday",
+          "description": "The layoffs at Paytm are likely to affect at least 10 per cent of the overall headcount, and is believed to be among the steepest job cuts by an Indian new-age tech firm this year.",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202312/6588fe8331244-paytm-073718-16x9.jpg",
+          "siteName": "Business Today"
+        },
+        {
+          "url": "https://deccanherald.com/business/companies/ai-is-here-for-your-jobs-paytm-lays-off-1000-workers-amid-automation-push-2824413",
+          "title": "AI is here for your jobs: Paytm lays off 1,000 workers amid automation push",
+          "description": "In 2021, Paytm had let 500 to 700 employees go based on non-performance.",
+          "image": "https://media.assettype.com/deccanherald%2F2023-12%2F26cf37d2-2f4f-4c59-b856-40cf944f9cdd%2Ffile7ic4u44g2s6ulg4iolm.jpg?rect=0%2C45%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+          "siteName": "Deccan Herald"
+        }
+      ]
+    }
+  ]
+}

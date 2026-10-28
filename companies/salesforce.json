@@ -1,0 +1,94 @@
+{
+  "name": "Salesforce",
+  "industry": "Software",
+  "hqCountry": "United States",
+  "domain": "salesforce.com",
+  "icon": "salesforce.png",
+  "events": [
+    {
+      "id": "ffa5f686-6a14-4190-b8b2-e3b44a0447f8",
+      "date": "2026-06-10",
+      "headcount": 86,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:25c33642191711eefaea",
+      "sources": [
+        {
+          "url": "https://americanbazaaronline.com/2026/06/10/salesforce-lays-off-more-employees-in-new-round-of-cuts-482543/",
+          "title": "Salesforce lays off more employees in new round of cuts",
+          "description": "Salesforce announces another round of layoffs impacting Agentforce, Mulesoft, Marketing Cloud teams amid growing AI-driven transformation.",
+          "image": "https://americanbazaaronline.com/wp-content/uploads/2025/08/Salesforce-logo-scaled.webp",
+          "siteName": "The American Bazaar"
+        }
+      ]
+    },
+    {
+      "id": "18d8b999-452f-40b4-8451-5524387cfd63",
+      "date": "2026-02-10",
+      "headcount": 1000,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:a4cfabe0f586f821aa9d",
+      "sources": [
+        {
+          "url": "https://www.aol.com/news/salesforce-quietly-laid-off-workers-021344579.html",
+          "title": "Salesforce quietly laid off workers in a new round of cuts - AOL",
+          "description": "Salesforce trims staff in marketing, product, and data teams, affecting fewer than 1,000 roles. The company recently had a leadership overhaul.",
+          "image": "https://hermes.media.transform.aol.com/3de82a2ac41f53a6119bef301528d3545758983e/w_1200,c_scale,f_auto,q_auto/https://media.zenfs.com/en/aol_business_insider_articles_308/f5ddbeb36e08824516645bfbdce77898",
+          "siteName": "AOL.com"
+        }
+      ]
+    },
+    {
+      "id": "cbd71642-02a5-4f7f-8ab2-77c15b2a0f57",
+      "date": "2025-08-29",
+      "headcount": 4000,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:df89d5877774166a4154",
+      "sources": [
+        {
+          "url": "https://www.foxbusiness.com/economy/salesforce-cuts-4000-jobs-due-ai-ceo-says",
+          "title": "Salesforce cuts 4,000 jobs due to AI, CEO says",
+          "description": "Salesforce CEO Marc Benioff said AI automation helped the software company cut its customer support headcount from 9,000 to 5,000 human workers.",
+          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/marc-benioff-world-economic-forum.jpg?ve=1&tl=1",
+          "siteName": "Fox Business"
+        }
+      ]
+    },
+    {
+      "id": "d384ed89-528f-4240-87e7-2f044210646f",
+      "date": "2023-01-04",
+      "headcount": 8000,
+      "percent": 10,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2023/01/04/salesforce-to-cut-workforce-by-10-after-hiring-too-many-people-during-the-pandemic",
+          "title": "Salesforce to cut workforce by 10% after hiring 'too many people' during the pandemic | TechCrunch",
+          "description": "Salesforce is cutting its workforce by 10%, impacting more than 7,000 employees, while it will also shutter offices in \"certain markets.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1229897232-e1672838693650.jpg?resize=1200,675",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.aljazeera.com/economy/2023/1/4/salesforce-to-cut-10-of-workforce-in-latest-tech-layoffs",
+          "title": "Salesforce to cut 10% of workforce in latest tech layoffs",
+          "description": "It said it needs to cut costs after rapid pandemic hiring left it with 'too many people' amid an economic slowdown.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2022/07/jobfair.jpg?resize=1920%2C1440",
+          "siteName": "Al Jazeera"
+        },
+        {
+          "url": "https://www.theregister.com/2023/01/04/salesforce_7000_job_cuts/",
+          "title": "Salesforce to chop 10% of workforce in restructuring plan",
+          "description": "CRM specialist to 'reduce operating costs, improve operating margins' as pandemic catches up with tech industry",
+          "image": "https://image.theregister.com/258307.jpg?imageId=258307&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+          "siteName": "theregister"
+        }
+      ]
+    }
+  ]
+}

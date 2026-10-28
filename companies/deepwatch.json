@@ -1,0 +1,26 @@
+{
+  "name": "Deepwatch",
+  "industry": "Cybersecurity (managed detection and response)",
+  "domain": "deepwatch.com",
+  "icon": "deepwatch.png",
+  "events": [
+    {
+      "id": "b199f512-8a64-4f57-a8f6-00f76ff481e1",
+      "date": "2025-11-12",
+      "headcount": 60,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:a2d5571aaa26eaa4a8d1",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/",
+          "title": "Cybersecurity firm Deepwatch lays off dozens, citing move to 'accelerate' AI investment | TechCrunch",
+          "description": "Deepwatch’s CEO told TechCrunch that the layoffs allow the company to accelerate investments in “AI and automation.”",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

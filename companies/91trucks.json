@@ -1,0 +1,20 @@
+{
+  "name": "91trucks",
+  "events": [
+    {
+      "id": "fe15cb15-f0d9-4d14-8a88-633100f21e96",
+      "date": "2026-06-22",
+      "headcount": 100,
+      "percent": 70,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:33219759346e9a6ac043",
+      "sources": [
+        {
+          "url": "https://entrackr.com/exclusive/exclusive-91trucks-lays-off-nearly-70-workforce-shuts-stores-as-growth-slows-12061133"
+        }
+      ]
+    }
+  ]
+}

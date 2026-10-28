@@ -1,0 +1,27 @@
+{
+  "name": "Aurora Labs",
+  "industry": "Automotive software",
+  "domain": "auroralabs.com",
+  "icon": "aurora-labs.png",
+  "events": [
+    {
+      "id": "9917c4b5-3793-4132-8cbe-cb8919f5825d",
+      "date": "2025-01-26",
+      "headcount": 45,
+      "percent": 60,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:64f40c34f2e24b91bd62",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/rjh2d64ukx",
+          "title": "Aurora Labs pivots to AI monitoring and lays off 60% of workforce | CTech",
+          "description": "The Israeli autotech company shifts focus to high-performance computing in vehicles and data centers.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2022/07/07/ByepBZVs9/ByepBZVs9_1_71_1594_898_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

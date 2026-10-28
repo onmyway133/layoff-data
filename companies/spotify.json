@@ -1,0 +1,57 @@
+{
+  "name": "Spotify",
+  "industry": "Music Streaming",
+  "hqCountry": "Sweden",
+  "domain": "spotify.com",
+  "icon": "spotify.png",
+  "events": [
+    {
+      "id": "506b0585-dbb3-4b06-87eb-2a7ba26638d8",
+      "date": "2023-12-04",
+      "headcount": 1500,
+      "percent": 17,
+      "country": "Sweden",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://thefader.com/2023/12/04/spotify-to-cut-over-1500-jobs",
+          "title": "Spotify to cut over 1,500 jobs as cost-cutting measure",
+          "description": "17% of Spotify employees will be made redundant as CEO Daniel Ek announces lay-offs are required to",
+          "image": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_602,w_1024,x_0,y_68,f_auto,q_auto:eco/GettyImages-463752032_bmdbct/GettyImages-463752032_bmdbct.jpg",
+          "siteName": "The FADER"
+        },
+        {
+          "url": "https://www.musicbusinessworldwide.com/spotify-to-axe-over-1500-jobs-in-latest-round-of-cuts1/",
+          "title": "Spotify to axe over 1,500 jobs in latest round of layoffs - Music Business Worldwide",
+          "description": "Spotify is slashing around 17% of its global workforce…",
+          "image": "https://www.musicbusinessworldwide.com/files/2022/05/2GJBFK3-1296x864.jpg",
+          "siteName": "Music Business Worldwide"
+        }
+      ]
+    },
+    {
+      "id": "c98d1653-28cc-4f40-a235-476dbe2130ee",
+      "date": "2023-01-23",
+      "headcount": 600,
+      "percent": 6,
+      "country": "Sweden",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2023/01/23/spotify-cuts-6-of-its-workforce-impacting-600-people",
+          "title": "Spotify cuts 6% of its workforce, impacting 600 people | TechCrunch",
+          "description": "Spotify employees who are impacted will receive severance pay that will vary depending on local notice period requirements and employee tenure.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1013933224.jpg",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.cnbc.com/2023/01/23/spotify-to-cut-6percent-of-its-workforce-as-tech-layoffs-continue.html",
+          "title": "Spotify cuts 6% of its workforce — read the memo CEO Daniel Ek sent to staff",
+          "description": "Spotify announced it is cutting 6% of its global workforce, as the music streaming giant contends with a gloomy economic environment.",
+          "image": "https://image.cnbcfm.com/api/v1/image/107182361-1674481395415-gettyimages-611053880-AFP_GL95E.jpeg?v=1701679903&w=1920&h=1080",
+          "siteName": "CNBC"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "F-Secure",
+  "industry": "Cybersecurity software",
+  "domain": "f-secure.com",
+  "icon": "f-secure.png",
+  "events": [
+    {
+      "id": "fbe0c67f-90dd-43d9-bd34-22c25965900a",
+      "date": "2026-10-01",
+      "headcount": 145,
+      "country": "Finland",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:f4cca7746d0a5fe6ce29",
+      "sources": [
+        {
+          "url": "https://mobiili.fi/2026/10/01/tietoturvayhtio-f-secure-rajun-myllerryksen-kourissa-jopa-lahes-neljasosa-tyotehtavista-katoaa-muutosneuvotteluissa-taustalla-tekoaly-ja-merkittavan-asiakkaan-menetys/",
+          "title": "Tietoturvayhtiö F-Secure rajun myllerryksen kourissa: jopa lähes neljäsosa työtehtävistä katoaa muutosneuvotteluissa – taustalla tekoäly ja merkittävän asiakkaan menetys",
+          "description": "Suomalainen tietoturvayhtiö F-Secure on kertonut suunnittelevansa toimintamallinsa uudistamista sekä merkittäviä henkilöstövähennyksiä muutosneuvott",
+          "image": "https://mobiili.fi/wp-content/uploads/2026/10/f-secure_logo.jpg",
+          "siteName": "Mobiili.fi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Byju's",
+  "industry": "EdTech",
+  "hqCountry": "India",
+  "domain": "byjus.com",
+  "icon": "byjus.png",
+  "events": [
+    {
+      "id": "5b23f84c-f7d8-4098-9e6c-b4b0174939b9",
+      "date": "2023-10-12",
+      "headcount": 4000,
+      "country": "India",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://www.outlookbusiness.com/news/byjus-to-layoff-4000-employees-amidst-ceo-change",
+          "title": "Byju's To Layoff 4,000 Employees Amidst CEO Change – Outlook Business",
+          "description": "Byju's will fire a third of its employees, including senior professionals",
+          "image": "https://media.assettype.com/outlookbusiness/import/uploadimage/library/16_9/16_9_5/BYJUS_1663162254.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "Outlook Business"
+        },
+        {
+          "url": "https://www.wionews.com/business-economy/indias-edtech-firm-byjus-announces-major-restructuring-plans-to-cut-thousands-of-jobs-640110/amp",
+          "title": "Indian edtech firm Byju's announces major restructuring, plans to cut thousands of jobs",
+          "description": "Indian edtech firm, Byju's, is set to undergo a major restructuring effort, potentially resulting in the termination of 4,000 to 5,000 jobs. This significant workforce reduction, announced by the company's new India CEO, Arjun Mohan, reflects Byju's attempts to strengthen its operations amid ongoing financial challenges, Moneycontrol reported.",
+          "image": "https://cdn.wionews.com/sites/default/files/2022/12/19/319228-new-wion-14.png?imwidth=1200&imheight=900",
+          "siteName": "Wion"
+        }
+      ]
+    }
+  ]
+}

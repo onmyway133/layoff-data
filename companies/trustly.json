@@ -1,0 +1,27 @@
+{
+  "name": "Trustly",
+  "industry": "Fintech",
+  "domain": "trustly.com",
+  "icon": "trustly.png",
+  "events": [
+    {
+      "id": "63f5db00-c72c-4ede-8009-0207a22eb189",
+      "date": "2026-09-17",
+      "headcount": 200,
+      "percent": 25,
+      "country": "Brazil",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:44d89de8bf30658b1dd7",
+      "sources": [
+        {
+          "url": "https://tech.eu/2026/09/17/swedish-fintech-trustly-to-cut-around-200-jobs/",
+          "title": "Swedish fintech Trustly to cut around 200 jobs",
+          "description": "The job cuts wil hit around one in four employees at Trustly.",
+          "image": "https://cdn.tech.eu/uploads/2025/06/trustly-733.png",
+          "siteName": "Tech.eu"
+        }
+      ]
+    }
+  ]
+}

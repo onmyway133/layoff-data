@@ -1,0 +1,36 @@
+name: Report a correction or removal
+description: Wrong numbers or details, a duplicate, a broken or wrong source, or a removal request.
+title: "Fix: "
+labels: ["correction"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: Which company or event?
+      placeholder: companies/acme.json, or a link to the site
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem?
+      options:
+        - Wrong numbers or details
+        - Listed twice
+        - Source link is broken or wrong
+        - Correction from the company
+        - Removal request
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What is wrong, and what should it be?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link
+      description: A press article that supports the change, if there is one.

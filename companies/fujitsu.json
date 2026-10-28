@@ -1,0 +1,20 @@
+{
+  "name": "Fujitsu",
+  "events": [
+    {
+      "id": "2e105c8d-d25a-4adb-80e1-63fc9b5af319",
+      "date": "2026-04-01",
+      "headcount": 425,
+      "percent": 10,
+      "country": "United Kingdom",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:7ece8f07b60ececb00e2",
+      "sources": [
+        {
+          "url": "https://www.computerweekly.com/news/366641092/Post-Office-scandal-supplier-Fujitsu-to-cut-nearly-10-of-UK-workforce"
+        }
+      ]
+    }
+  ]
+}

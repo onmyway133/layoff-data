@@ -1,0 +1,41 @@
+{
+  "name": "monday.com",
+  "industry": "Software / Work management",
+  "domain": "monday.com",
+  "icon": "monday-com.png",
+  "events": [
+    {
+      "id": "356c1034-16be-4976-8025-43be826167f1",
+      "date": "2026-07-22",
+      "headcount": 620,
+      "percent": 20,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:ab679b293f00f8206deb",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001550113",
+          "title": "monday.com to lay off 620, as it adapts to AI",
+          "description": "The Israeli work operating systems company is laying off 20% of its workforce, including 350 employees in Tel Aviv.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1623301709/direct/0009_NEL1595_vpahte.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://thenextweb.com/news/monday-com-layoffs-20-percent-ai-growth-strategy",
+          "title": "Monday.com is cutting 20 percent of its workforce as it pivots to an AI work platform",
+          "description": "Monday.com will lay off about 620 employees and flatten its management structure as the project management company chases what it calls the AI Work Platform",
+          "image": "https://media.thenextweb.com/2026/07/monday-com-layoffs-20-percent-ai-growth-strategy.jpg",
+          "siteName": "TNW | Artificial-intelligence"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/udx1nmbdq",
+          "title": "Monday.com cuts 20% of workforce as it restructures for the AI era | CTech",
+          "description": "The Israeli software company says it is replacing a structure built around managing work with one designed for AI agents and human collaboration, cutting about 620 jobs while redirecting resources toward its new strategy.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/08/12/HJVT00jP90/HJVT00jP90_1_202_1969_1109_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

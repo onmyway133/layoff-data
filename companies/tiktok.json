@@ -1,0 +1,58 @@
+{
+  "name": "TikTok",
+  "industry": "Social media",
+  "domain": "tiktok.com",
+  "icon": "tiktok.png",
+  "events": [
+    {
+      "id": "c8d32f08-90f9-47b4-99cf-47277988f101",
+      "date": "2026-08-05",
+      "headcount": 250,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:3e2defc42384fad8beda",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
+          "title": "TikTok lays off 250 employees, shutters its Nashville office | TechCrunch",
+          "description": "The social media giant is shuttering an office that housed some members of TikTok’s content-moderation team.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+          "siteName": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "287d5845-1f87-4aff-9ee9-bc105c59077f",
+      "date": "2026-07-01",
+      "headcount": 300,
+      "country": "Ireland",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:085e65814e33366f5fad",
+      "sources": [
+        {
+          "url": "https://www.thejournal.ie/tiktok-layoffs-7086833-Jul2026/",
+          "title": "TikTok's Irish staff braced for hundreds of layoffs as company announces restructuring",
+          "description": "Management have informed some staff that their role may be at risk.",
+          "image": "https://img2.thejournal.ie/article/7086833/river/?height=400&version=7086842",
+          "siteName": "TheJournal.ie"
+        }
+      ]
+    },
+    {
+      "id": "5bd3c450-ef79-4871-8361-162f6ec03450",
+      "date": "2025-07-17",
+      "headcount": 150,
+      "country": "Germany",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:5ab0da70784d3620f787",
+      "sources": [
+        {
+          "url": "https://euronews.com/next/2025/07/23/tiktok-content-moderators-in-germany-strike-over-ai-taking-their-jobs"
+        }
+      ]
+    }
+  ]
+}

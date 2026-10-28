@@ -1,0 +1,32 @@
+{
+  "name": "Generali Deutschland",
+  "industry": "Insurance",
+  "events": [
+    {
+      "id": "830a7158-21b8-4296-8627-736035bbe901",
+      "date": "2026-10-23",
+      "headcount": 800,
+      "percent": 9,
+      "country": "Germany",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:bc6dce9e12e4ef837a5c",
+      "sources": [
+        {
+          "url": "https://www.boersen-zeitung.de/banken-finanzen/generali-deutschland-baut-stellen-ab",
+          "title": "Generali Deutschland baut Stellen ab | Börsen-Zeitung",
+          "description": "Digitalisierung und Künstliche Intelligenz begrenzen zunehmend den Arbeitskräftebedarf in der Assekuranz. Generali schließt sich jenen Versicherern an, die hohe IT-Investitionen mit einem Arbeitsplatzabbau verbinden.",
+          "image": "https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d0a4deb0-812e-4dad-a933-bd60307e5dee/thumbnails/ad030c9b-d296-4dd8-bb9f-3f09d77ced06.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&platform=WEB&w=1200",
+          "siteName": "Börsen-Zeitung"
+        },
+        {
+          "url": "https://www.trend.at/news/generali-streicht-800-stellen-in-deutschland",
+          "title": "Generali streicht 800 Stellen in Deutschland",
+          "description": "Generali streicht in Deutschland 800 Stellen und schließt drei Standorte bis 2030. Die Veränderungen sind Teil einer strategischen Neuausrichtung.",
+          "image": "https://files.fairu.app/a30d83c7-b5a5-4905-a993-6a177afe5247/95744198_BLD_Online.jpg?width=1200&height=630&format=jpg",
+          "siteName": "trend.at"
+        }
+      ]
+    }
+  ]
+}

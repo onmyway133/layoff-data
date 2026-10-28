@@ -1,0 +1,29 @@
+{
+  "name": "HP Inc.",
+  "industry": "Technology hardware (PCs and printers)",
+  "domain": "hp.com",
+  "icon": "hp-inc.png",
+  "events": [
+    {
+      "id": "ca679731-0acc-459d-b0cd-2ed998255b1f",
+      "date": "2025-11-25",
+      "headcount": 4000,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:05633b2b5d9f80af4f93",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/hp-cut-6-000-jobs-211614685.html"
+        },
+        {
+          "url": "https://tech.co/news/hp-laying-off-thousands-in-ai-push",
+          "title": "HP to Lay Off Thousands of Employees in AI Push",
+          "description": "HP is letting go of between 4,000 and 6,000 roles by 2028 — and looking to AI to make up the shortfall.",
+          "image": "https://images.tech.co/wp-content/uploads/2025/11/26080540/AdobeStock_296773986_Editorial_Use_Only.jpg",
+          "siteName": "Tech.co"
+        }
+      ]
+    }
+  ]
+}

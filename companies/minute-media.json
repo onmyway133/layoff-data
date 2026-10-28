@@ -1,0 +1,24 @@
+{
+  "name": "Minute Media",
+  "events": [
+    {
+      "id": "72b3b3a6-350c-41d3-bf8d-ffe01afe8e6b",
+      "date": "2026-05-28",
+      "headcount": 60,
+      "percent": 12,
+      "country": "Israel",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:58a3848e67d19586b17f",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/kk215pdq7",
+          "title": "Minute Media lays off 12% of workforce, reverses course on VideoVerse after $200 million acquisition | CTech",
+          "description": "The unicorn says restructuring reflects push for efficiency and long-term growth amid changes in the media market and rising AI-driven disruption, alongside termination of VideoVerse integration.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2019/10/15/940736/940736_1_45_801_451_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

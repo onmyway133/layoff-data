@@ -1,0 +1,26 @@
+{
+  "name": "Just Eat Takeaway",
+  "industry": "Online food delivery",
+  "domain": "justeattakeaway.com",
+  "icon": "just-eat-takeaway.png",
+  "events": [
+    {
+      "id": "02510129-5125-4d32-ba7b-c25495b02d78",
+      "date": "2025-09-24",
+      "headcount": 450,
+      "country": "Netherlands",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:32d10b7077e96cd82dd8",
+      "sources": [
+        {
+          "url": "https://www.marketscreener.com/news/just-eat-to-lay-off-around-450-employees-partly-automating-operations-ce7d58d3d98ef72c",
+          "title": "Just Eat to lay off around 450 employees, partly automating operations",
+          "description": "Europe's biggest food delivery company by revenue, Just Eat Takeaway, will reduce its workforce by around 450 as part of a review of its cost base and operations, a company spokesperson told Reuters...",
+          "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-23T080439Z_1_LYNXMPEL5M09W_RTROPTP_4_JUST-EAT-RESULTS.JPG",
+          "siteName": "MarketScreener"
+        }
+      ]
+    }
+  ]
+}

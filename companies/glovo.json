@@ -1,0 +1,23 @@
+{
+  "name": "Glovo",
+  "events": [
+    {
+      "id": "bf29ebcc-ec18-47e3-a9f2-a2dfd5430c16",
+      "date": "2026-03-11",
+      "headcount": 750,
+      "country": "Spain",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:f2d834e79a929dd73849",
+      "sources": [
+        {
+          "url": "https://www.expansion.com/empresas/distribucion/2026/03/11/69b17646e5fdea8b3c8b45be.html",
+          "title": "Glovo anuncia un ERE para 750 repartidores en España",
+          "description": "Glovo ha comunicado hoy a los sindicatos su intención de aplicar un expediente de regulación de empleo (ERE) que podría afectar hasta a 750 repartidores en 60 ciudades españolas.",
+          "image": "https://e00-xlk-ue-expansion.uecdn.es/files/article_main_microformat/uploads/2026/10/08/17603560535488.webp",
+          "siteName": "EXPANSION"
+        }
+      ]
+    }
+  ]
+}

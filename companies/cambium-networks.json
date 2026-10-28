@@ -1,0 +1,37 @@
+{
+  "name": "Cambium Networks",
+  "industry": "Networking hardware",
+  "domain": "cambiumnetworks.com",
+  "icon": "cambium-networks.png",
+  "events": [
+    {
+      "id": "3dafd8ab-5838-4e29-a84e-f7259c048101",
+      "date": "2026-09-11",
+      "headcount": 260,
+      "percent": 53.6,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:e20d1a13b5243aaedbea",
+      "sources": [
+        {
+          "url": "https://ca.investing.com/news/stock-market-news/cambium-networks-subsidiary-enters-administration-company-cuts-536-of-workforce-93CH-4838089"
+        },
+        {
+          "url": "https://www.channeldive.com/news/cambium-networks-slashes-workforce-courts-buyers-administration/830348/",
+          "title": "Cambium Networks slashes workforce, courts buyers",
+          "description": "The fixed wireless access provider laid off more than half of its employees amid accounting issues and market competition.",
+          "image": "https://imgproxy.divecdn.com/RUV-R0xkI9Vrcc0UV5qejrSHBSvzwEIsUpbpesUe4BI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzQyNjc4NTU3LmpwZw==.webp",
+          "siteName": "Channel Dive"
+        },
+        {
+          "url": "https://www.theregister.com/a/5297647",
+          "title": "Failed networking vendor Cambium set to turn off its cloudy management portal",
+          "description": "Quits enterprise networking hardware business, tells users to install on-prem software ASAP",
+          "image": "https://image.theregister.com/236480.jpg?imageId=236480&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "siteName": "theregister"
+        }
+      ]
+    }
+  ]
+}

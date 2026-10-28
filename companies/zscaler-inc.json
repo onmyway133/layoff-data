@@ -1,0 +1,26 @@
+{
+  "name": "Zscaler, Inc.",
+  "industry": "Cybersecurity (SaaS)",
+  "domain": "zscaler.com",
+  "icon": "zscaler-inc.png",
+  "events": [
+    {
+      "id": "50e32b36-737c-49ae-a178-667b31c8af0d",
+      "date": "2026-09-01",
+      "headcount": 261,
+      "percent": 3,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:2d99d58a6e87e98ae93c",
+      "sources": [
+        {
+          "url": "https://www.bankinfosecurity.com/zscaler-to-lay-off-3-staff-as-shifts-spend-to-sales-a-32746",
+          "title": "Zscaler to Lay Off 3% of Staff as It Shifts Spend to Sales",
+          "description": "Zscaler will cut 3% of its global workforce and redirect spending to specialized sales, channel and enterprise teams as it seeks more new customers and positions",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/zscaler-to-lay-off-3-staff-as-shifts-spend-to-sales-image_large-4-a-32746.jpg"
+        }
+      ]
+    }
+  ]
+}

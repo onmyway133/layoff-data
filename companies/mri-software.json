@@ -1,0 +1,26 @@
+{
+  "name": "MRI Software",
+  "industry": "Real estate software",
+  "domain": "mrisoftware.com",
+  "icon": "mri-software.png",
+  "events": [
+    {
+      "id": "a3a33411-570e-4e25-b1b9-bf99e9a50aa2",
+      "date": "2026-05-11",
+      "headcount": 200,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:01dba1e3672af0f0883b",
+      "sources": [
+        {
+          "url": "https://propmodo.com/private-equity-backed-proptech-firm-cuts-200-jobs-cites-ai-adoption/",
+          "title": "Private Equity-Backed Proptech Firm Cuts 200 Jobs, Cites AI Adoption",
+          "description": "MRI Software cuts 200 jobs in Ohio, citing AI adoption as private equity owners prepare for a potential $10 billion sale.",
+          "image": "https://propmodo.com/wp-content/uploads/2026/03/fast-take-technology-data.jpg",
+          "siteName": "Propmodo"
+        }
+      ]
+    }
+  ]
+}

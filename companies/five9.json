@@ -1,0 +1,27 @@
+{
+  "name": "Five9",
+  "industry": "Contact-center software",
+  "domain": "five9.com",
+  "icon": "five9.png",
+  "events": [
+    {
+      "id": "23aa7acf-7a1a-4db6-a62c-4bf317d86d46",
+      "date": "2025-04-03",
+      "headcount": 123,
+      "percent": 4,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:7761398d97b03dc6a600",
+      "sources": [
+        {
+          "url": "https://www.cxtoday.com/?p=69542",
+          "title": "CX Today | CX News | The Voice of CX Technology",
+          "description": "Independent news and insights on customer experience technology. News, analysis and practical guidance for CX leaders, practitioners, and partners.",
+          "image": "https://cxtoday.com/brand/og-card.png",
+          "siteName": "CX Today"
+        }
+      ]
+    }
+  ]
+}

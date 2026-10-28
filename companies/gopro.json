@@ -1,0 +1,24 @@
+{
+  "name": "GoPro",
+  "events": [
+    {
+      "id": "b3ea99af-f532-4dee-9061-e33c630b21e8",
+      "date": "2026-04-07",
+      "headcount": 145,
+      "percent": 23,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:3839c06e8ab296fdedf1",
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026",
+          "title": "Companies laying off staff this year include Meta, Amazon, Visa, and Walmart — see the list",
+          "description": "Layoffs have hit over 35 companies in 2026, including Meta, Walmart, and American Express, as AI and economic conditions reshape the business landscape.",
+          "image": "https://i.insider.com/6a5a32aa54f9875261776633?width=1200&format=jpeg",
+          "siteName": "Business Insider"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Flipkart",
+  "events": [
+    {
+      "id": "2d9fddef-9e31-4466-9643-9ffc7a241ebe",
+      "date": "2026-03-06",
+      "headcount": 300,
+      "percent": 1.5,
+      "country": "India",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:5283d5bac4bf91dfc380",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/flipkart-cuts-300-jobs-in-annual-performance-review-cycle-11181232"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Translation Bureau (Public Services and Procurement Canada)",
+  "industry": "Government (translation and interpretation services)",
+  "events": [
+    {
+      "id": "365e26ee-2e21-4886-86ac-782f7ef9d9d6",
+      "date": "2025-03-20",
+      "headcount": 339,
+      "country": "Canada",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:d0aff9b33bc537a623ac",
+      "sources": [
+        {
+          "url": "https://www.cp24.com/news/canada/2026/10/19/union-calls-out-carney-government-over-cuts-to-translation-bureau/",
+          "title": "Union calls out Carney government over cuts to translation bureau",
+          "description": "A federal union is speaking out against cuts to the federal translation bureau and is accusing the Carney government of hypocrisy as Ottawa defends French language standards in trade talks with the U.S.",
+          "image": "https://www.cp24.com/resizer/v2/GTZ7JF7LGYBWFSEXSZFZ65Z7YY.jpg?smart=true&auth=0423a73db5a1110bf70df8f99f95ea827813734c41c321710e0ed81efa292aaa&width=1200&height=630",
+          "siteName": "CP24"
+        }
+      ]
+    }
+  ]
+}

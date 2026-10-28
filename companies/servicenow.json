@@ -1,0 +1,22 @@
+{
+  "name": "ServiceNow",
+  "industry": "Software",
+  "domain": "servicenow.com",
+  "icon": "servicenow.png",
+  "events": [
+    {
+      "id": "dad04929-5d6c-43f2-b6db-5478f6c961ab",
+      "date": "2026-08-01",
+      "headcount": 287,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:c771393a3dff587b2731",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/technology/articles/servicenow-cuts-nearly-300-jobs-100000472.html"
+        }
+      ]
+    }
+  ]
+}

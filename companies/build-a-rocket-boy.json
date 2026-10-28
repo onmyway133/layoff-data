@@ -1,0 +1,26 @@
+{
+  "name": "Build A Rocket Boy",
+  "industry": "Gaming",
+  "domain": "buildarocketboy.com",
+  "icon": "build-a-rocket-boy.png",
+  "events": [
+    {
+      "id": "77b52862-4a7b-454f-9329-b062f5ad03ec",
+      "date": "2026-05-06",
+      "headcount": 170,
+      "country": "United Kingdom",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:23c6b991dc5996c8e411",
+      "sources": [
+        {
+          "url": "https://gamingbolt.com/mindseye-studio-hit-with-new-round-of-layoffs-reportedly-affecting-around-170-workers",
+          "title": "MindsEye Studio Hit With New Round of Layoffs, Reportedly Affecting Around 170 Workers",
+          "description": "While the studio itself hasn't made any official announcement, several of its now-former employees confirmed the layoffs through LinkedIn.",
+          "image": "https://gamingbolt.com/wp-content/uploads/2022/05/build-a-rocket-boy.jpg",
+          "siteName": "GamingBolt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Epic Games",
+  "events": [
+    {
+      "id": "617e4c14-05c2-4ebb-826f-7dd8708cd724",
+      "date": "2026-03-24",
+      "headcount": 1000,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:58c70eee13e9fd786d7a",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/epic-games-lays-off-over-1000-employees-following-downturn-in-fortnite-engagement",
+          "title": "Epic Games lays off over 1,000 employees following \"downturn in Fortnite engagement\"",
+          "description": "CEO Tim Sweeney says cuts are necessary to \"keep the company funded\" and to put it \"in a more stable place\"",
+          "image": "https://assetsio.gnwcdn.com/fortnite-royale.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

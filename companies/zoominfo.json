@@ -1,0 +1,30 @@
+{
+  "name": "ZoomInfo",
+  "industry": "B2B sales data software",
+  "domain": "zoominfo.com",
+  "icon": "zoominfo.png",
+  "events": [
+    {
+      "id": "7afda4b7-61a0-4d85-b868-ac218d0fa328",
+      "date": "2026-05-11",
+      "headcount": 600,
+      "percent": 20,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:e1ee9e5df88c8d1ab923",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/zoominfo-stock-plunges-company-slashes-133002815.html"
+        },
+        {
+          "url": "https://thenextweb.com/news/zoominfo-beat-earnings-cut-600-jobs-and-lost-29-per-cent-of-its-stock-price-its-database-is-being-repriced-by-ai",
+          "title": "ZoomInfo stock drops 29% after guidance cut and 600-job restructuring as AI reprices B2B sales intelligence",
+          "description": "ZoomInfo beat Q1 earnings but cut full-year revenue guidance by $62M and announced a 600-job restructuring. The stock fell 29% to $4.32 as AI competitors erode the B2B database model.",
+          "image": "https://media.thenextweb.com/2026/05/zoominfo-q1-earnings-guidance-cut-saas-ai.jpg",
+          "siteName": "TNW | Insider"
+        }
+      ]
+    }
+  ]
+}

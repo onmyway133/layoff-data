@@ -1,0 +1,33 @@
+{
+  "name": "Vodafone",
+  "industry": "Telecom",
+  "hqCountry": "United Kingdom",
+  "domain": "vodafone.com",
+  "icon": "vodafone.png",
+  "events": [
+    {
+      "id": "b4951e10-a941-47f4-b272-ef9fb0a5fb6c",
+      "date": "2023-05-15",
+      "headcount": 11000,
+      "percent": 10,
+      "country": "United Kingdom",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://telcomagazine.com/mobile-operators/vodafone-to-cut-11-000-jobs-over-next-three-years",
+          "title": "Vodafone to cut 11,000 jobs in performance drive",
+          "description": "Vodafone plans to cut 11,000 jobs over 3 years as part of a simplification strategy and to improve performance under new CEO Margherita Della Valle",
+          "image": "https://assets.bizclikmedia.net/668/37f500afca54ed7ffd6033a1c1ffcca3:cd8238d91af259fd9d0792a8b140076b/margherita-della-valle-vodafone.png.jpg",
+          "siteName": "Telco Magazine"
+        },
+        {
+          "url": "https://www.techradar.com/news/vodafone-to-slash-11000-jobs-as-ceo-says-company-simply-didnt-do-well-enough",
+          "title": "Vodafone to slash 11,000 jobs as CEO says company simply didn't do well enough",
+          "description": "New Vodafone CEO wants to simplify the telecoms giant",
+          "image": "https://cdn.mos.cms.futurecdn.net/c3VdSD3J7Dy75ZS2GAgPwX-1920-80.jpeg",
+          "siteName": "TechRadar"
+        }
+      ]
+    }
+  ]
+}

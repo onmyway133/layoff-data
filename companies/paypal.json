@@ -1,0 +1,52 @@
+{
+  "name": "PayPal",
+  "industry": "Fintech / Payments",
+  "domain": "paypal.com",
+  "icon": "paypal.png",
+  "events": [
+    {
+      "id": "71f855a3-8ec0-460c-a60f-70ee0164338d",
+      "date": "2026-09-04",
+      "headcount": 251,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:02b2fdd13ea096f32b97",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001554314",
+          "title": "PayPal lays off 70 employees in Israel",
+          "description": "This nearly 25% cut in the Israel office of the payment services giant is part of a global streamlining process.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1634745811/direct/shutterstock_1348163795_i3rnj0.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://www.staradvertiser.com/2026/09/05/breaking-news/paypal-adds-another-round-of-layoffs-as-part-of-multiyear-restructuring-plan/",
+          "title": "PayPal adds another round of layoffs as part of multiyear restructuring plan | Honolulu Star-Advertiser",
+          "description": "PayPal, the digital payments company, is laying off 251 employees at its San José headquarters in another round of layoffs, according to a recent government filing.",
+          "image": "https://www.staradvertiser.com/wp-content/uploads/2026/09/web1_paypal-and-credit-card-image-iStock-472109231.jpg",
+          "siteName": "Honolulu Star-Advertiser"
+        }
+      ]
+    },
+    {
+      "id": "79a52d09-38a3-4cbf-b84e-ca71b6705cd9",
+      "date": "2026-05-05",
+      "headcount": 4500,
+      "percent": 20,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:c5e86a5391094d736f9e",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+          "title": "PayPal says it's 'becoming a technology company again' — that means AI | TechCrunch",
+          "description": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/11/paypal.jpg?resize=1200,799",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

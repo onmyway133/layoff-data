@@ -1,0 +1,23 @@
+{
+  "name": "Kiwi.com",
+  "events": [
+    {
+      "id": "72a53d7e-e081-4e2b-85fd-7ffa67c2f317",
+      "date": "2026-01-29",
+      "headcount": 250,
+      "percent": 36,
+      "country": "Czechia",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:dac2a456c23019ec9e17",
+      "sources": [
+        {
+          "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-prodejce-letenek-kiwi-com-oznamil-ze-propusti-250-ze-700-zamestnancu-297619",
+          "title": "Prodejce letenek Kiwi.com oznámil, že propustí 250 ze 700 zaměstnanců - Seznam Zprávy",
+          "description": "Internetový prodejce chystá zjednodušení struktury firmy a další růst. Dotčeným zaměstnancům nabídnou zvýšené odstupné a spravedlivý přístup.",
+          "image": "https://d39-a.sdn.cz/d_39/c_img_QL_9/1D4G/letenky-nakup.jpeg?fl=cro,0,205,3936,2214%7Cres,1200,,1"
+        }
+      ]
+    }
+  ]
+}

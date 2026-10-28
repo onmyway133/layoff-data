@@ -1,0 +1,26 @@
+{
+  "name": "Arctic Wolf",
+  "industry": "Cybersecurity (managed detection and response / security operations)",
+  "domain": "arcticwolf.com",
+  "icon": "arctic-wolf.png",
+  "events": [
+    {
+      "id": "4b2e67b0-9257-4bce-aff4-d73d89c227e8",
+      "date": "2026-05-06",
+      "headcount": 250,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:054b3a78dead9a0803f8",
+      "sources": [
+        {
+          "url": "https://www.theregister.com/ai-and-ml/2026/05/06/arctic-wolf-cuts-250-jobs-in-ai-push/5231213",
+          "title": "Arctic Wolf kicks 250 employees out of the pack to save money for AI",
+          "description": "Cuts appear to hit sales, product, and marketing, accounting for under 10% of staff",
+          "image": "https://image.theregister.com/5231225.jpg?imageId=5231225&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "siteName": "theregister"
+        }
+      ]
+    }
+  ]
+}

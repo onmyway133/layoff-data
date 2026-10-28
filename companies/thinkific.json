@@ -1,0 +1,27 @@
+{
+  "name": "Thinkific",
+  "industry": "Online course software",
+  "domain": "thinkific.com",
+  "icon": "thinkific.png",
+  "events": [
+    {
+      "id": "520b88e5-4426-4fe9-95a2-5432082d9818",
+      "date": "2026-09-23",
+      "headcount": 96,
+      "percent": 30,
+      "country": "Canada",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:299917c8073f6c129212",
+      "sources": [
+        {
+          "url": "https://betakit.com/thinkific-lays-off-30-percent-of-employees-as-part-of-enterprise-push/",
+          "title": "Thinkific lays off 30 percent of employees as part of enterprise push | BetaKit",
+          "description": "The EdTech company has cut 96 employees as it pulls away from “very small” business customers.",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2026/09/Online-learning.webp",
+          "siteName": "BetaKit"
+        }
+      ]
+    }
+  ]
+}

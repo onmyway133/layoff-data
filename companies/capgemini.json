@@ -1,0 +1,46 @@
+{
+  "name": "Capgemini",
+  "industry": "IT services and consulting",
+  "domain": "capgemini.com",
+  "icon": "capgemini.png",
+  "events": [
+    {
+      "id": "8c5a4435-184f-4e77-bfd6-a89dabca0003",
+      "date": "2026-04-10",
+      "headcount": 748,
+      "percent": 7,
+      "country": "Spain",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:064538e21691e458d8fb",
+      "sources": [
+        {
+          "url": "https://www.europapress.es/economia/noticia-capgemini-prepara-ere-espana-impacto-inteligencia-artificial-20260413103702.html",
+          "title": "Capgemini prepara un ERE en España por el impacto de la inteligencia artificial",
+          "description": "La consultora tecnológica francesa Capgemini ha comunicado a la representación legal de las personas...",
+          "image": "https://img.europapress.es/fotoweb/fotonoticia_20260413103702_1200_v2.jpg",
+          "siteName": "europapress.es"
+        }
+      ]
+    },
+    {
+      "id": "4be98b7e-fef7-466f-b3b9-0ac458cbf610",
+      "date": "2026-01-20",
+      "headcount": 2400,
+      "percent": 7,
+      "country": "France",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:82d3f8f7272e5649dca7",
+      "sources": [
+        {
+          "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/supprimer-2-409-postes-en-france-face-a-l-ia-et-la-faiblesse-persistante-du-secteur-de-l-industrie-capgemini-veut-baisser-ses-effectifs-de-7-3285090.html",
+          "title": "\"Supprimer 2 409 postes en France\" : face à l'IA et la \"faiblesse persistante du secteur de l'industrie\", Capgemini veut baisser ses effectifs de 7%",
+          "description": "Face au ralentissement de son activité, Capgemini, le géant français de services informatiques, prévoit \"jusqu'à 2.400 suppressions de postes\" en France via des reclassements et des départs volontaires. Le site de Toulouse...",
+          "image": "https://france3-regions.franceinfo.fr/image/bu9Rzz80r6suqcsLjD8FAxN5cZc/930x620/regions/2026/01/20/maxnewsworldsix646768-696f68d599356065610660.jpg",
+          "siteName": "France 3 Occitanie"
+        }
+      ]
+    }
+  ]
+}

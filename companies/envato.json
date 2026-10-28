@@ -1,0 +1,26 @@
+{
+  "name": "Envato",
+  "industry": "Creative digital-asset marketplace (Shutterstock subsidiary)",
+  "domain": "envato.com",
+  "icon": "envato.png",
+  "events": [
+    {
+      "id": "4626fd27-8550-4914-8b66-aadf2d9cea1b",
+      "date": "2026-03-04",
+      "headcount": 200,
+      "country": "Australia",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:f1190fd2c9b84ac36215",
+      "sources": [
+        {
+          "url": "https://www.capitalbrief.com/briefing/envato-slashes-headcount-by-30-amid-ai-ramp-up-reports-61e76578-c965-4d10-b905-1627c6f0f9ee/",
+          "title": "Envato slashes headcount by 30% amid AI ramp up: reports",
+          "description": "Melbourne-based digital assets marketplace Envato, now acquired by Shutterstock, has announced a plan to slash 30% of its headcount amid a push to advance artificial intelligence across its workflow.",
+          "image": "https://static.capitalbrief.com/assets/1f7e8855-fa6c-4fa8-8ede-ca67c3dd4a64/1782752678/?key=img-social",
+          "siteName": "Capital Brief"
+        }
+      ]
+    }
+  ]
+}

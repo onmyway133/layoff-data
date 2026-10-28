@@ -1,0 +1,35 @@
+{
+  "name": "Philips",
+  "industry": "Medical Devices",
+  "hqCountry": "Netherlands",
+  "domain": "philips.com",
+  "icon": "philips.png",
+  "events": [
+    {
+      "id": "bb50316a-2bc9-4988-98b6-1f0b44976c73",
+      "date": "2023-01-30",
+      "headcount": 6000,
+      "percent": 7,
+      "country": "Netherlands",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://brusselstimes.com/361482/philips-to-cut-another-6000-jobs-after-respirator-recall-losses",
+          "title": "Philips to cut another 6,000 jobs after respirator recall losses",
+          "description": "The 6,000 job cuts are in addition to the previously-announced 4,000 that were announced back in October.",
+          "image": "https://api.brusselstimes.com/wp-content/uploads/2023/01/4c8215d7-belgaimage-115797-1024x663.jpeg"
+        },
+        {
+          "url": "https://krdo.com/news/2023/01/30/dutch-electronics-giant-philips-to-cut-6000-jobs-worldwide/",
+          "title": "Dutch electronics giant Philips to cut 6,000 jobs worldwide",
+          "description": "THE HAGUE, Netherlands (AP) — Dutch consumer electronics and medical equipment maker Philips says it is cutting 6,000 jobs worldwide over the next two",
+          "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+          "siteName": "KRDO"
+        },
+        {
+          "url": "https://www.techzine.eu/news/infrastructure/101172/philips-cuts-thousands-of-jobs-and-records-disappointing-annual-sales/"
+        }
+      ]
+    }
+  ]
+}

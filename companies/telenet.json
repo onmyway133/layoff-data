@@ -1,0 +1,24 @@
+{
+  "name": "Telenet",
+  "events": [
+    {
+      "id": "8ecb227f-616b-4ff7-a9f1-d530cf214316",
+      "date": "2026-02-23",
+      "headcount": 350,
+      "percent": 10,
+      "country": "Belgium",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:67a1a249b756ba69cecc",
+      "sources": [
+        {
+          "url": "https://www.vrt.be/vrtnws/nl/2026/02/23/telenet-wil-1-op-de-10-jobs-schrappen/",
+          "title": "Telenet schrapt 350 banen tegen 2028 en sluit 6 winkels | VRT NWS Nieuws",
+          "description": "Telenet gaat fors snoeien in het personeelsbestand. Tegen 2028 wil de telecom- en mediagroep 1 op de 10 banen schrappen. Dat heeft het bedrijf aangekondigd. Het zou gaan om een vrijwillig programma, ontslagen zijn niet gepland. Ook 6 winkels moeten sluiten.",
+          "image": "https://images.vrt.be/vrtnws_share/2026/02/03/1499e9ce-e4d6-4997-8e67-8c38bdd3d057.jpg",
+          "siteName": "VRTNWS"
+        }
+      ]
+    }
+  ]
+}

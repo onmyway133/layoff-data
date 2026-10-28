@@ -1,0 +1,33 @@
+{
+  "name": "SAP",
+  "industry": "Software",
+  "hqCountry": "Germany",
+  "domain": "sap.com",
+  "icon": "sap.png",
+  "events": [
+    {
+      "id": "30c3aa0a-3e56-4a5c-b43a-0498f68f8e48",
+      "date": "2024-01-23",
+      "headcount": 8000,
+      "percent": 7,
+      "country": "Germany",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://www.theregister.com/2024/01/24/sap_restructure/",
+          "title": "8,000 roles affected in €2B SAP restructure program",
+          "description": "Plans announced as profits fall and revenues rise",
+          "image": "https://image.theregister.com/257757.jpg?imageId=257757&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+          "siteName": "theregister"
+        },
+        {
+          "url": "https://www.verdict.co.uk/sap-continues-business-efficiency-trend-by-offering-8000-employees-voluntary-redundancy/",
+          "title": "SAP continues business efficiency trend by offering 8,000 employees voluntary redundancy",
+          "description": "Multinational German software company, SAP, has revealed its comprehensive restructuring plan for 2024, affecting 7% of its staff.",
+          "image": "https://www.verdict.co.uk/wp-content/uploads/2024/01/shutterstock_1520329196-SAP-scaled.jpg",
+          "siteName": "Verdict"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Cisco",
+  "industry": "Networking",
+  "hqCountry": "United States",
+  "domain": "cisco.com",
+  "icon": "cisco.png",
+  "events": [
+    {
+      "id": "f9466f5c-bc86-4ee6-926c-78a74a1387a8",
+      "date": "2026-05-13",
+      "headcount": 4000,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:b47fa1d35363a52ae961",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/cisco-to-cut-about-4000-jobs-in-ai-focused-restructuring-as-orders-surge-200934836.html"
+        },
+        {
+          "url": "https://thetechportal.com/2026/05/14/cisco-confirms-4000-layoffs-despite-strong-q3-fy2026-earnings-and-15-8bn-revenue/",
+          "title": "Cisco confirms 4,000 layoffs despite strong Q3 FY2026 earnings and $15.8Bn revenue - The Tech Portal",
+          "description": "Cisco is cutting its workforce by about 4,000 employees worldwide as part of a push toward AI, security, and silicon-based products.",
+          "image": "https://thetechportal.com/wp-content/uploads/2023/09/cisco-logo-office-the-tech-portal-jpeg.webp",
+          "siteName": "The Tech Portal"
+        },
+        {
+          "url": "https://www.foxbusiness.com/technology/cisco-cut-thousands-jobs-ai-push-accelerates-earnings-beat",
+          "title": "Cisco to cut thousands of jobs as AI push accelerates after earnings beat",
+          "description": "Cisco reported record revenue and surging AI demand while announcing job cuts affecting thousands as it repositions for an AI-driven future.",
+          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/cisco-Getty.jpg?ve=1&tl=1",
+          "siteName": "Fox Business"
+        }
+      ]
+    },
+    {
+      "id": "eaf54229-2a3e-4e95-a40a-b7b2129d1390",
+      "date": "2024-08-14",
+      "headcount": 6328,
+      "percent": 7,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:1e134f7481dc92c04142",
+      "sources": [
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2024/08/14/cisco-systems-csco-q4-2024-earnings-call-transcrip/",
+          "title": "Cisco Systems (CSCO) Q4 2024 Earnings Call Transcript | The Motley Fool",
+          "description": "CSCO earnings call for the period ending June 30, 2024.",
+          "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F1%2Ffeatured-transcript-logo-template-2023-01-12.jpg&w=1200&op=resize",
+          "siteName": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "id": "720c76fa-a07a-40cb-bdb1-4dbb5ff22289",
+      "date": "2024-02-14",
+      "headcount": 4000,
+      "percent": 5,
+      "country": "United States",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://datacenterdynamics.com/en/news/cisco-to-lay-off-over-4000-employees"
+        },
+        {
+          "url": "https://www.cnbc.com/2024/02/14/cisco-cutting-5percent-of-global-workforce-in-restructuring-move.html",
+          "title": "Cisco says it's cutting 5% of global workforce, amounting to over 4,000 jobs",
+          "description": "Cisco announced plans to cut 5% of its workforce on Wednesday, the latest tech company to downsize this year.",
+          "image": "https://image.cnbcfm.com/api/v1/image/107066887-1J7A1767.JPG?v=1653485694&w=1920&h=1080",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://www.sdxcentral.com/news/cisco-to-lay-off-over-4000-employees/",
+          "title": "Cisco to lay off over 4,000 employees",
+          "description": "Redundancies are a result of the company’s restructuring plan",
+          "image": "https://media.datacenterdynamics.com/media/images/GettyImages-1146714788.2e16d0ba.fill-1200x630.jpg"
+        }
+      ]
+    }
+  ]
+}

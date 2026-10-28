@@ -1,0 +1,24 @@
+{
+  "name": "Adda247",
+  "events": [
+    {
+      "id": "a736c088-493c-439c-9e18-d2a3b286c09c",
+      "date": "2026-05-11",
+      "headcount": 200,
+      "percent": 20,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:6c84c794fbdcf8ae7953",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/adda247-lays-off-20-workforce-ahead-of-ipo/",
+          "title": "Adda247 Lays Off 20% Workforce Ahead Of IPO",
+          "description": "Adda247 said that the overall team size has remained “broadly stable” over the past year as it continues to hire selectively across key roles",
+          "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/04/adda247-FY22-featured-.png",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

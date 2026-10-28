@@ -1,0 +1,25 @@
+{
+  "name": "InvestCloud",
+  "industry": "Wealth-management software (fintech)",
+  "domain": "investcloud.com",
+  "icon": "investcloud.png",
+  "events": [
+    {
+      "id": "f75308ce-e705-4ec0-9f7d-145aee0b23dd",
+      "date": "2026-03-09",
+      "headcount": 150,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:17b35ef044b51f86ed08",
+      "sources": [
+        {
+          "url": "https://wealthtechtoday.com/2026/03/09/investcloud-layoffs-2026/",
+          "title": "InvestCloud Cuts 150+ Jobs in 2026: CEO Jeff Yabuki Cites AI",
+          "description": "WealthTech Today has exclusively reviewed the internal memo. InvestCloud is cutting 150+ jobs in Digital Wealth while protecting its APL platform and Private Markets Network.",
+          "image": "https://wealthtechtoday.com/wp-content/uploads/2026/03/InvestCloud_OG_Image_1.jpg"
+        }
+      ]
+    }
+  ]
+}

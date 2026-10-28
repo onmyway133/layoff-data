@@ -1,0 +1,45 @@
+{
+  "name": "Sunrise",
+  "industry": "Telecom",
+  "domain": "sunrise.ch",
+  "icon": "sunrise.png",
+  "events": [
+    {
+      "id": "a89c617c-dcea-48f0-8a04-5596e8f695f8",
+      "date": "2026-09-21",
+      "headcount": 450,
+      "country": "Switzerland",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:37e7a51da5ab2f77b4d7",
+      "sources": [
+        {
+          "url": "https://www.swissinfo.ch/eng/workplace/sunrise-is-reviewing-its-operating-model-and-considering-the-loss-of-up-to-450-jobs/92093311",
+          "title": "Swiss telecoms operator Sunrise mulls 450 job cuts",
+          "description": "Sunrise plans further major round of job cuts, with up to 450 positions set to be lost",
+          "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/09/9f6db3c27fb52697fbfd911212606c9a60c10e79-92093208.jpg?ver=87a5b46a&fit=1200,900",
+          "siteName": "SWI swissinfo.ch"
+        }
+      ]
+    },
+    {
+      "id": "0bb2bc87-9d4e-4f27-b928-f1face3d06c5",
+      "date": "2026-01-08",
+      "headcount": 190,
+      "percent": 7,
+      "country": "Switzerland",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:a2660856325d5012f139",
+      "sources": [
+        {
+          "url": "https://www.srf.ch/news/wirtschaft/telekomkonzern-sunrise-plant-abbau-von-bis-zu-190-stellen",
+          "title": "Sunrise plant Abbau von bis zu 190 Stellen",
+          "description": "Dies gab der zweitgrösste Schweizer Telekomkonzern in einer Mitteilung bekannt.",
+          "image": "https://www.srf.ch/static/cms/images/branded_srf_news/36be87.jpg",
+          "siteName": "Schweizer Radio und Fernsehen (SRF)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Paycom Software",
+  "industry": "HR / Payroll Software",
+  "domain": "paycom.com",
+  "icon": "paycom-software.png",
+  "events": [
+    {
+      "id": "4d119ffa-94b6-4b6f-95b2-82ee10d9e43f",
+      "date": "2025-10-01",
+      "headcount": 540,
+      "percent": 8,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:1d78c7d42df79d4b1a58",
+      "sources": [
+        {
+          "url": "https://fox23.com/news/local/paycom-software-cuts-more-than-500-jobs-from-oklahoma-city-headquarters",
+          "title": "Paycom Software cuts more than 500 jobs from Oklahoma City headquarters",
+          "description": "Paycom Software cuts more than 500 jobs from Oklahoma City headquarters",
+          "image": "https://fox23.com/resources/media2/16x9/1265/1320/4x0/90/ebf845ad-603c-43af-b05d-20bd5cf029e5-b6dfe758397fd6bb76d702f4648715610.png",
+          "siteName": "KTUL2"
+        }
+      ]
+    }
+  ]
+}

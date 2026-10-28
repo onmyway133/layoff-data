@@ -1,0 +1,41 @@
+{
+  "name": "Playtika Holding Corp.",
+  "industry": "Mobile games",
+  "domain": "playtika.com",
+  "icon": "playtika-holding-corp.png",
+  "events": [
+    {
+      "id": "47db7b35-394d-4c9d-b895-a7c92848b4d3",
+      "date": "2026-01-14",
+      "headcount": 476,
+      "percent": 15,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:5dd6cbe3ca71dab592f1",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001532034",
+          "title": "Playtika lays off 15% as �market reality changes�",
+          "description": "At the end of 2024, the gaming company had about 3,500 employees, meaning it will shed 500 employees.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1608117090/direct/ROBERT_Pic_Logo_1_Custom_%D7%A8%D7%95%D7%91%D7%A8%D7%98_%D7%90%D7%A0%D7%98%D7%95%D7%A8%D7%95%D7%9C_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%95%D7%9E%D7%99%D7%99%D7%A1%D7%93_%D7%A4%D7%9C%D7%99%D7%99%D7%98%D7%99%D7%A7%D7%94_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%90%D7%95%D7%94%D7%93_%D7%A8%D7%95%D7%9E%D7%A0%D7%95_o71wze.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://mobilegamer.biz/playtika-to-cut-500-staff-plans-to-leverage-ai-and-automation-to-do-more-with-less/",
+          "title": "Playtika to cut 500 staff, plans to “leverage AI and automation to do more with less”",
+          "description": "Reports from Israeli tech publication CTech state that the publisher is cutting 15% of its workforce as it abandons its growth strategy and looks to AI.",
+          "image": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2025/02/Playtika-CEO-Robert-Antokol.jpg?fit=1200%2C498&ssl=1",
+          "siteName": "Mobilegamer.biz"
+        },
+        {
+          "url": "https://respawn.outlookindia.com/gaming/gaming-news/playtika-cuts-15-percent-workforce-shift-ai-automation",
+          "title": "Playtika Cuts 15% Workforce in Shift to AI and Automation | Outlook Respawn",
+          "description": "Playtika is laying off 15% of its workforce as part of an AI and automation restructuring disclosed in a Jan. 14, 2026, SEC filing",
+          "image": "https://media.assettype.com/outlook-respawn/2026-01-16/dw4jueyg/image-1200x630-2026-01-16T171155.004.jpg",
+          "siteName": "Outlook Respawn"
+        }
+      ]
+    }
+  ]
+}

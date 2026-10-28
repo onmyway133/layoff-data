@@ -1,0 +1,23 @@
+{
+  "name": "ams OSRAM",
+  "events": [
+    {
+      "id": "5367c750-ba91-4407-bb35-de2cd1e932c5",
+      "date": "2026-02-10",
+      "headcount": 2000,
+      "country": "Germany",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:83d06c9056bc0e30b15e",
+      "sources": [
+        {
+          "url": "https://www.derstandard.at/story/3000000307886/ams-osram-verringert-verlust-und-will-global-2000-stellen-streichen",
+          "title": "ams-Osram verringert Verlust und will global 2000 Stellen streichen",
+          "description": "Der Umsatz für 2025 liegt bei 3,32 Milliarden Euro. Ein neues Sparprogramm soll 200 Millionen Euro bringen. Österreich ist nicht vom Personalabbau betroffen",
+          "image": "https://i.ds.at/A19qRA/rs:fill:1200:600/plain/lido-images/2026/02/10/0301375d-3d32-44b7-b7d7-1e7705b2f0e4.jpg",
+          "siteName": "DER STANDARD"
+        }
+      ]
+    }
+  ]
+}

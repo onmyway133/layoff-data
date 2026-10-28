@@ -1,0 +1,40 @@
+{
+  "name": "Embracer Group",
+  "industry": "Gaming",
+  "hqCountry": "Sweden",
+  "domain": "embracer.com",
+  "icon": "embracer-group.png",
+  "events": [
+    {
+      "id": "1ba66be8-4948-4cc5-a80f-ebb0d6fda9d4",
+      "date": "2023-11-16",
+      "headcount": 900,
+      "percent": 5,
+      "country": "Sweden",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://gamedeveloper.com/business/embracer-confirms-900-layoffs-following-net-sales-upswing",
+          "title": "Embracer confirms 900 layoffs following net sales upswing",
+          "description": "The company indicated it will continue making layoffs despite quarterly net sales rising by 13 percent to $170.5 million.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt894454c20bdd86b8/6557824dc38ad1040ac55f6d/Embracer_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Game Developer"
+        },
+        {
+          "url": "https://gameworldobserver.com/2023/06/13/embracer-group-restructuring-studios-games-closure-layoffs",
+          "title": "Embracer switches to cost-cutting mode: layoffs, studio closures, game shutdowns, and focus on first-party IP | Game World Observer",
+          "description": "Embracer Group has announced a business restructuring. The Swedish holding company plans a multi-phase program aimed at increasing its growth and long-term efficiency.",
+          "image": "https://gameworldobserver.com/wp-content/previews/post/embracer-group-restructuring-studios-games-closure-layoffs.png",
+          "siteName": "Game World Observer"
+        },
+        {
+          "url": "https://www.techradar.com/gaming/embracer-group-has-laid-off-over-900-people-in-the-last-three-months-but-reports-one-of-our-strongest-quarters-for-new-releases-ever",
+          "title": "Embracer Group has laid off over 900 people in the last three months but reports \"one of our strongest quarters for new releases ever\"",
+          "description": "That's five percent of the workforce",
+          "image": "https://cdn.mos.cms.futurecdn.net/zMe6YTyFmJEcvDeRRnGjaD-1920-80.jpg",
+          "siteName": "TechRadar"
+        }
+      ]
+    }
+  ]
+}

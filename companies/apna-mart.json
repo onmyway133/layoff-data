@@ -1,0 +1,27 @@
+{
+  "name": "Apna Mart",
+  "industry": "E-commerce",
+  "domain": "apnamart.in",
+  "icon": "apna-mart.jpg",
+  "events": [
+    {
+      "id": "908d9c43-5985-4c8b-bc00-a7b610dc32de",
+      "date": "2026-05-08",
+      "headcount": 35,
+      "percent": 10,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "curated",
+      "externalId": "curated:b07ac65f9532879e2898",
+      "sources": [
+        {
+          "url": "https://www.thepeoplesboard.com/news/apna-mart-lays-off-10-of-workforce/",
+          "title": "Apna Mart Lays Off 10% of Workforce - ThePeoplesBoard",
+          "description": "Apna Mart, the Accel and Peak XV-backed grocery delivery startup, has laid off around 10% of its workforce in what is being reported as the first major round of layoffs at the company. According to reports in The Economic Times and Entrackr, between 35 and 40 employees across functions have been affected. The company has […]",
+          "image": "https://www.thepeoplesboard.com/wp-content/uploads/2026/05/Apna-Mart.jpg",
+          "siteName": "ThePeoplesBoard"
+        }
+      ]
+    }
+  ]
+}

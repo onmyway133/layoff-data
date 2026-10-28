@@ -1,0 +1,24 @@
+{
+  "name": "KPMG",
+  "industry": "Professional services",
+  "events": [
+    {
+      "id": "a50fc24a-850c-48e2-b35b-ebf219a8b917",
+      "date": "2026-08-24",
+      "headcount": 360,
+      "percent": 5,
+      "country": "Australia",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:ea1d7ccddb34882af73f",
+      "sources": [
+        {
+          "url": "https://www.accountantsdaily.com.au/business/22812-kpmg-australia-s-rebuild-starts-with-5-headcount-reduction",
+          "title": "KPMG Australia’s ‘rebuild’ starts with 5% headcount reduction",
+          "description": "The big four firm has confirmed it will be axing nearly 400 roles after a 16.9 per cent decline in its consulting revenue, driven by government contract bans and softer economic conditions.",
+          "image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1654830684/Accountants%20Daily/articleimages-391x261/850x492/KPMG-new2-ad.jpg"
+        }
+      ]
+    }
+  ]
+}

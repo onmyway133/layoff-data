@@ -1,0 +1,23 @@
+{
+  "name": "Palo Alto Networks",
+  "events": [
+    {
+      "id": "c5b5284a-6511-4361-ac56-f93157a8d516",
+      "date": "2026-02-17",
+      "headcount": 500,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:cad83a7bab4e24848620",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/hy707511ube",
+          "title": "Palo Alto to cut over 500 CyberArk jobs after closing $25 billion deal | CTech",
+          "description": "Employees given three to 12 months’ notice as the company moves to streamline operations.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/07/30/B1c9vFPDgx/B1c9vFPDgx_0_0_2000_1340_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

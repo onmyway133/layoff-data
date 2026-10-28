@@ -1,0 +1,34 @@
+{
+  "name": "Amdocs",
+  "industry": "Software",
+  "domain": "amdocs.com",
+  "icon": "amdocs.png",
+  "events": [
+    {
+      "id": "dcec99ce-31ec-42b7-a9bd-40ff37aaa618",
+      "date": "2026-05-28",
+      "headcount": 2700,
+      "percent": 10,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:70a8693323d03d3e60fb",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001544263",
+          "title": "Amdocs to lay off 3,000 employees",
+          "description": "The Israeli technology company will cut 10% of its workforce worldwide including hundreds in Israel, “Globes has learned.”",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1772721573/direct/%D7%90%D7%9E%D7%93%D7%95%D7%A7%D7%A1_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%9E%D7%99%D7%9B%D7%94_%D7%9C%D7%95%D7%91%D7%98%D7%95%D7%9F_3_hahoc7.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/u4qmp07cv",
+          "title": "Amdocs prepares major layoffs as new CEO launches sweeping reorganization | CTech",
+          "description": "Software giant expected to cut up to 10% of workforce, including hundreds in Israel.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/07/18/rJMOu5IOA/rJMOu5IOA_380_267_1175_662_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Intuit",
+  "industry": "Software",
+  "domain": "intuit.com",
+  "icon": "intuit.png",
+  "events": [
+    {
+      "id": "535cdd06-5236-4d37-85e7-ae79796515ee",
+      "date": "2026-05-20",
+      "headcount": 3000,
+      "percent": 17,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:46cd4d814414300bf561",
+      "sources": [
+        {
+          "url": "https://allwork.space/2026/05/intuit-to-cut-17-of-workforce-in-latest-ai-linked-tech-restructuring/",
+          "title": "Intuit To Cut 17% Of Its Workforce In An AI Restructuring",
+          "description": "About 3,000 roles go worldwide as the company simplifies its structure and sharpens focus on key bets, according to an internal memo seen by Reuters.",
+          "image": "https://allwork.space/wp-content/uploads/2026/05/2026-05-20T131438Z_3_LYNXMPEM4J17T_RTROPTP_4_INTUIT-RESULTS-scaled.webp",
+          "siteName": "Allwork.Space"
+        },
+        {
+          "url": "https://betakit.com/intuit-lays-off-17-percent-of-its-global-workforce/",
+          "title": "Intuit lays off 17 percent of its global workforce | BetaKit",
+          "description": "TurboTax's parent company is putting its resources behind “big bets” that come with a strategic AI focus.",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2022/11/Intuit.jpg",
+          "siteName": "BetaKit"
+        },
+        {
+          "url": "https://www.ctvnews.ca/business/article/intuit-to-cut-17-of-global-jobs-to-streamline-operations-memo-shows-reuters-exclusive/",
+          "title": "Intuit to cut 17% of global jobs to streamline operations, memo shows: Reuters exclusive",
+          "description": "Intuit is laying off about 17 per cent of its workforce, or about 3,000 employees worldwide, to streamline operations and sharpen focus on its key bets including its AI efforts, according to an internal memo seen by Reuters on Wednesday.",
+          "image": "https://www.ctvnews.ca/resizer/v2/W7Q3NNHNP7BTXZDR5A2QMI2LDU.jpg?smart=true&auth=3b389acdf9c58a8500c20571ae5c1a0742cc0609690d64a0b3623ad8e939c610&width=1200&height=630",
+          "siteName": "CTVNews"
+        }
+      ]
+    },
+    {
+      "id": "ecae362b-2890-4b4f-a3c0-d6176a1a7d3d",
+      "date": "2024-07-10",
+      "headcount": 1800,
+      "percent": 10,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:6c77cb40e5d17494609b",
+      "sources": [
+        {
+          "url": "https://fortune.com/2024/07/10/intuit-layoffs-email-hiring-ai-transformation",
+          "title": "Exclusive: Intuit is laying off 1,800 employees due to AI transformation | Fortune",
+          "description": "But the maker of QuickBooks, Credit Karma, and TurboTax said in an internal email it is also hiring for 1,800 new roles as its strategy shifts.",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-1203199969.jpg?resize=1200,600",
+          "siteName": "Fortune"
+        },
+        {
+          "url": "https://www.clickondetroit.com/business/2024/07/10/tax-preparation-company-intuit-to-lay-off-1800-as-part-of-an-ai-focused-reorganization-plan/",
+          "title": "Tax preparation company Intuit to lay off 1,800 as part of an AI-focused reorganization plan",
+          "description": "Tax preparation and financial software company Intuit announced an AI-focused reorganization plan Wednesday that includes laying off about 10% of its workforce.",
+          "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/HT4GRHMGYFESXFVCEP2XEUUXQU.jpg?api_key=clickondetroit_06f87fefb2123598",
+          "siteName": "WDIV"
+        }
+      ]
+    }
+  ]
+}

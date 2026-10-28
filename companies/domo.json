@@ -1,0 +1,26 @@
+{
+  "name": "Domo",
+  "industry": "Software",
+  "domain": "domo.com",
+  "icon": "domo.png",
+  "events": [
+    {
+      "id": "3c7b0792-2076-43fc-a28f-52bbdb8ea487",
+      "date": "2026-09-23",
+      "headcount": 175,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:8115cb0c004e0c2a6a61",
+      "sources": [
+        {
+          "url": "https://www.sltrib.com/news/2026/10/01/domo-lays-off-175-utah-workers/",
+          "title": "A Utah tech darling’s A.I. business just changed hands. Now, 175 local workers are losing their jobs.",
+          "description": "Massachusetts-based Progress Software paid $400 million for almost all of Domo’s assets.",
+          "image": "https://www.sltrib.com/resizer/v2/7UD46QAS2ZBB7JVJBXZ5YA5ESQ.jpg?auth=57262577f07efbcb4c5898ac12b3e6a32bb120695d2ea6759635bd9b61ee68c9&width=1200&height=630&quality=88&smart=true",
+          "siteName": "The Salt Lake Tribune"
+        }
+      ]
+    }
+  ]
+}

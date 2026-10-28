@@ -1,0 +1,42 @@
+{
+  "name": "Bird (MessageBird)",
+  "industry": "Business messaging software (CPaaS)",
+  "domain": "bird.com",
+  "icon": "bird-messagebird.png",
+  "events": [
+    {
+      "id": "51585f0f-a50c-4774-b16e-6d975be1008d",
+      "date": "2025-02-10",
+      "headcount": 120,
+      "country": "Netherlands",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:b9ce16ccba79acdec6de",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/",
+          "title": "Bird cuts 120 jobs as part of 'strategic realignment' | TechCrunch",
+          "description": "Bird, formerly MessageBird, has cut 120 jobs — roughly one-third of its workforce — as the startup plans to realign its global operations.",
+          "image": "https://techcrunch.com/wp-content/uploads/2017/12/robert-vis-messagebird-0328.jpg?resize=1200,800",
+          "siteName": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "40d4bdef-4572-44ad-a392-c2bb3a2a6578",
+      "date": "2024-02-29",
+      "headcount": 90,
+      "percent": 20,
+      "country": "Netherlands",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:0873b86fb09bc3d10dee",
+      "sources": [
+        {
+          "url": "https://www.deondernemer.nl/innovatie/techbedrijf-vervangt-binnen-7-minuten-90-mensen-door-ai-maak-me-zorgen-om-de-mensheid~3baf01b",
+          "title": "DPG Media Privacy Gate"
+        }
+      ]
+    }
+  ]
+}

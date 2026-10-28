@@ -1,0 +1,40 @@
+{
+  "name": "FICO (Fair Isaac)",
+  "industry": "Analytics software and credit scoring",
+  "domain": "fico.com",
+  "icon": "fico-fair-isaac.png",
+  "events": [
+    {
+      "id": "b13241a4-fe24-41d0-81dc-dfd1f37e4ab0",
+      "date": "2026-10-06",
+      "headcount": 581,
+      "percent": 15,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:99ae2c4118d820d69731",
+      "sources": [
+        {
+          "url": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
+          "title": "FICO announces layoffs, management restructuring",
+          "description": "FICO, creator of the dominant mortgage credit score, plans to cut 15% of its workforce and restructure operations in fiscal year 2027.",
+          "image": "https://www.housingwire.com/wp-content/uploads/2026/10/fico-launches-Mortgage-Direct-license.png",
+          "siteName": "HousingWire"
+        },
+        {
+          "url": "https://www.ksl.com/article/51633174/fico-cuts-workforce-by-15-as-part-of-ai-driven-restructuring",
+          "title": "FICO cuts workforce by 15% as part of AI-driven restructuring",
+          "description": "Credit-scoring giant Fair Isaac, known as FICO, said on Tuesday it would ​trim about 15% of its workforce as part of a broader restructuring and AI integration, becoming the latest US company to ‌cut jobs as businesses automate tasks and redirect spending toward the technology.",
+          "image": "https://img.ksl.com/slc/3204/320460/32046079.JPG?filter=kslv2/responsive_story_lg"
+        },
+        {
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/07/fico-cuts-workforce-by-15-in-ai-driven-restructuring",
+          "title": "FICO cuts workforce by 15% as part of AI-driven restructuring",
+          "description": "Oct 6 (Reuters) - Credit-scoring giant Fair ⁠Isaac, known as FICO, said on Tuesday it would trim ⁠about 15% of its workforce as part of a broader restructuring ‌and AI integration, becoming the latest US company to cut jobs as businesses automate tasks and redirect spending toward the technology.",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/10/07/4149027.jpg",
+          "siteName": "The Star"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sapiens",
+  "events": [
+    {
+      "id": "45b6d0a6-3e00-4f93-b33d-599d07dbdd10",
+      "date": "2026-01-12",
+      "headcount": 540,
+      "percent": 10,
+      "country": "Israel",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:b4ba1108afbb9bd9b140",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/bybo6fzbbl",
+          "title": "Sapiens begins global layoffs as new owner Advent reshapes the company | CTech",
+          "description": "The software company is laying off about 10% of its global workforce following its $2.5 billion acquisition by Advent. The cuts in Israel will be relatively modest, around 5%, while layoffs in India and the US will reach about 10% of employees. “Sapiens remains deeply committed to its Israeli site, which is central and critical to the company,” said Ernesto Marinelli, Chief People Success Officer at Sapiens.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/12/28/HkX7GICmbg/HkX7GICmbg_0_0_700_398_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

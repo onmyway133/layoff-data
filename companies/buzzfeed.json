@@ -1,0 +1,29 @@
+{
+  "name": "BuzzFeed",
+  "industry": "Media",
+  "hqCountry": "United States",
+  "domain": "buzzfeed.com",
+  "icon": "buzzfeed.png",
+  "events": [
+    {
+      "id": "72231cb7-a5e5-48bf-bad2-1a6cf6b548e8",
+      "date": "2023-04-20",
+      "headcount": 180,
+      "percent": 15,
+      "country": "United States",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://fortune.com/2023/04/20/buzzfeed-news-shutting-down",
+          "title": "BuzzFeed is axing their entire newsroom | Fortune",
+          "description": "CEO Jonah Peretti said in a memo to staff that he “made the decision to overinvest” in the news division, but failed to recognize early enough that the financial support needed to sustain operations was not there.",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2023/04/AP23110580543288-e1682011042320.jpg?resize=1200,600",
+          "siteName": "Fortune"
+        },
+        {
+          "url": "https://www.npr.org/2023/04/20/1171056620/buzzfeed-news-shut-down-media-layoffs"
+        }
+      ]
+    }
+  ]
+}

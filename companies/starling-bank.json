@@ -1,0 +1,26 @@
+{
+  "name": "Starling Bank",
+  "industry": "Financial services / Digital banking",
+  "domain": "starlingbank.com",
+  "icon": "starling-bank.png",
+  "events": [
+    {
+      "id": "5116b6c5-bf6c-41bb-9a93-48658b7c7ca2",
+      "date": "2026-07-03",
+      "headcount": 130,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:94568a323a51970c995c",
+      "sources": [
+        {
+          "url": "https://www.bankingdive.com/news/starling-to-whittle-headcount-by-3/824729/",
+          "title": "Starling to whittle headcount by 3%",
+          "description": "The London challenger bank is cutting jobs to eliminate duplication and accelerate product delivery, a spokesperson said.",
+          "image": "https://imgproxy.divecdn.com/0VSvqIlAAYvhLqxaFLi6RjrwbIhcxNPOx8veq_zjZgs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzMDUwOV9TVEFSTElOR19CQU5LX1NUSUxMX0xJRkVfMDdfMDY3MS5wbmc=.webp",
+          "siteName": "Banking Dive"
+        }
+      ]
+    }
+  ]
+}

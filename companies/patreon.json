@@ -1,0 +1,41 @@
+{
+  "name": "Patreon",
+  "industry": "Creator membership platform",
+  "domain": "patreon.com",
+  "icon": "patreon.png",
+  "events": [
+    {
+      "id": "e34885ef-c7ed-4871-86af-c804c8cc160d",
+      "date": "2026-07-23",
+      "headcount": 93,
+      "percent": 20,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:49322001c05737964095",
+      "sources": [
+        {
+          "url": "https://engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff",
+          "title": "Patreon is laying off 20 percent of its staff - Engadget",
+          "description": "While the company is trying to protect creators from AI, it still thinks the technology is changing how it does business.",
+          "image": "https://www.engadget.com/img/gallery/patreon-is-laying-off-20-percent-of-its-staff/l-intro-1784839573.jpg",
+          "siteName": "Engadget"
+        },
+        {
+          "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+          "title": "Patreon lays off 20% of its workforce | TechCrunch",
+          "description": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2223254975.jpg?resize=1200,800",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.thewrap.com/industry-news/business/patreon-layoffs-jack-conte-20-percent/",
+          "title": "Patreon Lays Off 20% of Workforce, Affecting 93 Employees",
+          "description": "Patreon is laying off 20% of its workforce, affecting 93 employees, CEO Jack Conte announced Thursday",
+          "image": "https://www.thewrap.com/wp-content/uploads/2026/07/Untitled-design-68.jpg",
+          "siteName": "TheWrap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "VideoAmp",
+  "industry": "Advertising measurement software",
+  "domain": "videoamp.com",
+  "icon": "videoamp.png",
+  "events": [
+    {
+      "id": "1daccb7b-4f75-4b0a-8081-4735a52b12df",
+      "date": "2026-08-07",
+      "headcount": 50,
+      "percent": 20,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:4737045bc5e647f98686",
+      "sources": [
+        {
+          "url": "https://sea.peoplemattersglobal.com/news/workforce-planning/videoamp-cuts-20percent-of-workforce-as-ai-agents-reshape-its-operating-model-51339",
+          "title": "VideoAmp cuts 20% of workforce as AI agents reshape its operating model",
+          "description": "The cuts include VideoAmp’s Chief Technology Officer, with the company not planning to refill the role, according to people familiar with the matter.",
+          "image": "https://asset.peoplematters.in/images/93a47ed1-f0d5-43ee-a653-25b9f76be912.png",
+          "siteName": "People Matters"
+        }
+      ]
+    }
+  ]
+}

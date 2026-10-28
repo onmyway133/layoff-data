@@ -1,0 +1,23 @@
+{
+  "name": "Volkswagen",
+  "industry": "Automotive software",
+  "events": [
+    {
+      "id": "ea88a0f2-f52a-4b1a-aa04-0164494a3952",
+      "date": "2026-09-30",
+      "headcount": 1000,
+      "country": "Germany",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:85c8a9bf194c6496514f",
+      "sources": [
+        {
+          "url": "https://cariad.technology/de/en/news/stories/CARIAD-is-evolving-into-an-AI-company.html",
+          "title": "CARIAD is evolving into an AI company",
+          "description": "Leaner, faster and built to compete.",
+          "image": "https://cariad.technology/content/dam/digitalmindofmobility/solutions/cariad-products-and-solutions.jpg"
+        }
+      ]
+    }
+  ]
+}

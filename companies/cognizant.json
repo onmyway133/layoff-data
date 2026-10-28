@@ -1,0 +1,33 @@
+{
+  "name": "Cognizant",
+  "industry": "IT services / BPO",
+  "domain": "cognizant.com",
+  "icon": "cognizant.png",
+  "events": [
+    {
+      "id": "4af2f475-8c24-4b9d-bce2-7775831ab029",
+      "date": "2026-04-29",
+      "headcount": 4000,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:cd1e1980d6a0f15016ef",
+      "sources": [
+        {
+          "url": "https://www.businesstoday.in/amp/technology/story/cognizant-to-cut-over-4000-jobs-as-project-leap-shifts-focus-to-ai-528390-2026-05-01",
+          "title": "Cognizant to cut over 4,000 jobs as Project Leap shifts focus to AI - BusinessToday",
+          "description": "Cognizant plans to cut workforce as it rolls out Project Leap. The move pairs severance-led restructuring with higher spending on AI, digital offerings and upskilling.",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/69f4389ebdaef-cognizant-layoffs-012232755-16x9.png",
+          "siteName": "Business Today"
+        },
+        {
+          "url": "https://www.outlookbusiness.com/corporate/cognizant-plans-4000-job-cuts-as-ai-slows-it-demand",
+          "title": "Cognizant Plans 4,000 Job Cuts as AI Slows IT Demand – Outlook Business",
+          "description": "According to a Mint report, Cognizant plans to cut about 4,000 jobs, roughly 1% of its workforce, as it faces pressure on growth and has revised its full-year outlook downward.",
+          "image": "https://media.assettype.com/outlookbusiness/2026-04-30/j63v7eb4/Cognizant-Chennai.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "Outlook Business"
+        }
+      ]
+    }
+  ]
+}

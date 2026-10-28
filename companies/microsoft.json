@@ -1,0 +1,161 @@
+{
+  "name": "Microsoft",
+  "industry": "Software",
+  "hqCountry": "United States",
+  "domain": "microsoft.com",
+  "icon": "microsoft.png",
+  "events": [
+    {
+      "id": "9e6e9247-0515-44a8-b3c4-163b199610ee",
+      "date": "2026-10-26",
+      "headcount": 60000,
+      "percent": 27,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:ddac08f73c8f98de9678",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+          "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+          "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+          "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+          "siteName": "CNBC"
+        }
+      ]
+    },
+    {
+      "id": "871740c0-ba56-4537-938f-7d7a45479347",
+      "date": "2026-09-22",
+      "headcount": 268,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:88b58d3a06c9a8ef84a6",
+      "sources": [
+        {
+          "url": "https://www.geo.tv/latest/683230-halo-studios-slashed-as-activision-as-microsoft-cuts-268-xbox-roles",
+          "title": "Halo studios slashed as activision as Microsoft cuts 268 Xbox roles",
+          "description": "Microsoft announced another round of layoffs Tuesday, September 22, cutting fewer than 600 roles worldwide, with 300 in Washington state. The company has eliminated 268 positions across Xbox Game Studios, including Halo Studios, other...",
+          "image": "https://www.geo.tv/assets/uploads/updates/2026-09-22/683230_113639_updates.jpg",
+          "siteName": "Geo News"
+        },
+        {
+          "url": "https://www.opb.org/article/2026/09/22/microsoft-lays-off-xbox-employees-washington/",
+          "title": "Microsoft lays off 268 Xbox employees in Washington state",
+          "description": "Microsoft announced another round of layoffs in its gaming division Tuesday.",
+          "image": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/WRLTULOZBZCF3K3ELSH4ZHWU6Q.jpeg?auth=db454b267422578598db3a27976a42d0456991c0cdf53bcbaebdd15e167c6cbb&width=1200&height=675&smart=true",
+          "siteName": "opb"
+        }
+      ]
+    },
+    {
+      "id": "3017f101-2b70-4617-bc92-2b9f9c9654bd",
+      "date": "2026-07-06",
+      "headcount": 4800,
+      "percent": 2.1,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:be703db060b3e30d3aac",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+          "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales | TechCrunch",
+          "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.fox10phoenix.com/news/microsoft-cuts-4800-jobs-many-xbox-division",
+          "title": "Microsoft cuts 4,800 jobs, including many in Xbox division",
+          "description": "Microsoft has announced it is cutting 4,800 jobs, including many in its Xbox division. Here's what to know.",
+          "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/07/1200/630/microsoft-getty-scaled.jpg?ve=1&tl=1",
+          "siteName": "FOX 10 Phoenix"
+        },
+        {
+          "url": "https://www.lbc.co.uk/tech/microsoft-cuts-jobs-xbox-restructuring/",
+          "title": "Microsoft cuts 4,800 jobs as part of Xbox restructuring | LBC",
+          "description": "The cuts amount to roughly 2.1% of the tech giant's workforce, with Xbox expected to shoulder a significant share of the layoffs",
+          "image": "https://images.globalplayer.com/images/826377?crop=16_9&width=1200&signature=gI4eVWxV9mz-d_0Xb0giv1nlsVA=",
+          "siteName": "LBC"
+        }
+      ]
+    },
+    {
+      "id": "f920fe11-44cd-4464-8c38-c202983d2740",
+      "date": "2025-07-02",
+      "headcount": 9000,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:2c0961d1f322fa66f138",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2025/07/02/microsoft-laying-off-about-9000-employees-in-latest-round-of-cuts.html",
+          "title": "Microsoft laying off about 9,000 employees in latest round of cuts",
+          "description": "Microsoft surpassed expectations on revenue and profit but is slimming down across ranks, organizations and geographies.",
+          "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://www.verdict.co.uk/microsoft-layoffs-affecting-9000-roles/",
+          "title": "Microsoft announces another round of layoffs, affecting 9,000 roles",
+          "description": "Microsoft announced a new round of layoffs in recent months, affecting approximately 9,000 employees, or nearly 4% of its global workforce.",
+          "image": "https://www.verdict.co.uk/wp-content/uploads/2025/07/microsoft-1.jpg",
+          "siteName": "Verdict"
+        }
+      ]
+    },
+    {
+      "id": "0c6a0b3a-a6fc-4262-831d-b21f431a7eda",
+      "date": "2025-05-13",
+      "headcount": 6000,
+      "percent": 3,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:a1e5eb0072d9e54c4847",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/",
+          "title": "Programmers bore the brunt of Microsoft's layoffs in its home state as AI writes up to 30% of its code | TechCrunch",
+          "description": "Microsoft's Washington layoffs hit coders hardest as the tech giant embraces AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173107665-1.jpg?resize=1200,800",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.ktvu.com/news/microsoft-layoffs-2025",
+          "title": "Microsoft to lay off about 3% of its workforce",
+          "description": "Microsoft announced a round of layoffs this week that will affect thousands of employees.",
+          "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/05/1200/630/gettyimages-1207074417-copy-scaled.jpg?ve=1&tl=1",
+          "siteName": "KTVU FOX 2 San Francisco"
+        }
+      ]
+    },
+    {
+      "id": "fc0278ee-5fb6-47d8-a237-2aa9a7ec0f26",
+      "date": "2023-01-18",
+      "headcount": 10000,
+      "percent": 5,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://www.theregister.com/2023/01/18/microsoft_job_cuts/",
+          "title": "Microsoft will lay off 10,000 people, notifying some today",
+          "description": "Remaining Redmondites told they need to ‘raise the bar’",
+          "image": "https://image.theregister.com/255151.jpg?imageId=255151&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+          "siteName": "theregister"
+        },
+        {
+          "url": "https://www.wypr.org/2023-01-18/microsoft-slashes-10-000-jobs-the-latest-in-a-wave-of-layoffs",
+          "title": "Microsoft slashes 10,000 jobs, the latest in a wave of layoffs",
+          "description": "Amazon, Salesforce and Goldman Sachs have also announced cuts during a brutal January for corporate workers.",
+          "image": "https://npr.brightspotcdn.com/dims4/default/993aee1/2147483647/strip/true/crop/2775x1457+0+312/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F18%2Fap21196676893885-21fd0e4e4cc202e18c91690640e2ca110a450b29.jpg",
+          "siteName": "WYPR"
+        }
+      ]
+    }
+  ]
+}

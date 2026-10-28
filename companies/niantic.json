@@ -1,0 +1,39 @@
+{
+  "name": "Niantic",
+  "industry": "Gaming",
+  "hqCountry": "United States",
+  "domain": "nianticspatial.com",
+  "icon": "niantic.png",
+  "events": [
+    {
+      "id": "beeee081-1941-4056-b8fd-9efeb8c281bc",
+      "date": "2023-06-29",
+      "headcount": 230,
+      "country": "United States",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://mobilegamer.biz/niantic-lays-off-230-staff-cancels-two-games-closes-la-studio/",
+          "title": "Niantic lays off 230 staff, cancels two games, closes LA studio",
+          "description": "NBA All-World is being sunset and Marvel: World of Heroes is being cancelled.",
+          "image": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2023/06/niantic-pokemon-go.jpg?fit=1200%2C477&ssl=1",
+          "siteName": "Mobilegamer.biz"
+        },
+        {
+          "url": "https://videogameschronicle.com/news/pokemon-go-studio-niantic-is-laying-off-230-staff-and-cancelling-its-marvel-game",
+          "title": "Pokemon Go studio Niantic is reportedly laying off 230 staff and cancelling its Marvel game | VGC",
+          "description": "NBA All-World will also reportedly be shutting down…",
+          "image": "https://www.videogameschronicle.com/files/2019/04/Pokemon-GO-Feature-Art.jpg",
+          "siteName": "VGC"
+        },
+        {
+          "url": "https://www.iphoneincanada.ca/2023/06/30/niantic-lays-off-230-employees",
+          "title": "Niantic Lays Off 230 Employees, Closing LA Studio and Cancelling Marvel Game | iPhone in Canada",
+          "description": "As the AR gaming market continues to shift, Niantic is restructuring its organization in order to better support 'Pokémon Go', laying off 230 employees.",
+          "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/11/Pokemon-Go.jpg",
+          "siteName": "iPhone in Canada | Canada’s source for Apple, telecom, tech news, and deals"
+        }
+      ]
+    }
+  ]
+}

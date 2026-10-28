@@ -1,0 +1,23 @@
+{
+  "name": "Eidos-Montréal",
+  "events": [
+    {
+      "id": "612c3d61-26a9-4b5a-9ba3-621a7f87766d",
+      "date": "2026-03-31",
+      "headcount": 124,
+      "country": "Canada",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:1bd8eb0274e0be6d9129",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/eidos-montreal-announces-124-job-cuts-studio-head-david-anfossi-departs-after-19-years-at-developer",
+          "title": "Eidos-Montréal announces 124 job cuts; studio head David Anfossi departs after 19 years at developer",
+          "description": "Decision made following \"changing project needs and impacts across production and support teams\"",
+          "image": "https://assetsio.gnwcdn.com/eidos-montreal_LcCF9BO.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

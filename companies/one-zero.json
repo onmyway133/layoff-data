@@ -1,0 +1,27 @@
+{
+  "name": "One Zero",
+  "industry": "Fintech",
+  "domain": "onezerobank.com",
+  "icon": "one-zero.png",
+  "events": [
+    {
+      "id": "a5f65b21-62f6-4e11-a96b-79ec54359a07",
+      "date": "2026-10-11",
+      "headcount": 25,
+      "percent": 7,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "curated",
+      "externalId": "curated:e67d26469b023aee5618",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/0ggruyjlr",
+          "title": "One Zero lays off 25 employees in latest AI-driven efficiency push | CTech",
+          "description": "The bank says automation and generative AI are helping it accelerate processes and operate with a leaner structure, although it has not said that AI is directly replacing the departing employees. The cuts come as the bank targets profitability in 2027.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/09/24/WWOOKQK3Q/WWOOKQK3Q_0_0_490_324_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Anchorage Digital",
+  "industry": "Crypto / Fintech",
+  "domain": "anchorage.com",
+  "icon": "anchorage-digital.png",
+  "events": [
+    {
+      "id": "3a4fde9b-86ac-4209-bfe9-55d749859349",
+      "date": "2026-10-02",
+      "headcount": 68,
+      "percent": 17,
+      "country": "United States",
+      "reason": "market_downturn",
+      "dataset": "curated",
+      "externalId": "curated:3604cbd0e968c48bf348",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-bank-anchorage-digital-lays-193500877.html"
+        }
+      ]
+    }
+  ]
+}

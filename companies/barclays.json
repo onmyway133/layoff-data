@@ -1,0 +1,28 @@
+{
+  "name": "Barclays",
+  "industry": "Banking",
+  "events": [
+    {
+      "id": "42007d8c-b9ad-4d4c-ba2a-4fa72ea9595d",
+      "date": "2026-10-22",
+      "headcount": 5000,
+      "percent": 5,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:8e2b0028d2148312dc29",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+          "title": "Barclays to slash 5,000 jobs in AI efficiency push",
+          "description": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
+          "image": "https://image.cnbcfm.com/api/v1/image/107389383-17108553062024-03-19t131822z_527815204_rc20p6a93htr_rtrmadp_0_barclays-ceo.jpeg?v=1710855373&w=1920&h=1080",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html"
+        }
+      ]
+    }
+  ]
+}

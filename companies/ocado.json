@@ -1,0 +1,48 @@
+{
+  "name": "Ocado",
+  "industry": "online grocery technology and warehouse robotics",
+  "domain": "ocadogroup.com",
+  "icon": "ocado.png",
+  "events": [
+    {
+      "id": "1cfc66ba-e5d4-421c-9333-542c65ec208b",
+      "date": "2026-02-26",
+      "headcount": 1000,
+      "percent": 5,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:a44743cf9d6c0af626c6",
+      "sources": [
+        {
+          "url": "https://news.stv.tv/world/ocado-axing-around-1000-workers-amid-cost-cutting-overhaul",
+          "title": "Ocado axing around 1,000 workers amid cost-cutting overhaul",
+          "description": "The group confirmed around 5% of its global workforce is being cut",
+          "image": "https://news.stv.tv/wp-content/uploads/2026/02/44f56c45a38316f11727a3482155d68a-1772092611-social-default.jpg",
+          "siteName": "STV News"
+        },
+        {
+          "url": "https://www.yorkshireeveningpost.co.uk/news/business/ocado-job-cuts-uk-worldwide-5612217"
+        }
+      ]
+    },
+    {
+      "id": "e5c9faee-8474-463a-9fdf-3c40d5d9e93d",
+      "date": "2025-02-27",
+      "headcount": 500,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:27576ece2c4120192272",
+      "sources": [
+        {
+          "url": "https://businesscloud.co.uk/news/ocados-share-price-plummets-16-5-on-financial-results/",
+          "title": "Ocado’s share price plummets 16.5% on financial results",
+          "description": "Online grocery platform is set to cut hundreds of jobs as it doubles down on the use of artificial intelligence",
+          "image": "https://businesscloud.co.uk/wp-content/uploads/2020/07/ocadonew.jpg",
+          "siteName": "BusinessCloud"
+        }
+      ]
+    }
+  ]
+}

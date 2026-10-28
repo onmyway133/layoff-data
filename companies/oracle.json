@@ -1,0 +1,51 @@
+{
+  "name": "Oracle",
+  "industry": "Technology (enterprise software/cloud)",
+  "domain": "oracle.com",
+  "icon": "oracle.png",
+  "events": [
+    {
+      "id": "f99df6d6-c1ab-4d0f-b4c0-015833c8c005",
+      "date": "2026-09-14",
+      "headcount": 359,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:42cf19a580367727015c",
+      "sources": [
+        {
+          "url": "https://www.angelone.in/news/stocks/oracle-starts-fresh-layoffs-after-21-000-employee-workforce-reduction-in-fiscal-year-2026",
+          "title": "Oracle Starts Fresh Layoffs After 21,000 Employee Workforce Reduction in Fiscal Year 2026",
+          "description": "Oracle has begun a new round of job cuts across multiple departments, with the company yet to disclose the number of employees affected.",
+          "image": "https://w3assets.angelone.in/wp-content/uploads/1786077003855-Haryana-Assembly-passes-Bill-750x393.jpg"
+        },
+        {
+          "url": "https://www.fox13seattle.com/news/oracle-lay-off-washington-workers",
+          "title": "Oracle to lay off 359 Washington workers in November",
+          "description": "Oracle plans to lay off 359 employees in Washington, including workers based at two Seattle offices.",
+          "image": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2026/03/1200/630/vlcsnap-2026-03-17-22h01m47s235.jpg?ve=1&tl=1",
+          "siteName": "FOX 13 Seattle"
+        }
+      ]
+    },
+    {
+      "id": "17fa0697-20d2-46a9-a652-86f3677676e4",
+      "date": "2026-04-29",
+      "headcount": 150,
+      "percent": 15,
+      "country": "Ireland",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:7e59ad49c96fbde46507",
+      "sources": [
+        {
+          "url": "https://www.irishtimes.com/business/2026/04/29/oracle-to-shed-150-jobs-in-ireland-as-it-grapples-with-ai-cash-crunch/",
+          "title": "Oracle to shed 150 jobs in Ireland as it grapples with AI cash crunch",
+          "description": "Software giant is axing jobs globally as it seeks to reassure investors about data centre bet",
+          "image": "https://www.irishtimes.com/resizer/v2/TZB6NPYFA3LMUUI62PB2JHLMHM.jpg?smart=true&auth=cac0b82c777f8594b90cfb0e89b65912ab72a9eb754e3850addbb96eadb4cfa9&width=1200&height=630",
+          "siteName": "The Irish Times"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1492 @@
+[
+  {
+    "domain": "disruptafrica.com",
+    "label": "Disrupt Africa",
+    "region": "Africa"
+  },
+  {
+    "domain": "ambito.com",
+    "label": "Ámbito Financiero",
+    "region": "Argentina"
+  },
+  {
+    "domain": "clarin.com",
+    "label": "Clarín",
+    "region": "Argentina"
+  },
+  {
+    "domain": "cronista.com",
+    "label": "El Cronista",
+    "region": "Argentina"
+  },
+  {
+    "domain": "eleconomista.com.ar",
+    "label": "El Economista (Argentina)",
+    "region": "Argentina"
+  },
+  {
+    "domain": "infobae.com",
+    "label": "Infobae",
+    "region": "Argentina"
+  },
+  {
+    "domain": "lanacion.com.ar",
+    "label": "La Nación",
+    "region": "Argentina"
+  },
+  {
+    "domain": "abc.net.au",
+    "label": "ABC News (Australia)",
+    "region": "Australia"
+  },
+  {
+    "domain": "afr.com",
+    "label": "Australian Financial Review",
+    "region": "Australia"
+  },
+  {
+    "domain": "capitalbrief.com",
+    "label": "Capital Brief",
+    "region": "Australia"
+  },
+  {
+    "domain": "crn.com.au",
+    "label": "CRN Australia",
+    "region": "Australia"
+  },
+  {
+    "domain": "ia.acs.org.au",
+    "label": "Information Age (ACS)",
+    "region": "Australia"
+  },
+  {
+    "domain": "itnews.com.au",
+    "label": "iTnews",
+    "region": "Australia"
+  },
+  {
+    "domain": "smartcompany.com.au",
+    "label": "SmartCompany",
+    "region": "Australia"
+  },
+  {
+    "domain": "startupdaily.net",
+    "label": "Startup Daily",
+    "region": "Australia"
+  },
+  {
+    "domain": "theage.com.au",
+    "label": "The Age",
+    "region": "Australia"
+  },
+  {
+    "domain": "smh.com.au",
+    "label": "The Sydney Morning Herald",
+    "region": "Australia"
+  },
+  {
+    "domain": "derstandard.at",
+    "label": "Der Standard",
+    "region": "Austria"
+  },
+  {
+    "domain": "diepresse.com",
+    "label": "Die Presse",
+    "region": "Austria"
+  },
+  {
+    "domain": "orf.at",
+    "label": "ORF",
+    "region": "Austria"
+  },
+  {
+    "domain": "standaard.be",
+    "label": "De Standaard",
+    "region": "Belgium"
+  },
+  {
+    "domain": "tijd.be",
+    "label": "De Tijd",
+    "region": "Belgium"
+  },
+  {
+    "domain": "lesoir.be",
+    "label": "Le Soir",
+    "region": "Belgium"
+  },
+  {
+    "domain": "rtbf.be",
+    "label": "RTBF",
+    "region": "Belgium"
+  },
+  {
+    "domain": "brusselstimes.com",
+    "label": "The Brussels Times",
+    "region": "Belgium"
+  },
+  {
+    "domain": "vrt.be",
+    "label": "VRT NWS",
+    "region": "Belgium"
+  },
+  {
+    "domain": "braziljournal.com",
+    "label": "Brazil Journal",
+    "region": "Brazil"
+  },
+  {
+    "domain": "estadao.com.br",
+    "label": "Estadão",
+    "region": "Brazil"
+  },
+  {
+    "domain": "exame.com",
+    "label": "Exame",
+    "region": "Brazil"
+  },
+  {
+    "domain": "folha.uol.com.br",
+    "label": "Folha de S.Paulo",
+    "region": "Brazil"
+  },
+  {
+    "domain": "neofeed.com.br",
+    "label": "NeoFeed",
+    "region": "Brazil"
+  },
+  {
+    "domain": "oglobo.globo.com",
+    "label": "O Globo",
+    "region": "Brazil"
+  },
+  {
+    "domain": "valor.globo.com",
+    "label": "Valor Econômico",
+    "region": "Brazil"
+  },
+  {
+    "domain": "betakit.com",
+    "label": "BetaKit",
+    "region": "Canada"
+  },
+  {
+    "domain": "bnnbloomberg.ca",
+    "label": "BNN Bloomberg",
+    "region": "Canada"
+  },
+  {
+    "domain": "cbc.ca",
+    "label": "CBC News",
+    "region": "Canada"
+  },
+  {
+    "domain": "ctvnews.ca",
+    "label": "CTV News",
+    "region": "Canada"
+  },
+  {
+    "domain": "financialpost.com",
+    "label": "Financial Post",
+    "region": "Canada"
+  },
+  {
+    "domain": "nationalpost.com",
+    "label": "National Post",
+    "region": "Canada"
+  },
+  {
+    "domain": "theglobeandmail.com",
+    "label": "The Globe and Mail",
+    "region": "Canada"
+  },
+  {
+    "domain": "thelogic.co",
+    "label": "The Logic",
+    "region": "Canada"
+  },
+  {
+    "domain": "thestar.com",
+    "label": "Toronto Star",
+    "region": "Canada"
+  },
+  {
+    "domain": "caixinglobal.com",
+    "label": "Caixin Global",
+    "region": "China"
+  },
+  {
+    "domain": "technode.com",
+    "label": "TechNode",
+    "region": "China"
+  },
+  {
+    "domain": "ct24.ceskatelevize.cz",
+    "label": "ČT24",
+    "region": "Czechia"
+  },
+  {
+    "domain": "hn.cz",
+    "label": "Hospodářské noviny",
+    "region": "Czechia"
+  },
+  {
+    "domain": "seznamzpravy.cz",
+    "label": "Seznam Zprávy",
+    "region": "Czechia"
+  },
+  {
+    "domain": "borsen.dk",
+    "label": "Børsen",
+    "region": "Denmark"
+  },
+  {
+    "domain": "computerworld.dk",
+    "label": "Computerworld Danmark",
+    "region": "Denmark"
+  },
+  {
+    "domain": "dr.dk",
+    "label": "DR",
+    "region": "Denmark"
+  },
+  {
+    "domain": "politiken.dk",
+    "label": "Politiken",
+    "region": "Denmark"
+  },
+  {
+    "domain": "version2.dk",
+    "label": "Version2",
+    "region": "Denmark"
+  },
+  {
+    "domain": "dailynewsegypt.com",
+    "label": "Daily News Egypt",
+    "region": "Egypt"
+  },
+  {
+    "domain": "err.ee",
+    "label": "ERR",
+    "region": "Estonia"
+  },
+  {
+    "domain": "politico.eu",
+    "label": "POLITICO Europe",
+    "region": "Europe"
+  },
+  {
+    "domain": "sifted.eu",
+    "label": "Sifted",
+    "region": "Europe"
+  },
+  {
+    "domain": "tech.eu",
+    "label": "Tech.eu",
+    "region": "Europe"
+  },
+  {
+    "domain": "hs.fi",
+    "label": "Helsingin Sanomat",
+    "region": "Finland"
+  },
+  {
+    "domain": "kauppalehti.fi",
+    "label": "Kauppalehti",
+    "region": "Finland"
+  },
+  {
+    "domain": "tivi.fi",
+    "label": "Tivi",
+    "region": "Finland"
+  },
+  {
+    "domain": "yle.fi",
+    "label": "Yle",
+    "region": "Finland"
+  },
+  {
+    "domain": "20minutes.fr",
+    "label": "20 Minutes",
+    "region": "France"
+  },
+  {
+    "domain": "bfmtv.com",
+    "label": "BFM (BFMTV / BFM Business)",
+    "region": "France"
+  },
+  {
+    "domain": "euronews.com",
+    "label": "Euronews",
+    "region": "France"
+  },
+  {
+    "domain": "france24.com",
+    "label": "France 24",
+    "region": "France"
+  },
+  {
+    "domain": "franceinfo.fr",
+    "label": "franceinfo (France Télévisions)",
+    "region": "France"
+  },
+  {
+    "domain": "francetvinfo.fr",
+    "label": "franceinfo (legacy domain)",
+    "region": "France"
+  },
+  {
+    "domain": "journaldunet.com",
+    "label": "Journal du Net (JDN)",
+    "region": "France"
+  },
+  {
+    "domain": "usinenouvelle.com",
+    "label": "L'Usine Nouvelle",
+    "region": "France"
+  },
+  {
+    "domain": "latribune.fr",
+    "label": "La Tribune",
+    "region": "France"
+  },
+  {
+    "domain": "lefigaro.fr",
+    "label": "Le Figaro",
+    "region": "France"
+  },
+  {
+    "domain": "lemonde.fr",
+    "label": "Le Monde",
+    "region": "France"
+  },
+  {
+    "domain": "lemondeinformatique.fr",
+    "label": "Le Monde Informatique",
+    "region": "France"
+  },
+  {
+    "domain": "lesechos.fr",
+    "label": "Les Echos",
+    "region": "France"
+  },
+  {
+    "domain": "businessinsider.de",
+    "label": "Business Insider Deutschland",
+    "region": "Germany"
+  },
+  {
+    "domain": "spiegel.de",
+    "label": "Der Spiegel",
+    "region": "Germany"
+  },
+  {
+    "domain": "dw.com",
+    "label": "Deutsche Welle",
+    "region": "Germany"
+  },
+  {
+    "domain": "zeit.de",
+    "label": "Die Zeit",
+    "region": "Germany"
+  },
+  {
+    "domain": "dpa-international.com",
+    "label": "dpa international",
+    "region": "Germany"
+  },
+  {
+    "domain": "faz.net",
+    "label": "Frankfurter Allgemeine Zeitung",
+    "region": "Germany"
+  },
+  {
+    "domain": "golem.de",
+    "label": "Golem.de",
+    "region": "Germany"
+  },
+  {
+    "domain": "handelsblatt.com",
+    "label": "Handelsblatt",
+    "region": "Germany"
+  },
+  {
+    "domain": "heise.de",
+    "label": "heise online",
+    "region": "Germany"
+  },
+  {
+    "domain": "manager-magazin.de",
+    "label": "manager magazin",
+    "region": "Germany"
+  },
+  {
+    "domain": "sueddeutsche.de",
+    "label": "Süddeutsche Zeitung",
+    "region": "Germany"
+  },
+  {
+    "domain": "t3n.de",
+    "label": "t3n",
+    "region": "Germany"
+  },
+  {
+    "domain": "tagesschau.de",
+    "label": "tagesschau (ARD)",
+    "region": "Germany"
+  },
+  {
+    "domain": "wiwo.de",
+    "label": "WirtschaftsWoche",
+    "region": "Germany"
+  },
+  {
+    "domain": "restofworld.org",
+    "label": "Rest of World",
+    "region": "Global"
+  },
+  {
+    "domain": "reuters.com",
+    "label": "Reuters",
+    "region": "Global"
+  },
+  {
+    "domain": "hongkongfp.com",
+    "label": "Hong Kong Free Press",
+    "region": "Hong Kong"
+  },
+  {
+    "domain": "scmp.com",
+    "label": "South China Morning Post",
+    "region": "Hong Kong"
+  },
+  {
+    "domain": "business-standard.com",
+    "label": "Business Standard",
+    "region": "India"
+  },
+  {
+    "domain": "businesstoday.in",
+    "label": "Business Today",
+    "region": "India"
+  },
+  {
+    "domain": "entrackr.com",
+    "label": "Entrackr",
+    "region": "India"
+  },
+  {
+    "domain": "hindustantimes.com",
+    "label": "Hindustan Times",
+    "region": "India"
+  },
+  {
+    "domain": "inc42.com",
+    "label": "Inc42",
+    "region": "India"
+  },
+  {
+    "domain": "livemint.com",
+    "label": "Mint",
+    "region": "India"
+  },
+  {
+    "domain": "moneycontrol.com",
+    "label": "Moneycontrol",
+    "region": "India"
+  },
+  {
+    "domain": "ndtv.com",
+    "label": "NDTV",
+    "region": "India"
+  },
+  {
+    "domain": "ndtvprofit.com",
+    "label": "NDTV Profit",
+    "region": "India"
+  },
+  {
+    "domain": "outlookbusiness.com",
+    "label": "Outlook Business",
+    "region": "India"
+  },
+  {
+    "domain": "economictimes.indiatimes.com",
+    "label": "The Economic Times",
+    "region": "India"
+  },
+  {
+    "domain": "m.economictimes.com",
+    "label": "The Economic Times (mobile)",
+    "region": "India"
+  },
+  {
+    "domain": "financialexpress.com",
+    "label": "The Financial Express",
+    "region": "India"
+  },
+  {
+    "domain": "thehindu.com",
+    "label": "The Hindu",
+    "region": "India"
+  },
+  {
+    "domain": "thehindubusinessline.com",
+    "label": "The Hindu BusinessLine",
+    "region": "India"
+  },
+  {
+    "domain": "indianexpress.com",
+    "label": "The Indian Express",
+    "region": "India"
+  },
+  {
+    "domain": "the-ken.com",
+    "label": "The Ken",
+    "region": "India"
+  },
+  {
+    "domain": "wionews.com",
+    "label": "WION",
+    "region": "India"
+  },
+  {
+    "domain": "en.tempo.co",
+    "label": "Tempo English",
+    "region": "Indonesia"
+  },
+  {
+    "domain": "thejakartapost.com",
+    "label": "The Jakarta Post",
+    "region": "Indonesia"
+  },
+  {
+    "domain": "businesspost.ie",
+    "label": "Business Post",
+    "region": "Ireland"
+  },
+  {
+    "domain": "irishexaminer.com",
+    "label": "Irish Examiner",
+    "region": "Ireland"
+  },
+  {
+    "domain": "independent.ie",
+    "label": "Irish Independent",
+    "region": "Ireland"
+  },
+  {
+    "domain": "rte.ie",
+    "label": "RTÉ News",
+    "region": "Ireland"
+  },
+  {
+    "domain": "siliconrepublic.com",
+    "label": "Silicon Republic",
+    "region": "Ireland"
+  },
+  {
+    "domain": "irishtimes.com",
+    "label": "The Irish Times",
+    "region": "Ireland"
+  },
+  {
+    "domain": "thejournal.ie",
+    "label": "TheJournal.ie",
+    "region": "Ireland"
+  },
+  {
+    "domain": "calcalist.co.il",
+    "label": "Calcalist",
+    "region": "Israel"
+  },
+  {
+    "domain": "calcalistech.com",
+    "label": "CTech by Calcalist",
+    "region": "Israel"
+  },
+  {
+    "domain": "geektime.co.il",
+    "label": "Geektime",
+    "region": "Israel"
+  },
+  {
+    "domain": "globes.co.il",
+    "label": "Globes",
+    "region": "Israel"
+  },
+  {
+    "domain": "haaretz.com",
+    "label": "Haaretz (English)",
+    "region": "Israel"
+  },
+  {
+    "domain": "timesofisrael.com",
+    "label": "The Times of Israel",
+    "region": "Israel"
+  },
+  {
+    "domain": "themarker.com",
+    "label": "TheMarker",
+    "region": "Israel"
+  },
+  {
+    "domain": "ynetnews.com",
+    "label": "Ynetnews",
+    "region": "Israel"
+  },
+  {
+    "domain": "ansa.it",
+    "label": "ANSA",
+    "region": "Italy"
+  },
+  {
+    "domain": "corriere.it",
+    "label": "Corriere della Sera",
+    "region": "Italy"
+  },
+  {
+    "domain": "ilsole24ore.com",
+    "label": "Il Sole 24 Ore",
+    "region": "Italy"
+  },
+  {
+    "domain": "repubblica.it",
+    "label": "la Repubblica",
+    "region": "Italy"
+  },
+  {
+    "domain": "milanofinanza.it",
+    "label": "Milano Finanza",
+    "region": "Italy"
+  },
+  {
+    "domain": "quotidiano.net",
+    "label": "Quotidiano Nazionale (QN)",
+    "region": "Italy"
+  },
+  {
+    "domain": "rainews.it",
+    "label": "RaiNews",
+    "region": "Italy"
+  },
+  {
+    "domain": "english.kyodonews.net",
+    "label": "Kyodo News",
+    "region": "Japan"
+  },
+  {
+    "domain": "www3.nhk.or.jp",
+    "label": "NHK World-Japan",
+    "region": "Japan"
+  },
+  {
+    "domain": "nikkei.com",
+    "label": "Nikkei (Japanese)",
+    "region": "Japan"
+  },
+  {
+    "domain": "japantimes.co.jp",
+    "label": "The Japan Times",
+    "region": "Japan"
+  },
+  {
+    "domain": "businessdailyafrica.com",
+    "label": "Business Daily Africa",
+    "region": "Kenya"
+  },
+  {
+    "domain": "nation.africa",
+    "label": "Daily Nation",
+    "region": "Kenya"
+  },
+  {
+    "domain": "standardmedia.co.ke",
+    "label": "The Standard (Kenya)",
+    "region": "Kenya"
+  },
+  {
+    "domain": "lsm.lv",
+    "label": "LSM",
+    "region": "Latvia"
+  },
+  {
+    "domain": "lrt.lt",
+    "label": "LRT",
+    "region": "Lithuania"
+  },
+  {
+    "domain": "malaymail.com",
+    "label": "Malay Mail",
+    "region": "Malaysia"
+  },
+  {
+    "domain": "nst.com.my",
+    "label": "New Straits Times",
+    "region": "Malaysia"
+  },
+  {
+    "domain": "theedgemalaysia.com",
+    "label": "The Edge Malaysia",
+    "region": "Malaysia"
+  },
+  {
+    "domain": "thestar.com.my",
+    "label": "The Star (Malaysia)",
+    "region": "Malaysia"
+  },
+  {
+    "domain": "eleconomista.com.mx",
+    "label": "El Economista (Mexico)",
+    "region": "Mexico"
+  },
+  {
+    "domain": "elfinanciero.com.mx",
+    "label": "El Financiero",
+    "region": "Mexico"
+  },
+  {
+    "domain": "eluniversal.com.mx",
+    "label": "El Universal",
+    "region": "Mexico"
+  },
+  {
+    "domain": "expansion.mx",
+    "label": "Expansión",
+    "region": "Mexico"
+  },
+  {
+    "domain": "wamda.com",
+    "label": "Wamda",
+    "region": "Middle East"
+  },
+  {
+    "domain": "volkskrant.nl",
+    "label": "de Volkskrant",
+    "region": "Netherlands"
+  },
+  {
+    "domain": "dutchnews.nl",
+    "label": "DutchNews.nl",
+    "region": "Netherlands"
+  },
+  {
+    "domain": "fd.nl",
+    "label": "Het Financieele Dagblad",
+    "region": "Netherlands"
+  },
+  {
+    "domain": "nos.nl",
+    "label": "NOS",
+    "region": "Netherlands"
+  },
+  {
+    "domain": "nrc.nl",
+    "label": "NRC",
+    "region": "Netherlands"
+  },
+  {
+    "domain": "techzine.eu",
+    "label": "Techzine",
+    "region": "Netherlands"
+  },
+  {
+    "domain": "thenextweb.com",
+    "label": "TNW (The Next Web)",
+    "region": "Netherlands"
+  },
+  {
+    "domain": "tweakers.net",
+    "label": "Tweakers",
+    "region": "Netherlands"
+  },
+  {
+    "domain": "businessdesk.co.nz",
+    "label": "BusinessDesk",
+    "region": "New Zealand"
+  },
+  {
+    "domain": "rnz.co.nz",
+    "label": "RNZ",
+    "region": "New Zealand"
+  },
+  {
+    "domain": "stuff.co.nz",
+    "label": "Stuff",
+    "region": "New Zealand"
+  },
+  {
+    "domain": "nzherald.co.nz",
+    "label": "The New Zealand Herald",
+    "region": "New Zealand"
+  },
+  {
+    "domain": "businessday.ng",
+    "label": "BusinessDay (Nigeria)",
+    "region": "Nigeria"
+  },
+  {
+    "domain": "premiumtimesng.com",
+    "label": "Premium Times",
+    "region": "Nigeria"
+  },
+  {
+    "domain": "techcabal.com",
+    "label": "TechCabal",
+    "region": "Nigeria"
+  },
+  {
+    "domain": "techpoint.africa",
+    "label": "Techpoint Africa",
+    "region": "Nigeria"
+  },
+  {
+    "domain": "punchng.com",
+    "label": "The Punch",
+    "region": "Nigeria"
+  },
+  {
+    "domain": "aftenposten.no",
+    "label": "Aftenposten",
+    "region": "Norway"
+  },
+  {
+    "domain": "dn.no",
+    "label": "Dagens Næringsliv",
+    "region": "Norway"
+  },
+  {
+    "domain": "digi.no",
+    "label": "Digi.no",
+    "region": "Norway"
+  },
+  {
+    "domain": "e24.no",
+    "label": "E24",
+    "region": "Norway"
+  },
+  {
+    "domain": "nettavisen.no",
+    "label": "Nettavisen",
+    "region": "Norway"
+  },
+  {
+    "domain": "nrk.no",
+    "label": "NRK",
+    "region": "Norway"
+  },
+  {
+    "domain": "bworldonline.com",
+    "label": "BusinessWorld",
+    "region": "Philippines"
+  },
+  {
+    "domain": "inquirer.net",
+    "label": "Philippine Daily Inquirer",
+    "region": "Philippines"
+  },
+  {
+    "domain": "rappler.com",
+    "label": "Rappler",
+    "region": "Philippines"
+  },
+  {
+    "domain": "philstar.com",
+    "label": "The Philippine Star",
+    "region": "Philippines"
+  },
+  {
+    "domain": "businessinsider.com.pl",
+    "label": "Business Insider Polska",
+    "region": "Poland"
+  },
+  {
+    "domain": "pb.pl",
+    "label": "Puls Biznesu",
+    "region": "Poland"
+  },
+  {
+    "domain": "rp.pl",
+    "label": "Rzeczpospolita",
+    "region": "Poland"
+  },
+  {
+    "domain": "eco.sapo.pt",
+    "label": "ECO",
+    "region": "Portugal"
+  },
+  {
+    "domain": "expresso.pt",
+    "label": "Expresso",
+    "region": "Portugal"
+  },
+  {
+    "domain": "observador.pt",
+    "label": "Observador",
+    "region": "Portugal"
+  },
+  {
+    "domain": "rtp.pt",
+    "label": "RTP",
+    "region": "Portugal"
+  },
+  {
+    "domain": "aljazeera.com",
+    "label": "Al Jazeera English",
+    "region": "Qatar"
+  },
+  {
+    "domain": "channelnewsasia.com",
+    "label": "CNA",
+    "region": "Singapore"
+  },
+  {
+    "domain": "businesstimes.com.sg",
+    "label": "The Business Times",
+    "region": "Singapore"
+  },
+  {
+    "domain": "straitstimes.com",
+    "label": "The Straits Times",
+    "region": "Singapore"
+  },
+  {
+    "domain": "businessday.co.za",
+    "label": "Business Day (South Africa)",
+    "region": "South Africa"
+  },
+  {
+    "domain": "businesslive.co.za",
+    "label": "BusinessLIVE (legacy Business Day host)",
+    "region": "South Africa"
+  },
+  {
+    "domain": "dailymaverick.co.za",
+    "label": "Daily Maverick",
+    "region": "South Africa"
+  },
+  {
+    "domain": "news24.com",
+    "label": "News24",
+    "region": "South Africa"
+  },
+  {
+    "domain": "techcentral.co.za",
+    "label": "TechCentral",
+    "region": "South Africa"
+  },
+  {
+    "domain": "kedglobal.com",
+    "label": "KED Global",
+    "region": "South Korea"
+  },
+  {
+    "domain": "koreajoongangdaily.com",
+    "label": "Korea JoongAng Daily",
+    "region": "South Korea"
+  },
+  {
+    "domain": "koreajoongangdaily.joins.com",
+    "label": "Korea JoongAng Daily (old host)",
+    "region": "South Korea"
+  },
+  {
+    "domain": "koreaherald.com",
+    "label": "The Korea Herald",
+    "region": "South Korea"
+  },
+  {
+    "domain": "koreatimes.co.kr",
+    "label": "The Korea Times",
+    "region": "South Korea"
+  },
+  {
+    "domain": "en.yna.co.kr",
+    "label": "Yonhap News Agency",
+    "region": "South Korea"
+  },
+  {
+    "domain": "dealstreetasia.com",
+    "label": "DealStreetAsia",
+    "region": "Southeast Asia"
+  },
+  {
+    "domain": "kr-asia.com",
+    "label": "KrASIA",
+    "region": "Southeast Asia"
+  },
+  {
+    "domain": "techinasia.com",
+    "label": "Tech in Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "domain": "elconfidencial.com",
+    "label": "El Confidencial",
+    "region": "Spain"
+  },
+  {
+    "domain": "elmundo.es",
+    "label": "El Mundo",
+    "region": "Spain"
+  },
+  {
+    "domain": "elpais.com",
+    "label": "El País",
+    "region": "Spain"
+  },
+  {
+    "domain": "eleconomista.es",
+    "label": "elEconomista",
+    "region": "Spain"
+  },
+  {
+    "domain": "europapress.es",
+    "label": "Europa Press",
+    "region": "Spain"
+  },
+  {
+    "domain": "expansion.com",
+    "label": "Expansión",
+    "region": "Spain"
+  },
+  {
+    "domain": "rtve.es",
+    "label": "RTVE",
+    "region": "Spain"
+  },
+  {
+    "domain": "breakit.se",
+    "label": "Breakit",
+    "region": "Sweden"
+  },
+  {
+    "domain": "computersweden.se",
+    "label": "Computer Sweden",
+    "region": "Sweden"
+  },
+  {
+    "domain": "di.se",
+    "label": "Dagens industri",
+    "region": "Sweden"
+  },
+  {
+    "domain": "dn.se",
+    "label": "Dagens Nyheter",
+    "region": "Sweden"
+  },
+  {
+    "domain": "svd.se",
+    "label": "Svenska Dagbladet",
+    "region": "Sweden"
+  },
+  {
+    "domain": "svt.se",
+    "label": "SVT Nyheter",
+    "region": "Sweden"
+  },
+  {
+    "domain": "handelszeitung.ch",
+    "label": "Handelszeitung",
+    "region": "Switzerland"
+  },
+  {
+    "domain": "nzz.ch",
+    "label": "Neue Zürcher Zeitung",
+    "region": "Switzerland"
+  },
+  {
+    "domain": "srf.ch",
+    "label": "SRF",
+    "region": "Switzerland"
+  },
+  {
+    "domain": "swissinfo.ch",
+    "label": "SWI swissinfo.ch",
+    "region": "Switzerland"
+  },
+  {
+    "domain": "tagesanzeiger.ch",
+    "label": "Tages-Anzeiger",
+    "region": "Switzerland"
+  },
+  {
+    "domain": "focustaiwan.tw",
+    "label": "Focus Taiwan (CNA English)",
+    "region": "Taiwan"
+  },
+  {
+    "domain": "taipeitimes.com",
+    "label": "Taipei Times",
+    "region": "Taiwan"
+  },
+  {
+    "domain": "gulfnews.com",
+    "label": "Gulf News",
+    "region": "United Arab Emirates"
+  },
+  {
+    "domain": "thenationalnews.com",
+    "label": "The National (UAE)",
+    "region": "United Arab Emirates"
+  },
+  {
+    "domain": "bbc.com",
+    "label": "BBC News",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "cityam.com",
+    "label": "City A.M.",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "computerweekly.com",
+    "label": "Computer Weekly",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "computing.co.uk",
+    "label": "Computing",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "datacenterdynamics.com",
+    "label": "DCD (DatacenterDynamics)",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "devclass.com",
+    "label": "DevClass",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "ft.com",
+    "label": "Financial Times",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "gamesindustry.biz",
+    "label": "GamesIndustry.biz",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "itpro.com",
+    "label": "ITPro",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "itv.com",
+    "label": "ITV News",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "news.sky.com",
+    "label": "Sky News",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "news.stv.tv",
+    "label": "STV News",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "techradar.com",
+    "label": "TechRadar",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "economist.com",
+    "label": "The Economist",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "theguardian.com",
+    "label": "The Guardian",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "independent.co.uk",
+    "label": "The Independent",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "theregister.com",
+    "label": "The Register",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "standard.co.uk",
+    "label": "The Standard (London)",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "telegraph.co.uk",
+    "label": "The Telegraph",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "thetimes.co.uk",
+    "label": "The Times (legacy domain)",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "thetimes.com",
+    "label": "The Times and The Sunday Times",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "uktech.news",
+    "label": "UKTN (UK Tech News)",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "videogameschronicle.com",
+    "label": "Video Games Chronicle (VGC)",
+    "region": "United Kingdom"
+  },
+  {
+    "domain": "404media.co",
+    "label": "404 Media",
+    "region": "United States"
+  },
+  {
+    "domain": "abcnews.com",
+    "label": "ABC News",
+    "region": "United States"
+  },
+  {
+    "domain": "abcnews.go.com",
+    "label": "ABC News (legacy host)",
+    "region": "United States"
+  },
+  {
+    "domain": "arstechnica.com",
+    "label": "Ars Technica",
+    "region": "United States"
+  },
+  {
+    "domain": "apnews.com",
+    "label": "Associated Press",
+    "region": "United States"
+  },
+  {
+    "domain": "axios.com",
+    "label": "Axios",
+    "region": "United States"
+  },
+  {
+    "domain": "barrons.com",
+    "label": "Barron's",
+    "region": "United States"
+  },
+  {
+    "domain": "bloomberg.com",
+    "label": "Bloomberg",
+    "region": "United States"
+  },
+  {
+    "domain": "businessinsider.com",
+    "label": "Business Insider",
+    "region": "United States"
+  },
+  {
+    "domain": "cbsnews.com",
+    "label": "CBS News",
+    "region": "United States"
+  },
+  {
+    "domain": "ciodive.com",
+    "label": "CIO Dive",
+    "region": "United States"
+  },
+  {
+    "domain": "cnbc.com",
+    "label": "CNBC",
+    "region": "United States"
+  },
+  {
+    "domain": "cnet.com",
+    "label": "CNET",
+    "region": "United States"
+  },
+  {
+    "domain": "cnn.com",
+    "label": "CNN",
+    "region": "United States"
+  },
+  {
+    "domain": "news.crunchbase.com",
+    "label": "Crunchbase News",
+    "region": "United States"
+  },
+  {
+    "domain": "cybersecuritydive.com",
+    "label": "Cybersecurity Dive",
+    "region": "United States"
+  },
+  {
+    "domain": "engadget.com",
+    "label": "Engadget",
+    "region": "United States"
+  },
+  {
+    "domain": "fastcompany.com",
+    "label": "Fast Company",
+    "region": "United States"
+  },
+  {
+    "domain": "fierce-network.com",
+    "label": "Fierce Network",
+    "region": "United States"
+  },
+  {
+    "domain": "fortune.com",
+    "label": "Fortune",
+    "region": "United States"
+  },
+  {
+    "domain": "foxbusiness.com",
+    "label": "Fox Business",
+    "region": "United States"
+  },
+  {
+    "domain": "foxnews.com",
+    "label": "Fox News",
+    "region": "United States"
+  },
+  {
+    "domain": "gamedeveloper.com",
+    "label": "Game Developer",
+    "region": "United States"
+  },
+  {
+    "domain": "gameinformer.com",
+    "label": "Game Informer",
+    "region": "United States"
+  },
+  {
+    "domain": "investors.com",
+    "label": "Investor's Business Daily",
+    "region": "United States"
+  },
+  {
+    "domain": "lightreading.com",
+    "label": "Light Reading",
+    "region": "United States"
+  },
+  {
+    "domain": "latimes.com",
+    "label": "Los Angeles Times",
+    "region": "United States"
+  },
+  {
+    "domain": "marketwatch.com",
+    "label": "MarketWatch",
+    "region": "United States"
+  },
+  {
+    "domain": "nbcnews.com",
+    "label": "NBC News",
+    "region": "United States"
+  },
+  {
+    "domain": "npr.org",
+    "label": "NPR",
+    "region": "United States"
+  },
+  {
+    "domain": "platformer.news",
+    "label": "Platformer",
+    "region": "United States"
+  },
+  {
+    "domain": "politico.com",
+    "label": "Politico",
+    "region": "United States"
+  },
+  {
+    "domain": "semafor.com",
+    "label": "Semafor",
+    "region": "United States"
+  },
+  {
+    "domain": "siliconangle.com",
+    "label": "SiliconANGLE",
+    "region": "United States"
+  },
+  {
+    "domain": "techcrunch.com",
+    "label": "TechCrunch",
+    "region": "United States"
+  },
+  {
+    "domain": "theatlantic.com",
+    "label": "The Atlantic",
+    "region": "United States"
+  },
+  {
+    "domain": "theinformation.com",
+    "label": "The Information",
+    "region": "United States"
+  },
+  {
+    "domain": "nytimes.com",
+    "label": "The New York Times",
+    "region": "United States"
+  },
+  {
+    "domain": "theverge.com",
+    "label": "The Verge",
+    "region": "United States"
+  },
+  {
+    "domain": "wsj.com",
+    "label": "The Wall Street Journal",
+    "region": "United States"
+  },
+  {
+    "domain": "washingtonpost.com",
+    "label": "The Washington Post",
+    "region": "United States"
+  },
+  {
+    "domain": "time.com",
+    "label": "TIME",
+    "region": "United States"
+  },
+  {
+    "domain": "tomshardware.com",
+    "label": "Tom's Hardware",
+    "region": "United States"
+  },
+  {
+    "domain": "usatoday.com",
+    "label": "USA Today",
+    "region": "United States"
+  },
+  {
+    "domain": "venturebeat.com",
+    "label": "VentureBeat",
+    "region": "United States"
+  },
+  {
+    "domain": "wired.com",
+    "label": "WIRED",
+    "region": "United States"
+  },
+  {
+    "domain": "zdnet.com",
+    "label": "ZDNET",
+    "region": "United States"
+  },
+  {
+    "domain": "theinvestor.vn",
+    "label": "The Investor",
+    "region": "Vietnam"
+  },
+  {
+    "domain": "vnexpress.net",
+    "label": "VnExpress",
+    "region": "Vietnam"
+  }
+]

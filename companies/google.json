@@ -1,0 +1,79 @@
+{
+  "name": "Google",
+  "industry": "Internet",
+  "hqCountry": "United States",
+  "domain": "google.com",
+  "icon": "google.png",
+  "events": [
+    {
+      "id": "a57e058a-b99b-404c-9fa1-be12b8ac44e3",
+      "date": "2026-08-05",
+      "headcount": 52,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:6266980d9690ba8051df",
+      "sources": [
+        {
+          "url": "https://www.ibtimes.com/tech-layoffs-2026-already-beat-last-years-total-google-zillow-tiktok-cut-hundreds-3806211",
+          "title": "Tech Layoffs in 2026 Already Beat Last Year's Total as Google, Zillow and TikTok Cut Hundreds",
+          "description": "Tech layoffs in 2026 have already surpassed last year's total by August, with major cuts from Zillow, TikTok, Etsy, and Google, highlighting restructuring trends in the industry",
+          "image": "https://d.ibtimes.com/en/full/4651972/amazon-employees-supporters-gather-during-walk-out-protest.jpg",
+          "siteName": "International Business Times"
+        }
+      ]
+    },
+    {
+      "id": "ae117e4b-988f-42c9-8219-62c2ff989c07",
+      "date": "2025-09-29",
+      "headcount": 100,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:81d6de65162f33013dc5",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2025/10/01/google-cloud-unit-layoffs.html",
+          "title": "Google cuts more than 100 design-related roles in cloud unit",
+          "description": "The latest layoffs come as Google accelerates cuts to focus spending on artificial intelligence infrastructure.",
+          "image": "https://image.cnbcfm.com/api/v1/image/106865514-1617896998844-gettyimages-1135936636-GOOGLE_CLOUD_CONFERENCE.jpeg?v=1759340284&w=1920&h=1080",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://www.peoplematters.in/news/strategic-hr/google-lays-off-100-staff-from-cloud-design-and-research-teams-46646",
+          "title": "Google lays off 100+ staff from cloud design and research teams",
+          "description": "Layoffs hit cloud design and research teams; restructuring extends across multiple divisions.",
+          "image": "https://asset.peoplematters.in/images/9d6a1ee5-1588-418b-b55a-a26c6abdd275.jpg",
+          "siteName": "People Matters"
+        }
+      ]
+    },
+    {
+      "id": "72277113-a18e-4d8f-a868-a87ac16170e6",
+      "date": "2025-02-26",
+      "headcount": 100,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:afd8283c91f036751144",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/alphabet-google-cuts-employees-cloud-185459876.html"
+        }
+      ]
+    },
+    {
+      "id": "ef5bb83c-aa89-4bba-937b-bcfab2f5fa14",
+      "date": "2023-01-20",
+      "headcount": 12000,
+      "percent": 6,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://www.cbc.ca/lite/story/1.6720322"
+        }
+      ]
+    }
+  ]
+}

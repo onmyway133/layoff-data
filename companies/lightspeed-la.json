@@ -1,0 +1,23 @@
+{
+  "name": "Lightspeed LA",
+  "events": [
+    {
+      "id": "6166f647-90bc-4f42-8b12-993be5a19373",
+      "date": "2026-08-03",
+      "headcount": 80,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:be539e0e23986a8a5ace",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/last-sentinel-developer-lightspeed-la-conducts-layoffs-80-roles-reportedly-cut",
+          "title": "Last Sentinel developer Lightspeed LA conducts layoffs, 80 roles reportedly cut",
+          "description": "Tencent subsidiary says decision was made due to changes in its \"creative and development direction\" of debut title",
+          "image": "https://assetsio.gnwcdn.com/last-sentinel-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

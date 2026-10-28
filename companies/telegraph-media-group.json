@@ -1,0 +1,24 @@
+{
+  "name": "Telegraph Media Group",
+  "industry": "Newspapers and media",
+  "events": [
+    {
+      "id": "b832cc88-27b4-4e35-9416-b5efb5372381",
+      "date": "2026-10-23",
+      "headcount": 100,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:7ee4f9d7935ee799d30d",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business",
+          "title": "Telegraph cuts up to 100 jobs as new owner promises to turn paper into ‘AI-powered’ global business",
+          "description": "Redundancies come after paper was bought in June by European media group Axel Springer",
+          "image": "https://i.guim.co.uk/img/media/623466f9bca5a6a17a3d2b0623131f14a946c127/307_0_3083_2467/master/3083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d6068211ed95bc4927dc870daf87cec",
+          "siteName": "the Guardian"
+        }
+      ]
+    }
+  ]
+}

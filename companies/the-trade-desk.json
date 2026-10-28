@@ -1,0 +1,27 @@
+{
+  "name": "The Trade Desk",
+  "industry": "Ad tech",
+  "domain": "thetradedesk.com",
+  "icon": "the-trade-desk.png",
+  "events": [
+    {
+      "id": "03aed0df-d8c1-4369-a5e0-0cdf57c04736",
+      "date": "2026-09-03",
+      "headcount": 575,
+      "percent": 15,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:d36a4cbd14a33f9ed249",
+      "sources": [
+        {
+          "url": "https://ppc.land/trade-desk-cuts-15-of-its-global-workforce-effective-today/",
+          "title": "Trade Desk cuts 15% of its global workforce effective today",
+          "description": "Roughly 575 roles go from a 3,843-person base, hitting clients mid-Kokai migration. Green cites $1.5bn in cash and no debt. Can smaller pods restart growth?",
+          "image": "https://ppc.land/content/images/2026/09/Trade-Desk-cuts-15--of-its-global-workforce.jpg",
+          "siteName": "PPC Land"
+        }
+      ]
+    }
+  ]
+}

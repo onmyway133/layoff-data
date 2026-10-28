@@ -1,0 +1,23 @@
+{
+  "name": "CrowdStrike",
+  "industry": "Cybersecurity Software",
+  "domain": "crowdstrike.com",
+  "icon": "crowdstrike.png",
+  "events": [
+    {
+      "id": "2af4c8a1-a2c8-45c1-a842-f2d27a067747",
+      "date": "2025-05-06",
+      "headcount": 500,
+      "percent": 5,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:57cac56ab2925b68d5f0",
+      "sources": [
+        {
+          "url": "https://www.computing.co.uk/news/2025/crowdstrike-cuts-500-jobs-cites-ai"
+        }
+      ]
+    }
+  ]
+}

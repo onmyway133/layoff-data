@@ -1,0 +1,27 @@
+{
+  "name": "Skai",
+  "industry": "Marketing technology",
+  "domain": "skai.io",
+  "icon": "skai.png",
+  "events": [
+    {
+      "id": "74ba6d16-bc6c-43c2-8260-471f75d5d690",
+      "date": "2026-06-03",
+      "headcount": 100,
+      "percent": 20,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:60c590ea9a2c35d4cb8b",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/jmjuqzfe6",
+          "title": "Skai lays off 20% of staff, citing AI-driven transformation | CTech",
+          "description": "About 100 employees affected as company retools global operations model.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2022/07/27/BytI8jA2c/BytI8jA2c_0_0_600_338_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Chime",
+  "industry": "Fintech / consumer banking app",
+  "domain": "chime.com",
+  "icon": "chime.png",
+  "events": [
+    {
+      "id": "af5a53c4-2993-404a-a347-e44385360710",
+      "date": "2026-07-31",
+      "headcount": 150,
+      "percent": 10,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:db4854ff5a03e052fd12",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/technology/ai/articles/chime-cut-10-total-workforce-143115394.html"
+        }
+      ]
+    }
+  ]
+}

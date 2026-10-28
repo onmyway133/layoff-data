@@ -1,0 +1,24 @@
+{
+  "name": "Covalen",
+  "events": [
+    {
+      "id": "29f55c9a-54e0-4e8d-b95b-81f8f0c477a2",
+      "date": "2026-04-27",
+      "headcount": 700,
+      "percent": 35,
+      "country": "Ireland",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:157acc0ae381b5fcaebc",
+      "sources": [
+        {
+          "url": "https://www.irishtimes.com/ireland/2026/04/27/government-intervention-sought-as-700-jobs-threatened-at-meta-contractor-covalen/",
+          "title": "Meta contractor Covalen plans to make 700 workers redundant at Dublin operation",
+          "description": "Announcement by company follows recent round of more than 300 redundancies at firm",
+          "image": "https://www.irishtimes.com/resizer/v2/KTZXSNXIYBGFTIMKCXV5HWVWKM.JPG?smart=true&auth=61edadca593be0310e5663e686855573db6a754fc87ca4c139f8b02c421f3a20&width=1200&height=630",
+          "siteName": "The Irish Times"
+        }
+      ]
+    }
+  ]
+}

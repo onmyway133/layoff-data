@@ -1,0 +1,79 @@
+{
+  "name": "Workday",
+  "industry": "Software",
+  "domain": "workday.com",
+  "icon": "workday.png",
+  "events": [
+    {
+      "id": "224e6e59-baf0-4d80-8485-07e0f10a0a65",
+      "date": "2026-09-29",
+      "headcount": 525,
+      "percent": 2.5,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:0311da3fc82580ed4bc8",
+      "sources": [
+        {
+          "url": "https://americanbazaaronline.com/2026/09/30/workday-to-cut-2-5-of-workforce-affecting-about-525-employees-489102/",
+          "title": "Workday to cut 2.5% of workforce, affecting about 525 employees",
+          "description": "Workday plans to cut about 525 jobs, or 2.5% of its workforce, primarily in its Product, Technology team, in its second round of layoffs.",
+          "image": "https://americanbazaaronline.com/wp-content/uploads/2025/09/Workday-logo.png",
+          "siteName": "The American Bazaar"
+        }
+      ]
+    },
+    {
+      "id": "14c6a493-7b52-4f0f-af11-51ced7eadb36",
+      "date": "2026-02-04",
+      "headcount": 400,
+      "percent": 2,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:2a079e9ef95b21db9dcc",
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026",
+          "title": "Companies laying off staff this year include Meta, Amazon, Visa, and Walmart — see the list",
+          "description": "Layoffs have hit over 35 companies in 2026, including Meta, Walmart, and American Express, as AI and economic conditions reshape the business landscape.",
+          "image": "https://i.insider.com/6a5a32aa54f9875261776633?width=1200&format=jpeg",
+          "siteName": "Business Insider"
+        }
+      ]
+    },
+    {
+      "id": "51133a74-e30e-4c28-99b0-a65a9355fca0",
+      "date": "2025-02-05",
+      "headcount": 1750,
+      "percent": 8.5,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:81c6bbe70b3ba3f8c443",
+      "sources": [
+        {
+          "url": "https://www.ktvu.com/news/pleasanton-based-workday-announces-will-cut-1750-jobs",
+          "title": "Pleasanton-based Workday announces it will cut 1,750 jobs",
+          "description": "Workday, the payroll and HR company based in Pleasanton, announced on Wednesday that it is cutting 8.5 percent of its workforce as it invests more in AI.",
+          "image": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2025/02/1200/630/a-workday-photos-buildings-pleasanton-6110-ext-1-1024x683-1.jpg?ve=1&tl=1",
+          "siteName": "KTVU FOX 2 San Francisco"
+        },
+        {
+          "url": "https://www.nbcbayarea.com/news/local/east-bay/workday-layoffs/3783670/",
+          "title": "Pleasanton-based Workday lays off 1,750 employees",
+          "description": "Workday is cutting about 1,750 jobs, or 8.5% of its workforce.",
+          "image": "https://media.nbcbayarea.com/2024/12/107169550-1671630755466-gettyimages-959933114-162993final.jpeg?quality=85&strip=all&crop=0px%2C0px%2C1700px%2C956px&resize=1200%2C675",
+          "siteName": "NBC Bay Area"
+        },
+        {
+          "url": "https://www.news4jax.com/business/2025/02/05/workday-lays-off-1750-employees-or-about-85-of-its-workforce/",
+          "title": "Workday lays off 1,750 employees, or about 8.5% of its workforce",
+          "description": "Workday is cutting about 1,750 jobs, or 8.5% of its workforce.",
+          "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/QRMCOVDWJVHJBOVPLLD5JQKUKQ.jpg?api_key=news4jax_3f10b25586458189",
+          "siteName": "WJXT"
+        }
+      ]
+    }
+  ]
+}

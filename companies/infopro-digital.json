@@ -1,0 +1,26 @@
+{
+  "name": "Infopro Digital",
+  "industry": "Business and trade media",
+  "domain": "infopro-digital.com",
+  "icon": "infopro-digital.png",
+  "events": [
+    {
+      "id": "c9f8e6fb-0411-4be7-b5e2-596481372351",
+      "date": "2026-05-04",
+      "headcount": 19,
+      "country": "France",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:6a8b92d5a25d39bfe190",
+      "sources": [
+        {
+          "url": "https://www.bfmtv.com/economie/emploi/vie-de-bureau/un-risque-grave-et-caracterise-sur-la-sante-physique-et-mentale-la-justice-suspend-un-projet-de-suppressions-de-postes-liees-a-l-ia-dans-les-medias-du-groupe-gisi_AD-202609160444.html",
+          "title": "\"Un risque grave et caractérisé sur la santé physique et mentale\": la justice suspend un projet de suppressions de postes liées à l'IA dans les médias du groupe Gisi",
+          "description": "Un projet de suppression de 8 postes au sein du groupe de presse professionnelle Gisi (L'Usine nouvelle, LSA..) a été suspendu en référé par le tribunal judiciaire de Créteil. Il prévoyait leur remplacement partiel par des outils d'IA.",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Gha6UUhE70GFS3G__gAsfoCA9p8=/0x106:2048x1258/2048x0/images/IA-et-outils-pour-entrepreneurs-3-logiciels-boostes-a-l-intelligence-artificielle-pour-votre-entreprise-2321123.jpg",
+          "siteName": "BFM BUSINESS"
+        }
+      ]
+    }
+  ]
+}

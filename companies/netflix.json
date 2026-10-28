@@ -1,0 +1,23 @@
+{
+  "name": "Netflix",
+  "hqCountry": "United States",
+  "events": [
+    {
+      "id": "dc69a10f-1145-43be-bff4-42ce11d82242",
+      "date": "2026-10-14",
+      "headcount": 1000,
+      "percent": 6,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+          "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention | TechCrunch",
+          "description": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/10/Netflix2154.jpg?resize=1200,553",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

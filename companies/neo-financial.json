@@ -1,0 +1,27 @@
+{
+  "name": "Neo Financial",
+  "industry": "Fintech",
+  "domain": "neofinancial.com",
+  "icon": "neo-financial.png",
+  "events": [
+    {
+      "id": "5eab5942-094a-4166-a68b-fd373dd244c2",
+      "date": "2026-09-08",
+      "headcount": 102,
+      "percent": 10,
+      "country": "Canada",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:b49b68d9e6395c4cd344",
+      "sources": [
+        {
+          "url": "https://betakit.com/neo-financial-lays-off-roughly-10-percent-of-its-staff/",
+          "title": "Neo Financial lays off roughly 10 percent of its staff | BetaKit",
+          "description": "The Calgary-based FinTech firm cut 102 employees to create a “simpler and faster team.”",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2022/05/Neo-Office-2-1.jpg",
+          "siteName": "BetaKit"
+        }
+      ]
+    }
+  ]
+}

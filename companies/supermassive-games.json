@@ -1,0 +1,26 @@
+{
+  "name": "Supermassive Games",
+  "industry": "Gaming",
+  "domain": "supermassivegames.com",
+  "icon": "supermassive-games.png",
+  "events": [
+    {
+      "id": "714fd039-b6e3-4a9b-841f-efebb45a99c2",
+      "date": "2026-10-06",
+      "headcount": 70,
+      "country": "United Kingdom",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:e9f1d575c52014687195",
+      "sources": [
+        {
+          "url": "https://gamingbolt.com/supermassive-games-lays-off-more-than-70-employees-two-months-after-redundancy-consultation",
+          "title": "Supermassive Games Lays Off “More Than 70” Employees Two Months After Redundancy Consultation",
+          "description": "When it first announced impending layoffs, Supermassive Games said that it was a \"difficult decision\" that was needed for sustainability.",
+          "image": "https://gamingbolt.com/wp-content/uploads/2026/05/directive-8020-cover.jpg",
+          "siteName": "GamingBolt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Atlassian",
+  "industry": "Enterprise SaaS (developer/collaboration software)",
+  "domain": "atlassian.com",
+  "icon": "atlassian.png",
+  "events": [
+    {
+      "id": "5ff98f0c-32e6-4d83-a51b-b7539c3faac5",
+      "date": "2026-03-11",
+      "headcount": 1600,
+      "percent": 10,
+      "country": "Australia",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:0d85e942ecd2902b3a5c",
+      "sources": [
+        {
+          "url": "https://forbes.com.au/news/investing/atlassian-cuts-another-1600-jobs-amid-ai-shakeup",
+          "title": "Atlassian cuts another 1,600 jobs amid AI shakeup",
+          "description": "Mike Cannon-Brookes has announced a 10% reduction in Atlassian's global workforce, saying the company must adapt quickly to fund AI and enterprise growth while moving toward sustained profitability.",
+          "image": "https://www.forbes.com.au/wp-content/uploads/2026/03/image_dcc8a2.png",
+          "siteName": "Forbes Australia"
+        },
+        {
+          "url": "https://news.bloomberglaw.com/daily-labor-report/atlassian-ceo-plans-to-cut-1-600-jobs-citing-the-shift-to-ai",
+          "title": "Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts (1)",
+          "description": "Atlassian Corp. plans to cut 1,600 jobs or a 10th of its global workforce, joining rivals in slashing staffing to cope with the advent of AI and a broader post-Covid industry slowdown.",
+          "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp"
+        },
+        {
+          "url": "https://www.businesstoday.in/amp/technology/story/atlassian-lays-off-1600-employees-as-it-ramps-up-ai-investment-520224-2026-03-12",
+          "title": "Atlassian lays off 1,600 as it ramps up AI investment - BusinessToday",
+          "description": "Atlassian layoffs: The company said the majority of impacted employees are based in North America, accounting for about 40% of the layoffs, followed by roughly 30% in Australia and around 16% in India.",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202603/69b24580701a1-lay-off-124754473-16x9.jpg",
+          "siteName": "Business Today"
+        }
+      ]
+    },
+    {
+      "id": "5fd31e82-b0c0-4107-a61f-d4733dc3d830",
+      "date": "2025-07-30",
+      "headcount": 150,
+      "country": "Australia",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:ceabe2b1e541f80e9fe4",
+      "sources": [
+        {
+          "url": "https://www.itpro.com/business/business-strategy/atlassian-denies-ai-is-behind-customer-service-job-cuts",
+          "title": "Atlassian denies AI is behind customer service job cuts",
+          "description": "Australian software company job losses spark debate about impact of AI on jobs",
+          "image": "https://cdn.mos.cms.futurecdn.net/LMXNMFw9NEdeP6hBVTtHTC-1920-80.jpg",
+          "siteName": "IT Pro"
+        }
+      ]
+    }
+  ]
+}

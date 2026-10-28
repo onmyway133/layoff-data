@@ -1,0 +1,27 @@
+{
+  "name": "Ticketmaster",
+  "industry": "Live events ticketing",
+  "domain": "ticketmaster.com",
+  "icon": "ticketmaster.png",
+  "events": [
+    {
+      "id": "f468b1a8-b20e-4815-afd7-4208ccb4fd51",
+      "date": "2026-05-06",
+      "headcount": 350,
+      "percent": 8,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:40a025cfa9c740228cb5",
+      "sources": [
+        {
+          "url": "https://news.pollstar.com/2026/05/06/ticketmaster-cuts-8-of-staff-350-employees-primarily-in-engineering-product-design/",
+          "title": "Ticketmaster Cuts 8% Of Staff, 350 Employees Primarily In Engineering, Product & Design - Pollstar News",
+          "description": "Pollstar has learned that Ticketmaster earlier today cut 8% of its global staff — some 350 employees across 25 countries — primarily in its engineering,",
+          "image": "https://static.pollstar.com/wp-content/uploads/2025/10/GettyImages-2170857732-1024x662.jpg",
+          "siteName": "Pollstar News"
+        }
+      ]
+    }
+  ]
+}

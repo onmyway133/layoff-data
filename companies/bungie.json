@@ -1,0 +1,29 @@
+{
+  "name": "Bungie",
+  "industry": "Gaming",
+  "domain": "bungie.net",
+  "icon": "bungie.png",
+  "events": [
+    {
+      "id": "0a87a502-4a09-46cd-8765-18d9e267c732",
+      "date": "2026-06-25",
+      "headcount": 292,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:c85b3ee7ee5be37d595a",
+      "sources": [
+        {
+          "url": "https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team",
+          "title": "Bungie Is Laying Off 'Most Of' The Destiny 2 Development Team",
+          "description": "People who worked on Marathon, as well as some Sony Interactive Entertainment employees, are also being let go. - Game Informer",
+          "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/06/25/46b792e9/destiny%202%20collection.jpg.webp",
+          "siteName": "Game Informer"
+        },
+        {
+          "url": "https://mynorthwest.com/local/bungie-layoffs-bellevue/4251470"
+        }
+      ]
+    }
+  ]
+}

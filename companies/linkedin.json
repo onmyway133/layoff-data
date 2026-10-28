@@ -1,0 +1,51 @@
+{
+  "name": "LinkedIn",
+  "industry": "Internet",
+  "domain": "linkedin.com",
+  "icon": "linkedin.png",
+  "events": [
+    {
+      "id": "8c38564e-1653-4990-aef1-31ca00556df9",
+      "date": "2026-08-11",
+      "headcount": 50,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:4ca736c4a08c1b9f111d",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/rjrwxydizg",
+          "title": "LinkedIn to shut down Israeli R&D operations and lay off nearly all employees | CTech",
+          "description": "The center, which employs about 50 people, was established in 2022 following LinkedIn’s $80 million-$90 million acquisition of Israeli analytics startup Oribi.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2020/06/18/998704/998704_0_104_1017_573_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    },
+    {
+      "id": "d1d40746-3402-458e-b908-bc42945877b9",
+      "date": "2026-05-13",
+      "headcount": 875,
+      "percent": 5,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:223a359c97129f8ad8ab",
+      "sources": [
+        {
+          "url": "https://vfuturemedia.com/ai/linkedin-layoffs-2026-microsoft-owned-platform-cuts-875-jobs-despite-growth/",
+          "title": "LinkedIn Layoffs 2026: Microsoft-Owned Platform Cuts 875 Jobs Despite Growth",
+          "image": "https://vfuturemedia.com/api/media/file/linkedin-layoffs-2026-microsoft-tech-jobs.jpg",
+          "siteName": "VFuture Media"
+        },
+        {
+          "url": "https://www.hcamag.com/us/news/general/linkedin-cuts-5-of-staff-despite-record-revenue-reuters-reports/575160",
+          "title": "LinkedIn cuts 5% of staff despite record revenue, Reuters reports",
+          "description": "As tech layoffs top 100,000 in 2026, LinkedIn's restructuring raises new questions about what growth actually means for workers",
+          "image": "https://cdn-res.keymedia.com/cms/images/us/035/0343_639143015288523312.png",
+          "siteName": "Human Resources Director"
+        }
+      ]
+    }
+  ]
+}

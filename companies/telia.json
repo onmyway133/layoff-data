@@ -1,0 +1,41 @@
+{
+  "name": "Telia",
+  "industry": "Telecom",
+  "domain": "teliacompany.com",
+  "icon": "telia.png",
+  "events": [
+    {
+      "id": "f3afb44e-31c4-47cd-823c-14073e292765",
+      "date": "2026-10-12",
+      "headcount": 900,
+      "country": "Sweden",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:f02a28bfcf4b8fc06a17",
+      "sources": [
+        {
+          "url": "https://lightreading.com/business-transformation/eurobites-telia-wields-jobs-axe-again",
+          "title": "Eurobites: Telia wields jobs axe again",
+          "description": "Also in today's EMEA regional roundup: Inwit shareholders consider buyout; Colt invests to get ready for AI surge; Nokia offers PON flexibility.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltdbd6813ee8ad57d8/650c87e5e1f1ed5d3e9ca88d/Telia_store_in_Stockholm.jpeg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Light Reading"
+        }
+      ]
+    },
+    {
+      "id": "472e6a05-6d82-403f-b559-319d72cef247",
+      "date": "2026-01-07",
+      "headcount": 59,
+      "percent": 2.4,
+      "country": "Lithuania",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:73ec2f7be3896c72742e",
+      "sources": [
+        {
+          "url": "https://www.nasdaq.com/press-release/telia-lietuva-reorganise-technology-unit-digital-shift-2026-01-07"
+        }
+      ]
+    }
+  ]
+}

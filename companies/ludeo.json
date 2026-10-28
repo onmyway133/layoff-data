@@ -1,0 +1,27 @@
+{
+  "name": "Ludeo",
+  "industry": "Gaming",
+  "domain": "ludeo.com",
+  "icon": "ludeo.png",
+  "events": [
+    {
+      "id": "809ca99e-cf1c-44c7-8002-c267ca2d4514",
+      "date": "2025-10-20",
+      "headcount": 25,
+      "percent": 50,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:d703453b485c82b4ce9b",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/bjukuox0xe",
+          "title": "Gaming startup Ludeo lays off half its staff as AI reshapes industry | CTech",
+          "description": "Interactive media platform reassesses strategy after raising $42 million from investors.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/05/15/HkFzvUmWee/HkFzvUmWee_0_0_2000_1126_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

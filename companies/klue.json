@@ -1,0 +1,27 @@
+{
+  "name": "Klue",
+  "industry": "Competitive intelligence software",
+  "domain": "klue.com",
+  "icon": "klue.png",
+  "events": [
+    {
+      "id": "7585c68a-f09b-4756-b4b0-0195af2e9bd6",
+      "date": "2025-06-20",
+      "headcount": 85,
+      "percent": 40,
+      "country": "Canada",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:98cd59f2223fef61e825",
+      "sources": [
+        {
+          "url": "https://betakit.com/klue-lays-off-40-percent-of-staff-as-startup-faces-internal-and-external-ai-pressure/",
+          "title": "Klue lays off 40 percent of staff as startup navigates shifting AI landscape | |",
+          "description": "Vancouver-based Klue has slashed 40 percent of its workforce as it contends with growing competition from businesses experimenting with AI internally, BetaKit has learned",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2025/06/Untitled-design-90.jpg",
+          "siteName": "BetaKit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Nothing",
+  "events": [
+    {
+      "id": "5b39ea67-7a1f-4ca2-a760-4c410f6d65ea",
+      "date": "2026-07-24",
+      "headcount": 100,
+      "country": "United Kingdom",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:2d421358d278575997fa",
+      "sources": [
+        {
+          "url": "https://sifted.eu/articles/nothing-to-cut-around-100-jobs-in-cost-cutting-push-reports-say"
+        }
+      ]
+    }
+  ]
+}

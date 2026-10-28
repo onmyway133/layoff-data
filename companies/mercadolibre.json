@@ -1,0 +1,26 @@
+{
+  "name": "MercadoLibre",
+  "industry": "E-commerce / fintech",
+  "domain": "mercadolibre.com",
+  "icon": "mercadolibre.png",
+  "events": [
+    {
+      "id": "8d67cfee-6694-4762-bd33-ea3c1137c45e",
+      "date": "2026-01-08",
+      "headcount": 119,
+      "country": "Argentina",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:219d8160da11be09eee7",
+      "sources": [
+        {
+          "url": "https://eleconomista.com.ar/economia/despidos-mercado-libre-entrenamos-ia-nos-reemplazo-n91871",
+          "title": "Despidos en MERCADO LIBRE: \"Entrenamos a la IA que nos reemplazó\"",
+          "description": "Tras 119 despidos, ex empleados de MercadoLibre denuncian haber entrenado a la inteligencia artificial que hoy reemplaza sus funciones en atención al cliente.",
+          "image": "https://statics.eleconomista.com.ar/2025/11/690cbdd22427e.jpg",
+          "siteName": "El Economista"
+        }
+      ]
+    }
+  ]
+}

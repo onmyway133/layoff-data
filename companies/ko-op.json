@@ -1,0 +1,26 @@
+{
+  "name": "KO_OP",
+  "industry": "Gaming",
+  "domain": "ko-opmode.com",
+  "icon": "ko-op.png",
+  "events": [
+    {
+      "id": "37eb9ba4-7146-4abc-8e38-1282cba0e214",
+      "date": "2026-09-14",
+      "headcount": 13,
+      "country": "Canada",
+      "reason": "market_downturn",
+      "dataset": "curated",
+      "externalId": "curated:47318fcdbacec262f813",
+      "sources": [
+        {
+          "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
+          "title": "Worker-run studio KO_OP confirms layoffs",
+          "description": "The Goodbye Volcano High and Young Suns developer has eliminated 13 roles.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte78b7de16a63e91b/6aa7c8d484b4ea7e0e908479/Koop_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Game Developer"
+        }
+      ]
+    }
+  ]
+}

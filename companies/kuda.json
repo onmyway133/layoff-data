@@ -1,0 +1,23 @@
+{
+  "name": "Kuda",
+  "events": [
+    {
+      "id": "733d9ff4-d637-49eb-b7ed-5a26ebdf8640",
+      "date": "2026-03-27",
+      "headcount": 100,
+      "country": "Nigeria",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:746fc4e625ff612e2ddb",
+      "sources": [
+        {
+          "url": "https://techcabal.com/2026/03/27/5-nigerian-companies-that-have-cut-staff-in-q1-2026/",
+          "title": "5 Nigerian companies that have cut staff in Q1 2026 - TechCabal",
+          "description": "Nigerian companies that cut staff in Q1 2026",
+          "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/03/5-Nigerian-companies-that-have-cut-staff-in-Q1-2026.jpg",
+          "siteName": "TechCabal"
+        }
+      ]
+    }
+  ]
+}

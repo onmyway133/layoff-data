@@ -1,0 +1,27 @@
+{
+  "name": "Elementor",
+  "industry": "Website-building software (WordPress)",
+  "domain": "elementor.com",
+  "icon": "elementor.png",
+  "events": [
+    {
+      "id": "7a2688f0-7d01-4fe9-985b-f1d2390869bb",
+      "date": "2026-06-29",
+      "headcount": 100,
+      "percent": 30,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:5f11f2623dcab1355c59",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/sycgn6yxze",
+          "title": "Elementor cuts 100 jobs, 30% of workforce, as AI reshapes website building | CTech",
+          "description": "Platform behind 25 million sites calls move a “reset” for the AI era.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2022/06/15/r1qCzPPF9/r1qCzPPF9_0_0_1280_721_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

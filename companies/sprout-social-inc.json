@@ -1,0 +1,30 @@
+{
+  "name": "Sprout Social, Inc.",
+  "industry": "Software / Social media management",
+  "domain": "sproutsocial.com",
+  "icon": "sprout-social-inc.png",
+  "events": [
+    {
+      "id": "99af289b-71df-49db-a824-eb205bd22342",
+      "date": "2026-07-15",
+      "headcount": 260,
+      "percent": 20,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:ffdb8e08d8fe412d13f8",
+      "sources": [
+        {
+          "url": "https://americanbazaaronline.com/2026/07/15/sprout-social-to-cut-260-jobs-as-ai-reshapes-software-industry-484641/",
+          "title": "Sprout Social to cut 260 jobs as AI reshapes software industry",
+          "description": "Sprout Social is laying off about 260 employees, or 20% of its workforce, as the company restructures to focus on AI amid broader changes.",
+          "image": "https://americanbazaaronline.com/wp-content/uploads/2022/12/Layoff.jpg",
+          "siteName": "The American Bazaar"
+        },
+        {
+          "url": "https://www.investing.com/news/stock-market-news/sprout-social-cuts-20-of-workforce-in-restructuring-plan-93CH-4793486"
+        }
+      ]
+    }
+  ]
+}

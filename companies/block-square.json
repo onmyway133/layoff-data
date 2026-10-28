@@ -1,0 +1,26 @@
+{
+  "name": "Block (Square)",
+  "industry": "Fintech",
+  "domain": "block.xyz",
+  "icon": "block-square.png",
+  "events": [
+    {
+      "id": "8efa7841-7120-4298-af7b-ec4f49625d5f",
+      "date": "2026-02-26",
+      "headcount": 4000,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:a35a8cc3c6ebad46a3b0",
+      "sources": [
+        {
+          "url": "https://gigazine.net/gsc_news/en/20260227-square-block-lay-off/",
+          "title": "Twitter founder Jack Dorsey's payment service Square's parent company Block is laying off 40% of its employees",
+          "description": "Block, the parent company of Square, a major payment service provider, and headed by Twitter co-founder Jack Dorsey, has announced plans to cut roughly half of its workforce. The decision is aimed at streamlining and streamlining the organization through the 'intentional and bold' adoption of AI and automation tools. Block plans to lay off nearly half its staff in 'deliberate and bold' embrace of AI - MarketWatch https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247 we're making @blocks smaller today. here's my note to the company. #### today we're making one of the hardest decisions in the history of our company: we're reducing our organization by nearly half, from over 10,000 people to just under 6,000. that means over 4,000 of you are… — jack (@jack) February 26, 2026 Block, the parent company of payment service giant Square, has announced massive layoffs, cutting roughly half of its workforce. CEO Dorsey explained that the company will reduce its workforce from over 10,000 to less than 6,000, with a total of more than 4,000 jobs affected. In his letter to employees, Dorsey said that 'intelligent tools' like AI and automation have fundamentally changed how companies are built and run, and that he believes small, flat teams leveraging these tools can produce better, more powerful results than ever before. by TED Conference CEO Dorsey emphasized that this move was not due to poor performance, but rather was made from a 'position of strength.' In fact, in the fourth quarter of 2025, gross profit increased 24% year-on-year to $2.87 billion (approximately 431 billion yen), beating analyst expectations. Earnings per share fell to 65 cents (100 yen) from 71 cents (approximately 110 yen) in the same period last year, but still exceeded market expectations. Employees affected by the layoffs will receive 20 weeks of pay, plus one week for each year of service, as well as a $5,000 transition grant. They will also receive stock vesting until the end of May and six months of medical insurance. Rather than cold-heartedly firing employees for the sake of efficiency, Dorsey said he would leave internal communication tools up until Thursday evening and provide a humane farewell. Dorsey said he aims to make Block a smaller, more agile, and flatter organization, and while he acknowledged that large-scale staff reductions entail risks, he also stressed that remaining in the status quo is equally risky. Furthermore, he said that going forward, he will focus on developing new services centered around AI, aiming for a future where customers can directly combine and use the company's functions.",
+          "image": "https://i.gzn.jp/img/2026/02/27/square-block-lay-off/00_m.jpg",
+          "siteName": "GIGAZINE"
+        }
+      ]
+    }
+  ]
+}

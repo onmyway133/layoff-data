@@ -1,0 +1,29 @@
+{
+  "name": "Shopify",
+  "industry": "E-commerce",
+  "hqCountry": "Canada",
+  "domain": "shopify.com",
+  "icon": "shopify.png",
+  "events": [
+    {
+      "id": "2ad653e9-b2ac-407f-b2f3-20b3643ceb75",
+      "date": "2022-07-26",
+      "headcount": 1000,
+      "percent": 10,
+      "country": "Canada",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2022/07/26/shopify-lays-off-10-of-its-workforce-as-rapid-pandemic-growth-slows",
+          "title": "Shopify lays off 10% of its workforce as rapid pandemic growth slows | TechCrunch",
+          "description": "Shopify is laying off around 10% of its workforce, or about 1,000 employees, the Wall Street Journal has reported. The Ottawa, Canada-based company told",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1169040174.jpg",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.cbc.ca/lite/story/1.6532165"
+        }
+      ]
+    }
+  ]
+}

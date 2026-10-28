@@ -1,0 +1,50 @@
+{
+  "name": "eBay",
+  "industry": "Internet / e-commerce",
+  "events": [
+    {
+      "id": "d83d885c-e6d4-4587-84c6-981970dc9ff0",
+      "date": "2026-10-21",
+      "headcount": 1000,
+      "percent": 9,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:05dbb0e514bfbaebd276",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
+          "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
+          "description": "EBay will lay off 9% of its workforce, or about 1,000 employees, as it works to focus on its \"top strategic priorities.\"",
+          "image": "https://image.cnbcfm.com/api/v1/image/108178367-1753794734349-gettyimages-2227347324-img_0593.jpeg?v=1753794770&w=1920&h=1080",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/ebay-online-marktplatz-streicht-mehr-als-1000-stellen/100263993.html",
+          "title": "Ebay: Online-Marktplatz streicht mehr als 1000 Stellen",
+          "description": "Der Online-Marktplatz Ebay wolle die geschaffenen Ressourcen investieren. Der US-Konzern verlagert damit seinen Schwerpunkt auf die wachstumsstarken Geschäftsbereiche.",
+          "image": "https://images.handelsblatt.com/8QNrW7I2NAvV/cover/4928/2772/0/0/254/254/0.5/0.5/urnnewsmldpa.com20090101260728-935-1509001.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0233bcd6-fbb3-416c-a3af-37f709abe2f0",
+      "date": "2026-02-26",
+      "headcount": 800,
+      "percent": 6,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:60c391298ad1b2e69c1f",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2026/02/26/ebay-layoffs-800-workforce.html",
+          "title": "EBay laying off about 800 roles, or 6% of its workforce",
+          "description": "The job cuts are occurring across the company, and are a result of its push to focus on \"strategic priorities,\" eBay said.",
+          "image": "https://image.cnbcfm.com/api/v1/image/105403368-1534522864426gettyimages-632621396.jpeg?v=1772114493&w=1920&h=1080",
+          "siteName": "CNBC"
+        }
+      ]
+    }
+  ]
+}

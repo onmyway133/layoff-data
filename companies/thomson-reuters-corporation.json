@@ -1,0 +1,27 @@
+{
+  "name": "Thomson Reuters Corporation",
+  "industry": "Professional information / Media",
+  "domain": "thomsonreuters.com",
+  "icon": "thomson-reuters-corporation.png",
+  "events": [
+    {
+      "id": "7e84d8ad-4725-440f-af3f-42f0d3716607",
+      "date": "2026-07-13",
+      "headcount": 500,
+      "percent": 1.8,
+      "country": "Canada",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:53ae8d57841d026c3818",
+      "sources": [
+        {
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/07/14/thomson-reuters-to-cut-039small-number039-of-engineering-jobs",
+          "title": "Thomson Reuters to cut 'small number' of engineering jobs",
+          "description": "July 13 (Reuters) - Thomson Reuters ⁠on Monday said it is cutting \"a small number of roles\" ⁠in engineering, as the Canadian content and technology company aggressively ‌deploys artificial intelligence across its businesses.",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/14/4009094.jpg",
+          "siteName": "The Star"
+        }
+      ]
+    }
+  ]
+}

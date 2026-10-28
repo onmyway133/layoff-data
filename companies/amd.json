@@ -1,0 +1,41 @@
+{
+  "name": "AMD",
+  "industry": "Semiconductors",
+  "domain": "amd.com",
+  "icon": "amd.png",
+  "events": [
+    {
+      "id": "513068ea-5959-46e3-b33f-0faa01bb2d6e",
+      "date": "2024-11-13",
+      "headcount": 1040,
+      "percent": 4,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:07c809bfa1ae95f0d6b3",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2024/11/13/amd-lays-off-4-of-its-workforce",
+          "title": "AMD lays off 4% of its workforce | TechCrunch",
+          "description": "AMD has confirmed that it's laying off 4% of its workforce to focus on 'large growth opportunities.'",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1165704565.jpg?w=1024",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://thestar.com.my/news/world/2024/11/14/amd-to-lay-off-4-pct-of-its-workforce",
+          "title": "AMD to lay off 4 pct of its workforce",
+          "description": "SAN FRANCISCO, Nov. 13 (Xinhua) -- U.S. computer chipmaker AMD is laying off around 1,000 employees, or 4 percent of its workforce, according to the company's annual 10-K filing.",
+          "image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+          "siteName": "The Star"
+        },
+        {
+          "url": "https://www.theregister.com/2024/11/13/amd_confirms_layoffs/",
+          "title": "AMD confirms it's cutting 4% of its global workforce",
+          "description": "LLM, LLM on the wall, who will be laid off first of all?",
+          "image": "https://image.theregister.com/244883.jpg?imageId=244883&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+          "siteName": "theregister"
+        }
+      ]
+    }
+  ]
+}

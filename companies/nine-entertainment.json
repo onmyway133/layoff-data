@@ -1,0 +1,24 @@
+{
+  "name": "Nine Entertainment",
+  "industry": "Media (news publishing)",
+  "events": [
+    {
+      "id": "ac0bd9a7-5ede-48ac-9af9-730f6e8d656f",
+      "date": "2026-07-21",
+      "headcount": 30,
+      "country": "Australia",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:dd555919c7c38621495b",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/media/2026/jul/21/smh-age-job-cuts-nine-sydney-morning-herald",
+          "title": "Nine to axe 30 jobs at the Age and SMH due to ‘extreme’ AI disruption",
+          "description": "Staff told positions will be cut via voluntary and targeted redundancies as part of ‘evolution’",
+          "image": "https://i.guim.co.uk/img/media/8935649a58c9aa7b3d7c701e59de7935c10e0df1/12_0_5853_4683/master/5853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ed4455274bcbeff27cf9aadddeb5fc5",
+          "siteName": "the Guardian"
+        }
+      ]
+    }
+  ]
+}

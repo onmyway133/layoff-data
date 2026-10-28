@@ -1,0 +1,46 @@
+{
+  "name": "TomTom",
+  "industry": "Maps and location technology",
+  "domain": "tomtom.com",
+  "icon": "tomtom.png",
+  "events": [
+    {
+      "id": "126dc47f-1867-4665-bcf5-787308ac0aea",
+      "date": "2026-10-15",
+      "headcount": 200,
+      "percent": 6,
+      "country": "Netherlands",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:8fb002f267734a2118b1",
+      "sources": [
+        {
+          "url": "https://nltimes.nl/2026/10/15/tomtom-plans-cut-200-jobs-roughly-6-workforce",
+          "title": "TomTom plans to cut 200 jobs, roughly 6% of workforce",
+          "description": "Dutch navigation system company TomTom is cutting approximately 200 jobs in a reorganization focused on making the navigation system provider “more focused, faster, and more scalable.” The decision was announced in an effort to boost profitability by the end of the year as revenue figures lag behind 2025 figures, the company said in its third-quarter update on Thursday.",
+          "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2025-06/Mapping_van_tomtom_with_five_lidars.jpg?h=ada05aa9",
+          "siteName": "NL Times"
+        }
+      ]
+    },
+    {
+      "id": "87eb6827-5cca-4d39-80f7-83447fdeeb7c",
+      "date": "2025-06-30",
+      "headcount": 300,
+      "percent": 10,
+      "country": "Netherlands",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:9f24bd7c70150b919df6",
+      "sources": [
+        {
+          "url": "https://nltimes.nl/2025/06/30/tomtom-scrapping-300-jobs-less-half-netherlands-ai-taking-work",
+          "title": "TomTom scrapping 300 jobs, less than half in Netherlands; AI taking over work",
+          "description": "The Dutch navigation company TomTom is cutting 300 jobs in the coming period. TomTom is changing strategy and is now “embracing artificial intelligence,” the company said. Less than half of the disappearing jobs will be in the Netherlands, a spokesperson added to NOS.",
+          "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2025-06/Mapping_van_tomtom_with_five_lidars.jpg?h=ada05aa9",
+          "siteName": "NL Times"
+        }
+      ]
+    }
+  ]
+}

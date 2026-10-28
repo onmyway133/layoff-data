@@ -1,0 +1,62 @@
+{
+  "name": "Autodesk",
+  "industry": "Software",
+  "domain": "autodesk.com",
+  "icon": "autodesk.png",
+  "events": [
+    {
+      "id": "bcada76f-65f7-4696-a925-04b4171e5a8f",
+      "date": "2026-01-22",
+      "headcount": 1000,
+      "percent": 7,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:cdb59183654526143c35",
+      "sources": [
+        {
+          "url": "https://news.bgov.com/esg/autodesk-to-cut-about-7-of-staff-amid-sales-reorganization-push",
+          "title": "Autodesk to Cut About 7% of Staff Amid Sales Reorganization Push",
+          "description": "Software company Autodesk Inc. is planning to cut around 1,000 jobs, or about 7% of its workforce, as it seeks to streamline its efforts in sales and marketing.",
+          "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp"
+        },
+        {
+          "url": "https://www.cgchannel.com/2026/01/autodesk-lays-off-a-further-1000-staff/",
+          "title": "Autodesk lays off a further 1,000 staff | CG Channel",
+          "description": "Second major round of layoffs at the 3ds Max and Maya developer in a year will affect sales staff and is not"
+        },
+        {
+          "url": "https://www.jonpeddie.com/news/autodesk-reduces-workforce-by-7/",
+          "title": "Autodesk reduces workforce by 7%",
+          "description": "Cuts mostly coming from customer-facing sales teams.",
+          "image": "https://www.jonpeddie.com/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-6.43.19-PM-1.png",
+          "siteName": "Jon Peddie Research"
+        }
+      ]
+    },
+    {
+      "id": "5216fb2e-a4a2-4eff-ba41-9719a1e98e0c",
+      "date": "2025-02-27",
+      "headcount": 1350,
+      "percent": 9,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:21df824aaa5d91dca8e0",
+      "sources": [
+        {
+          "url": "https://www.cgchannel.com/2025/03/autodesk-lays-off-1350-staff/",
+          "title": "Autodesk lays off 1,350 staff | CG Channel",
+          "description": "So why is the Maya and 3ds Max developer culling 9% of its global workforce when revenue is actually going up across the business?"
+        },
+        {
+          "url": "https://www.nbcnewyork.com/news/business/money-report/autodesk-says-it-will-cut-1350-employees-or-9-of-workforce-to-make-the-most-of-sales-changes/6167207/?amp=1",
+          "title": "Autodesk says it will cut 1,350 employees, or 9% of workforce, to make the most of sales changes",
+          "description": "Autodesk’s CEO said the company wants to make the most of its shift toward self-service sales and direct billing.",
+          "image": "https://media.nbcnewyork.com/2025/02/108108745-1740695422990-108108745-1740692881463-gettyimages-1252158993-UK_ANAGNOST.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "siteName": "NBC New York"
+        }
+      ]
+    }
+  ]
+}

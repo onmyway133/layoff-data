@@ -1,0 +1,37 @@
+{
+  "name": "Rackspace Technology",
+  "industry": "Technology (cloud / managed services)",
+  "domain": "rackspace.com",
+  "icon": "rackspace-technology.png",
+  "events": [
+    {
+      "id": "e7c7bbd9-a6a3-4c86-935c-7a8f944a6ff7",
+      "date": "2026-06-10",
+      "headcount": 750,
+      "percent": 15,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:dd5fa469db5a9ecd7944",
+      "sources": [
+        {
+          "url": "https://americanbazaaronline.com/2026/06/28/rackspace-cuts-750-jobs-to-expand-enterprise-ai-strategy-483660/",
+          "title": "Rackspace cuts 750 jobs to expand enterprise AI strategy",
+          "description": "Rackspace will cut 750 jobs as CEO Gajen Kandiah shifts the cloud company toward enterprise AI infrastructure and managed AI services.",
+          "image": "https://americanbazaaronline.com/wp-content/uploads/2026/06/RACKSPACE.jpg",
+          "siteName": "The American Bazaar"
+        },
+        {
+          "url": "https://finance.yahoo.com/technology/ai/articles/san-antonios-rackspace-cutting-750-211425201.html"
+        },
+        {
+          "url": "https://sacurrent.com/news/san-antonio-news/san-antonio-tech-company-rackspace-slashing-15-of-its-workforce",
+          "title": "San Antonio tech company Rackspace slashing 15% of its workforce",
+          "description": "San Antonio-based Rackspace is cutting jobs again, according to a financial filing. Rackspace, the corporation frequently held up as one of San Antonio's",
+          "image": "https://www.sacurrent.com/wp-content/uploads/2020/01/rackspacefacebook.webp",
+          "siteName": "San Antonio Current"
+        }
+      ]
+    }
+  ]
+}

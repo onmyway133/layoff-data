@@ -1,0 +1,34 @@
+{
+  "name": "BigID",
+  "industry": "Software",
+  "domain": "bigid.com",
+  "icon": "bigid.png",
+  "events": [
+    {
+      "id": "35c0d6b3-8a7d-4aa0-b1c8-084239470e25",
+      "date": "2026-05-26",
+      "headcount": 150,
+      "percent": 23,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "curated",
+      "externalId": "curated:bea24fbf08ada284e788",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001544054",
+          "title": "AI forces Israeli unicorn BigID to lay off 150",
+          "description": "The Israeli company, which has developed an enterprise data security platform, says it is fully embracing the changes brought about by AI.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779803520/COT_Pic/800_uoqgf2.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/b1lzc87ezl",
+          "title": "Data security unicorn BigID cuts 20% of workforce in shift to AI-first strategy | CTech",
+          "description": "Company says restructuring supports transition to AI-centric development model.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2021/08/19/BkV0B3ogt/BkV0B3ogt_0_0_1601_901_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

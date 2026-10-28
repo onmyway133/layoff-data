@@ -1,0 +1,72 @@
+name: Report a layoff
+description: Add a layoff reported by the press, without editing JSON.
+title: "Add: "
+labels: ["new layoff"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: Acme
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date announced or reported
+      placeholder: 2026-05-01
+    validations:
+      required: true
+  - type: input
+    id: headcount
+    attributes:
+      label: Jobs cut
+      description: As stated in the articles. Don't estimate.
+      placeholder: "120"
+    validations:
+      required: true
+  - type: input
+    id: percent
+    attributes:
+      label: Share of the workforce (%), if stated
+      placeholder: "8"
+  - type: input
+    id: country
+    attributes:
+      label: Country of the cuts
+      placeholder: United States
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason
+      options:
+        - Cost cutting
+        - Restructuring
+        - AI / automation
+        - Market downturn
+        - Acquisition / merger
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Press links
+      description: News articles that report the layoff, one per line. The company's own site, filings, press releases and social posts don't count.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      options:
+        - label: The numbers above are stated in the linked press articles.
+          required: true
+        - label: I agree that my contribution is licensed to the maintainers under the terms in LICENSE.
+          required: true

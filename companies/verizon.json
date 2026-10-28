@@ -1,0 +1,58 @@
+{
+  "name": "Verizon",
+  "industry": "Telecom",
+  "domain": "verizon.com",
+  "icon": "verizon.png",
+  "events": [
+    {
+      "id": "8e427aeb-4c4e-420c-9d60-da2fe8acb1d9",
+      "date": "2026-07-17",
+      "headcount": 500,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:df3ea2fa9e4567240cef",
+      "sources": [
+        {
+          "url": "https://arynews.tv/verizon-to-sell-274-stores-lay-off-another-500-employees",
+          "title": "Verizon to sell 274 stores, lay off another 500 employees",
+          "description": "Verizon announces plans to sell 274 retail locations and cut 500 corporate jobs as part of its restructuring efforts.",
+          "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Tower.jpg",
+          "siteName": "ARY News"
+        },
+        {
+          "url": "https://www.foxla.com/news/verizon-sell-nearly-300-stores-cut-500-jobs-restructuring",
+          "title": "Verizon to sell nearly 300 stores, cut 500 jobs in restructuring",
+          "description": "Verizon will sell nearly 300 retail stores and cut some 500 corporate jobs as part of a restructuring plan, but the closures will mean thousands more retail employees could be out of a job.",
+          "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/07/1200/630/gettyimages-2255691654-1-scaled.jpg?ve=1&tl=1",
+          "siteName": "FOX 11 Los Angeles"
+        }
+      ]
+    },
+    {
+      "id": "6cde457a-ea5d-471f-a4f8-a4a1a6ee113e",
+      "date": "2025-11-20",
+      "headcount": 13000,
+      "percent": 13,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:402f1fbfa34794468fa1",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2025/11/20/verizon-cutting-more-than-13000-jobs-as-it-restructures-.html",
+          "title": "Verizon cutting more than 13,000 jobs as it restructures",
+          "description": "Wireless carrier Verizon said Thursday it will cut more than 13,000 jobs in its largest single layoff as it works to shrink costs and restructure operations.",
+          "image": "https://image.cnbcfm.com/api/v1/image/108225676-1763063274628-gettyimages-2246554750-_73a9900_t3wf0x9a.jpeg?v=1763063392&w=1920&h=1080",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://www.newstribune.com/news/2025/nov/21/verizon-cutting-more-than-13000-jobs/",
+          "title": "Verizon cutting more than 13,000 jobs | Jefferson City News-Tribune",
+          "description": "NEW YORK (AP) -- Verizon is laying off more than 13,000 employees in mass job reductions that arrive as the telecommunications giant says it must \"reorient\" its entire company.",
+          "image": "https://faughnmedia.media.clients.ellingtoncms.com/imports/adg/img/2025/11/21/211585992_211585992-095b33103ed24f088c4d9f2eb3611ce2_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4"
+        }
+      ]
+    }
+  ]
+}

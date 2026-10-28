@@ -1,0 +1,27 @@
+{
+  "name": "Etsy",
+  "industry": "E-commerce",
+  "domain": "etsy.com",
+  "icon": "etsy.png",
+  "events": [
+    {
+      "id": "4200aef0-436a-4525-8694-8c8d6ce9f07d",
+      "date": "2026-08-05",
+      "headcount": 220,
+      "percent": 12,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:aad875bf05dac05191d5",
+      "sources": [
+        {
+          "url": "https://www.hcamag.com/us/specialization/hr-technology/etsy-cuts-220-jobs-to-sharpen-focus-and-accelerate-growth/585095",
+          "title": "Etsy cuts 220 jobs to sharpen focus and accelerate growth",
+          "description": "The e-commerce platform is cutting 12% of its workforce, with most job losses hitting product and engineering teams",
+          "image": "https://cdn-res.keymedia.com/cms/images/us/035/0311_639215701717850169.png",
+          "siteName": "Human Resources Director"
+        }
+      ]
+    }
+  ]
+}

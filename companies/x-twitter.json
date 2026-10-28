@@ -1,0 +1,26 @@
+{
+  "name": "X (Twitter)",
+  "industry": "Social Media",
+  "hqCountry": "United States",
+  "domain": "x.com",
+  "icon": "x-twitter.png",
+  "events": [
+    {
+      "id": "4342f1f9-5d01-462c-b89b-ca7614021334",
+      "date": "2022-11-04",
+      "headcount": 3700,
+      "percent": 50,
+      "country": "United States",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://www.bloomberg.com/news/videos/2022-11-03/musk-plans-massive-layoffs-at-twitter-video",
+          "title": "Watch Musk Plans Massive Layoffs at Twitter - Bloomberg",
+          "description": "Elon Musk plans to eliminate about 3,700 jobs at Twitter Inc., or half of the social media company’s workforce, according to sources. Meanwhile, more companies are reportedly pulling advertising off the platform. Bloomberg's Kurt Wagner has the latest on \"Bloomberg Technology.\"",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipTD7.uXyaqM/v3/500x-1.webp",
+          "siteName": "Bloomberg"
+        }
+      ]
+    }
+  ]
+}

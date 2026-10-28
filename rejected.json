@@ -1,0 +1,337 @@
+[
+  {
+    "externalId": "ailayoffs:009710b63001aa717414",
+    "company": "Danske Bank",
+    "date": "2026-05-28"
+  },
+  {
+    "externalId": "ailayoffs:029709d1b0fa073cd099",
+    "company": "BitGo",
+    "date": "2026-06-25"
+  },
+  {
+    "externalId": "ailayoffs:07246fdd20f48ffd7313",
+    "company": "Citigroup",
+    "date": "2026-01-14"
+  },
+  {
+    "externalId": "ailayoffs:07ba6fca291199916e46",
+    "company": "Dow Inc.",
+    "date": "2026-01-29"
+  },
+  {
+    "externalId": "ailayoffs:0d0652a1dd85de391ac5",
+    "company": "Freight Technologies (Fr8Tech)",
+    "date": "2025-02-07"
+  },
+  {
+    "externalId": "ailayoffs:0d9b5adf9c983513d97e",
+    "company": "General Motors",
+    "date": "2026-05-11"
+  },
+  {
+    "externalId": "ailayoffs:0f8cf9615fb6a7125bcd",
+    "company": "GSK",
+    "date": "2024-11-19"
+  },
+  {
+    "externalId": "ailayoffs:12f61155172603dac1ba",
+    "company": "CoxHealth",
+    "date": "2026-06-12"
+  },
+  {
+    "externalId": "ailayoffs:15d578c3f851035044fa",
+    "company": "EBRA",
+    "date": "2026-06-22"
+  },
+  {
+    "externalId": "ailayoffs:1e18da81a44024d886d4",
+    "company": "Snyk",
+    "date": "2026-06-24"
+  },
+  {
+    "externalId": "ailayoffs:2390742ef2147d586db5",
+    "company": "Axel Springer (Bild / Welt)",
+    "date": "2023-06-19"
+  },
+  {
+    "externalId": "ailayoffs:23909ee8d98da985359f",
+    "company": "Bendigo and Adelaide Bank",
+    "date": "2026-04-09"
+  },
+  {
+    "externalId": "ailayoffs:287fc3b59eabbabd7ba0",
+    "company": "BILL Holdings (Bill.com)",
+    "date": "2026-05-07"
+  },
+  {
+    "externalId": "ailayoffs:29d1b656b9d1c1b4233c",
+    "company": "WPP",
+    "date": "2026-09-01"
+  },
+  {
+    "externalId": "ailayoffs:3549fe79fde6440492ca",
+    "company": "IAC / People Inc.",
+    "date": "2026-04-28"
+  },
+  {
+    "externalId": "ailayoffs:3b1a810b29ea47845e18",
+    "company": "BenchSci",
+    "date": "2026-05-27"
+  },
+  {
+    "externalId": "ailayoffs:43309ec863eb66917c34",
+    "company": "Acrisure",
+    "date": "2025-10-08"
+  },
+  {
+    "externalId": "ailayoffs:49787f8b3e690b67c20c",
+    "company": "DBS Bank",
+    "date": "2025-02-24"
+  },
+  {
+    "externalId": "ailayoffs:4ccc4e566fe059cc172f",
+    "company": "Latch, Inc. (DOOR)",
+    "date": "2026-08-03"
+  },
+  {
+    "externalId": "ailayoffs:51f454e997b5c5c113c4",
+    "company": "ING",
+    "date": "2025-10-22"
+  },
+  {
+    "externalId": "ailayoffs:5243e6920106efaf4b2d",
+    "company": "Morgan Stanley",
+    "date": "2025-03-18"
+  },
+  {
+    "externalId": "ailayoffs:5466a995f62b50bc718f",
+    "company": "BMW",
+    "date": "2026-09-30"
+  },
+  {
+    "externalId": "ailayoffs:583744ea8c329418570e",
+    "company": "Baker McKenzie",
+    "date": "2026-02-06"
+  },
+  {
+    "externalId": "ailayoffs:5a879f6c9f95660e3eb1",
+    "company": "Kleine Zeitung (Styria Media Group)",
+    "date": "2024-07-12"
+  },
+  {
+    "externalId": "ailayoffs:5abf5acf658fa8d06b74",
+    "company": "MARA Holdings",
+    "date": "2026-04-02"
+  },
+  {
+    "externalId": "ailayoffs:5c61e20fbe7dab4640ef",
+    "company": "Disney",
+    "date": "2026-09-29"
+  },
+  {
+    "externalId": "ailayoffs:5e4bc9bf171b56e14131",
+    "company": "HDFC Bank",
+    "date": "2026-07-11"
+  },
+  {
+    "externalId": "ailayoffs:62bc22c35f9e3199f1c5",
+    "company": "Upwork",
+    "date": "2026-05-07"
+  },
+  {
+    "externalId": "ailayoffs:6c6682cbf07110ad676b",
+    "company": "WiseTech Global",
+    "date": "2025-07-23"
+  },
+  {
+    "externalId": "ailayoffs:6f0eb5c306adc662a58e",
+    "company": "Revere Health",
+    "date": "2025-11-03"
+  },
+  {
+    "externalId": "ailayoffs:730b432705ff40957f86",
+    "company": "Dell Technologies",
+    "date": "2026-03-16"
+  },
+  {
+    "externalId": "ailayoffs:737b6f2865a876cf043c",
+    "company": "Ouest-France",
+    "date": "2026-09-16"
+  },
+  {
+    "externalId": "ailayoffs:7b7a5d425b8e00becdc6",
+    "company": "Groupe SEB",
+    "date": "2026-02-25"
+  },
+  {
+    "externalId": "ailayoffs:7bc7de79014d6cb95501",
+    "company": "The Washington Post",
+    "date": "2026-02-04"
+  },
+  {
+    "externalId": "ailayoffs:7dac2f5a93259f327609",
+    "company": "Procter & Gamble",
+    "date": "2025-06-05"
+  },
+  {
+    "externalId": "ailayoffs:7fbba67680fd9501a907",
+    "company": "Intesa Sanpaolo",
+    "date": "2024-10-23"
+  },
+  {
+    "externalId": "ailayoffs:81132a89f7d2efe17389",
+    "company": "lastminute.com",
+    "date": "2026-06-17"
+  },
+  {
+    "externalId": "ailayoffs:93c958a4a29939f494bb",
+    "company": "Teleperformance",
+    "date": "2026-07-30"
+  },
+  {
+    "externalId": "ailayoffs:95a71735695cd52e6b68",
+    "company": "Clifford Chance",
+    "date": "2025-11-21"
+  },
+  {
+    "externalId": "ailayoffs:95d445a744ec7ae92b10",
+    "company": "IBM",
+    "date": "2023-05-01"
+  },
+  {
+    "externalId": "ailayoffs:9f71da6a86beff447062",
+    "company": "Walmart",
+    "date": "2026-05-12"
+  },
+  {
+    "externalId": "ailayoffs:a3cb0875df0d4490b38b",
+    "company": "Kroger",
+    "date": "2026-10-12"
+  },
+  {
+    "externalId": "ailayoffs:a4f512efa6b6f5b2e455",
+    "company": "ClickUp",
+    "date": "2026-05-21"
+  },
+  {
+    "externalId": "ailayoffs:b534d689250dbeef8c49",
+    "company": "The Bancorp",
+    "date": "2026-09-04"
+  },
+  {
+    "externalId": "ailayoffs:b5bc755d9688adc4ff20",
+    "company": "Commerzbank",
+    "date": "2026-05-08"
+  },
+  {
+    "externalId": "ailayoffs:c2d0efbcba54929f2b67",
+    "company": "Bank of America",
+    "date": "2026-04-15"
+  },
+  {
+    "externalId": "ailayoffs:c3360cbc061053a42c9c",
+    "company": "Lufthansa Group",
+    "date": "2025-09-29"
+  },
+  {
+    "externalId": "ailayoffs:c8acd8a995a3bc3c4a9d",
+    "company": "ERGO",
+    "date": "2026-02-17"
+  },
+  {
+    "externalId": "ailayoffs:cc97389bfed5e3ad8937",
+    "company": "Tamedia",
+    "date": "2026-10-05"
+  },
+  {
+    "externalId": "ailayoffs:ccb8924bdea379ea2e9e",
+    "company": "LegalZoom",
+    "date": "2026-08-05"
+  },
+  {
+    "externalId": "ailayoffs:d11ae8e1a68659fda570",
+    "company": "GB News",
+    "date": "2026-07-06"
+  },
+  {
+    "externalId": "ailayoffs:d1b373bc5abee77668e9",
+    "company": "Telus",
+    "date": "2025-02-13"
+  },
+  {
+    "externalId": "ailayoffs:d972b1c67227cbcd1e65",
+    "company": "McClatchy",
+    "date": "2026-09-10"
+  },
+  {
+    "externalId": "ailayoffs:dbe27fd2aea0e63b9781",
+    "company": "Oracle",
+    "date": "2026-06-22"
+  },
+  {
+    "externalId": "ailayoffs:dc893706ee2d22d97814",
+    "company": "Standard Chartered",
+    "date": "2026-05-19"
+  },
+  {
+    "externalId": "ailayoffs:dea852eece27d5085693",
+    "company": "McKinsey & Company",
+    "date": "2025-11-26"
+  },
+  {
+    "externalId": "ailayoffs:dfc209a709826a2152c2",
+    "company": "ABN AMRO",
+    "date": "2025-11-25"
+  },
+  {
+    "externalId": "ailayoffs:e017c7f56a14a8ead9b5",
+    "company": "Allianz Partners",
+    "date": "2026-07-07"
+  },
+  {
+    "externalId": "ailayoffs:e658f227a6b29e7c444d",
+    "company": "Reach plc",
+    "date": "2026-09-16"
+  },
+  {
+    "externalId": "ailayoffs:e9c216ad811fa52b91ea",
+    "company": "Klarna",
+    "date": "2024-12-12"
+  },
+  {
+    "externalId": "ailayoffs:ed3af0439a187825a2a9",
+    "company": "GSK",
+    "date": "2026-10-14"
+  },
+  {
+    "externalId": "ailayoffs:f2b6b67cca9d78a8f67d",
+    "company": "CWT Italia (Carlson Wagonlit Travel)",
+    "date": "2026-10-05"
+  },
+  {
+    "externalId": "ailayoffs:f457483c15e9ef8f4f50",
+    "company": "KLM",
+    "date": "2026-10-12"
+  },
+  {
+    "externalId": "ailayoffs:f843c2a5c0a2b97899da",
+    "company": "British American Tobacco",
+    "date": "2026-06-29"
+  },
+  {
+    "externalId": "ailayoffs:fa3a97bb889e373d78a2",
+    "company": "Intesa Sanpaolo",
+    "date": "2026-02-02"
+  },
+  {
+    "externalId": "ailayoffs:fee810958fea534c2102",
+    "company": "E.W. Scripps",
+    "date": "2026-08-04"
+  },
+  {
+    "externalId": "ailayoffs:ff7873bd56703a0b9f75",
+    "company": "Bentley Systems",
+    "date": "2024-02-27"
+  }
+]

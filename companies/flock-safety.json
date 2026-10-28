@@ -1,0 +1,27 @@
+{
+  "name": "Flock Safety",
+  "industry": "Security tech",
+  "domain": "flocksafety.com",
+  "icon": "flock-safety.png",
+  "events": [
+    {
+      "id": "296b86fc-aa9a-4b30-9a2e-48aafba06cc9",
+      "date": "2026-10-08",
+      "headcount": 270,
+      "percent": 18,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:75868a7c832ed6ece40d",
+      "sources": [
+        {
+          "url": "https://www.devdiscourse.com/article/international/3989419-exclusive-ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash-sources-say",
+          "title": "EXCLUSIVE-AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say | International",
+          "description": "Read more about EXCLUSIVE-AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say on Devdiscourse",
+          "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_55_1876187.jpg&width=920&format=jpeg",
+          "siteName": "Devdiscourse"
+        }
+      ]
+    }
+  ]
+}

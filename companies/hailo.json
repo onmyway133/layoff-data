@@ -1,0 +1,34 @@
+{
+  "name": "Hailo",
+  "industry": "Semiconductors",
+  "domain": "hailo.ai",
+  "icon": "hailo.png",
+  "events": [
+    {
+      "id": "564ccc70-2e7a-4d86-a2b2-211e34dd910f",
+      "date": "2026-06-08",
+      "headcount": 110,
+      "percent": 50,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:0df9710f11badcf015cf",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001545273",
+          "title": "Hailo lays off 50% of workforce",
+          "description": "Delek Automotive Systems has announced it will write off most of its investment, which was worth NIS 197 million at the end of March 2026, in financially-troubled Hailo.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1633423616/direct/%D7%90%D7%95%D7%A8_EIZ_8332_j3c5am.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/3hmpcioxj",
+          "title": "Former unicorn Hailo cuts 50% of workforce amid funding pressure and strategic reset | CTech",
+          "description": "Israeli semiconductor company lays off 110 employees while shifting focus toward drones, robotics, and Physical AI.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/04/02/SJu3WwKJ0/SJu3WwKJ0_1_80_3000_1689_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

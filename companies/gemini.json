@@ -1,0 +1,23 @@
+{
+  "name": "Gemini",
+  "industry": "crypto exchange",
+  "domain": "gemini.com",
+  "icon": "gemini.png",
+  "events": [
+    {
+      "id": "b98a3734-e3dc-4c19-919b-44601b9d4d58",
+      "date": "2026-02-05",
+      "headcount": 200,
+      "percent": 25,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:9487f82ab320fcf306cd",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/crypto-exchange-gemini-plans-lay-143815570.html"
+        }
+      ]
+    }
+  ]
+}

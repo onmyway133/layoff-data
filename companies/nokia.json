@@ -1,0 +1,68 @@
+{
+  "name": "Nokia",
+  "industry": "Telecom Equipment",
+  "hqCountry": "Finland",
+  "domain": "nokia.com",
+  "icon": "nokia.png",
+  "events": [
+    {
+      "id": "30bcb07d-63fc-4068-94a2-58bdc2156751",
+      "date": "2026-10-09",
+      "headcount": 253,
+      "country": "Finland",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:8289ea0b960ed6950bb3",
+      "sources": [
+        {
+          "url": "https://evertiq.com/news/2026-10-09-more-than-250-jobs-at-risk-as-nokia-plans-cuts-in-finland",
+          "title": "More than 250 jobs at risk as Nokia plans cuts in Finland",
+          "description": "Nokia is planning to cut up to 253 positions in Finland. The company wants to reduce costs and redirect resources towards areas such as defence, AI and data centres.",
+          "image": "https://evertiq.com/nimg/Logos/Nokia_logo-on-building-2023.jpg"
+        }
+      ]
+    },
+    {
+      "id": "af2fb9dc-e135-40fb-8e23-2afdc7f8ce42",
+      "date": "2026-08-14",
+      "headcount": 1600,
+      "country": "China",
+      "reason": "market_downturn",
+      "dataset": "curated",
+      "externalId": "curated:57ccb4abb97723ed083d",
+      "sources": [
+        {
+          "url": "https://www.lightreading.com/business-transformation/nokia-quits-r-d-in-china-and-cuts-1-600-jobs",
+          "title": "Nokia quits R&D facility in China and cuts 1,600 jobs",
+          "description": "The closure of a Nokia facility in Hangzhou will lead to about 1,600 job cuts and comes after the Finnish vendor took full control of its China business.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt3dfd1fb8f15b6811/69204aab8f97f534acc38f10/Nokia_CEO_Justin_Hotard_at_CMD_2025.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Light Reading"
+        }
+      ]
+    },
+    {
+      "id": "0892327d-52fb-45c1-aa8f-624d06c33a3c",
+      "date": "2023-10-19",
+      "headcount": 14000,
+      "percent": 16,
+      "country": "Finland",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://abc17news.com/money/cnn-business-consumer/2023/10/19/nokia-says-will-cut-up-to-14000-jobs/",
+          "title": "Nokia says it will cut up to 14,000 jobs",
+          "description": "By Michelle Toh, CNN Hong Kong (CNN) — Nokia will slash up to 14,000 jobs in a major cost-cutting drive to address a “weaker” market environment, it said in a statement on Thursday. The Finnish telecom giant, a major provider of 5G equipment that employs 86,000 people, announced the move as part of a wider",
+          "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
+          "siteName": "ABC17NEWS"
+        },
+        {
+          "url": "https://www.bloomberg.com/news/articles/2023-10-19/nokia-to-cut-up-to-14-000-jobs-to-lower-costs-in-weak-market",
+          "title": "Nokia Plans to Cut 14,000 Jobs in Overhaul to Shave Costs",
+          "description": "Nokia Oyj plans to cut as many as 14,000 jobs, or 16% of its workforce, as a dearth of investment in fifth-generation mobile infrastructure forces it to take cost-cutting measures.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivPzu9uIrmYA/v0/1200x800.jpg",
+          "siteName": "Bloomberg.com"
+        }
+      ]
+    }
+  ]
+}

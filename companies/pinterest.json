@@ -1,0 +1,27 @@
+{
+  "name": "Pinterest",
+  "industry": "Consumer internet / social media",
+  "domain": "pinterest.com",
+  "icon": "pinterest.png",
+  "events": [
+    {
+      "id": "2d212405-8dd7-4504-94b3-cbaa5bfd4c3d",
+      "date": "2026-01-26",
+      "headcount": 700,
+      "percent": 15,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:6dbaeb2483012c73de30",
+      "sources": [
+        {
+          "url": "https://www.techradar.com/pro/pinterest-reveals-major-job-cuts-as-it-shift-focus-to-ai-tools",
+          "title": "Pinterest reveals major job cuts as it shift focus to AI tools",
+          "description": "Pinterest cuts 15% of its workforce and reduces office space as it looks to drive forward its AI strategy.",
+          "image": "https://cdn.mos.cms.futurecdn.net/MHBU39e8KfJxN7w5oSYz68-999-80.jpg",
+          "siteName": "TechRadar"
+        }
+      ]
+    }
+  ]
+}

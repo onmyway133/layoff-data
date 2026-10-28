@@ -1,0 +1,27 @@
+{
+  "name": "HoneyBook",
+  "industry": "Small-business management software",
+  "domain": "honeybook.com",
+  "icon": "honeybook.png",
+  "events": [
+    {
+      "id": "9b9fca91-bc58-4e12-ac31-e32e22e8b73d",
+      "date": "2026-10-08",
+      "headcount": 30,
+      "percent": 14,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:e5a553cc7e6dfdd2032c",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/syg9pbhizx",
+          "title": "HoneyBook lays off 14% of workforce in AI-driven restructuring | CTech",
+          "description": "The small-business software company is cutting 30 to 35 jobs, with the majority of the layoffs affecting employees in Israel, despite holding hundreds of millions of dollars in cash reserves.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/10/21/SJIZXwXxJl/SJIZXwXxJl_0_0_2047_1153_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

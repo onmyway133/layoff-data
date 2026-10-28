@@ -1,0 +1,44 @@
+{
+  "name": "Pentera",
+  "industry": "Cybersecurity software",
+  "domain": "pentera.io",
+  "icon": "pentera.png",
+  "events": [
+    {
+      "id": "39e25b59-2804-4545-9ee0-8f56dcf6a042",
+      "date": "2026-08-17",
+      "headcount": 60,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:c4556e5ab8945533ee17",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/cri3dnoqo",
+          "title": "Pentera lays off another 60 employees in second round of cuts in four months | CTech",
+          "description": "The latest cuts affect about 60 employees, including 30 in Israel, bringing the total number of layoffs since April to roughly 100, or 20% of Pentera’s workforce, even as the company continues hiring for AI-related positions.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/03/12/BkMEWMWJnke/BkMEWMWJnke_156_0_1729_973_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    },
+    {
+      "id": "91ceff97-f75f-4b8e-ba81-4cabdcd5a108",
+      "date": "2026-04-27",
+      "headcount": 40,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:b8e280807717527c5d5c",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/b1ioncnpzl",
+          "title": "Cyber unicorn Pentera cuts 40 jobs while expanding AI push | CTech",
+          "description": "The company is trimming marketing and HQ roles while continuing to recruit engineers.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/03/12/BkMEWMWJnke/BkMEWMWJnke_156_0_1729_973_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

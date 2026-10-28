@@ -1,0 +1,24 @@
+{
+  "name": "Moon Active",
+  "events": [
+    {
+      "id": "a5c5db6a-d704-4298-96b4-4c31109eccee",
+      "date": "2026-01-27",
+      "headcount": 110,
+      "percent": 5,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:84ce4d4f5b058ece22be",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/jvbqyjznm",
+          "title": "Gaming unicorn Moon Active cuts 5% of workforce as it reshapes operations | CTech",
+          "description": "Layoffs affect roughly 110 employees of the Coin Master developer.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2020/12/23/1046343/1046343_0_31_1200_676_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

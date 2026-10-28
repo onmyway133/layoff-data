@@ -1,0 +1,51 @@
+{
+  "name": "Ericsson",
+  "industry": "Telecom Equipment",
+  "hqCountry": "Sweden",
+  "domain": "ericsson.com",
+  "icon": "ericsson.png",
+  "events": [
+    {
+      "id": "4b87525b-410c-46e2-8ded-3694f730cf8b",
+      "date": "2026-01-15",
+      "headcount": 1600,
+      "percent": 13,
+      "country": "Sweden",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:55b48b786cc478a2ab99",
+      "sources": [
+        {
+          "url": "https://www.datacenterdynamics.com/en/news/ericsson-outlines-plans-to-cut-1600-jobs-in-sweden/"
+        }
+      ]
+    },
+    {
+      "id": "0053d691-1958-487e-b46f-58eb51b26079",
+      "date": "2023-02-24",
+      "headcount": 8500,
+      "percent": 8,
+      "country": "Sweden",
+      "reason": "market_downturn",
+      "sources": [
+        {
+          "url": "https://gulfnews.com/business/markets/ericsson-to-cut-8-of-workforce-as-telecoms-market-cools-1.94064809",
+          "title": "Ericsson to cut 8% of workforce as telecoms market cools",
+          "description": "Telecommunications industry that has stumbled due to the weakening global economy",
+          "image": "https://media.assettype.com/gulfnews%2Fimport%2F2023%2F02%2F24%2FCopy-of-2023-02-20T094846Z_1238113591_RC2WEZ97NJFB_RTRMADP_3_ERICSSON-LAYOFFS-1677253276239_1868415f265_medium.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
+        },
+        {
+          "url": "https://rte.ie/news/business/2023/0224/1358650-ericsson-to-lay-off-8-500-employees-globally/",
+          "title": "Ericsson to lay off 8,500 employees globally",
+          "description": "Telecom equipment maker Ericsson will lay off 8,500 employees globally as part of its plan to cut costs, according to a memo sent to employees and seen by Reuters.",
+          "image": "https://www.rte.ie/images/001c5d40-1600.jpg",
+          "siteName": "RTE.ie"
+        },
+        {
+          "url": "https://www.techzine.eu/news/infrastructure/102473/ericsson-to-lay-off-8500-workers/"
+        }
+      ]
+    }
+  ]
+}

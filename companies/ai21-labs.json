@@ -1,0 +1,34 @@
+{
+  "name": "AI21 Labs",
+  "industry": "AI",
+  "domain": "ai21.com",
+  "icon": "ai21-labs.png",
+  "events": [
+    {
+      "id": "5f450320-7ef9-4d28-8def-1ed46803b911",
+      "date": "2026-05-18",
+      "headcount": 110,
+      "percent": 61,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:40255a50f6712144b649",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-1001543241",
+          "title": "Shashua�s AI21 Labs laying off 60% of employees",
+          "description": "The Israeli company will continue to develop optimization solutions for agents based on the Maestro system and discontinue sale of the language models themselves.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1741613591/direct/%D7%9E%D7%99%D7%99%D7%A1%D7%93%D7%99_AI21._%D7%A7%D7%A8%D7%93%D7%99%D7%98_-_%D7%A2%D7%95%D7%9E%D7%A8_%D7%94%D7%9B%D7%94%D7%9F_s2mgjy.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/rjwumhukfx",
+          "title": "AI21 cuts more than 60% of its workforce in major strategic overhaul | CTech",
+          "description": "The Israeli AI company will focus exclusively on AI agent optimization technology built around Maestro after Nebius acquisition talks collapse.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/04/06/ryfaK7ZhWx/ryfaK7ZhWx_1_416_3000_1689_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Zillow",
+  "hqCountry": "United States",
+  "events": [
+    {
+      "id": "d5c9cea4-51eb-416c-872c-fea6130ab093",
+      "date": "2026-08-04",
+      "headcount": 500,
+      "percent": 7,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://www.rismedia.com/2026/08/04/zillow-lays-off-500-employees-ahead-of-q2-earnings-announcement/",
+          "title": "Zillow Lays Off 500 Employees Ahead of Q2 Earnings Announcement",
+          "description": "Zillow has laid off 500 employees—about 7% of the portal’s employees—in order to ensure a “disciplined cost structure” across the portal.",
+          "image": "https://www.rismedia.com/wp-content/uploads/2026/05/021126_Zillow-1.png",
+          "siteName": "RISMedia"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "eToro",
+  "events": [
+    {
+      "id": "8bc35494-ed73-4939-8cab-e92ca25cd60f",
+      "date": "2026-01-13",
+      "headcount": 105,
+      "percent": 7,
+      "country": "Israel",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:eab231864198b2fd4afc",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/sjedi1vh11x",
+          "title": "eToro to lay off 7% of workforce | CTech",
+          "description": "105 jobs to be cut less than a year after the company’s Wall Street debut.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/05/19/HJeRIUT00Zlx/HJeRIUT00Zlx_27_0_1153_650_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bell Canada",
+  "industry": "Telecom",
+  "domain": "bell.ca",
+  "icon": "bell-canada.jpg",
+  "events": [
+    {
+      "id": "9a63a9f6-0042-4372-a678-02a6213e88b2",
+      "date": "2026-06-15",
+      "headcount": 700,
+      "country": "Canada",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:c20280b6953ab693e4ac",
+      "sources": [
+        {
+          "url": "https://www.ctvnews.ca/business/article/bell-cutting-nearly-700-jobs-amid-ongoing-organizational-changes-bell-media-not-impacted/",
+          "title": "Bell cutting nearly 700 jobs amid ongoing ‘organizational changes,’ Bell Media not impacted",
+          "description": "Bell Canada’s parent company is slashing nearly 700 jobs as part of organizational changes that began last year. Bell Media is not impacted by Monday’s changes.",
+          "image": "https://www.ctvnews.ca/resizer/v2/JU3KXQTMJNCHZGHSOPF2CUDZJ4.JPG?smart=true&auth=2d8bf3690437ca4d27682931af2b364ced7c554558fc45680c1e1e2441f64f5b&width=1200&height=630",
+          "siteName": "CTVNews"
+        }
+      ]
+    }
+  ]
+}

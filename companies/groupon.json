@@ -1,0 +1,51 @@
+{
+  "name": "Groupon",
+  "industry": "E-commerce",
+  "hqCountry": "United States",
+  "domain": "groupon.com",
+  "icon": "groupon.png",
+  "events": [
+    {
+      "id": "2ca94b7c-fa92-4448-8270-6a71a89c6843",
+      "date": "2026-05-21",
+      "headcount": 400,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:92973aeb96b711e62d92",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/groupon-layoffs-today-hundreds-jobs-123300849.html"
+        },
+        {
+          "url": "https://www.newstribune.com/news/2026/may/29/groupon-laying-off-nearly-25-percent-of-its/",
+          "title": "Groupon laying off nearly 25 percent of its workforce in AI shift | Jefferson City News-Tribune",
+          "description": "Groupon, the Chicago-based online marketplace, is slashing up to 400 positions -- nearly a fourth of its worldwide workforce -- in a plan to rebuild as an AI-native company.",
+          "image": "https://faughnmedia.media.clients.ellingtoncms.com/imports/nt/img/2026/05/29/217460374_BIZ-GROUPON-LAYOFFS-FILEPIC-TB_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4"
+        },
+        {
+          "url": "https://www.peoplematters.in/amp/news/strategic-hr/groupon-layoffs-hit-hr-customer-service-and-tech-teams-amid-ai-restructuring-49965",
+          "title": "Groupon layoffs hit HR, customer service and tech teams amid AI restructuring",
+          "description": "The online marketplace plans to cut up to 400 jobs globally as it redirects investment towards AI systems, automation and operational restructuring."
+        }
+      ]
+    },
+    {
+      "id": "22862c16-b339-4f4f-a49c-d6e3ebdfe7d2",
+      "date": "2023-01-30",
+      "headcount": 500,
+      "percent": 20,
+      "country": "United States",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2023/01/30/groupon-cuts-another-500-employees-in-the-second-round-of-layoffs/",
+          "title": "Groupon cuts another 500 employees in second round of layoffs | TechCrunch",
+          "description": "Groupon has laid off another 500 employees in a measure to cut costs, the company said in an SEC filing last week.",
+          "image": "https://techcrunch.com/wp-content/uploads/2016/07/groupon-wall-lrg.jpg?resize=1200,675",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

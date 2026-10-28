@@ -1,0 +1,26 @@
+{
+  "name": "Jamf",
+  "industry": "Software (Apple device management)",
+  "domain": "jamf.com",
+  "icon": "jamf.png",
+  "events": [
+    {
+      "id": "08d906f1-b7f3-4b7b-b4fb-b8abfba73a96",
+      "date": "2025-07-15",
+      "headcount": 166,
+      "percent": 6.4,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:dd05c7bf0a63c15a0ff6",
+      "sources": [
+        {
+          "url": "https://www.bankinfosecurity.com/jamf-carries-out-another-round-layoffs-axing-6-staff-a-28981",
+          "title": "Jamf Carries Out Another Round of Layoffs, Axing 6% of Staff",
+          "description": "Jamf will execute its second round of layoffs in two years, cutting 6.4% of its workforce to reduce operating costs and improve operating margins. The",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/jamf-carries-out-another-round-layoffs-axing-6-staff-showcase_image-3-a-28981.jpg"
+        }
+      ]
+    }
+  ]
+}

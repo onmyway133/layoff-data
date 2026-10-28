@@ -1,0 +1,41 @@
+{
+  "name": "GitLab",
+  "industry": "Dev Tools",
+  "domain": "gitlab.com",
+  "icon": "gitlab.png",
+  "events": [
+    {
+      "id": "885ffe7e-e086-4042-a1bc-579fcf76ae3e",
+      "date": "2026-06-03",
+      "headcount": 350,
+      "percent": 14,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:cb16f7df86f37c45b4e2",
+      "sources": [
+        {
+          "url": "https://gigazine.net/gsc_news/en/20260604-gitlab-cut-14-workforce-ai-workloads",
+          "title": "GitLab announced it will lay off approximately 350 employees, representing 14% of its workforce, and withdraw from 22 countries.",
+          "description": "GitLab is a DevSecOps platform that supports the entire software development and deployment process. On June 2, 2026, GitLab announced that it would lay off 14% of its full-time employees and withdraw from 22 countries in order to restructure its business. GitLab Inc. - GitLab Reports First Quarter Fiscal Year 2027 Financial Results https://ir.gitlab.com/news/news-details/2026/GitLab-Reports-First-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx GitLab to Lay Off 350 Employees in AI Pivot - WSJ https://www.wsj.com/business/earnings/gitlab-to-cut-14-of-workforce-as-part-of-ai-pivot-493b9813 GitLab cuts 14% of staff as it scales its platform to serve AI workloads | TechCrunch https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/ GitLab announced its financial results for the first quarter of fiscal year 2027 (February 1 to April 30, 2026) on June 2. Total revenue was $264.2 million (approximately 42.2 billion yen), a 23% increase year-over-year, exceeding analysts' expectations of $254 million (approximately 40.6 billion yen). Furthermore, the number of customers with annual recurring revenue (ARR) exceeding $5,000 (approximately 800,000 yen) reached 10,813, a 7% increase compared to the same period last year, and the number of customers with annual recurring revenue exceeding $100,000 (approximately 16 million yen) reached 1,519, an 18% increase compared to the same period last year. GitLab CEO Bill Staples stated, 'The agent era has been a structural tailwind for GitLab, and in the first quarter, we clearly demonstrated accelerated platform activity and promising growth for our AI agent platform, Duo Agent Platform.' GitLab reported strong earnings, but simultaneously announced it would lay off approximately 350 full-time employees, representing 14% of its workforce, as part of a restructuring of its business to optimize its ability to execute strategic priorities. The company also explained that it plans to withdraw from 22 countries to reduce the geographical distribution of its workforce by approximately 37%. A few weeks ago, GitLab announced a major organizational restructuring and a new strategy called 'Act 2' for the age of AI agents, revealing plans for workforce reductions and streamlining of management layers. GitLab plans a major restructuring to prepare for the AI agent era, including workforce reductions and streamlining of management layers - GIGAZINE The company anticipates that the large-scale layoffs will cost between $30 million and $35 million (approximately 4.8 to 5.6 billion yen) in restructuring costs, including severance pay and other expenses. Of this amount, approximately $19 million (approximately 3 billion yen) will be recorded in the second quarter of fiscal year 2027, with the majority of the remainder to be recorded over the following three quarters. The layoffs are said to be to focus on expanding the platform and investing in infrastructure and R&D to handle the increased traffic from AI workflows. CEO Staples explained, 'AI agents operate at machine scale and are pushing the competition to its limits. This quarter, GitLab embarked on a generational shift in Git to support the scale and capabilities needed for 100x growth. This is a scale requirement that has never existed before and presents a major challenge for all teams working on AI agents.' TechCrunch, a technology media outlet, points out that in recent years, more and more technology companies have been laying off employees because they 'need to make AI central to their business,' and GitLab has joined them. 'This pattern is now commonplace. Companies are posting record profits while cutting staff, and AI is cited as both the reason for their growth and the justification for the layoffs,' it said.",
+          "image": "https://i.gzn.jp/img/2026/06/04/gitlab-cut-14-workforce-ai-workloads/00.jpg",
+          "siteName": "GIGAZINE"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
+          "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads | TechCrunch",
+          "description": "The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/PXL_20220520_112153305.jpg?resize=1200,903",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.peoplematters.in/news/strategic-hr/gitlab-to-cut-350-jobs-and-exit-22-countries-as-part-of-restructuring-plan-50066",
+          "title": "GitLab to cut 350 jobs and exit 22 countries as part of restructuring plan",
+          "description": "The DevSecOps software company will reduce its workforce by 14% and shrink its international footprint while raising its full-year profit outlook following stronger-than-expected quarterly results.",
+          "image": "https://asset.peoplematters.in/images/28e91205-f0e1-49f1-bc01-f71ea3c0ff70.png",
+          "siteName": "People Matters"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Meta",
+  "industry": "Social Media",
+  "hqCountry": "United States",
+  "domain": "meta.com",
+  "icon": "meta.jpg",
+  "events": [
+    {
+      "id": "cf4b85c3-4a9e-4071-a418-73fd2e60cca0",
+      "date": "2026-05-20",
+      "headcount": 8000,
+      "percent": 10,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:7dc37c578d0946d9c451",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-lays-off-8-000-144531205.html"
+        },
+        {
+          "url": "https://www.aljazeera.com/economy/2026/5/20/meta-cuts-8000-jobs-in-sweeping-global-layoffs",
+          "title": "Meta cuts 8,000 jobs in sweeping global layoffs",
+          "description": "Meta cancels hiring plans for 6,000 roles amid ongoing layoffs and a pivot to artificial intelligence development.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0de3c6-1779295174.jpg?resize=1920%2C1440",
+          "siteName": "Al Jazeera"
+        },
+        {
+          "url": "https://www.ktvu.com/news/meta-begins-cutting-8000-positions-ai-transformation",
+          "title": "Meta, Intuit lay announce thousands of layoffs",
+          "description": "The Bay Area tech sector faced a fresh wave of disruption Wednesday as Meta and Mountain View-based software company, Intuit, announced thousands of layoffs, adding to a growing list of major companies slashing their workforces amid rapid shifts in the industry.",
+          "image": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2025/10/1200/630/gettyimages-1244644916-scaled.jpg?ve=1&tl=1",
+          "siteName": "KTVU FOX 2 San Francisco"
+        }
+      ]
+    },
+    {
+      "id": "2bf2e9aa-e570-426c-94ed-3b6834d54966",
+      "date": "2026-01-12",
+      "headcount": 1000,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:e24ad44b9264b671d88f",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html",
+          "title": "Meta's VR layoffs, studio closures underscore Zuckerberg's massive pivot to AI",
+          "description": "Meta began laying off employees in its Reality Labs division focused on virtual reality and shut down several VR studios as it pushes resources towards AI.",
+          "image": "https://image.cnbcfm.com/api/v1/image/107121537-1663699194580-gettyimages-612997102-OCULUS_CONNECT.jpeg?v=1768251927&w=1920&h=1080",
+          "siteName": "CNBC"
+        },
+        {
+          "url": "https://allwork.space/2026/01/meta-to-cut-10-of-reality-labs-workforce-signaling-failing-interest-in-the-metaverse/",
+          "title": "Meta To Cut 10% Of Reality Labs As Metaverse Interest Fades",
+          "description": "The division employs roughly 15,000 and has burned more than $60 billion since 2020, with headset and virtual network teams hit hardest, per the NYT.",
+          "image": "https://allwork.space/wp-content/uploads/2026/01/2026-01-12T212205Z_1_LYNXMPEM0B14C_RTROPTP_4_INDIA-META-scaled.webp",
+          "siteName": "Allwork.Space"
+        }
+      ]
+    },
+    {
+      "id": "d8bab83c-c68e-46d8-b8e4-9dcd087747a5",
+      "date": "2025-10-22",
+      "headcount": 600,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:cfe21aa5104606931c28",
+      "sources": [
+        {
+          "url": "https://www.nbcbayarea.com/news/local/meta-layoffs-artificial-intelligence-unit/3968171/",
+          "title": "Meta lays off 600 employees in artificial intelligence unit",
+          "description": "Meta Platforms is cutting roughly 600 artificial intelligence jobs.",
+          "image": "https://media.nbcbayarea.com/2024/07/AP24193862366379.jpg?quality=85&strip=all&crop=0px%2C561px%2C5370px%2C3021px&resize=1200%2C675",
+          "siteName": "NBC Bay Area"
+        }
+      ]
+    },
+    {
+      "id": "641bf914-c516-40ac-a66a-9e99431f9592",
+      "date": "2023-03-14",
+      "headcount": 10000,
+      "percent": 10,
+      "country": "United States",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://abc13.com/facebook-meta-job-layoffs-2023/12952350/",
+          "title": "Facebook-parent Meta plans to lay off another 10,000 employees",
+          "description": "Facebook's parent company Meta plans to lay off another 10,000 workers, marking the second round of significant job cuts announced by the tech giant in four months.",
+          "image": "https://cdn.abcotvs.com/dip/images/12952377_facebook-clean-meta-logo-AP-TN-img.jpg?w=1600",
+          "siteName": "ABC13 Houston"
+        },
+        {
+          "url": "https://www.itv.com/news/2023-03-14/facebook-and-instagram-owner-meta-to-cut-another-10000-jobs"
+        }
+      ]
+    },
+    {
+      "id": "f2e519bc-50e7-45e1-9a87-5c75b5b78738",
+      "date": "2022-11-09",
+      "headcount": 11000,
+      "percent": 13,
+      "country": "United States",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2022/11/09/meta-to-lay-off-more-than-11000-thousand-employees.html",
+          "title": "Meta laying off more than 11,000 employees: Read Zuckerberg's letter announcing the cuts",
+          "description": "Meta is laying off 13% of its staff, or more than 11,000 employees, CEO Mark Zuckerberg told employees on Wednesday.",
+          "image": "https://image.cnbcfm.com/api/v1/image/106967423-16354576832021-10-28t214510z_116189434_rc29jq9owmq8_rtrmadp_0_facebook-connect.jpeg?v=1693573201&w=1920&h=1080",
+          "siteName": "CNBC"
+        }
+      ]
+    }
+  ]
+}

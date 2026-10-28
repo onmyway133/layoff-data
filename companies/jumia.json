@@ -1,0 +1,41 @@
+{
+  "name": "Jumia",
+  "industry": "E-commerce (pan-African marketplace and logistics)",
+  "domain": "jumia.com",
+  "icon": "jumia.png",
+  "events": [
+    {
+      "id": "6a38d4de-2e3c-463c-859a-7ea315eccc48",
+      "date": "2026-05-07",
+      "headcount": 200,
+      "percent": 10,
+      "country": "Nigeria",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:8d00fb9865c7647fc74f",
+      "sources": [
+        {
+          "url": "https://thenextweb.com/news/jumia-ai-layoffs-profitability-africa-ecommerce",
+          "title": "Jumia is cutting another 10% of staff. AI is the framing. Profitability is the deadline.",
+          "description": "Jumia is cutting another 10% of staff, citing AI workflows. The company has now shed more than half its workforce since 2022. Q4 profitability is the deadline.",
+          "image": "https://media.thenextweb.com/2026/05/Jumia.jpg",
+          "siteName": "TNW | Africa"
+        },
+        {
+          "url": "https://weetracker.com/2026/05/14/jumia-ai-job-cuts-profitability-2026/",
+          "title": "Jumia To Replace 200 Jobs With AI To Reach Profitability By End Of 2026",
+          "description": "Jumia plans to cut 200 jobs as AI replaces manual tasks across logistics & customer service, pushing the African e-tailer to profitability.",
+          "image": "https://weetracker.com/wp-content/uploads/2026/05/Weetracker_Jumia2_Africa-1.png",
+          "siteName": "WeeTracker"
+        },
+        {
+          "url": "https://www.ecofinagency.com/news-finances/1605-55636-jumia-to-replace-200-employees-with-ai-in-push-toward-profitability",
+          "title": "Jumia to Replace 200 Employees With AI in Push Toward Profitability",
+          "description": "Jumia Technologies plans to cut about 200 full-time jobs, or 10% of its workforce, through AI-driven automation. The company aims to achieve positive cash flow by the fourth quarter of 2026 after years of restructuring and cost reductions. Jumia posted stronger-than-expected first-quarter 2026 results, with revenue rising 39% year-on-year. Jumia...",
+          "image": "https://www.ecofinagency.com/media/k2/items/cache/1165c4af4aaf25f2bfe11fad324184e5_S.jpg",
+          "siteName": "Ecofin Agency"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Crytek",
+  "industry": "Gaming",
+  "domain": "crytek.com",
+  "icon": "crytek.png",
+  "events": [
+    {
+      "id": "e6ae4c92-c9e6-40cc-acaf-71b8b5ab19b0",
+      "date": "2026-09-07",
+      "headcount": 30,
+      "country": "Germany",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:e860127e90f8976bcafe",
+      "sources": [
+        {
+          "url": "https://insider-gaming.com/crytek-layoffs-hit-staff-in-istanbul-and-frankfurt/",
+          "title": "Crytek Layoffs Hit Staff In Istanbul And Frankfurt",
+          "description": "Insider Gaming has learned that new layoffs at Crytek have impacted staff in Istanbul and at the company headquarters in Frankfurt.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Crytek_Relaunch_V_Logo_color_white.png",
+          "siteName": "Insider Gaming"
+        }
+      ]
+    }
+  ]
+}

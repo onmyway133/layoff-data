@@ -1,0 +1,23 @@
+{
+  "name": "Whatfix",
+  "industry": "Enterprise software (digital adoption)",
+  "domain": "whatfix.com",
+  "icon": "whatfix.png",
+  "events": [
+    {
+      "id": "78dd8154-b50a-4901-bb47-d71a16ce3cc8",
+      "date": "2025-12-09",
+      "headcount": 60,
+      "percent": 6,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:78b5252b8991dc5aa15a",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/softbank-backed-whatfix-lays-off-6-of-workforce-10895381"
+        }
+      ]
+    }
+  ]
+}

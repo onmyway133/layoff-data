@@ -1,0 +1,61 @@
+{
+  "name": "IBM",
+  "industry": "Technology / Services",
+  "domain": "ibm.com",
+  "icon": "ibm.png",
+  "events": [
+    {
+      "id": "83cfcd7e-955e-47a2-9303-150771d0ff33",
+      "date": "2026-01-27",
+      "headcount": 57,
+      "country": "Belgium",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:49068dd37221d72d351b",
+      "sources": [
+        {
+          "url": "https://www.bruzz.be/actua/economie/techgigant-ibm-wil-57-banen-schrappen-haren-2026-01-27",
+          "title": "Techgigant IBM wil 57 banen schrappen in Haren",
+          "description": "Bij IBM in Haren staan 57 banen op de tocht bij een collectief ontslag, zo melden de vakbonden dinsdag. De directie kondigde de plannen vorige week donderdag aan op een bijzondere ondernemingsraad.",
+          "image": "https://wmimages.bruzz.be/styles/cb5048ca7f89e231c928e0a37d7e49dbae1ead4e/2026-01/26c38474-49200383412018586547191313710517261742092315n.jpg?style=W3sicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX0seyJqcGVnIjp7InF1YWxpdHkiOjc1fX1d&sign=99f5f572982b4f4ac971c6443c77167a296898d48571a64dc6b9825a77224bbf"
+        }
+      ]
+    },
+    {
+      "id": "d90ac305-0b95-45f4-a3c5-467ea0c1e9a9",
+      "date": "2025-11-04",
+      "headcount": 2700,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:3f824e2c9950c35682de",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2025/11/04/ibm-layoffs-fourth-quarter.html",
+          "title": "IBM cutting thousands of jobs in the fourth quarter",
+          "description": "IBM recently delivered stronger earnings than expected, thanks to a 10% jump in revenue from software, meeting consensus.",
+          "image": "https://image.cnbcfm.com/api/v1/image/107300175-1694620703538-gettyimages-1662881031-AI_CEOs_519_091323.jpeg?v=1762286173&w=1920&h=1080",
+          "siteName": "CNBC"
+        }
+      ]
+    },
+    {
+      "id": "73b51a51-6827-4483-b11d-757f5b5e1291",
+      "date": "2024-03-13",
+      "headcount": 206,
+      "country": "France",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:7fb6023a6077ba9823e7",
+      "sources": [
+        {
+          "url": "https://www.lemondeinformatique.fr/actualites/lire-ibm-france-supprime-plus-de-200-emplois-remplaces-par-l-offshore-et-l-ia-93255.html",
+          "title": "IBM France supprime plus de 200 emplois remplac&eacute;s par l'offshore et l'IA - Le Monde Informatique",
+          "description": "IBM France a d&eacute;cid&eacute; d'engager un plan social justifi&eacute; par les gains de performance de l'intelligence artificielle ainsi que par une optimisation du...",
+          "image": "https://images.itnewsinfo.com/lmi/articles/grande/000000096551.jpg",
+          "siteName": "LeMondeInformatique"
+        }
+      ]
+    }
+  ]
+}

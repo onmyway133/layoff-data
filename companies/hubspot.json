@@ -1,0 +1,41 @@
+{
+  "name": "HubSpot",
+  "industry": "Software (CRM and marketing platform)",
+  "domain": "hubspot.com",
+  "icon": "hubspot.png",
+  "events": [
+    {
+      "id": "6c8fbafd-1170-4306-80d4-b8061c2cc68f",
+      "date": "2026-10-06",
+      "headcount": 660,
+      "percent": 7,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:ffd306c128fd33198c21",
+      "sources": [
+        {
+          "url": "https://www.boston.com/news/business/2026/10/06/hubspot-to-lay-off-660-employees/",
+          "title": "HubSpot to lay off 660 employees",
+          "description": "Cambridge-based software company HubSpot is laying off nearly 660 employees, about 7% of its workforce, as it reorganizes around a new strategy focused on using artificial intelligence. The company did not say how many employees in Massachusetts will be affected by the layoffs. CEO Yamini Rangan announced the cuts Tuesday in a letter to employees, […]",
+          "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/10/https___assets.bwbx_.io_images_users_iqjWHBFdfxIU_iN9PfmS8V_0I_v0_piFq5T3pJF0qzS8rF9LjsWaQ_-1x-1-6ac544eaaf2eb-768x432.jpg",
+          "siteName": "Boston.com"
+        },
+        {
+          "url": "https://www.bostonglobe.com/2026/10/06/business/hubspot-layoffs/",
+          "title": "HubSpot to lay off more than 600 employees - The Boston Globe",
+          "description": "The job cuts come amid a stock slump for the Cambridge tech firm, which has recently doubled down on its focus on artificial intelligence.",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/T4IUNVVFTSYH2BUTGZEQGTG7S4.jpg?auth=29a17cba50a9fce2d13f5d80566c01e70b0b45a76a3eb27736a571e22422486b&width=1440",
+          "siteName": "BostonGlobe.com"
+        },
+        {
+          "url": "https://www.ibtimes.co.uk/hubspot-cuts-660-jobs-ai-restructure-1824190",
+          "title": "HubSpot Axes 660 Jobs as AI Reshapes Company, Despite CEO Denying AI Is Behind Layoffs",
+          "description": "HubSpot is cutting nearly 660 jobs as it reorganises around AI and a flatter structure, while CEO Yamini Rangan says AI efficiencies did not drive the reductions.",
+          "image": "https://d.ibtimes.co.uk/en/full/1835267/ceo-yamini-rangan.png",
+          "siteName": "International Business Times UK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "AppsFlyer",
+  "industry": "Mobile marketing measurement (ad tech)",
+  "domain": "appsflyer.com",
+  "icon": "appsflyer.png",
+  "events": [
+    {
+      "id": "d52f9e38-d47c-4e0d-aa8d-a3db1646a28b",
+      "date": "2025-02-04",
+      "headcount": 100,
+      "percent": 7,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:810b92716b7b410f3bb8",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-appsflyer-lays-off-7-with-ipo-on-the-horizon-1001501283",
+          "title": "AppsFlyer lays off 7% with IPO on the horizon",
+          "description": "Israeli adtech company AppsFlyer is laying off 100 employees, in a streamlining move in order to stay “flexible, innovative, and focused on long-term success.\"",
+          "image": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/38F8ED7A161B4FBA56AD2DE97915C629_800x392.20191029T202145.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://mobilegamer.biz/appsflyer-to-cut-100-staff/",
+          "title": "AppsFlyer to cut 100 staff",
+          "description": "The layoffs represent around 7% of its workforce, and follow on from cuts at main rival Adjust last year.",
+          "image": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2023/11/appsflyer-2.jpg?fit=1200%2C395&ssl=1",
+          "siteName": "Mobilegamer.biz"
+        },
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/hjfbxkkt1e",
+          "title": "Unicorn AppsFlyer lays off 100 employees in strategic restructuring | CTech",
+          "description": "CEO Oren Kaniel says company will focus on AI and scalability as part of long-term growth plans.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/02/01/r18bgQt56/r18bgQt56_0_0_2048_1153_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

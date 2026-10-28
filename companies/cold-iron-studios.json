@@ -1,0 +1,25 @@
+{
+  "name": "Cold Iron Studios",
+  "industry": "Gaming",
+  "domain": "coldironstudios.com",
+  "events": [
+    {
+      "id": "3f28b3be-8468-4122-adc9-933f78ba331f",
+      "date": "2026-09-28",
+      "headcount": 19,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:d51736196d76be43fec2",
+      "sources": [
+        {
+          "url": "https://insider-gaming.com/aliens-fireteam-elite-2-developer-cold-iron-studios-layoffs/",
+          "title": "Aliens: Fireteam Elite 2 Developer Cold Iron Studios Hit By Layoffs",
+          "description": "Just a month after Aliens: Fireteam Elite 2's release, developer Cold Iron Studios has been hit by layoffs from parent company Enad Global 7.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/09/FireteamElite2.jpg",
+          "siteName": "Insider Gaming"
+        }
+      ]
+    }
+  ]
+}

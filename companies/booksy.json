@@ -1,0 +1,40 @@
+{
+  "name": "Booksy",
+  "industry": "Appointment booking software (beauty and wellness)",
+  "domain": "booksy.com",
+  "icon": "booksy.png",
+  "events": [
+    {
+      "id": "273fb585-e043-4023-b3f4-a35ad225ec90",
+      "date": "2026-09-10",
+      "headcount": 200,
+      "percent": 20,
+      "country": "Poland",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:45ffafd66b1e836375cc",
+      "sources": [
+        {
+          "url": "https://fashionbiznes.pl/booksy-zwalnia-okolo-200-osob-firma-przyspiesza-rozwoj-ai/",
+          "title": "200 osób straci pracę przez AI? Popularna polska aplikacja podjęła decyzję",
+          "description": "Booksy zwalnia około 200 pracowników. Sprawdź, dlaczego popularna aplikacja redukuje zatrudnienie i jaką rolę w zmianach odgrywa sztuczna inteligencja.",
+          "image": "https://fashionbiznes.pl/wp-content/uploads/2026/09/ZG-5.jpg",
+          "siteName": "Fashion Biznes"
+        },
+        {
+          "url": "https://www.money.pl/praca/polska-firma-podbila-swiat-teraz-tnie-zatrudnienie-o-200-osob-7327959978436768a.html",
+          "title": "Polska firma podbiła świat. Teraz tnie zatrudnienie o 200 osób",
+          "description": "Booksy, jedna z najbardziej rozpoznawalnych polskich firm technologicznych, redukuje zatrudnienie o około 20 proc. Stefan Batory, współzałożyciel i szef spółki, poinformował, że cięcia obejmą około 200 stanowisk...",
+          "image": "https://v.wpimg.pl/OTc1YTI0YDUCUy9nZkttIEELez0gEmN2FhNjdmYBdmZTSXYyIFwqJgZBNnouQjokAkYpejlcYDUTWHYieB8rPRBBNTUwHyo5AVQ9eypWfjVRCD0wZAAqZFYcbWJxVWJtBVJueXkIdm1UBDhmfQh-MkFM",
+          "siteName": "Money.pl - portal finansowy"
+        },
+        {
+          "url": "https://www.wiadomoscikosmetyczne.pl/wk/biznes-kosmetyki/booksy-zwolni-okolo-20-proc-zalogi-firma-przyspiesza-wdrazanie-ai-2537931",
+          "title": "Booksy zwolni około 20 proc. załogi. Firma przyspiesza wdrażanie AI",
+          "description": "Booksy, jedna z największych platform technologicznych obsługujących sektor beauty, wellness i zdrowia, redukuje zatrudnienie o około 20 proc. Pracę ma stracić około 200 osób. Firma zapowiada jednocześnie uproszczenie struktury organizacyjnej, rozwój narzędzi samoobsługowych i przyspieszenie wdrażania rozwiązań opartych na sztucznej inteligencji. To kolejny sygnał, że AI zaczyna zmieniać nie tylko ofertę dla salonów kosmetycznych, ale również sposób funkcjonowania firm obsługujących ten rynek.",
+          "image": "https://static.wiadomoscikosmetyczne.pl/images/2026/09/14/555646.webp"
+        }
+      ]
+    }
+  ]
+}

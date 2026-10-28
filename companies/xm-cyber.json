@@ -1,0 +1,26 @@
+{
+  "name": "XM Cyber",
+  "industry": "Cybersecurity",
+  "domain": "xmcyber.com",
+  "icon": "xm-cyber.png",
+  "events": [
+    {
+      "id": "86d13e12-4bbd-4123-805b-b9eb26d865bf",
+      "date": "2026-10-13",
+      "headcount": 250,
+      "country": "Israel",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:2c7df3191d81a23a6970",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/0x146nqil",
+          "title": "XM Cyber lays off 250 of its 300 Israeli employees following CrowdStrike deal | CTech",
+          "description": "Calcalist has learned that only around 50 employees remain in Israel, working with existing customers, after extensive layoffs since CrowdStrike announced its acquisition of XM Cyber’s technology in July.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/13/r1VmeDoizx/r1VmeDoizx_94_0_1931_1087_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

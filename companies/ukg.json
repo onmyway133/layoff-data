@@ -1,0 +1,23 @@
+{
+  "name": "UKG",
+  "industry": "Software",
+  "domain": "ukg.com",
+  "icon": "ukg.png",
+  "events": [
+    {
+      "id": "a03f2ea4-3b43-44ac-9788-2f0cc0210b8c",
+      "date": "2026-04-15",
+      "headcount": 950,
+      "percent": 6,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:587f377dbf4ee6747013",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ukg-formerly-ultimate-software-lays-205200750.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Kraken",
+  "industry": "Crypto exchange",
+  "domain": "kraken.com",
+  "icon": "kraken.png",
+  "events": [
+    {
+      "id": "89bd3802-b7c2-424f-80bd-17083c1c3cd5",
+      "date": "2026-05-15",
+      "headcount": 150,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:664c6b853c5ac9b86bb9",
+      "sources": [
+        {
+          "url": "https://cointelegraph.com/news/kraken-parent-payward-cuts-150-staff-potentially-delaying-ipo-report",
+          "title": "Kraken Cuts 150 Staff, Citing Rising AI Use",
+          "description": "Crypto exchange Kraken has cut 150 jobs as it finds efficiencies in deploying AI, likely delaying its IPO until 2027, Bloomberg reports.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-kraken-ipo.jpg",
+          "siteName": "Cointelegraph"
+        }
+      ]
+    }
+  ]
+}

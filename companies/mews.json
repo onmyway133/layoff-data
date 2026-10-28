@@ -1,0 +1,27 @@
+{
+  "name": "Mews",
+  "industry": "Hospitality Software (hotel property-management SaaS)",
+  "domain": "mews.com",
+  "icon": "mews.png",
+  "events": [
+    {
+      "id": "03934d03-7479-44e0-b1cc-a435841a95d6",
+      "date": "2026-07-07",
+      "headcount": 203,
+      "percent": 15,
+      "country": "Netherlands",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:92220b276feb43271840",
+      "sources": [
+        {
+          "url": "https://www.hoteldive.com/news/mews-cuts-staff-ai-native-future/824687/",
+          "title": "Mews lays off 15% of staff in pivot to ‘AI-native’ future",
+          "description": "The decision was a “difficult” one and is reflective of the current AI landscape in hospitality, founder Richard Valtr shared on LinkedIn.",
+          "image": "https://imgproxy.divecdn.com/14qzF8yE_YWAxHWjQI6GRMia92P9sExOrppVozY2oE0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SaWNoYXJkX2FuZF9NYXR0LmpwZw==.webp",
+          "siteName": "Hotel Dive"
+        }
+      ]
+    }
+  ]
+}

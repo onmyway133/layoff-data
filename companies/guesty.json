@@ -1,0 +1,23 @@
+{
+  "name": "Guesty",
+  "industry": "Hospitality software (short-term rental management)",
+  "domain": "guesty.com",
+  "icon": "guesty.png",
+  "events": [
+    {
+      "id": "22218434-7b51-4c84-999a-d05974845a40",
+      "date": "2026-05-13",
+      "headcount": 20,
+      "percent": 2.5,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:9135547b071183e8ebde",
+      "sources": [
+        {
+          "url": "https://www.geektime.co.il/guesty-lays-off-20-employees-in-israel/"
+        }
+      ]
+    }
+  ]
+}

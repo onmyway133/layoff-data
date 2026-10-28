@@ -1,0 +1,46 @@
+{
+  "name": "Lightricks",
+  "industry": "Consumer apps / AI video models",
+  "domain": "lightricks.com",
+  "icon": "lightricks.png",
+  "events": [
+    {
+      "id": "90962f06-6fdb-43f5-a09b-59dd44470b84",
+      "date": "2026-06-01",
+      "headcount": 75,
+      "percent": 17,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:1bbb5c05b4a39439d29d",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/r1dgjt5gmg",
+          "title": "Lightricks to split into two companies as it cuts another 75 jobs | CTech",
+          "description": "Jerusalem unicorn reshapes itself around AI, as Facetune profitability funds a costly push into video models.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/06/Bk4BSu94Wl/Bk4BSu94Wl_0_143_1998_1125_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    },
+    {
+      "id": "3f6b66a7-de60-4812-91f8-3011ef29156f",
+      "date": "2025-10-27",
+      "headcount": 85,
+      "percent": 15,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:aae5329f15834a9f4ab8",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/byvtpanceg",
+          "title": "Lightricks cuts 15% of workforce while expanding AI team | CTech",
+          "description": "Jerusalem unicorn lays off 85 employees as it reorganizes around its new AI video model.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/07/24/H1BzqZgvee/H1BzqZgvee_0_0_2000_1126_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

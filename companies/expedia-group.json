@@ -1,0 +1,22 @@
+{
+  "name": "Expedia Group",
+  "industry": "Travel tech",
+  "domain": "expediagroup.com",
+  "icon": "expedia-group.png",
+  "events": [
+    {
+      "id": "2aeda988-d021-4253-9bda-5de456294c84",
+      "date": "2026-09-29",
+      "headcount": 58,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:2f73617cfcb135411602",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-lay-off-58-200136555.html"
+        }
+      ]
+    }
+  ]
+}

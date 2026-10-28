@@ -1,0 +1,24 @@
+{
+  "name": "Huawei",
+  "events": [
+    {
+      "id": "babacb61-ac88-445e-b88d-bf6b6d096ac0",
+      "date": "2026-02-15",
+      "headcount": 50,
+      "percent": 12,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:a591a747ae6b1c6d61f0",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/bkmmdojuwx",
+          "title": "Huawei’s Israeli R&D center cuts 12% of cloud employees | CTech",
+          "description": "Layoffs affect around 50 of Toga Networks’ local workforce.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/11/12/HJzIqMMlWl/HJzIqMMlWl_0_0_2500_1408_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

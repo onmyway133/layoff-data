@@ -1,0 +1,26 @@
+{
+  "name": "Square Enix",
+  "industry": "Video games",
+  "domain": "square-enix.com",
+  "icon": "square-enix.png",
+  "events": [
+    {
+      "id": "b3a16524-7b47-477a-974a-d717906d4abe",
+      "date": "2025-11-06",
+      "headcount": 137,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:26a5bf899fe734b16058",
+      "sources": [
+        {
+          "url": "https://insider-gaming.com/square-enix-set-to-cut-over-100-jobs-in-mass-layoffs/",
+          "title": "UPDATED: Square Enix Set To Cut Over 100 Jobs In Mass Layoffs",
+          "description": "Square Enix is set to hold mass layoffs, with over 100 people being let go across the United Kingdom and United States.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2025/11/SquareBanner.jpg",
+          "siteName": "Insider Gaming"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Zomato",
+  "industry": "Food delivery and quick commerce",
+  "domain": "zomato.com",
+  "icon": "zomato.png",
+  "events": [
+    {
+      "id": "af0730dc-6fe0-44c3-8366-f4a683686a8f",
+      "date": "2026-08-31",
+      "headcount": 250,
+      "country": "India",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:b752fc05ca2c0ebb11b8",
+      "sources": [
+        {
+          "url": "https://www.business-standard.com/companies/news/zomato-to-cut-nearly-250-300-jobs-as-it-shuts-hyderabad-support-centre-126083101171_1.html"
+        }
+      ]
+    },
+    {
+      "id": "03da6921-c104-44a4-8261-6e9fd72c7a42",
+      "date": "2025-04-01",
+      "headcount": 600,
+      "country": "India",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:f949fe889ad95b681d43",
+      "sources": [
+        {
+          "url": "https://www.business-standard.com/companies/news/food-delivery-platform-zomato-sacks-nearly-600-customer-support-employees-125040100992_1.html"
+        }
+      ]
+    }
+  ]
+}

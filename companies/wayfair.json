@@ -1,0 +1,54 @@
+{
+  "name": "Wayfair",
+  "industry": "E-commerce",
+  "hqCountry": "United States",
+  "domain": "wayfair.com",
+  "icon": "wayfair.png",
+  "events": [
+    {
+      "id": "128b10a0-f636-45c3-a7f6-2a92d577d55f",
+      "date": "2025-03-07",
+      "headcount": 340,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:162684482fcfe0fa62c8",
+      "sources": [
+        {
+          "url": "https://www.bostonglobe.com/2025/03/07/business/wayfair-cutting-340-technology-jobs-closing-austin-hub/",
+          "title": "Wayfair cutting 340 jobs, closing Austin tech center - The Boston Globe",
+          "description": "It's the latest round of layoffs for the once-high-flying online furniture retailer.",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/5SYSPVMXEJB7FNDQUIQCJUES5Y.jpg?auth=24a83b9d7cb9ed7ac3c95d8c8a4dabdae1e2d64b73a95001c604dacc11f7443d&width=1440",
+          "siteName": "BostonGlobe.com"
+        },
+        {
+          "url": "https://www.retaildive.com/news/wayfair-layoffs-340-employees-technology-development-center-closure-austin/741944/",
+          "title": "Wayfair lays off 340 tech employees",
+          "description": "The company also plans to close its Technology Development Center in Austin, Texas.",
+          "image": "https://imgproxy.divecdn.com/-kLYa0B2GGlBOuduWLGRPGzAqd1NEAwLLnPZU_kKjZM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcwNDIwNTI0LmpwZw==.webp",
+          "siteName": "Retail Dive"
+        }
+      ]
+    },
+    {
+      "id": "41a61e23-e09b-44c5-8f83-23ce8b34c71e",
+      "date": "2022-08-18",
+      "headcount": 870,
+      "percent": 5,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "sources": [
+        {
+          "url": "https://www.retailgazette.co.uk/blog/2022/08/wayfair-job-cuts-redundancies/",
+          "title": "Wayfair to cut 870 jobs as it slashes global workforce by 5%",
+          "description": "Wayfair will cut about 870 jobs, which equates to 5% of its global workforce, as it looks to slash operating costs.",
+          "image": "https://www.retailgazette.co.uk/wp-content/uploads/2022/02/way.jpg",
+          "siteName": "Retail Gazette"
+        },
+        {
+          "url": "https://www.retailtouchpoints.com/topics/store-operations/workforce-scheduling/wayfair-cuts-870-corporate-jobs-as-it-right-sizes-team-amid-ecommerce-slowdown"
+        }
+      ]
+    }
+  ]
+}

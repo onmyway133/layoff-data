@@ -1,0 +1,24 @@
+{
+  "name": "ASML",
+  "events": [
+    {
+      "id": "a257fb20-521a-4d09-a05c-b3e5a15ed079",
+      "date": "2026-01-28",
+      "headcount": 1700,
+      "percent": 4,
+      "country": "Netherlands",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:302edcb51ee06b016df7",
+      "sources": [
+        {
+          "url": "https://www.dutchnews.nl/2026/01/after-record-year-asml-is-to-cut-1700-jobs-mainly-in-nl/",
+          "title": "After record year, ASML is to cut 1,700 jobs, mainly in NL - DutchNews.nl",
+          "description": "Chip machinery maker ASML is planning to cut its workforce by 1,700 jobs in the coming period, despite having its best-ever year in 2025. The jobs, the company said in an email to staff ahead of the presentation of its 2025 earnings, will mostly go in the Netherlands and involve “streamlining” its technology and IT divisions to improve the focus on innovation and engineering. The reorganisation, the company said, is necessary to ensure further growth by bringing back “the fast-moving...",
+          "image": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2020/01/EUV-system-in-Final-Assembly_48557.jpg",
+          "siteName": "DutchNews.nl"
+        }
+      ]
+    }
+  ]
+}

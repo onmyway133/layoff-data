@@ -1,0 +1,26 @@
+{
+  "name": "Proximus",
+  "industry": "Telecommunications",
+  "domain": "proximus.be",
+  "icon": "proximus.png",
+  "events": [
+    {
+      "id": "dc25b444-c710-4019-ac1b-14ce730c4d1f",
+      "date": "2026-02-27",
+      "headcount": 1200,
+      "country": "Belgium",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:9b34a17f1797704fed8f",
+      "sources": [
+        {
+          "url": "https://www.vrt.be/vrtnws/en/2026/02/27/proximus-plans-1-200-job-cuts-by-2030/",
+          "title": "Proximus plans 1,200 job cuts by 2030 | VRT NWS: news",
+          "description": "The part state-owned Telecom company Proximus has announced plans to shed 1,200 jobs between now and 2030. The company says that it will reduce its workforce in a “controlled and gradual” manner over the next few years. The company also announced a halving of the dividends it will pay its shareholders following an 11% fall in net profits.",
+          "image": "https://images.vrt.be/vrtnws_share/2026/02/27/cc853527-cf9a-4267-a265-a32104b5aa1b.jpg",
+          "siteName": "VRTNWS"
+        }
+      ]
+    }
+  ]
+}

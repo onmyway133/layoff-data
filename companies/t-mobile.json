@@ -1,0 +1,50 @@
+{
+  "name": "T-Mobile",
+  "industry": "Telecom",
+  "domain": "t-mobile.com",
+  "icon": "t-mobile.png",
+  "events": [
+    {
+      "id": "73fa8b65-fee7-4f56-b281-ab44717447c0",
+      "date": "2026-08-26",
+      "headcount": 77,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:933f4a08744921dfeff7",
+      "sources": [
+        {
+          "url": "https://komonews.com/news/local/t-mobile-closing-stores-in-washington-state-layoff-staff-at-headquarters-office-in-factoria-bellevue-remote-employee-employment-security-department-esd",
+          "title": "T-Mobile shutters 5 Washington stores, cuts jobs in fall layoffs at Bellevue HQ",
+          "description": "T-Mobile USA plans to lay off 77 Washington employees between Sept. 21 and Nov. 18, according to a notice filed with the state Employment Security Department.",
+          "image": "https://komonews.com/resources/media2/16x9/4026/1320/0x1/90/bdb90715-aee2-4be0-ae27-12fc2a7d08ae-GettyImages1636126676.jpg",
+          "siteName": "KOMO"
+        }
+      ]
+    },
+    {
+      "id": "199026fe-801b-48b4-a0e9-1bb1193014d8",
+      "date": "2023-08-24",
+      "headcount": 5000,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:e4154b387da3b2803b06",
+      "sources": [
+        {
+          "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks0",
+          "title": "T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks",
+          "description": "Wireless carrier T-Mobile plans to cut 5,000 jobs, or about 7% of its workforce",
+          "image": "https://s7d2.scene7.com/is/image/TWCNews/T-Mobile_Layoffs_72368"
+        },
+        {
+          "url": "https://www.fox13seattle.com/news/t-mobile-to-lay-off-5000-employees-or-about-7-of-its-workforce",
+          "title": "T-Mobile to lay off 5,000 employees, or about 7% of its workforce, in the coming weeks",
+          "description": "CEO Michael Sievert said the layoffs would come over the next five weeks and impact T-Mobile workers across the country — particularly those working in corporate and back-office roles, as well as some technology positions.",
+          "image": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/07/1200/630/GettyImages-1239458005.jpg?ve=1&tl=1",
+          "siteName": "FOX 13 Seattle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Remitly",
+  "events": [
+    {
+      "id": "2499cd16-2225-47ba-bae8-481ba1a7b14d",
+      "date": "2026-02-04",
+      "headcount": 110,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:39a0ea1aeb8a507b5196",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/bkxy2fwv11g",
+          "title": "Remitly cuts 110 jobs in Israel and closes R&D hub three years after $80 million Rewire acquisition | CTech",
+          "description": "Seattle fintech to retain only sales and business roles locally after Zoom-delivered layoffs affecting more than half of Israeli workforce.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/10/28/rk2211bTx1l/rk2211bTx1l_0_0_1600_900_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

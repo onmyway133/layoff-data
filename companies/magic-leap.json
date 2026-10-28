@@ -1,0 +1,32 @@
+{
+  "name": "Magic Leap",
+  "industry": "Hardware",
+  "domain": "magicleap.com",
+  "icon": "magic-leap.jpg",
+  "events": [
+    {
+      "id": "d02c6d8c-4b98-4e19-b56d-60c8ca04172e",
+      "date": "2026-07-20",
+      "headcount": 193,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:ef15c9fe539ddd7e4335",
+      "sources": [
+        {
+          "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
+          "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
+          "description": "AR unicorn Magic Leap is again pivoting its core business, this time to serve as a waveguide supplier to other companies making AR glasses, something that we’ve learned comes amid a mass lay off nearly 200 of its core engineering and product development staff. According to a formal WARN Act notification letter to US government […]",
+          "image": "https://roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg",
+          "siteName": "Road to VR"
+        },
+        {
+          "url": "https://www.uctoday.com/devices-workspace-tech/magic-leap-layoffs-waveguide-strategy/",
+          "title": "Magic Leap to Cut 193 Jobs as It Shifts From AR Headsets to Waveguide Supply",
+          "description": "Magic Leap will cut 193 jobs in Florida as it shifts from AR headsets to waveguide supply and device integration for AI display glasses.",
+          "image": "https://media.uctoday.com/article-images/magic-leap-layoffs-waveguide-strategy.jpg"
+        }
+      ]
+    }
+  ]
+}

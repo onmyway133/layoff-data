@@ -1,0 +1,30 @@
+{
+  "name": "Uber",
+  "industry": "Technology / Ridesharing",
+  "domain": "uber.com",
+  "icon": "uber.png",
+  "events": [
+    {
+      "id": "7425b62e-9ff7-4829-a683-1434b3e36bc1",
+      "date": "2026-09-02",
+      "headcount": 3300,
+      "percent": 10,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:cda964ec74b4298daa6d",
+      "sources": [
+        {
+          "url": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic",
+          "title": "Uber lays off 3,300 employees, ceases operations in Nigeria and Uganda",
+          "description": "Uber CEO Dara Khosrowshahi says cuts are part of ride-hailing giant's drive towards 'autonomous future.'",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9848da-1788365018.jpg?resize=1920%2C1440",
+          "siteName": "Al Jazeera"
+        },
+        {
+          "url": "https://www.euronews.com/2026/09/03/uber-cuts-10-of-global-workforce-in-biggest-layoffs-since-the-pandemic"
+        }
+      ]
+    }
+  ]
+}

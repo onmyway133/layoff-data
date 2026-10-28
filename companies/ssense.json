@@ -1,0 +1,44 @@
+{
+  "name": "SSENSE",
+  "industry": "Online luxury fashion retail",
+  "domain": "ssense.com",
+  "icon": "ssense.png",
+  "events": [
+    {
+      "id": "5e2e1da2-d9ce-4257-a7d2-40a4568f21d6",
+      "date": "2026-06-22",
+      "headcount": 12,
+      "country": "Canada",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:1fc25fa22716ac4328b3",
+      "sources": [
+        {
+          "url": "https://montrealgazette.com/business/ssense-lays-off-visuals-department-to-replace-with-ai-former-photographer-reveals/",
+          "title": "Ssense lays off most of visuals department to replace with AI, former photographer alleges",
+          "description": "Makeup artists and retouchers also let go as 'Ssense is evolving our studio operating model'",
+          "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/07/0704-ssense-3.jpg",
+          "siteName": "Montreal Gazette"
+        }
+      ]
+    },
+    {
+      "id": "3a476f5b-a926-4dbc-9b69-6318d277f39a",
+      "date": "2026-02-06",
+      "headcount": 215,
+      "country": "Canada",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:ceec8813fbce02cde2b1",
+      "sources": [
+        {
+          "url": "https://betakit.com/ssense-cut-more-than-200-jobs-days-after-founders-won-bid-to-buy-back-company/",
+          "title": "Ssense cut more than 200 jobs days after founders won bid to buy back company | BetaKit",
+          "description": "The layoffs follow a Québec court decision that blocked the company's lender's push for an asset sale.",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2025/08/SSENSE-company-image2.jpg",
+          "siteName": "BetaKit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Mastercard",
+  "events": [
+    {
+      "id": "e0d2b887-07ca-42f3-8838-6b8fa6a29f2d",
+      "date": "2026-01-29",
+      "headcount": 1400,
+      "percent": 4,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:b7fa4d3519598188f90a",
+      "sources": [
+        {
+          "url": "https://www.rte.ie/news/business/2026/0129/1555794-mastercard-quarterly-results/",
+          "title": "Mastercard cuts 4% of global staff, no word on Irish unit",
+          "description": "Mastercard has today beaten Wall Street expectations for fourth-quarter profit, as resilient spending on travel, leisure and everyday essentials boosted transaction volumes for the payment processor.",
+          "image": "https://www.rte.ie/images/001b820b-1600.jpg",
+          "siteName": "RTE.ie"
+        }
+      ]
+    }
+  ]
+}

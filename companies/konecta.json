@@ -1,0 +1,26 @@
+{
+  "name": "Konecta",
+  "industry": "Contact centres and business process outsourcing (CRM/BPO)",
+  "domain": "konecta.com",
+  "icon": "konecta.png",
+  "events": [
+    {
+      "id": "04942223-7df3-4bc7-8415-513d155cdbc8",
+      "date": "2026-09-11",
+      "headcount": 670,
+      "country": "Italy",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:dc7f860a12060f06672d",
+      "sources": [
+        {
+          "url": "https://www.rainews.it/tgr/piemonte/articoli/2026/09/timori-a-ivrea-dove-lavorano-500-dipendenti-mille-esuberi-in-tutta-italia-3d686581-0380-4b50-b331-7f83e49faea6.html",
+          "title": "Licenziati dall'intelligenza artificiale. Konecta, tremano Torino, Asti e Ivrea",
+          "description": "Nelle sede eporediese lavorano in 500. Dopo il rischio accentramento nel capoluogo e le uscite volontarie, ora si temono nuovi esuberi",
+          "image": "https://www.rainews.it/cropgd/1200x630/dl/img/2026/9/19/1789815050005_konecta.JPG",
+          "siteName": "RaiNews"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PlaxidityX (formerly Argus)",
+  "industry": "Cybersecurity",
+  "domain": "plaxidityx.com",
+  "icon": "plaxidityx-formerly-argus.png",
+  "events": [
+    {
+      "id": "dd5f6e8f-be8b-4fc3-ad39-601af170f1d7",
+      "date": "2026-06-30",
+      "headcount": 80,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:3e0f5437744fd6244275",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/rj3q6xzmfg",
+          "title": "Former $450 million Israeli cyber exit Argus to shut down | CTech",
+          "description": "Now operating as PlaxidityX, the automotive cybersecurity company will close its Israeli operations and lay off its remaining 80 employees as parent Aumovio restructures amid a slowing automotive market.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/07/23/rJsiCm0Ill/rJsiCm0Ill_1_52_1182_666_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

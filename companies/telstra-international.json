@@ -1,0 +1,26 @@
+{
+  "name": "Telstra International",
+  "industry": "Telecom",
+  "domain": "telstrainternational.com",
+  "icon": "telstra-international.png",
+  "events": [
+    {
+      "id": "32267353-903f-47c7-96be-ae4632ee1a44",
+      "date": "2026-04-23",
+      "headcount": 160,
+      "country": "Australia",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:f985929897d63e64884a",
+      "sources": [
+        {
+          "url": "https://ia.acs.org.au/article/2026/telstra-international-cutting-jobs-amid-ai-push.html",
+          "title": "Telstra International cutting jobs amid AI push",
+          "description": "Automation to increase under new proposal with Accenture.",
+          "image": "https://ia.acs.org.au/content/dam/ia/article/images/2026/telstra%20building%20sydney%20shutterstock.jpg",
+          "siteName": "Information Age"
+        }
+      ]
+    }
+  ]
+}

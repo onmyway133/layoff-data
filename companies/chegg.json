@@ -1,0 +1,137 @@
+{
+  "name": "Chegg",
+  "industry": "Education / Software",
+  "domain": "chegg.com",
+  "icon": "chegg.png",
+  "events": [
+    {
+      "id": "e75cf4b5-9980-4d5d-bfc9-23ef10048ca5",
+      "date": "2025-10-27",
+      "headcount": 388,
+      "percent": 45,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:6ebf9d7ad663a88b6984",
+      "sources": [
+        {
+          "url": "https://allwork.space/2025/10/chegg-cuts-45-of-employees-after-ai-slashes-traffic",
+          "title": "Chegg Cuts 45% Of Employees After AI Slashes Traffic",
+          "description": "The study help firm is dropping 388 roles worldwide and bringing back Dan Rosensweig as chief executive, blaming falling referrals from Google.",
+          "image": "https://allwork.space/wp-content/uploads/2025/10/Chegg-Cuts-45-Of-Employees-After-AI-Slashes-Traffic.jpg",
+          "siteName": "Allwork.Space"
+        },
+        {
+          "url": "https://www.fortune.com/2025/10/28/chegg-layoffs-ceo-dan-rosensweig-poster-child-ai-slashing-staff-shares",
+          "title": "Chegg's CEO once said he's the 'poster child' for AI shock. Now, the company is slashing 45% of staff | Fortune",
+          "description": "The edtech pioneer is cutting 388 jobs and bringing back Dan Rosensweig as CEO, underscoring how generative AI and shrinking Google traffic are reshaping student learning.",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1438689725.jpg?resize=1200,600",
+          "siteName": "Fortune"
+        },
+        {
+          "url": "https://www.foxbusiness.com/technology/chegg-lay-off-45-workforce-ai-google-traffic-shifts-batter-business",
+          "title": "Chegg cuts 45% of staff as AI reshapes online learning business",
+          "description": "Chegg cuts 45% of workforce as AI disrupts online learning platform. Santa Clara company eliminates 388 jobs amid declining traffic and revenue challenges.",
+          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/chegg-hq-santa-clara.jpg?ve=1&tl=1",
+          "siteName": "Fox Business"
+        }
+      ]
+    },
+    {
+      "id": "c56eb939-a0f9-4b85-bf83-dc39a284cbff",
+      "date": "2025-05-12",
+      "headcount": 248,
+      "percent": 22,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:a43a86053633bd2bdaad",
+      "sources": [
+        {
+          "url": "https://www.hrkatha.com/global-hr-news/chegg-to-lay-off-22-of-workforce-amid-growing-ai-disruption/",
+          "title": "Chegg to lay off 22% of workforce amid growing AI disruption",
+          "description": "The move comes as students increasingly rely on AI-driven tools such as ChatGPT instead of traditional edtech services",
+          "image": "https://www.hrkatha.com/wp-content/uploads/2024/06/Chegg.png",
+          "siteName": "HR Katha"
+        },
+        {
+          "url": "https://www.maginative.com/article/chegg-slashes-22-of-workforce-amid-ai-disruption-in-edtech/",
+          "title": "Chegg Slashes 22% of Workforce Amid AI Disruption in EdTech",
+          "description": "Chegg announces layoffs of 22% of its workforce, attributing the move to declining demand due to the rise of AI-powered educational tools like ChatGPT.",
+          "image": "https://storage.ghost.io/c/49/a0/49a0c44f-2e08-4cc3-80a6-bf8207f188f4/content/images/size/w1200/2025/05/chegg-ai.jpg",
+          "siteName": "Maginative"
+        }
+      ]
+    },
+    {
+      "id": "920ed7a6-c21a-4616-9b68-a20534875f72",
+      "date": "2024-11-12",
+      "headcount": 319,
+      "percent": 21,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:630f729d777d1d4c1a13",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/chegg-layoffs-company-cut-over-220122936.html"
+        }
+      ]
+    },
+    {
+      "id": "59632f16-635a-4b67-b77e-8d9bef852808",
+      "date": "2024-06-17",
+      "headcount": 441,
+      "percent": 23,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:94a21d9285eacbd5430c",
+      "sources": [
+        {
+          "url": "http://www.calcalistech.com/ctechnews/article/bkk00umy80",
+          "title": "Chegg shutting down Israel operations, laying off entire workforce | CTech",
+          "description": "As part of a 23% cut in its global team, Chegg is closing its Israel office, resulting in the layoff of dozens of employees",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2019/02/11/883783/883783_0_44_1001_563_0_large.jpg",
+          "siteName": "ctech"
+        },
+        {
+          "url": "https://fool.com/investing/2024/06/18/why-chegg-stock-is-up-big-today",
+          "title": "Why Chegg Stock Is Up Big Today | The Motley Fool",
+          "description": "The company is cutting costs as it looks to rework its offering",
+          "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F780975%2Ffocused-student-looking-at-laptop-holding-book-doing-research-getty.jpg&w=1200&op=resize",
+          "siteName": "The Motley Fool"
+        },
+        {
+          "url": "https://investorplace.com/2024/06/chegg-layoffs-2024-what-to-know-about-the-latest-chegg-job-cuts/",
+          "title": "Chegg Layoffs 2024: What to Know About the Latest Chegg Job Cuts",
+          "description": "Chegg layoffs have the company cutting hundreds of jobs and closing multiple offices as part of a larger restructuring.",
+          "image": "https://investorplace.com/wp-content/uploads/2019/07/CHGG1600.jpg",
+          "siteName": "InvestorPlace"
+        }
+      ]
+    },
+    {
+      "id": "af501fb4-e938-4e2d-bfa2-120dcd3645f1",
+      "date": "2023-06-12",
+      "headcount": 80,
+      "percent": 4,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:136f92e4553e2183a78c",
+      "sources": [
+        {
+          "url": "https://www.sakshipost.com/news/edtech-firm-chegg-cut-4-staff-ai-risks-business-199473",
+          "title": "Edtech firm Chegg to cut 4% of staff as AI risks business",
+          "description": "San Francisco, June 14 (IANS) US-based online learning platform Chegg has revealed its plans to cut about 4 per cent of its workforce, just weeks after its CEO admitted that OpenAI's ChatGPT was crushing its business as more students are turning to artificial intelligence for homework assistance.",
+          "image": "https://www.sakshipost.com/sites/default/files/styles/topnews_main/public/article_images/2023/06/14/3402b58a21f013973df266484f2a67a6-1686750002.jpg?itok=XK6QdEFi",
+          "siteName": "Sakshi Post"
+        },
+        {
+          "url": "https://www.tipranks.com/news/chegg-nysechgg-trims-workforce-chatgpt-threat-lingers"
+        }
+      ]
+    }
+  ]
+}

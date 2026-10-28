@@ -1,0 +1,26 @@
+{
+  "name": "Lyft",
+  "industry": "Ride-hailing",
+  "hqCountry": "United States",
+  "domain": "lyft.com",
+  "icon": "lyft.png",
+  "events": [
+    {
+      "id": "fcc29b82-f12a-4ba3-9d0b-a34a8bc1df4c",
+      "date": "2023-04-25",
+      "headcount": 1072,
+      "percent": 26,
+      "country": "United States",
+      "reason": "restructuring",
+      "sources": [
+        {
+          "url": "https://www.businesstoday.in/amp/technology/news/story/tech-layoffs-uber-rival-lyft-fires-26-employees-in-second-round-of-job-cuts-379242-2023-04-28",
+          "title": "Tech layoffs: Uber rival Lyft fires 26% employees in second round of job cuts - BusinessToday",
+          "description": "Risher had previously stated that the company would 'significantly' cut jobs, without giving specific numbers",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202304/lyft-uber-sixteen_nine.jpg",
+          "siteName": "Business Today"
+        }
+      ]
+    }
+  ]
+}

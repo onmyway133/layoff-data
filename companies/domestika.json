@@ -1,0 +1,27 @@
+{
+  "name": "Domestika",
+  "industry": "Online creative courses (edtech)",
+  "domain": "domestika.org",
+  "icon": "domestika.png",
+  "events": [
+    {
+      "id": "64c63d58-18b9-4c1b-83e1-38b93688be1a",
+      "date": "2023-02-22",
+      "headcount": 89,
+      "percent": 45,
+      "country": "Spain",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:fde0e19dec0c9c71fa4b",
+      "sources": [
+        {
+          "url": "https://www.elsaltodiario.com/laboral/domestika-sustituye-creatividad-inteligencia-artificial-ere-casi-mitad-plantilla",
+          "title": "Domestika sustituye creatividad por inteligencia artificial con un ERE para casi la mitad de su plantilla",
+          "description": "De momento, la empresa solo les ha ofrecido 25 días por año trabajado como indemnización, cuando el despido procedente tiene una horquilla de 20 a 33 días y el improcedente es únicamente de 33.",
+          "image": "https://www.elsaltodiario.com/uploads/fotos/rs600/b94172fe/IMG_9448Copia%20_general.jpg?v=63847730855",
+          "siteName": "www.elsaltodiario.com"
+        }
+      ]
+    }
+  ]
+}

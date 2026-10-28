@@ -1,0 +1,41 @@
+{
+  "name": "Cloudflare",
+  "industry": "Internet Infrastructure",
+  "domain": "cloudflare.com",
+  "icon": "cloudflare.png",
+  "events": [
+    {
+      "id": "c3d2c875-fc66-4842-94e8-0f6a5c2f24ec",
+      "date": "2026-05-07",
+      "headcount": 1100,
+      "percent": 20,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:d330203dfa7cbc8f8eb4",
+      "sources": [
+        {
+          "url": "https://www.businesstoday.in/amp/technology/story/this-wasnt-an-easy-decision-cloudflare-ceo-said-as-it-cuts-over-1100-jobs-globally-530437-2026-05-08",
+          "title": "‘This wasn’t an easy decision,' Cloudflare CEO said as it cuts over 1,100 jobs globally - BusinessToday",
+          "description": "Cloudflare CEO Matthew Prince said that some existing jobs may no longer fit the kind of work Cloudflare expects to prioritise going forward.",
+          "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/69fd4c6acb430-cloudflare-lay-off-083724677-16x9.png",
+          "siteName": "Business Today"
+        },
+        {
+          "url": "https://www.eweek.com/news/cloudflare-ai-layoffs-workforce-cuts/",
+          "title": "Cloudflare Slashes 20% of Workforce Despite Record Revenue",
+          "description": "Cloudflare is cutting 20% of its workforce as AI reshapes its business model, despite record revenue and continued growth expectations.",
+          "image": "https://cdn.eweek.com/c280cc2c21b58faf155ac0a38839d034f0ce639aa00c495f73385aa291661acf.avif",
+          "siteName": "eWeek"
+        },
+        {
+          "url": "https://www.outlookbusiness.com/corporate/cloudflare-to-layoff-over-1100-employees-amid-shift-to-ai-first-model",
+          "title": "Cloudflare to Layoff Over 1100 Employees Amid Shift to ‘AI-First’ Model – Outlook Business",
+          "description": "Cloudflare will lay off over 1,100 employees, about 20% of its global workforce, as it restructures for the agentic AI era. CEO Matthew Prince says the move isn’t about cost cutting but reshaping workflows as AI usage surges 600%. Learn what’s driving the decision and the generous severance, healthcare, and equity packages for departing staff.",
+          "image": "https://media.assettype.com/outlookbusiness/2026-05-08/uw1d6192/Cloudflare.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "Outlook Business"
+        }
+      ]
+    }
+  ]
+}

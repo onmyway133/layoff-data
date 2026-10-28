@@ -1,0 +1,23 @@
+{
+  "name": "Visa Inc.",
+  "industry": "Payments / Fintech",
+  "domain": "visa.com",
+  "icon": "visa-inc.png",
+  "events": [
+    {
+      "id": "8f5c43a9-e6a1-4dd2-b184-3a634847e860",
+      "date": "2026-07-28",
+      "headcount": 2600,
+      "percent": 7,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:c61eda966fcc78b14f01",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-plans-cut-7-workforce-124652675.html"
+        }
+      ]
+    }
+  ]
+}

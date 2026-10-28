@@ -1,0 +1,26 @@
+{
+  "name": "VerSe Innovation",
+  "industry": "Consumer internet (Dailyhunt, Josh)",
+  "domain": "verse.in",
+  "icon": "verse-innovation.jpg",
+  "events": [
+    {
+      "id": "04886593-e826-49dc-8e29-6d9cb85f922a",
+      "date": "2025-05-17",
+      "headcount": 350,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:6a7a43003fd8c6ef38dc",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/josh-dailyhunt-parent-verse-innovation-lays-off-350-employees/",
+          "title": "Josh, DailyHunt Parent VerSe Innovation Lays Off 350 Employees",
+          "description": "VerSe Innovation, the parent of DailyHunt & Josh, has laid off nearly 350 employees as part of a broader “strategic” restructuring exercise.",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/05/verse-layoffs-social-.png",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

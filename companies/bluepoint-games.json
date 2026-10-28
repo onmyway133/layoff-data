@@ -1,0 +1,23 @@
+{
+  "name": "Bluepoint Games",
+  "events": [
+    {
+      "id": "3dd4fcd6-5880-4e4e-8538-bf4a3bf03570",
+      "date": "2026-02-19",
+      "headcount": 70,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:015137412377a8f7e11b",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/remake-specialist-bluepoint-games-co-developer-of-god-of-war-ragnarok-shut-down-by-sony",
+          "title": "Remake specialist Bluepoint Games, co-developer of God of War Ragnarok, shut down by Sony",
+          "description": "70 staff to lose jobs, from studio which had delivered well-received reissues of Uncharted, Demon's Souls, Shadow of the Colossus and more",
+          "image": "https://assetsio.gnwcdn.com/Bluepoint_Games_logo_white.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

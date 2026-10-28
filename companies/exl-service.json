@@ -1,0 +1,26 @@
+{
+  "name": "EXL Service",
+  "industry": "Data analytics and digital operations services",
+  "domain": "exlservice.com",
+  "icon": "exl-service.png",
+  "events": [
+    {
+      "id": "d6c23473-6a61-4691-b712-6c3ea51f102a",
+      "date": "2024-04-04",
+      "headcount": 800,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:8b0ae02ade9f32630aa9",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-it-company-cuts-800-jobs-across-india-and-us-to-hire-talent-with-these-skills/articleshow/109066903.cms",
+          "title": "American IT company cuts 800 jobs across India and US to hire talent with these skills - The Times of India",
+          "description": "Tech News News: EXL Service, a New York-based IT company, is restructuring its operations to meet the growing demand for generative artificial intelligence (GenAI). A.",
+          "image": "https://static.toiimg.com/thumb/msid-109066823,width-1280,height-720,imgsize-123315,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "siteName": "The Times of India"
+        }
+      ]
+    }
+  ]
+}

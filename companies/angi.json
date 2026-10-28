@@ -1,0 +1,23 @@
+{
+  "name": "Angi",
+  "industry": "online home-services marketplace",
+  "domain": "angi.com",
+  "icon": "angi.png",
+  "events": [
+    {
+      "id": "71871e74-146b-4b8e-832c-93a924fa0445",
+      "date": "2026-01-07",
+      "headcount": 350,
+      "percent": 15,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:114147aad3c146bb361b",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/angi-cutting-350-jobs-light-144014636.html"
+        }
+      ]
+    }
+  ]
+}

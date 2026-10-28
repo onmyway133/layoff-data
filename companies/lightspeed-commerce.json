@@ -1,0 +1,45 @@
+{
+  "name": "Lightspeed Commerce",
+  "industry": "Software / Fintech",
+  "domain": "lightspeedhq.com",
+  "icon": "lightspeed-commerce.png",
+  "events": [
+    {
+      "id": "52a26ef2-ae53-4fc0-9825-b0420b68e0ef",
+      "date": "2026-10-13",
+      "headcount": 250,
+      "country": "Canada",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:d40c858944cb3927efaf",
+      "sources": [
+        {
+          "url": "https://www.bnnbloomberg.ca/business/company-news/2026/10/13/lightspeed-cuts-250-roles-by-laying-off-staff-not-filling-vacancies/",
+          "title": "Lightspeed cuts 250 roles by laying off staff, not filling vacancies",
+          "description": "Lightspeed Commerce Inc. says 250 roles will be impacted as the company lays off staff and opts to not fill some vacancies.",
+          "image": "https://www.bnnbloomberg.ca/resizer/v2/B3JWOYQNIHLPI7ITNGGOBERXUE.jpg?smart=true&auth=bd3b293e980df6f6fdc3f7859878db5cc5040e66f0162e3154017e01d6f2bd76&width=1200&height=630",
+          "siteName": "BNN Bloomberg"
+        }
+      ]
+    },
+    {
+      "id": "10cd992c-660d-4747-8d4e-3a2d73c2ec14",
+      "date": "2026-07-30",
+      "headcount": 100,
+      "percent": 3,
+      "country": "Canada",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:bd31be41ef59cc1df13b",
+      "sources": [
+        {
+          "url": "https://betakit.com/lightspeed-narrows-net-loss-beats-revenue-expectations-in-fiscal-q1/",
+          "title": "Lightspeed stock sinks despite narrower net loss, revenue beat in fiscal Q1 | BetaKit",
+          "description": "The Montréal firm reveals it cut three percent of workforce amid AI and productivity push.",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2025/12/Lightspeed_HQ_2025_1237_LogoScene-e1764957615149.jpg",
+          "siteName": "BetaKit"
+        }
+      ]
+    }
+  ]
+}
