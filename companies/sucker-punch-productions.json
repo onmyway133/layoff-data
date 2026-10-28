@@ -1,0 +1,38 @@
+{
+  "name": "Sucker Punch Productions",
+  "industry": "Games",
+  "events": [
+    {
+      "id": "sucker-punch-productions-2026-10-27",
+      "date": "2026-10-27",
+      "headcount": 24,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:af3bb8899f4a5c6d4575",
+      "sources": [
+        {
+          "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
+          "title": "Sucker Punch lays off 24 to align with next project's needs",
+          "description": "Ghost of Yotei dev Sucker Punch has laid off staff, a reduction made both amid ongoing market turbulence and as the studio looks toward its next game.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2db7d8951b9270b4/6ae0b2cc9336c11aecc7a2da/4481011-ghost-yotei.webp?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Game Developer"
+        },
+        {
+          "url": "https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition",
+          "title": "Sucker Punch Productions reportedly lays off 24 employees following launch of Ghost of Yōtei: Complete Edition",
+          "description": "Internal email suggests developer made decision after \"carefully observing the challenges in the market and reviewing the team needs for [its] next project\"",
+          "image": "https://assetsio.gnwcdn.com/Discover-Japans-Natural-Beauty-Virtually-Through-Ghost-of-Yotei-hero.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        },
+        {
+          "url": "https://www.heise.de/news/Sony-Ghost-of-Yotei-Studio-Sucker-Punch-streicht-offenbar-24-Stellen-11501161.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "title": "Entlassungen bei Sucker Punch: Sony baut weiter Stellen ab",
+          "description": "Der „Ghost of Yotei“-Entwickler Sucker Punch hat laut einem Bericht 24 Stellen gestrichen. Für Sony ist es nicht die erste Entlassungswelle in diesem Jahr.",
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/4/3/8/ghost-of-yotei-pre-order-screenshot-vista-01-en-16apr25_ausschnitt-9c0b2f0a75f6292e.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+          "siteName": "heise online"
+        }
+      ]
+    }
+  ]
+}
