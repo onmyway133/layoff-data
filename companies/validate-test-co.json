@@ -1,0 +1,18 @@
+{
+  "name": "Validate Test Co",
+  "industry": "Software",
+  "events": [
+    {
+      "id": "validate-test-co-2026-10-01",
+      "date": "2026-10-01",
+      "headcount": 10,
+      "country": "United States",
+      "reason": "other",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/technology/example"
+        }
+      ]
+    }
+  ]
+}
