@@ -1,0 +1,40 @@
+{
+  "name": "Cariad (Volkswagen)",
+  "industry": "Automotive software",
+  "domain": "cariad.technology",
+  "icon": "cariad-volkswagen.png",
+  "events": [
+    {
+      "id": "945fc607-7ba8-4972-93ec-3cbdfe9eb5c1",
+      "date": "2026-09-30",
+      "headcount": 1000,
+      "country": "Germany",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:63540b8c5035a74afe09",
+      "sources": [
+        {
+          "url": "https://www.autohaus.de/nachrichten/autohersteller/vw-software-schmiede-cariad-mit-weiterem-stellenabbau-3911283",
+          "title": "VW-Softwaresparte: Cariad mit weiterem Stellenabbau",
+          "description": "Bei Cariad sollen erneut rund 1.000 Stellen wegfallen. Das ist fast ein Viertel der Belegschaft.",
+          "image": "https://cdn.autohaus.de/thumb_1200x675/media/5172/cariad-volkswagen.jpg",
+          "siteName": "autohaus.de"
+        },
+        {
+          "url": "https://www.cio.de/article/4229510/vw-zerlegt-cariad-wieder-1000-software-jobs-weg.html",
+          "title": "VW zerlegt Cariad: Wieder 1.000 Software-Jobs weg",
+          "description": "VW zieht bei Cariad die Reißleine: Der Konzern opfert 1.000 IT-Stellen und kürzt Milliardenbudgets. Externe Partner sollen die Software-Krise nun beenden.",
+          "image": "https://www.cio.de/wp-content/uploads/2026/10/4229510-0-05620100-1790850178-Cariad-und-Bosch.png?w=1024",
+          "siteName": "CIO DE"
+        },
+        {
+          "url": "https://www.infranken.de/deutschland/kreise-vw-softwaretochter-steht-vor-weiterem-stellenabbau-art-6399878",
+          "title": "Kreise: VW-Softwaretochter steht vor weiterem Stellenabbau",
+          "description": "Bei Cariad sollen erneut rund 1.000 Stellen wegfallen. Das ist fast ein Viertel der Belegschaft. Was steckt hinter dem Sparkurs bei der Softwaretochter von Volkswagen?",
+          "image": "https://www.infranken.de/storage/image/5/9/2/9/4599295_cariad_ogimage_1GLrYG_sASgL9.jpg",
+          "siteName": "inFranken.de"
+        }
+      ]
+    }
+  ]
+}
