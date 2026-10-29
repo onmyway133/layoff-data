@@ -1,0 +1,24 @@
+{
+  "name": "Brightcove",
+  "industry": "Video software",
+  "events": [
+    {
+      "id": "brightcove-2025-03-19",
+      "date": "2025-03-19",
+      "headcount": 198,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:ff297dd8bb6a438dbf99",
+      "sources": [
+        {
+          "url": "https://www.boston.com/news/business/2025/03/19/boston-based-streaming-company-brightcove-to-lay-off-198-workers/",
+          "title": "Boston-based streaming company Brightcove to lay off 198 workers",
+          "description": "Following its February acquisition, video streaming company Brightcove is laying off two-thirds of its U.S.-based employees.",
+          "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/03/Untitled-design-67dad367b30a5-768x432.png",
+          "siteName": "Boston.com"
+        }
+      ]
+    }
+  ]
+}

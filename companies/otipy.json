@@ -1,0 +1,24 @@
+{
+  "name": "Otipy",
+  "industry": "Grocery e-commerce",
+  "events": [
+    {
+      "id": "otipy-2025-05-17",
+      "date": "2025-05-17",
+      "headcount": 300,
+      "country": "India",
+      "reason": "market_downturn",
+      "dataset": "curated",
+      "externalId": "curated:823272afa2aa35ad42a2",
+      "sources": [
+        {
+          "url": "https://inc42.com/?p=515320",
+          "title": "Exclusive: WestBridge-Backed Otipy Shuts Operations Amid Cash Crunch",
+          "description": "Otipy shut down: The Westbridge-backed startup shut its operations last week, people close to the matter informed Inc42.",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/05/Otipy-Social-1.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

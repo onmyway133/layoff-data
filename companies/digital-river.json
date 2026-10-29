@@ -1,0 +1,24 @@
+{
+  "name": "Digital River",
+  "industry": "E-commerce / payments",
+  "events": [
+    {
+      "id": "digital-river-2025-01-29",
+      "date": "2025-01-29",
+      "headcount": 122,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:21653398daf038aa59b4",
+      "sources": [
+        {
+          "url": "https://www.digitalcommerce360.com/2025/01/29/digital-river-cuts-staff-will-shut-down-headquarters/",
+          "title": "Digital River cuts staff and will close headquarters",
+          "description": "The company will close its Minnesota headquarters by the end of March, impacting 122 employees, including remote workers nationwide.",
+          "image": "https://www.digitalcommerce360.com/wp-content/uploads/2025/01/AdobeStock_1015234264-scaled.jpeg",
+          "siteName": "Digital Commerce 360"
+        }
+      ]
+    }
+  ]
+}

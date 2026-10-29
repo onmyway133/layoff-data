@@ -1,0 +1,25 @@
+{
+  "name": "Turo",
+  "industry": "Car-sharing marketplace",
+  "events": [
+    {
+      "id": "turo-2025-04-16",
+      "date": "2025-04-16",
+      "headcount": 150,
+      "percent": 15,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:20363e87c46b8369133b",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2025/04/16/car-rental-startup-turo-lays-off-15-of-workforce-after-halting-ipo-plans-amid-market-uncertainty/",
+          "title": "Car rental startup Turo lays off 15% of workforce after halting IPO plans amid market uncertainty - Tech Startups",
+          "description": "Turo, the San Francisco-based peer-to-peer car rental startup often described as the “Airbnb for cars,” has laid off around 150 employees, roughly 15% of its team, after shelving plans to go public. The news, first reported by Bloomberg, comes as Turo tries to trim costs and stay afloat in a tough funding climate. Like many",
+          "image": "https://techstartups.com/wp-content/uploads/2025/04/Turo.jpg",
+          "siteName": "Tech Startups - Tech News, Tech Trends & Startup Funding"
+        }
+      ]
+    }
+  ]
+}

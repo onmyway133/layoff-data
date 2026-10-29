@@ -1,0 +1,24 @@
+{
+  "name": "Gameskraft",
+  "industry": "Online gaming",
+  "events": [
+    {
+      "id": "gameskraft-2025-09-18",
+      "date": "2025-09-18",
+      "headcount": 120,
+      "country": "India",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:6a7fc9d7b131f4337269",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/now-gameskraft-lays-off-120-employees/",
+          "title": "Now, Gameskraft Lays Off 120 Employees",
+          "description": "Gameskraft has laid off 120 employees saying that the legislation, which bans real money gaming, left it with “no choice” but to halt operations and restructure",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/05/gameskraft-pocket52-social-.png",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

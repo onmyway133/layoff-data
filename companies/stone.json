@@ -1,0 +1,30 @@
+{
+  "name": "Stone",
+  "industry": "Fintech",
+  "events": [
+    {
+      "id": "stone-2026-03-10",
+      "date": "2026-03-10",
+      "headcount": 370,
+      "country": "Brazil",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:a6746a1ab2df1a03f92a",
+      "sources": [
+        {
+          "url": "https://mercadoeconsumo.com.br/11/03/2026/tecnologia/stone-demite-370-funcionarios-em-meio-ao-que-chama-de-ajuste-pontual-da-estrutura/amp/",
+          "title": "Stone demite 370 funcionários em meio ao que chama de \"ajuste pontual\" da estrutura",
+          "description": "A empresa de maquininhas Stone promoveu a demissão de 370 funcionários. A empresa diz que a medida é pontual.",
+          "image": "https://mercadoeconsumo.com.br/wp-content/uploads/2026/03/Stone-webshutterstock_2260328413-1000x570-Copy.jpg",
+          "siteName": "Mercado&Consumo"
+        },
+        {
+          "url": "https://investidor10.com.br/noticias/stone-e-obrigada-a-reintegrar-370-funcionarios-demitidos-apos-decisao-judicial-119179/",
+          "title": "Stone é obrigada a reintegrar 370 funcionários demitidos após decisão judicial - Investidor10",
+          "description": "...",
+          "image": "https://investidor10.com.br/storage/news/69b3444d8d08e.jpg"
+        }
+      ]
+    }
+  ]
+}

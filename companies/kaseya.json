@@ -1,0 +1,31 @@
+{
+  "name": "Kaseya",
+  "industry": "IT management software",
+  "events": [
+    {
+      "id": "kaseya-2026-01-12",
+      "date": "2026-01-12",
+      "headcount": 250,
+      "percent": 5,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:80d2e85016e9cb7addb3",
+      "sources": [
+        {
+          "url": "https://www.crn.com/news/channel-news/2026/kaseya-lays-off-5-percent-of-workforce-to-align-our-go-to-market-teams",
+          "title": "Kaseya Lays Off 5 Percent Of Workforce, Says Move Is Aimed At Aligning ‘Go-To-Market Teams’",
+          "description": "Kaseya said the workforce reduction is due to a redesign of its go-to-market approach.",
+          "image": "https://www.crn.com/news/channel-news/2026/media_1078d75077ee4ee09e0dc26a806fc457daa85ddf0.png?width=1200&format=pjpg&optimize=medium"
+        },
+        {
+          "url": "https://iteuropa.com/news/kaseya-cuts-workforce-5",
+          "title": "Kaseya cuts workforce by 5%",
+          "description": "Does cull suggest pre-IPO operational tightening?",
+          "image": "https://www.iteuropa.com/sites/default/files/article/2026/Rania-Succar_DattoCon-Europe-2025a.jpg",
+          "siteName": "IT Europa"
+        }
+      ]
+    }
+  ]
+}

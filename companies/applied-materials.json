@@ -1,0 +1,25 @@
+{
+  "name": "Applied Materials",
+  "industry": "Semiconductor equipment",
+  "events": [
+    {
+      "id": "applied-materials-2025-10-23",
+      "date": "2025-10-23",
+      "headcount": 1400,
+      "percent": 4,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:4ddb5e26107fa4f7acb7",
+      "sources": [
+        {
+          "url": "https://www.theepochtimes.com/business/applied-materials-to-cut-1400-jobs-worldwide-amid-automation-push-5934429",
+          "title": "Applied Materials to Cut 1,400 Jobs Worldwide Amid Automation Push",
+          "description": "The company is the second-largest semiconductor equipment supplier in the world, and the job reduction represents 4 percent of its global workforce.",
+          "image": "https://img.theepochtimes.com/assets/uploads/2023/06/15/id5336252-GettyImages-1257352491-1080x720.jpg",
+          "siteName": "The Epoch Times"
+        }
+      ]
+    }
+  ]
+}

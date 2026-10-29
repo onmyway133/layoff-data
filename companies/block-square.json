@@ -21,6 +21,25 @@
           "siteName": "GIGAZINE"
         }
       ]
+    },
+    {
+      "id": "block-square-2025-03-25",
+      "date": "2025-03-25",
+      "headcount": 931,
+      "percent": 8,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:89dde5d4ef590aef910d",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/",
+          "title": "Read the email Jack Dorsey sent when he cut 931 of Block's staff | TechCrunch",
+          "description": "Fintech Block laid off 931 people Tuesday, according to a leaked message from the company seen by TechCrunch.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1233272419.jpg?w=1024",
+          "siteName": "TechCrunch"
+        }
+      ]
     }
   ]
 }

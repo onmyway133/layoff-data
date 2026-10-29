@@ -1,0 +1,24 @@
+{
+  "name": "Teads",
+  "industry": "Ad tech",
+  "events": [
+    {
+      "id": "teads-2025-12-10",
+      "date": "2025-12-10",
+      "headcount": 180,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:51200cd377d60e8f255d",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/skb9q0lgwl",
+          "title": "Teads slashes 10% of workforce amid 90% market value drop | CTech",
+          "description": "After a disastrous year, Teads aims to save $35-40 million annually by laying off another 180 employees, 10 months after already cutting 200.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/08/01/rkyDDZYtA/rkyDDZYtA_0_520_2979_1678_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

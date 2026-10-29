@@ -45,6 +45,24 @@
           "siteName": "CNBC"
         }
       ]
+    },
+    {
+      "id": "ebay-2025-05-28",
+      "date": "2025-05-28",
+      "headcount": 200,
+      "country": "Israel",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:b1b03335e4a575834d86",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/hywdt44mxx",
+          "title": "eBay to shut down operations in Israel, over 200 employees to be laid off | CTech",
+          "description": "After years of downsizing, eBay has decided to end its Israeli operations by Q1 2026.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/06/26/BJQHk5tIC/BJQHk5tIC_0_85_1024_577_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "name": "Automattic",
+  "industry": "Software",
+  "events": [
+    {
+      "id": "automattic-2025-04-02",
+      "date": "2025-04-02",
+      "headcount": 281,
+      "percent": 16,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:c86b3f1907557866e143",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff/",
+          "title": "WordPress maker Automattic lays off 16% of staff | TechCrunch",
+          "description": "Automattic, the company behind WordPress.com, Tumblr, WooCommerce, and a range of other online services, is reducing its workforce. The layoffs will",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

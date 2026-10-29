@@ -18,6 +18,24 @@
           "siteName": "RISMedia"
         }
       ]
+    },
+    {
+      "id": "zillow-2026-01-30",
+      "date": "2026-01-30",
+      "headcount": 200,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:6ee016fccf0e969631ff",
+      "sources": [
+        {
+          "url": "https://www.realestatenews.com/2026/01/30/zillow-cuts-200-roles-following-performance-reviews",
+          "title": "Zillow cuts 200 roles following performance reviews",
+          "description": "The layoffs, impacting about 3% of the company's workforce, were \"not connected to market conditions or recent business developments,\" the company said.",
+          "image": "https://images.ctfassets.net/hzfwsdcegxo2/29q14JiAymuUfAsVg3zn0u/13fd3a70b5772b36b0486a2a509fec08/Zillow_layoffs_Jan_2025.jpg?w=1200&h=630&fit=fill",
+          "siteName": "RealEstateNews.com"
+        }
+      ]
     }
   ]
 }

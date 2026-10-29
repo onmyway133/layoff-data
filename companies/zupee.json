@@ -19,6 +19,25 @@
           "siteName": "Outlook Business"
         }
       ]
+    },
+    {
+      "id": "zupee-2025-09-11",
+      "date": "2025-09-11",
+      "headcount": 170,
+      "percent": 30,
+      "country": "India",
+      "reason": "market_downturn",
+      "dataset": "curated",
+      "externalId": "curated:41ca6affd64b06a409cf",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/real-money-gaming-ban-zupee-joins-peers-axes-170-jobs",
+          "title": "Real Money Gaming Ban: Zupee Joins Peers, Axes 170 Jobs",
+          "description": "Zupee is laying off around 170 employees, nearly 30% of its workforce, as part of a restructuring exercise following the ban on real money gaming",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/04/ftr-zupee.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
     }
   ]
 }

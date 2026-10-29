@@ -1,0 +1,21 @@
+{
+  "name": "Clear",
+  "industry": "Tax and fintech software",
+  "events": [
+    {
+      "id": "clear-2025-08-05",
+      "date": "2025-08-05",
+      "headcount": 145,
+      "percent": 16,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:a441318dec5eaacdf3af",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/clear-cuts-16-of-workforce-amid-peak-tax-filing-season-9628272"
+        }
+      ]
+    }
+  ]
+}

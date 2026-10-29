@@ -1,0 +1,25 @@
+{
+  "name": "Zepz",
+  "industry": "Fintech",
+  "events": [
+    {
+      "id": "zepz-2025-02-12",
+      "date": "2025-02-12",
+      "headcount": 200,
+      "percent": 20,
+      "country": "United Kingdom",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:41f39ca210f2d4606e16",
+      "sources": [
+        {
+          "url": "https://nbcnewyork.com/news/business/money-report/fintech-unicorn-zepz-to-lay-off-20-of-its-global-workforce-sources-say/6146412/",
+          "title": "Fintech unicorn Zepz to lay off 20% of its global workforce, sources say",
+          "description": "London-based fintech Zepz is laying off around 200 IT workers as part of a major redundancy plan, two employees impacted by the move told CNBC.",
+          "image": "https://media.nbcnewyork.com/2025/02/108101182-1739357676756-gettyimages-1903197545-PGONCHAR_9298.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "siteName": "NBC New York"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Mobile Premier League",
+  "industry": "Mobile gaming",
+  "events": [
+    {
+      "id": "mobile-premier-league-2025-09-01",
+      "date": "2025-09-01",
+      "headcount": 300,
+      "percent": 60,
+      "country": "India",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:41ca44fb455caa78c9c2",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/online-gaming-app-ban-mpl-to-layoff-60-of-india-staff/articleshow/123618820.cms",
+          "title": "Online gaming app ban: MPL to layoff 60% of India Staff - The Times of India",
+          "description": "Tech News : Following the Indian government's ban on real-money online gaming, Mobile Premier League (MPL) is laying off 60% of its Indian workforce, impacting ar",
+          "image": "https://static.toiimg.com/thumb/msid-123618802,width-1070,height-580,imgsize-55099,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "siteName": "The Times of India"
+        }
+      ]
+    }
+  ]
+}

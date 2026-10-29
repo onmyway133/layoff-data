@@ -1,0 +1,24 @@
+{
+  "name": "King",
+  "industry": "Games",
+  "events": [
+    {
+      "id": "king-2025-07-14",
+      "date": "2025-07-14",
+      "headcount": 200,
+      "country": "Sweden",
+      "reason": "ai_automation",
+      "dataset": "curated",
+      "externalId": "curated:9aa4e8b069c5f3daf86e",
+      "sources": [
+        {
+          "url": "https://mobilegamer.biz/laid-off-king-staff-set-to-be-replaced-by-the-ai-tools-they-helped-build-say-sources/",
+          "title": "Laid off King staff set to be replaced by the AI tools they helped build, say sources",
+          "description": "Insiders paint a grim picture at King with half the Farm Heroes Saga team set to depart and morale “in the gutter”.",
+          "image": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2025/07/king-candy-crush.jpg?fit=1200%2C494&ssl=1",
+          "siteName": "Mobilegamer.biz"
+        }
+      ]
+    }
+  ]
+}

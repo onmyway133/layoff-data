@@ -1,0 +1,25 @@
+{
+  "name": "Bumble",
+  "industry": "Online dating",
+  "events": [
+    {
+      "id": "bumble-2025-06-25",
+      "date": "2025-06-25",
+      "headcount": 240,
+      "percent": 30,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:9d0dbf0fe130ff1102f9",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2025/06/25/bumble-layoffs.html",
+          "title": "Bumble jumps 25% as dating company plans to axe 30% of workforce",
+          "description": "Founder Whitney Wolfe Herd, who stepped down as CEO at the beginning of 2024, returned to the role earlier this year.",
+          "image": "https://image.cnbcfm.com/api/v1/image/107317197-1697228012023-gettyimages-1704865741-_jhb4733_qrjvepql.jpeg?v=1750855737&w=1920&h=1080",
+          "siteName": "CNBC"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Gupshup",
+  "industry": "Business messaging software",
+  "events": [
+    {
+      "id": "gupshup-2025-04-15",
+      "date": "2025-04-15",
+      "headcount": 200,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:d50cc8930927a0cced76",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/exclusive-saas-unicorn-gupshup-fires-500-employees/",
+          "title": "Exclusive: SaaS Unicorn Gupshup Fires 500 Employees",
+          "description": "While Gupshup laid off nearly 200 employees earlier this month, it fired about 300 employees in December 2024",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/04/gupshup-layoffs-social.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

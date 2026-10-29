@@ -1,0 +1,20 @@
+{
+  "name": "Head Digital Works",
+  "industry": "Online gaming",
+  "events": [
+    {
+      "id": "head-digital-works-2025-09-04",
+      "date": "2025-09-04",
+      "headcount": 500,
+      "country": "India",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:318d9e56360be4fbf384",
+      "sources": [
+        {
+          "url": "https://entrackr.com/news/a23-parent-lays-off-500-employees-following-rmg-ban-report-9901016"
+        }
+      ]
+    }
+  ]
+}

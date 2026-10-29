@@ -6,6 +6,25 @@
   "icon": "stripe.png",
   "events": [
     {
+      "id": "stripe-2025-01-20",
+      "date": "2025-01-20",
+      "headcount": 300,
+      "percent": 3.5,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:966fb9a3003656ff797b",
+      "sources": [
+        {
+          "url": "https://www.bankingdive.com/news/stripe-cuts-300-employees/737977/",
+          "title": "Stripe pushes out 300 employees",
+          "description": "Despite the 3.5% cut to the payments services company’s headcount, it still plans to increase its workforce to 10,000 by the end of the year, up from 8,200 now.",
+          "image": "https://imgproxy.divecdn.com/RiZWmnF6EYy-ewLVVn8hVqWYtc8WHj_iTO4WcznRuLw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg2Mzg5MzU0LmpwZw==.webp",
+          "siteName": "Banking Dive"
+        }
+      ]
+    },
+    {
       "id": "84931a8c-ec6c-4db4-bfc6-d551fbc377f2",
       "date": "2022-11-03",
       "headcount": 1120,

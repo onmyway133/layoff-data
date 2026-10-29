@@ -25,6 +25,24 @@
           "siteName": "TNW | Insider"
         }
       ]
+    },
+    {
+      "id": "zoominfo-2025-06-09",
+      "date": "2025-06-09",
+      "headcount": 150,
+      "percent": 4,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:07929d62eea6ecfe4b87",
+      "sources": [
+        {
+          "url": "https://www.recruitingnewsnetwork.com/posts/tech-layoffs-june-2025-microsoft-google-disney-zoominfo-join-the-list-of-companies-said-to-be-shedding-jobs",
+          "title": "Tech companies shedding jobs | Recruiting News Network",
+          "description": "Employees in the technology industry have had their lives disrupted due to layoffs starting this summer, Several tech companies have cut workers this month.",
+          "image": "https://cdn.prod.website-files.com/5deeb1902cdb07546582a71f/685d54fbbc63d9b6aa4ca026_igor-omilaev-njA73IRbg3k-unsplash.jpg"
+        }
+      ]
     }
   ]
 }

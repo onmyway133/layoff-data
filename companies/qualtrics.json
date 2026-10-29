@@ -1,0 +1,20 @@
+{
+  "name": "Qualtrics",
+  "industry": "Enterprise software",
+  "events": [
+    {
+      "id": "qualtrics-2026-08-19",
+      "date": "2026-08-19",
+      "headcount": 117,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:9a28f7ba542bf0d3dae9",
+      "sources": [
+        {
+          "url": "https://mynorthwest.com/local/qualtrics-seattle-employees/4272070"
+        }
+      ]
+    }
+  ]
+}

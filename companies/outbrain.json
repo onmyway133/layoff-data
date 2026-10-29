@@ -1,0 +1,24 @@
+{
+  "name": "Outbrain",
+  "industry": "Ad tech",
+  "events": [
+    {
+      "id": "outbrain-2025-02-05",
+      "date": "2025-02-05",
+      "headcount": 200,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:ce4794ee8de9e92e3a05",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/rkxxve11yyl",
+          "title": "Outbrain and Teads complete merger, cutting 200 jobs globally | CTech",
+          "description": "The $625 million deal aims to save up to $75 million annually by 2026 through role reductions.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/08/01/rkyDDZYtA/rkyDDZYtA_0_810_2979_1678_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

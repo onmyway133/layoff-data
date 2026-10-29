@@ -1,0 +1,24 @@
+{
+  "name": "Icon",
+  "industry": "Construction robotics",
+  "events": [
+    {
+      "id": "icon-2025-01-09",
+      "date": "2025-01-09",
+      "headcount": 114,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:964da40ac7cc5b94f22d",
+      "sources": [
+        {
+          "url": "https://www.statesman.com/story/business/2025/01/09/icon-layoffs-austin-texas-3d-printing-company-100-employees/77573345007/",
+          "title": "Austin 3D-printing company Icon to lay off more than 100 employees",
+          "description": "Icon was co-founded by Jason Ballard and showcased its 3D-printed first home at South by Southwest in 2018.",
+          "image": "https://s.hdnux.com/photos/01/53/45/13/28201688/9/rawImage.jpg",
+          "siteName": "Austin American-Statesman"
+        }
+      ]
+    }
+  ]
+}

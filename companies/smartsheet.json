@@ -1,0 +1,24 @@
+{
+  "name": "Smartsheet",
+  "industry": "Work management software",
+  "events": [
+    {
+      "id": "smartsheet-2025-10-02",
+      "date": "2025-10-02",
+      "headcount": 120,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:af4852a8262dcb7f3115",
+      "sources": [
+        {
+          "url": "https://theseattletoday.com/smartsheet-announces-layoffs-following-ceo-transition-and-8-4b-acquisition/",
+          "title": "Smartsheet Announces Layoffs Following CEO Transition and $8.4B Acquisition - The Seattle Today",
+          "description": "Smartsheet, the Bellevue-based enterprise software company recently taken private in an $8.4 billion acquisition, has confirmed a round of layoffs as it",
+          "image": "https://theseattletoday.com/wp-content/uploads/2025/10/smart.jpg",
+          "siteName": "www.theseattletoday.com"
+        }
+      ]
+    }
+  ]
+}

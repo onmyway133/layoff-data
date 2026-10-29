@@ -46,6 +46,56 @@
           "siteName": "The Irish Times"
         }
       ]
+    },
+    {
+      "id": "oracle-2025-09-04",
+      "date": "2025-09-04",
+      "headcount": 101,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:bffcb6c5547d76a823dc",
+      "sources": [
+        {
+          "url": "https://www.theregister.com/2025/09/03/oracle_cuts_more_jobs/",
+          "title": "Oracle cuts more jobs in California, Washington, and beyond",
+          "description": ": Big Red bloodbath not yet acknowledged by the company",
+          "image": "https://image.theregister.com/223607.jpg?imageId=223607&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+          "siteName": "theregister"
+        }
+      ]
+    },
+    {
+      "id": "oracle-2025-08-14",
+      "date": "2025-08-14",
+      "headcount": 161,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:f9c6e60af82ac12ed937",
+      "sources": [
+        {
+          "url": "https://mynorthwest.com/local/seattle-tech-layoffs-oracle/4120866"
+        }
+      ]
+    },
+    {
+      "id": "oracle-2025-08-13",
+      "date": "2025-08-13",
+      "headcount": 289,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:ad2c43f090889f9de10a",
+      "sources": [
+        {
+          "url": "https://www.pleasantonweekly.com/business/2025/08/19/dozens-of-pleasanton-workers-hit-by-wave-of-oracle-layoffs/",
+          "title": "Dozens of Pleasanton workers hit by wave of Oracle layoffs",
+          "description": "The workforce at Oracle Inc.'s Pleasanton office and two of its other Bay Area locations has been struck by a round of global layoffs by the prominent software company that was formerly headquartered on the Peninsula.",
+          "image": "https://www.pleasantonweekly.com/wp-content/uploads/2025/08/GettyImages-1867844462-scaled.jpg",
+          "siteName": "Pleasanton Weekly"
+        }
+      ]
     }
   ]
 }

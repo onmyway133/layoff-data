@@ -1,0 +1,25 @@
+{
+  "name": "Okta",
+  "industry": "Identity security software",
+  "events": [
+    {
+      "id": "okta-2025-02-04",
+      "date": "2025-02-04",
+      "headcount": 180,
+      "percent": 3,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:b6222b671c1a9c22e638",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2025/02/04/okta-lays-off-180-employees-nearly-one-year-after-last-workforce-reduction/",
+          "title": "Exclusive: Okta lays off 180 employees - nearly one year after last workforce reduction",
+          "description": "U.S. access and identity management giant Okta laid off 180 employees on Tuesday, the company confirmed to TechCrunch -- just over one year after it let",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Synopsys",
+  "industry": "Chip design software",
+  "events": [
+    {
+      "id": "synopsys-2026-08-31",
+      "date": "2026-08-31",
+      "headcount": 128,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:ac777492ac584172b3af",
+      "sources": [
+        {
+          "url": "https://www.sfchronicle.com/tech/article/amazon-synopsys-tech-layoffs-22413103.php",
+          "title": "Amazon, Synopsys to cut more than 275 Bay Area tech jobs",
+          "description": "Amazon is eliminating 148 jobs in San Francisco and Sunnyvale as Synopsys prepares to cut another 128 positions at its Silicon Valley campus.",
+          "image": "https://s.hdnux.com/photos/01/67/16/65/31255901/8/rawImage.jpg",
+          "siteName": "San Francisco Chronicle"
+        }
+      ]
+    },
+    {
+      "id": "synopsys-2025-11-12",
+      "date": "2025-11-12",
+      "headcount": 2000,
+      "percent": 10,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:bab5aa79a40ca8bac557",
+      "sources": [
+        {
+          "url": "https://www.outlookbusiness.com/corporate/synopsys-to-slash-2000-jobs-after-35-bn-ansys-merger-and-china-slowdown",
+          "title": "Synopsys to Slash 2,000 Jobs After $35 Bn Ansys Merger and China Slowdown – Outlook Business",
+          "description": "The layoffs follow Synopsys’ $35 billion acquisition of engineering design firm Ansys, marking a major strategic shift as the company integrates operations and reallocates resources. Despite strong client ties with Nvidia, Intel, and Qualcomm, Synopsys has faced a slowdown in China due to export restrictions and challenges with a key foundry partner, pressuring its growth outlook",
+          "image": "https://media.assettype.com/outlookbusiness/2025-11-13/2zys838z/medium-shot-woman-packing-office-items.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "Outlook Business"
+        }
+      ]
+    }
+  ]
+}

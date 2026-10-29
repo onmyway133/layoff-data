@@ -1,0 +1,20 @@
+{
+  "name": "Deliveroo",
+  "industry": "Food delivery",
+  "events": [
+    {
+      "id": "deliveroo-2026-02-25",
+      "date": "2026-02-25",
+      "headcount": 102,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:83e5fde8bc34d4428e26",
+      "sources": [
+        {
+          "url": "https://in.investing.com/news/company-news/doordash-closes-deliveroo-operations-in-qatar-and-singapore-93CH-5256077"
+        }
+      ]
+    }
+  ]
+}

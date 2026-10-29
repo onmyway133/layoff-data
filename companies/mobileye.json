@@ -1,0 +1,25 @@
+{
+  "name": "Mobileye",
+  "industry": "Automotive chips",
+  "events": [
+    {
+      "id": "mobileye-2025-12-08",
+      "date": "2025-12-08",
+      "headcount": 200,
+      "percent": 4,
+      "country": "Israel",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:c581c6f595ffa9d1970a",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/hjznnzvzzl",
+          "title": "Mobileye lays off 200 employees; Company's shares down more than 40% this year | CTech",
+          "description": "The 4% cross-department cuts come even after reporting stronger revenue and rising demand for autonomous-driving systems.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/02/16/Skly8Boy5Je/Skly8Boy5Je_0_124_2000_1126_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

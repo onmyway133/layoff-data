@@ -24,6 +24,22 @@
           "siteName": "Tech.co"
         }
       ]
+    },
+    {
+      "id": "hp-inc-2025-02-27",
+      "date": "2025-02-27",
+      "headcount": 2000,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:4b68936be87432fa7c4e",
+      "sources": [
+        {
+          "url": "https://enxmag.com/twii/feature-articles/2025/03/citing-china-tariffs-hp-slashing-up-to-2000-more-jobs-globally",
+          "title": "ENX Magazine | The Week in Imaging &raquo; Citing China Tariffs, HP Slashing Up to 2,000 More Jobs Globally",
+          "image": "https://www.enxmag.com/twii/wp-content/uploads/2019/06/HP_Blue_RGB_72_MD-200x200.gif"
+        }
+      ]
     }
   ]
 }

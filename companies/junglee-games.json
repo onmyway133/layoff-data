@@ -1,0 +1,24 @@
+{
+  "name": "Junglee Games",
+  "industry": "Online gaming",
+  "events": [
+    {
+      "id": "junglee-games-2025-11-26",
+      "date": "2025-11-26",
+      "headcount": 350,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:ac523026aad19bdbafbc",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/junglee-games-parent-flutter-sheds-350-jobs-in-post-rmg-ban-recast/",
+          "title": "Junglee Games Sheds 350 Jobs In Post-RMG Ban Recast",
+          "description": "Flutter Entertainment-owned Junglee Games has reportedly laid off 350 employees across its Delhi and Bengaluru offices.",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/11/soc-layoff.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

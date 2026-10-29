@@ -6,6 +6,24 @@
   "icon": "salesforce.png",
   "events": [
     {
+      "id": "salesforce-2026-08-07",
+      "date": "2026-08-07",
+      "headcount": 133,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:f1c10396849877559daa",
+      "sources": [
+        {
+          "url": "https://thenextweb.com/news/salesforce-133-layoffs-washington-california-ai-restructuring",
+          "title": "Salesforce cuts 133 more jobs in its third 2026 round",
+          "description": "Salesforce is laying off 133 staff, 59 in Washington and 74 in San Francisco, its third round of 2026. The filings don't cite AI; Benioff credits it anyway.",
+          "image": "https://media.thenextweb.com/2026/08/New-York-Salesforce-Tower.jpg",
+          "siteName": "TNW | Future-of-work"
+        }
+      ]
+    },
+    {
       "id": "18d8b999-452f-40b4-8451-5524387cfd63",
       "date": "2026-02-10",
       "headcount": 1000,
@@ -38,6 +56,20 @@
           "description": "Salesforce CEO Marc Benioff said AI automation helped the software company cut its customer support headcount from 9,000 to 5,000 human workers.",
           "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/marc-benioff-world-economic-forum.jpg?ve=1&tl=1",
           "siteName": "Fox Business"
+        }
+      ]
+    },
+    {
+      "id": "salesforce-2025-02-03",
+      "date": "2025-02-03",
+      "headcount": 1000,
+      "country": "United States",
+      "reason": "ai_automation",
+      "dataset": "curated",
+      "externalId": "curated:8d0f612906bd2765e370",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/news/salesforce-cut-1-000-roles-002028643.html"
         }
       ]
     },

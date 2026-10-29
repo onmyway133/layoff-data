@@ -1,0 +1,24 @@
+{
+  "name": "Grubhub",
+  "industry": "Food delivery",
+  "events": [
+    {
+      "id": "grubhub-2025-02-28",
+      "date": "2025-02-28",
+      "headcount": 500,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:7dccfe625f3230a0a5ae",
+      "sources": [
+        {
+          "url": "https://www.restaurantdive.com/news/grubhub-lays-off-500-employees-following-wonder-acquisition/741300/",
+          "title": "Grubhub lays off 500 employees",
+          "description": "The job cuts come over a month after Wonder completed its $650 million acquisition of the food delivery aggregator.",
+          "image": "https://imgproxy.divecdn.com/Ro05NZ_SsL5cPK1ERcQhXCy67_9nak80n1gZxRgz6Ik/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg0NjIxMDU5LmpwZw==.webp",
+          "siteName": "Restaurant Dive"
+        }
+      ]
+    }
+  ]
+}

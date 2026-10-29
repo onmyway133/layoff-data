@@ -6,6 +6,24 @@
   "icon": "redfin.png",
   "events": [
     {
+      "id": "redfin-2025-02-12",
+      "date": "2025-02-12",
+      "headcount": 450,
+      "country": "United States",
+      "reason": "acquisition",
+      "dataset": "curated",
+      "externalId": "curated:8ab0717c1ff699673b62",
+      "sources": [
+        {
+          "url": "https://www.realestatenews.com/2025/02/12/redfin-to-cut-450-roles-following-zillow-rentals-deal",
+          "title": "Redfin to cut 450 roles following Zillow rentals deal",
+          "description": "The company, which signed an exclusive listings partnership with Zillow on Feb. 11, will complete the layoffs in July as it restructures its rentals segment.",
+          "image": "https://images.ctfassets.net/hzfwsdcegxo2/1ygBkzMIEqvOU978Ltrg8W/6904cd3a57c8e8c71a88ca35925c0c83/Redfin_layoffs_Feb_2025.jpg?w=1200&h=630&fit=fill",
+          "siteName": "RealEstateNews.com"
+        }
+      ]
+    },
+    {
       "id": "6355cea0-bb95-4e8c-a3b4-cc3c666536a0",
       "date": "2022-11-09",
       "headcount": 862,

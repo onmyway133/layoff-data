@@ -1,0 +1,20 @@
+{
+  "name": "Cars24",
+  "industry": "E-commerce",
+  "events": [
+    {
+      "id": "cars24-2025-04-26",
+      "date": "2025-04-26",
+      "headcount": 200,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:d6675e0c42cf20174ed0",
+      "sources": [
+        {
+          "url": "https://entrackr.com/exclusive/exclusive-cars24-lays-off-200-employees-9003193"
+        }
+      ]
+    }
+  ]
+}

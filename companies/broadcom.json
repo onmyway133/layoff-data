@@ -1,0 +1,24 @@
+{
+  "name": "Broadcom",
+  "industry": "Semiconductors",
+  "events": [
+    {
+      "id": "broadcom-2025-10-22",
+      "date": "2025-10-22",
+      "headcount": 247,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:d6fbf3de54b770528bc3",
+      "sources": [
+        {
+          "url": "https://www.aol.com/articles/broadcom-cutting-nearly-250-bay-200726775.html",
+          "title": "Broadcom cutting nearly 250 Bay Area jobs following OpenAI deal - AOL",
+          "description": "(KRON) — Broadcom is cutting nearly 250 Bay Area jobs, according to a recent state filing. The global technology and chipmaking company will be laying off 247 workers at its Palo Alto facility on Hillview Avenue, one building over from its headquarters in Stanford Research Park. The job cuts, which were announced on a Worker […]",
+          "image": "https://hermes.media.transform.aol.com/dc2769b44dbcb4f68f29b8d977d90357a64bd227/w_1200,c_scale,f_auto,q_auto/https://media.zenfs.com/en/kron_articles_710/5a308ff8461e426d622a23bdf99020e7",
+          "siteName": "AOL.com"
+        }
+      ]
+    }
+  ]
+}

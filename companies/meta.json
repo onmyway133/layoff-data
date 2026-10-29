@@ -35,6 +35,49 @@
       ]
     },
     {
+      "id": "meta-2026-04-03",
+      "date": "2026-04-03",
+      "headcount": 198,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:6d18dbab6fb0b0dd4a1f",
+      "sources": [
+        {
+          "url": "https://www.kron4.com/news/technology-ai/meta-to-lay-off-nearly-200-bay-area-employees/amp/",
+          "title": "Meta to lay off nearly 200 Bay Area employees",
+          "description": "(KRON) — Meta will be laying off nearly 200 employees in the Bay Area, according to state filings that surfaced Thursday. Worker Adjustment and Retraining Notifications (WARN) notices on the …",
+          "image": "https://www.kron4.com/wp-content/uploads/sites/11/2025/09/68ca93e15cb3d5.57606799.jpeg?w=1280",
+          "siteName": "KRON4"
+        },
+        {
+          "url": "https://www-ak-ms.foxbusiness.com/markets/metas-bay-area-layoffs-affect-roughly-200-workers-company-pours-billions-ai-infrastructure",
+          "title": "Meta's Bay Area layoffs affect roughly 200 workers as company pours billions into AI infrastructure",
+          "description": "Meta is cutting approximately 200 jobs in the San Francisco Bay Area as the company restructures teams and invests heavily in AI infrastructure.",
+          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/Meta.jpg?ve=1&tl=1",
+          "siteName": "Fox Business"
+        }
+      ]
+    },
+    {
+      "id": "meta-2026-03-25",
+      "date": "2026-03-25",
+      "headcount": 700,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:04c25fb1fa1849e60e39",
+      "sources": [
+        {
+          "url": "https://www.foxbusiness.com/fox-news-tech/meta-slashes-roughly-700-jobs-layoffs-hit-multiple-teams-across-company",
+          "title": "Meta slashes roughly 700 jobs; layoffs hit multiple teams across the company",
+          "description": "The latest job cuts at Meta hit areas like Reality Labs and social media teams as the company seeks greater cost control amid heavy spending on AI infrastructure.",
+          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/meta-facebook-mark-zuckerberg.jpg?ve=1&tl=1",
+          "siteName": "Fox Business"
+        }
+      ]
+    },
+    {
       "id": "2bf2e9aa-e570-426c-94ed-3b6834d54966",
       "date": "2026-01-12",
       "headcount": 1000,
@@ -74,6 +117,32 @@
           "description": "Meta Platforms is cutting roughly 600 artificial intelligence jobs.",
           "image": "https://media.nbcbayarea.com/2024/07/AP24193862366379.jpg?quality=85&strip=all&crop=0px%2C561px%2C5370px%2C3021px&resize=1200%2C675",
           "siteName": "NBC Bay Area"
+        }
+      ]
+    },
+    {
+      "id": "meta-2025-01-14",
+      "date": "2025-01-14",
+      "headcount": 3600,
+      "percent": 5,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:eec7ceee4ea17c152ae8",
+      "sources": [
+        {
+          "url": "https://www.euronews.com/business/2025/01/15/meta-to-cut-5-of-workforce-targeting-lowest-performers",
+          "title": "Meta to cut 5% of workforce targeting 'lowest performers'",
+          "description": "Summary: Meta is planning to cut approximately 5% of its workforce, or about 3,600 positions, in February. The cuts will be performance-based to “move out lowest performers faster” as it cited 2025 will be “an intense year.”",
+          "image": "https://static.euronews.com/articles/stories/08/97/28/28/1200x675_cmsv2_92a8a2d7-b4e8-569f-83b9-b4a0d68b5cc9-8972828.jpg",
+          "siteName": "euronews"
+        },
+        {
+          "url": "https://www.shacknews.com/article/142744/meta-facebook-layoff-3600-january-2025",
+          "title": "Meta to layoff around 3,600 in 'performance-based cuts'",
+          "description": "The layoffs will remove 5 percent of Meta's workforce as an effort to 'move out low performers faster' in preparation for 'an intense year,' said CEO Mark Zuckerberg.",
+          "image": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2025/01/14/meta-to-layoff-around-3600-in-performance-based-cuts_feature.jpg",
+          "siteName": "Shacknews"
         }
       ]
     },

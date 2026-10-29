@@ -1,0 +1,24 @@
+{
+  "name": "FormFactor",
+  "industry": "Semiconductors",
+  "events": [
+    {
+      "id": "formfactor-2026-01-09",
+      "date": "2026-01-09",
+      "headcount": 220,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:aecc6a5bca91da6033f1",
+      "sources": [
+        {
+          "url": "https://www.latimes.com/business/story/2026-01-09/bay-area-semiconductor-testing-company-to-lay-off-more-than-200-workers",
+          "title": "Bay Area semiconductor testing company to lay off more than 200 workers",
+          "description": "FormFactor, which offers equipment to test semiconductors, also told the state it plans to close down manufacturing facilities in Carlsbad and Baldwin Park.",
+          "image": "https://ca-times.brightspotcdn.com/dims4/default/7f561cd/2147483647/strip/true/crop/1592x836+0+125/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2F6a%2Fecf0dd5f4b5989dc7903a186aed0%2Fme-formfactor-closed-semi-conductors.jpg",
+          "siteName": "Los Angeles Times"
+        }
+      ]
+    }
+  ]
+}

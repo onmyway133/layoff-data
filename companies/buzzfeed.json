@@ -6,6 +6,25 @@
   "icon": "buzzfeed.png",
   "events": [
     {
+      "id": "buzzfeed-2026-07-27",
+      "date": "2026-07-27",
+      "headcount": 180,
+      "percent": 35,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:4410b1e8819da22d8497",
+      "sources": [
+        {
+          "url": "https://www.hollywoodreporter.com/business/business-news/buzzfeed-huffpost-layoffs-1236657384/",
+          "title": "BuzzFeed, HuffPost and Tasty to Lay Off 180 Staffers",
+          "description": "The move marks a major restructuring at the Byron Allen-controlled media company.",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2247902117-1.jpg?w=1440&h=810&crop=1",
+          "siteName": "The Hollywood Reporter"
+        }
+      ]
+    },
+    {
       "id": "72231cb7-a5e5-48bf-bad2-1a6cf6b548e8",
       "date": "2023-04-20",
       "headcount": 180,

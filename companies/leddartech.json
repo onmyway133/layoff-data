@@ -1,0 +1,25 @@
+{
+  "name": "LeddarTech",
+  "industry": "Automotive sensing software",
+  "events": [
+    {
+      "id": "leddartech-2025-05-22",
+      "date": "2025-05-22",
+      "headcount": 138,
+      "percent": 95,
+      "country": "Canada",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:c63c7027485d4e73fa55",
+      "sources": [
+        {
+          "url": "https://betakit.com/leddartech-cuts-95-percent-of-staff-in-bid-to-rescue-its-business/",
+          "title": "LeddarTech cuts 95 percent of staff in bid to rescue its business",
+          "description": "LeddarTech does not expect to resume active operations after laying off 138 employees.",
+          "image": "https://cdn.betakit.com/wp-content/uploads/2023/06/LeddarTech.jpeg",
+          "siteName": "BetaKit"
+        }
+      ]
+    }
+  ]
+}

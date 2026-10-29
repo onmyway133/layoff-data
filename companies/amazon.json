@@ -6,6 +6,67 @@
   "icon": "amazon.png",
   "events": [
     {
+      "id": "amazon-2026-09-01",
+      "date": "2026-09-01",
+      "headcount": 148,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:b0aa164d54c9acd20f3a",
+      "sources": [
+        {
+          "url": "https://www.sfchronicle.com/tech/article/amazon-synopsys-tech-layoffs-22413103.php",
+          "title": "Amazon, Synopsys to cut more than 275 Bay Area tech jobs",
+          "description": "Amazon is eliminating 148 jobs in San Francisco and Sunnyvale as Synopsys prepares to cut another 128 positions at its Silicon Valley campus.",
+          "image": "https://s.hdnux.com/photos/01/67/16/65/31255901/8/rawImage.jpg",
+          "siteName": "San Francisco Chronicle"
+        }
+      ]
+    },
+    {
+      "id": "amazon-2026-08-31",
+      "date": "2026-08-31",
+      "headcount": 121,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:c766627569d810f24dc9",
+      "sources": [
+        {
+          "url": "https://www.fox13seattle.com/news/amazon-layoffs-wa",
+          "title": "Amazon lays off 121 employees from multiple WA locations",
+          "description": "The worker adjustment and retraining notification (WARN) stated that the tech and retail giant will be laying off employees from their Seattle, Bellevue and Sumner locations.",
+          "image": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2021/10/1200/630/Amazon-warehouse.jpg?ve=1&tl=1",
+          "siteName": "FOX 13 Seattle"
+        }
+      ]
+    },
+    {
+      "id": "amazon-2026-07-22",
+      "date": "2026-07-22",
+      "headcount": 1110,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:71fb365252182b3d0852",
+      "sources": [
+        {
+          "url": "https://blockonomi.com/amazon-com-inc-amzn-stock-invests-400-million-to-rebuild-two-major-florida-warehouses/",
+          "title": "Amazon.com, Inc. (AMZN) Stock: Invests $400 Million to Rebuild Two Major Florida Warehouses",
+          "description": "Amazon will spend $400 million rebuilding two Florida warehouses, affecting 1,110 workers while expanding its fulfillment network and capacity through 2028.",
+          "image": "https://blockonomi.com/wp-content/uploads/2026/04/Amazon-chip.webp",
+          "siteName": "Blockonomi"
+        },
+        {
+          "url": "https://www.supplychaindive.com/news/amazon-to-close-florida-facility-lay-off-nearly-500/825555/",
+          "title": "Amazon to temporarily close Florida facility, lay off nearly 500",
+          "description": "The Port St. Lucie distribution site will be renovated into a sortable fulfillment center, with operations set to cease Sept. 17, Amazon told Supply Chain Dive.",
+          "image": "https://imgproxy.divecdn.com/xrxfPoR4qLhaTQT_4Dj0Os7hjDkp1ASmgWss5JMhrrc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MzU5ODg3LmpwZw==.webp",
+          "siteName": "Supply Chain Dive"
+        }
+      ]
+    },
+    {
       "id": "fe98ade9-a028-4b14-bbe8-e56b27b0d5cf",
       "date": "2026-01-28",
       "headcount": 16000,

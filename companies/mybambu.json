@@ -1,0 +1,24 @@
+{
+  "name": "MyBambu",
+  "industry": "Fintech",
+  "events": [
+    {
+      "id": "mybambu-2025-11-05",
+      "date": "2025-11-05",
+      "headcount": 141,
+      "country": "United States",
+      "reason": "market_downturn",
+      "dataset": "curated",
+      "externalId": "curated:d4157b079e29a4773a7a",
+      "sources": [
+        {
+          "url": "https://cbs12.com/news/local/new-west-palm-beach-fintech-firm-to-lay-off-141-employees-amid-funding-collapse-layoff-south-florida-palm-beach-county-downtown-west-palm-beach-news-mybambu-a-fintech-startup-2751-s-dixie-hwy-420-november-5-2025",
+          "title": "West Palm Beach fintech firm to lay off 141 employees amid funding collapse",
+          "description": "MyBambu, a fintech startup headquartered in West Palm Beach, is permanently shutting down its operations and laying off all 141 employees.",
+          "image": "https://cbs12.com/resources/media2/16x9/1224/1320/0x64/90/1402f7f8-fd3f-4518-92b8-c201393e05d5-carpetlayoffsgettyimages.png",
+          "siteName": "WPEC"
+        }
+      ]
+    }
+  ]
+}

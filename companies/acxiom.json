@@ -1,0 +1,22 @@
+{
+  "name": "Acxiom",
+  "industry": "Marketing technology",
+  "events": [
+    {
+      "id": "acxiom-2025-03-19",
+      "date": "2025-03-19",
+      "headcount": 130,
+      "percent": 3.5,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:dee47549a921e3a6bb48",
+      "sources": [
+        {
+          "url": "https://www.mrweb.com/drno/news38032.htm",
+          "title": "Daily Research News Online no. 38032 - Acxiom to Shed 100 Plus Jobs"
+        }
+      ]
+    }
+  ]
+}

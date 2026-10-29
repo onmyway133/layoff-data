@@ -1,0 +1,24 @@
+{
+  "name": "Qualcomm",
+  "industry": "Semiconductors",
+  "events": [
+    {
+      "id": "qualcomm-2026-04-09",
+      "date": "2026-04-09",
+      "headcount": 104,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:0ca16ace272321a2b704",
+      "sources": [
+        {
+          "url": "https://www.sandiegouniontribune.com/2026/04/09/qualcomm-lays-off-dozens-of-senior-positions-in-san-diego/",
+          "title": "Qualcomm lays off dozens of senior positions in San Diego",
+          "description": "The layoffs affect employees at 11 San Diego facilities, including its headquarters, but no plants will be closed, according to the WARN notice.",
+          "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/04/sut-l-q2-venture_NEL-016.jpg?w=2000&h=1332",
+          "siteName": "San Diego Union-Tribune"
+        }
+      ]
+    }
+  ]
+}

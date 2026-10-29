@@ -1,0 +1,23 @@
+{
+  "name": "F5",
+  "industry": "Networking and security",
+  "events": [
+    {
+      "id": "f5-2025-08-13",
+      "date": "2025-08-13",
+      "headcount": 106,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:3f7cf3090fd00bb26516",
+      "sources": [
+        {
+          "url": "https://www.sdxcentral.com/news/f5-to-cut-106-jobs-in-washington-despite-revenue-bump/",
+          "title": "F5 to cut 106 jobs in Washington despite revenue bump",
+          "description": "Application security firm cites ‘product organization shifts’ as reason for October layoffs",
+          "image": "https://media.datacenterdynamics.com/media/images/F5-Tower-Exterior-07.2e16d0ba.fill-1200x630.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Flywire",
+  "industry": "Payments",
+  "events": [
+    {
+      "id": "flywire-2025-02-26",
+      "date": "2025-02-26",
+      "headcount": 125,
+      "percent": 10,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:ef98489b7bb3504f0b92",
+      "sources": [
+        {
+          "url": "https://www.bostonglobe.com/2025/02/26/business/student-visa-cutback-flywire-stock-price/",
+          "title": "Boston payments company Flywire lays off 125 staffers amid student visa slowdown - The Boston Globe",
+          "description": "Flywire, which is cutting about 125 staffers, had grown quickly over the past few years by acquiring payments companies around the world.",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/ABGVCGNN7FG3PI2WWUBN62T3LI.jpeg?auth=90c89b504596c4da3964c42959d5fdc54886426109739cd2fe697aff4d5c972b&width=1440",
+          "siteName": "BostonGlobe.com"
+        }
+      ]
+    }
+  ]
+}

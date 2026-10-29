@@ -1,0 +1,25 @@
+{
+  "name": "Placer.ai",
+  "industry": "Location analytics software",
+  "events": [
+    {
+      "id": "placer-ai-2025-01-29",
+      "date": "2025-01-29",
+      "headcount": 150,
+      "percent": 18,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:45aff6186e281f4e405a",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/sj6ptuddye",
+          "title": "Placer.ai lays off 150 employees in a push for profitability | CTech",
+          "description": "The Israeli location analytics firm reduces its workforce by 18% as it prioritizes cost efficiency and a more focused growth strategy.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2022/01/12/1161666/1161666_0_185_2000_1126_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

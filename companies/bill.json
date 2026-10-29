@@ -1,0 +1,32 @@
+{
+  "name": "Bill",
+  "industry": "Fintech",
+  "events": [
+    {
+      "id": "bill-2026-05-07",
+      "date": "2026-05-07",
+      "headcount": 600,
+      "percent": 30,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:1d54ef0c90e297df4516",
+      "sources": [
+        {
+          "url": "https://www.paymentsdive.com/news/bill-shuffles-senior-executives-ai-job-cuts-starboard-elliott/821312/",
+          "title": "Bill shuffles senior executives",
+          "description": "Business payments company Bill Holdings named new leaders for product, technology and revenue roles amid a broader restructuring.",
+          "image": "https://imgproxy.divecdn.com/5CacpOBuvn0WNcQchGuvK6hSjaN4riHVe0UHUo2xMhs/g:nowe:1:372/c:2471:1396/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZXNpemVkX1JlbmVfTGFjZXJ0ZV8zLmpwZw==.webp",
+          "siteName": "Payments Dive"
+        },
+        {
+          "url": "https://hoodline.com/2026/05/san-jose-s-bill-swings-the-ax-in-high-stakes-ai-bet/",
+          "title": "San Jose’s BILL Swings the Ax in High-Stakes AI Bet",
+          "description": "San Jose's BILL reshuffles execs and plans major layoffs as it pivots to AI.",
+          "image": "https://img.hoodline.com/2026/5/san-joses-bill-swings-the-ax-in-high-stakes-ai-bet-8.webp",
+          "siteName": "Hoodline"
+        }
+      ]
+    }
+  ]
+}

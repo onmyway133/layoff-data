@@ -37,6 +37,24 @@
       ]
     },
     {
+      "id": "atlassian-2025-09-10",
+      "date": "2025-09-10",
+      "headcount": 200,
+      "country": "Netherlands",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:7e32d4f5c1aa3eca60a9",
+      "sources": [
+        {
+          "url": "https://www.customerexperiencedive.com/news/atlassian-lays-off-200-customer-service-support-staff/759832/",
+          "title": "Atlassian lays off another 200 customer service, support staff",
+          "description": "The company came to the decision after its customer experience improvements to platform and tools reduced support needs, a spokesperson told CX Dive.",
+          "image": "https://imgproxy.divecdn.com/SW8QAbraPpvkqG8pR3GL4K8UaplkBF4E0oCpHWx1zx8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjUyMTk5Mjk2LmpwZw==.webp",
+          "siteName": "CX Dive"
+        }
+      ]
+    },
+    {
       "id": "5fd31e82-b0c0-4107-a61f-d4733dc3d830",
       "date": "2025-07-30",
       "headcount": 150,

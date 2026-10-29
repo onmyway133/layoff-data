@@ -1,0 +1,21 @@
+{
+  "name": "Vendease",
+  "industry": "Food procurement platform",
+  "events": [
+    {
+      "id": "vendease-2025-02-19",
+      "date": "2025-02-19",
+      "headcount": 120,
+      "percent": 44,
+      "country": "Nigeria",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:0bbc43990d96b46dd73b",
+      "sources": [
+        {
+          "url": "https://techpoint.africa/news/vendease-overhauls-compensation-strategy/"
+        }
+      ]
+    }
+  ]
+}

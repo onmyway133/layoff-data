@@ -1,0 +1,31 @@
+{
+  "name": "Wise",
+  "industry": "Fintech",
+  "events": [
+    {
+      "id": "wise-2025-02-10",
+      "date": "2025-02-10",
+      "headcount": 307,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:ec8a9e345910624fd632",
+      "sources": [
+        {
+          "url": "https://www.bankingdive.com/news/wise-closing-tampa-office-laying-off-over-300-staff/739973/",
+          "title": "Wise to close Tampa office, cut about 300 employees",
+          "description": "The fintech will shutter its Florida location in November, with layoffs starting in April. Wise will consolidate Americas teams in Austin, New York and S&atilde;o Paulo.",
+          "image": "https://imgproxy.divecdn.com/9CSUAKMmuFMFj4M59JpxcUnZhHgxHEcfAShoQiUyB0s/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODE2NDU1MDQuanBn.webp",
+          "siteName": "Banking Dive"
+        },
+        {
+          "url": "https://www.tampabay.com/news/business/2025/02/10/wise-close-tampa-offices-cutting-more-than-300-jobs/",
+          "title": "Wise to close Tampa office, cutting more than 300 jobs",
+          "description": "The tech firm said it plans to consolidate its American operations.",
+          "image": "https://www.tampabay.com/resizer/v2/VDL6IYWKGFBZPA46VC6QX4KIOQ.jpg?auth=6297f0528464bced4ebf14fd6a850533906cec68d82009bb503b6454f0071823&height=675&width=1200&smart=true",
+          "siteName": "Tampa Bay Times"
+        }
+      ]
+    }
+  ]
+}

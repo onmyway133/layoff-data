@@ -53,6 +53,24 @@
           "url": "https://euronews.com/next/2025/07/23/tiktok-content-moderators-in-germany-strike-over-ai-taking-their-jobs"
         }
       ]
+    },
+    {
+      "id": "tiktok-2025-03-06",
+      "date": "2025-03-06",
+      "headcount": 300,
+      "country": "Ireland",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:cece45947f8df34081e2",
+      "sources": [
+        {
+          "url": "https://www.rte.ie/news/ireland/2025/0306/1500535-tik-tok-ireland/",
+          "title": "TikTok layoffs to take effect in April, says minister",
+          "description": "Minister for Enterprise, Tourism and Employment Peter Burke has said that it is his understanding that redundancies at TikTok's Irish operation will take effect in April.",
+          "image": "https://www.rte.ie/images/0022078c-1600.jpg",
+          "siteName": "RTE.ie"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Sama",
+  "industry": "AI data annotation",
+  "events": [
+    {
+      "id": "sama-2026-04-16",
+      "date": "2026-04-16",
+      "headcount": 1108,
+      "country": "Kenya",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:a3ae9f085573add6c309",
+      "sources": [
+        {
+          "url": "https://thekenyatimes.com/latest-kenya-times-news/nairobi-based-data-firm-announces-lay-off-of-1108-employees/",
+          "title": "Nairobi- Based Data Firm Announces Lay Off Of 1,108 Employees",
+          "description": "In a redundancy notice issued on April 16, the company said the layoffs follow an unsuccessful efforts to retain the engagement and will take effect later this month in line with Kenyan labour laws.",
+          "image": "https://cdn.thekenyatimes.com/uploads/2025/09/kenyans-2025.jpg",
+          "siteName": "The Kenya Times ~ Trending, Breaking News and Videos"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Chrono24",
+  "industry": "E-commerce",
+  "events": [
+    {
+      "id": "chrono24-2025-01-16",
+      "date": "2025-01-16",
+      "headcount": 110,
+      "country": "Germany",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:1320a1e7ad914e9f527d",
+      "sources": [
+        {
+          "url": "https://retail-news.de/chrono24-stellenabbau-luxus-uhrenmarkt/",
+          "title": "Krise im Luxusuhren-Markt: Chrono24 baut ein Viertel aller Stellen ab",
+          "description": "Der führende Marktplatz für Luxusuhren Chrono24 plant eine große Umstrukturierung: 110 Mitarbeiter müssen gehen, was rund einem Viertel der Belegschaft entspricht. Im Zuge der Veränderungen sollen Prozesse gestrafft und der Fokus auf strategische Prioritäten geschärft werden.",
+          "image": "https://retail-news.de/wp-content/uploads/2025/01/Chrono24.jpg",
+          "siteName": "RETAIL-NEWS Deutschland"
+        }
+      ]
+    }
+  ]
+}

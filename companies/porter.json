@@ -1,0 +1,25 @@
+{
+  "name": "Porter",
+  "industry": "Logistics technology",
+  "events": [
+    {
+      "id": "porter-2025-11-04",
+      "date": "2025-11-04",
+      "headcount": 350,
+      "percent": 18,
+      "country": "India",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:1b1767cb678b2a5e000f",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/exclusive-porter-lays-off-over-350-employees/",
+          "title": "Exclusive: Porter Lays Off Over 350 Employees",
+          "description": "Months after raising $200 Mn at a unicorn valuation, logistics startup Porter has laid off over 350 employees in a restructuring exercise, sources told Inc42",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/11/soc.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

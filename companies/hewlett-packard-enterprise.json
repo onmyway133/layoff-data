@@ -1,0 +1,24 @@
+{
+  "name": "Hewlett Packard Enterprise",
+  "industry": "Hardware",
+  "events": [
+    {
+      "id": "hewlett-packard-enterprise-2025-03-06",
+      "date": "2025-03-06",
+      "headcount": 2500,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:193b04c2ab7908a26da7",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2025/03/06/hewlett-packard-enterprise-hpe-q1-earnings-report-2025.html",
+          "title": "HPE to cut 2,500 employees as stock slides 19% on weak earnings outlook",
+          "description": "Management said execution wasn't perfect across the board in the January quarter.",
+          "image": "https://image.cnbcfm.com/api/v1/image/107320949-16978214342023-10-20t162212z_769818486_rc2fw3a5za2g_rtrmadp_0_usa-stocks.jpeg?v=1697821660&w=1920&h=1080",
+          "siteName": "CNBC"
+        }
+      ]
+    }
+  ]
+}

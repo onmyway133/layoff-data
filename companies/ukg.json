@@ -18,6 +18,24 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ukg-formerly-ultimate-software-lays-205200750.html"
         }
       ]
+    },
+    {
+      "id": "ukg-2025-11-18",
+      "date": "2025-11-18",
+      "headcount": 300,
+      "country": "Uruguay",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:ed678eced044cd7d77bb",
+      "sources": [
+        {
+          "url": "https://www.elobservador.com.uy/cafe-y-negocios/la-multinacional-ukg-cierra-sus-operaciones-uruguay-y-despide-300-profesionales-n6025098",
+          "title": "La multinacional UKG cierra sus operaciones en Uruguay y despide a 300 profesionales",
+          "description": "En LinkedIn decenas de trabajadores reportaron lo sucedido y muchos empleadores postearon oportunidades de trabajo en sus compañías.",
+          "image": "https://media.elobservador.com.uy/p/779c91af2a3e2fdf3a0b32f27c76093e/adjuntos/362/imagenes/100/693/0100693072/1200x675/smart/844288-1.jpg",
+          "siteName": "El Observador"
+        }
+      ]
     }
   ]
 }

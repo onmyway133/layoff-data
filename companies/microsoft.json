@@ -89,6 +89,24 @@
       ]
     },
     {
+      "id": "microsoft-2025-06-02",
+      "date": "2025-06-02",
+      "headcount": 305,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:a12dd6180847b5448c43",
+      "sources": [
+        {
+          "url": "https://www.fox13seattle.com/news/microsoft-announces-305-more-layoffs",
+          "title": "Microsoft to lay off hundreds more WA employees weeks after major cuts",
+          "description": "Microsoft will lay off 305 workers in Washington, less than three weeks after major cuts slashed its workforce by thousands.",
+          "image": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2023/10/1200/630/GettyImages-1207074417.jpg?ve=1&tl=1",
+          "siteName": "FOX 13 Seattle"
+        }
+      ]
+    },
+    {
       "id": "0c6a0b3a-a6fc-4262-831d-b21f431a7eda",
       "date": "2025-05-13",
       "headcount": 6000,

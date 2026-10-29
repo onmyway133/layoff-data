@@ -1,0 +1,24 @@
+{
+  "name": "Micron",
+  "industry": "Semiconductors",
+  "events": [
+    {
+      "id": "micron-2025-08-12",
+      "date": "2025-08-12",
+      "headcount": 300,
+      "country": "China",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:ebff32c2357b07e2e94c",
+      "sources": [
+        {
+          "url": "https://www.trendforce.com/news/2025/08/14/news-micron-reportedly-cuts-over-300-jobs-in-china-amid-mobile-nand-retreat/",
+          "title": "[News] Micron Reportedly Cuts Over 300 Jobs in China Amid Mobile NAND Retreat",
+          "description": "As Chinese local media revealed Micron begun layoffs in its China operations as of August 11, a latest report from South China Morning Post discloses ...",
+          "image": "https://img.trendforce.com/blog/wp-content/uploads/2025/05/16165813/Micron-Japan-624x374.jpg",
+          "siteName": "TrendForce"
+        }
+      ]
+    }
+  ]
+}

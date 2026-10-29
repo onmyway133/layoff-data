@@ -1,0 +1,24 @@
+{
+  "name": "Skybox Security",
+  "industry": "Cybersecurity",
+  "events": [
+    {
+      "id": "skybox-security-2025-02-24",
+      "date": "2025-02-24",
+      "headcount": 300,
+      "country": "Israel",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:cacf35d78bd45be2e640",
+      "sources": [
+        {
+          "url": "https://www.calcalistech.com/ctechnews/article/s1wi4rc5yl",
+          "title": "Skybox Security shuts down, lays off 300 employees as Tufin acquires assets | CTech",
+          "description": "The Israeli cybersecurity firm ceases operations, leaving workers without final paychecks.",
+          "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/02/24/B13pcV9cyx/B13pcV9cyx_0_129_1000_563_0_large.jpg",
+          "siteName": "ctech"
+        }
+      ]
+    }
+  ]
+}

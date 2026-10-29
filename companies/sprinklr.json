@@ -1,0 +1,25 @@
+{
+  "name": "Sprinklr",
+  "industry": "Enterprise software",
+  "events": [
+    {
+      "id": "sprinklr-2025-02-06",
+      "date": "2025-02-06",
+      "headcount": 500,
+      "percent": 15,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:4abacf7a99295705e433",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2025/02/06/sprinklr-cuts-500-employees-citing-underwhelming-business-performance/",
+          "title": "Sprinklr cuts 500 employees, citing underwhelming business performance | TechCrunch",
+          "description": "Sprinklr has cut 15% of its workforce — around 500 employees — due to business performance not meeting expectations.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/sprinklr.jpg?resize=1200,800",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

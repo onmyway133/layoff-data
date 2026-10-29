@@ -1,0 +1,25 @@
+{
+  "name": "Personio",
+  "industry": "HR software",
+  "events": [
+    {
+      "id": "personio-2025-10-29",
+      "date": "2025-10-29",
+      "headcount": 165,
+      "percent": 10,
+      "country": "Germany",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:c43020bb30e348bd37f3",
+      "sources": [
+        {
+          "url": "https://www.personalwirtschaft.de/news/allgemein/personio-kuendigt-10-prozent-der-belegschaft-196915/",
+          "title": "Personio kündigt 10 Prozent der Belegschaft - Personalwirtschaft",
+          "description": "Das Münchener Softwareunternehmen Personio baut erneut Personal ab. Nach zwei Entlassungsrunden im vergangenen Jahr kündigt das einstige Vorzeige-Start-up weiteren 165 Beschäftigten.",
+          "image": "https://www.personalwirtschaft.de/wp-content/uploads/2025/10/Personio.jpeg",
+          "siteName": "Personalwirtschaft"
+        }
+      ]
+    }
+  ]
+}

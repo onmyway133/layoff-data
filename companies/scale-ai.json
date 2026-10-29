@@ -1,0 +1,25 @@
+{
+  "name": "Scale AI",
+  "industry": "AI data labeling",
+  "events": [
+    {
+      "id": "scale-ai-2025-07-16",
+      "date": "2025-07-16",
+      "headcount": 200,
+      "percent": 14,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:4a5c525fa941ad7d136a",
+      "sources": [
+        {
+          "url": "https://www.verdict.co.uk/scale-ai-reduces-workforce-meta/",
+          "title": "Scale AI reduces workforce following Meta investment",
+          "description": "Scale AI has implemented a significant reduction in its workforce following a multi-billion-dollar investment by Meta.",
+          "image": "https://www.verdict.co.uk/wp-content/uploads/2025/07/scale-ai-1.jpg",
+          "siteName": "Verdict"
+        }
+      ]
+    }
+  ]
+}

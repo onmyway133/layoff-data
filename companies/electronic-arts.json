@@ -41,6 +41,24 @@
           "siteName": "Game Developer"
         }
       ]
+    },
+    {
+      "id": "electronic-arts-2025-04-29",
+      "date": "2025-04-29",
+      "headcount": 300,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:3a17697b0a107cbf2ccd",
+      "sources": [
+        {
+          "url": "https://www.thesixthaxis.com/2025/04/30/report-ea-lays-off-more-than-300-staff-and-cancels-rumoured-titanfall-spin-off/",
+          "title": "Report: EA lays off more than 300 staff and cancels rumoured Titanfall spin-off | TheSixthAxis",
+          "description": "EA has reportedly cut more than 300 jobs and cancelled several projects, including a new Titanfall game. First reported by Bloomberg's Jason Schreier,",
+          "image": "https://www.thesixthaxis.com/wp-content/uploads/2021/12/Titanfall_500.jpeg",
+          "siteName": "TheSixthAxis"
+        }
+      ]
     }
   ]
 }

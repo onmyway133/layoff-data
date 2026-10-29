@@ -1,0 +1,31 @@
+{
+  "name": "reMarkable",
+  "industry": "Consumer hardware",
+  "events": [
+    {
+      "id": "remarkable-2026-04-22",
+      "date": "2026-04-22",
+      "headcount": 200,
+      "country": "Norway",
+      "reason": "market_downturn",
+      "dataset": "curated",
+      "externalId": "curated:253b5009ba021ca671c9",
+      "sources": [
+        {
+          "url": "https://goodereader.com/blog/remarkable-news/remarkable-is-firing-hundreds-of-staff",
+          "title": "Remarkable is firing hundreds of staff - Good e-Reader",
+          "description": "Remarkable has announced they are cutting 200 jobs, including the CEO. Various economic factors and declining sales are to blame.",
+          "image": "https://media.goodereader.com/blog/uploads/images/2026/04/22230807/reMarkable_Paper_Pro_Move_3_Horizontal_notes.jpg",
+          "siteName": "Good e-Reader - The latest news on audiobooks, e-books, e-readers, tablets, and reviews."
+        },
+        {
+          "url": "https://www.dagensps.se/bors-finans/stalbad-for-techjatten-remarkable-sager-upp-200-och-byter-vd/",
+          "title": "Stålbad för techjätten: Remarkable säger upp 200 och byter vd",
+          "description": "Motvinden har nått ett av Nordens mest omskrivna techbolag. Med en massiv nedskärning på uppemot 200 anställda och en ny person vid rodret, inleder",
+          "image": "https://images.dagensps.se/app/uploads/2026/04/209d14202736ccbc572292874fe28b8d2220bf25.jpg?width=1200&quality=75&aspect_ratio=2%3A1",
+          "siteName": "Dagens PS"
+        }
+      ]
+    }
+  ]
+}

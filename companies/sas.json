@@ -1,0 +1,24 @@
+{
+  "name": "SAS",
+  "industry": "Analytics software",
+  "events": [
+    {
+      "id": "sas-2026-06-26",
+      "date": "2026-06-26",
+      "headcount": 300,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:4bfa8060896c92faf97d",
+      "sources": [
+        {
+          "url": "https://abc11.com/post/layoffs-nc-sas-institute-cuts-300-jobs-company-wide-analytics-software-provider-headquartered-cary-is-global/19392222/",
+          "title": "SAS Institute cuts 300 jobs companywide",
+          "description": "SAS has more than 400 offices worldwide and its main campus is located in Cary.",
+          "image": "https://cdn.abcotvs.com/dip/images/19390151_SASInstituteSign.jpg?w=1600",
+          "siteName": "ABC11 Raleigh-Durham"
+        }
+      ]
+    }
+  ]
+}

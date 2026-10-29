@@ -6,6 +6,25 @@
   "icon": "paytm.png",
   "events": [
     {
+      "id": "paytm-2026-06-10",
+      "date": "2026-06-10",
+      "headcount": 400,
+      "percent": 1,
+      "country": "India",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:de7728e9da24a416bd41",
+      "sources": [
+        {
+          "url": "https://www.peoplematters.in/news/strategic-hr/paytm-to-lay-off-1percent-of-workforce-while-hiring-4000-employees-50188",
+          "title": "Paytm to lay off 1% of workforce while hiring 4,000 employees",
+          "description": "The fintech firm plans to expand its headcount by about 10% through AI, product and technology hiring, even as it prepares performance-linked workforce reductions affecting around 400 employees.",
+          "image": "https://asset.peoplematters.in/images/9b19ce60-b49d-434f-a522-51f1163afd3e.png",
+          "siteName": "People Matters"
+        }
+      ]
+    },
+    {
       "id": "04d25ac1-7ee8-4ba5-a249-18acec564bfa",
       "date": "2023-12-25",
       "headcount": 1000,

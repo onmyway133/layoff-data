@@ -1,0 +1,24 @@
+{
+  "name": "airSlate",
+  "industry": "Software",
+  "events": [
+    {
+      "id": "airslate-2025-10-15",
+      "date": "2025-10-15",
+      "headcount": 170,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:92860f7eb397165a9b1b",
+      "sources": [
+        {
+          "url": "https://dou.ua/lenta/news/airslate-lays-off-about-170-specialists/",
+          "title": "airSlate скоротить близько 170 фахівців. У чому причина",
+          "description": "Продуктова ІТ-компанія airSlate проводить реструктуризацію, аби побудувати \"менші, але сильніші команди\". Розповідаємо деталі.",
+          "image": "https://s.dou.ua/img/announces/airslate_1.png",
+          "siteName": "DOU"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Games24x7",
+  "industry": "Online gaming",
+  "events": [
+    {
+      "id": "games24x7-2025-09-01",
+      "date": "2025-09-01",
+      "headcount": 400,
+      "country": "India",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:dc01da5ef294435f7fa9",
+      "sources": [
+        {
+          "url": "https://www.peoplematters.in/news/strategic-hr/after-mpl-games24x7-lays-off-400-employees-govt-steps-in-43232",
+          "title": "After MPL, Games24x7 lays off 400 employees, govt steps in",
+          "description": "Games24x7 and MPL lay off hundreds amid regulatory upheaval; MeitY to meet real money gaming operators.",
+          "image": "https://asset.peoplematters.in/images/31a2cf3d-3a85-456b-b54a-c33dacc239a9.jpg",
+          "siteName": "People Matters"
+        }
+      ]
+    },
+    {
+      "id": "games24x7-2025-05-07",
+      "date": "2025-05-07",
+      "headcount": 180,
+      "country": "India",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:8f2cabe01285ffc62eec",
+      "sources": [
+        {
+          "url": "https://www.storyboard18.com/gaming-news/games-24x7-cuts-staff-amid-gst-dispute-industry-turmoil-64843.htm",
+          "title": "Games 24x7 cuts staff amid GST dispute, industry turmoil",
+          "description": "Games 24x7 is backed by Tiger Global Management, The Raine Group, Malabar Investment Advisors, and Das & Co",
+          "image": "https://images.storyboard18.com/storyboard18/2025/02/job-termination-layoff-2025-02-656a5e467138eb925b9905625d2aa951-1019x573.jpg"
+        }
+      ]
+    }
+  ]
+}
