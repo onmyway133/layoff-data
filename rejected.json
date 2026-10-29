@@ -20,6 +20,12 @@
     "date": "2026-01-29"
   },
   {
+    "externalId": "ailayoffs:08e8dc5a7d958fcaf337",
+    "company": "American Express",
+    "date": "2026-10-23",
+    "note": "Out of scope: not a tech company (American Express, card issuer and bank holding company)."
+  },
+  {
     "externalId": "ailayoffs:0d0652a1dd85de391ac5",
     "company": "Freight Technologies (Fr8Tech)",
     "date": "2025-02-07"
@@ -45,6 +51,12 @@
     "date": "2026-06-22"
   },
   {
+    "externalId": "ailayoffs:18889f2b3d2402e12aff",
+    "company": "Acrisure",
+    "date": "2026-05-20",
+    "note": "Out of scope: not a tech company (Acrisure, insurance brokerage)."
+  },
+  {
     "externalId": "ailayoffs:1e18da81a44024d886d4",
     "company": "Snyk",
     "date": "2026-06-24"
@@ -58,6 +70,12 @@
     "externalId": "ailayoffs:23909ee8d98da985359f",
     "company": "Bendigo and Adelaide Bank",
     "date": "2026-04-09"
+  },
+  {
+    "externalId": "ailayoffs:27c1bd7736fc06bfb50c",
+    "company": "Nordea",
+    "date": "2026-03-17",
+    "note": "Out of scope: not a tech company (Nordea, bank)."
   },
   {
     "externalId": "ailayoffs:287fc3b59eabbabd7ba0",
@@ -140,6 +158,12 @@
     "date": "2026-05-07"
   },
   {
+    "externalId": "ailayoffs:63540b8c5035a74afe09",
+    "company": "Cariad (Volkswagen)",
+    "date": "2026-09-30",
+    "note": "Out of scope: tech unit of a non-tech company (Cariad, Volkswagen)."
+  },
+  {
     "externalId": "ailayoffs:6c6682cbf07110ad676b",
     "company": "WiseTech Global",
     "date": "2025-07-23"
@@ -148,6 +172,12 @@
     "externalId": "ailayoffs:6f0eb5c306adc662a58e",
     "company": "Revere Health",
     "date": "2025-11-03"
+  },
+  {
+    "externalId": "ailayoffs:6fc206e6cf7cc5bed2e5",
+    "company": "National Australia Bank",
+    "date": "2026-10-20",
+    "note": "Out of scope: not a tech company (National Australia Bank, bank)."
   },
   {
     "externalId": "ailayoffs:730b432705ff40957f86",
@@ -175,6 +205,12 @@
     "date": "2025-06-05"
   },
   {
+    "externalId": "ailayoffs:7ee39c7cd185ae0b4888",
+    "company": "E.W. Scripps",
+    "date": "2026-10-27",
+    "note": "Out of scope: not a tech company (E.W. Scripps, broadcaster)."
+  },
+  {
     "externalId": "ailayoffs:7fbba67680fd9501a907",
     "company": "Intesa Sanpaolo",
     "date": "2024-10-23"
@@ -183,6 +219,18 @@
     "externalId": "ailayoffs:81132a89f7d2efe17389",
     "company": "lastminute.com",
     "date": "2026-06-17"
+  },
+  {
+    "externalId": "ailayoffs:85c8a9bf194c6496514f",
+    "company": "Volkswagen",
+    "date": "2026-09-30",
+    "note": "Out of scope: not a tech company (Volkswagen, carmaker)."
+  },
+  {
+    "externalId": "ailayoffs:8e2b0028d2148312dc29",
+    "company": "Barclays",
+    "date": "2026-10-22",
+    "note": "Out of scope: not a tech company (Barclays, bank)."
   },
   {
     "externalId": "ailayoffs:93c958a4a29939f494bb",
@@ -225,6 +273,12 @@
     "date": "2026-05-08"
   },
   {
+    "externalId": "ailayoffs:bc6dce9e12e4ef837a5c",
+    "company": "Generali Deutschland",
+    "date": "2026-10-23",
+    "note": "Out of scope: not a tech company (Generali Deutschland, insurer)."
+  },
+  {
     "externalId": "ailayoffs:c2d0efbcba54929f2b67",
     "company": "Bank of America",
     "date": "2026-04-15"
@@ -233,6 +287,12 @@
     "externalId": "ailayoffs:c3360cbc061053a42c9c",
     "company": "Lufthansa Group",
     "date": "2025-09-29"
+  },
+  {
+    "externalId": "ailayoffs:c7e18e62e6163932b4a9",
+    "company": "Dutch central government (Rijksoverheid)",
+    "date": "2026-10-26",
+    "note": "Out of scope: not a tech company (Dutch central government)."
   },
   {
     "externalId": "ailayoffs:c8acd8a995a3bc3c4a9d",
@@ -248,6 +308,12 @@
     "externalId": "ailayoffs:ccb8924bdea379ea2e9e",
     "company": "LegalZoom",
     "date": "2026-08-05"
+  },
+  {
+    "externalId": "ailayoffs:d0aff9b33bc537a623ac",
+    "company": "Translation Bureau (Public Services and Procurement Canada)",
+    "date": "2025-03-20",
+    "note": "Out of scope: not a tech company (Translation Bureau, Government of Canada)."
   },
   {
     "externalId": "ailayoffs:d11ae8e1a68659fda570",
@@ -300,9 +366,21 @@
     "date": "2024-12-12"
   },
   {
+    "externalId": "ailayoffs:ea1d7ccddb34882af73f",
+    "company": "KPMG",
+    "date": "2026-08-24",
+    "note": "Out of scope: not a tech company (KPMG, professional services)."
+  },
+  {
     "externalId": "ailayoffs:ed3af0439a187825a2a9",
     "company": "GSK",
     "date": "2026-10-14"
+  },
+  {
+    "externalId": "ailayoffs:f0bbb65dc1f7ab0f09b2",
+    "company": "Government of Canada",
+    "date": "2025-11-04",
+    "note": "Out of scope: not a tech company (Government of Canada)."
   },
   {
     "externalId": "ailayoffs:f2b6b67cca9d78a8f67d",
@@ -335,9 +413,57 @@
     "date": "2024-02-27"
   },
   {
+    "externalId": "curated:249b7d5994c3d210bd05",
+    "company": "Nike",
+    "date": "2026-04-23",
+    "note": "Out of scope: not a tech company (Nike, retailer)."
+  },
+  {
+    "externalId": "curated:2985ca75193255edaafe",
+    "company": "Even Healthcare",
+    "date": "2026-08-27",
+    "note": "Out of scope: not a tech company (Even Healthcare, health insurance and clinics)."
+  },
+  {
+    "externalId": "curated:591f4988041b0c6ee926",
+    "company": "Ola Electric",
+    "date": "2026-01-30",
+    "note": "Out of scope: not a tech company (Ola Electric, EV maker)."
+  },
+  {
+    "externalId": "curated:6968be8966de57b84755",
+    "company": "Redwood Materials",
+    "date": "2026-04-21",
+    "note": "Out of scope: not a tech company (Redwood Materials, battery recycling)."
+  },
+  {
+    "externalId": "curated:6a3f23ac7d3fc8eab100",
+    "company": "Lucid Motors",
+    "date": "2026-06-22",
+    "note": "Out of scope: not a tech company (Lucid Motors, carmaker)."
+  },
+  {
+    "externalId": "curated:7ac92ba25a0940b925ee",
+    "company": "Ubisoft",
+    "date": "2026-01-26",
+    "note": "Not a layoff: a collective voluntary mutual termination agreement at the Paris HQ (TechRadar)."
+  },
+  {
+    "externalId": "curated:98be4214e38c9b2775de",
+    "company": "Aldi DX",
+    "date": "2026-04-28",
+    "note": "Out of scope: tech unit of a non-tech company (Aldi DX, Aldi)."
+  },
+  {
     "externalId": "curated:ddac08f73c8f98de9678",
     "company": "Microsoft",
     "date": "2026-10-26",
     "note": "Not a layoff: a voluntary buyout offer; 60,000 is the eligible pool, not confirmed exits (CNBC, 2026-10-26)."
+  },
+  {
+    "externalId": "curated:f68ae6e04982650ae751",
+    "company": "DB Systel",
+    "date": "2026-02-19",
+    "note": "Out of scope: tech unit of a non-tech company (DB Systel, Deutsche Bahn)."
   }
 ]

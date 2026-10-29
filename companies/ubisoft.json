@@ -46,25 +46,6 @@
           "siteName": "GamesIndustry.biz"
         }
       ]
-    },
-    {
-      "id": "13dc2f58-1c86-442b-88a6-4d9c141f374c",
-      "date": "2026-01-26",
-      "headcount": 200,
-      "percent": 18,
-      "country": "France",
-      "reason": "restructuring",
-      "dataset": "curated",
-      "externalId": "curated:7ac92ba25a0940b925ee",
-      "sources": [
-        {
-          "url": "https://www.techradar.com/gaming/gaming-industry/following-its-major-restructuring-announcement-ubisoft-begins-a-collective-voluntary-mutual-termination-agreement-at-its-paris-hq-with-200-jobs-on-the-line",
-          "title": "Ubisoft begins voluntary redundancy process at Paris HQ, proposing 200 employees quit their jobs to align with company's recently announced restructuring plan",
-          "description": "One week after announcing major restructuring plans at Ubisoft, the company has now begun a voluntary redundancy process at its Paris, France headquarters.",
-          "image": "https://cdn.mos.cms.futurecdn.net/FwXCb2Yh8kujXd7YJdYrXJ-2560-80.jpg",
-          "siteName": "TechRadar"
-        }
-      ]
     }
   ]
 }
