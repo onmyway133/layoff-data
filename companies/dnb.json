@@ -1,0 +1,22 @@
+{
+  "name": "DNB",
+  "industry": "Banking",
+  "events": [
+    {
+      "id": "79a47c62-c3d6-4a56-b2eb-ad42598fbca2",
+      "date": "2026-10-06",
+      "headcount": 400,
+      "country": "Norway",
+      "reason": "ai_automation",
+      "sources": [
+        {
+          "url": "https://www.nettavisen.no/nyheter/dnb-varsler-nedbemanning-kutter-400-arsverk/s/80-95-134784",
+          "title": "DNB varsler nedbemanning",
+          "description": "Kutter 400 stillinger.",
+          "image": "https://g.acdn.no/obscura/API/dynamic/r1/cue/tr_2000_2000_s_f/1791270510000/nettav/2026/10/6/7/NTB_wPuXhpmz6HA.jpg?chk=203EE4",
+          "siteName": "Nettavisen"
+        }
+      ]
+    }
+  ]
+}
