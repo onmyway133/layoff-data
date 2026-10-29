@@ -40,7 +40,4 @@ company's own site, filings or posts. Events are never estimated or made up.
 
 ## License
 
-This data is **not** open. It is public only so you can contribute. You may not
-copy, scrape, redistribute or use it in other products, or use it to train AI
-models. Records from the AI Layoffs Index keep their own terms. See
-[LICENSE](LICENSE).
+Records from the AI Layoffs Index keep their own terms. See [LICENSE](LICENSE).
