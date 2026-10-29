@@ -6,25 +6,6 @@
   "icon": "microsoft.png",
   "events": [
     {
-      "id": "9e6e9247-0515-44a8-b3c4-163b199610ee",
-      "date": "2026-10-26",
-      "headcount": 60000,
-      "percent": 27,
-      "country": "United States",
-      "reason": "cost_cutting",
-      "dataset": "curated",
-      "externalId": "curated:ddac08f73c8f98de9678",
-      "sources": [
-        {
-          "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-          "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-          "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-          "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
-          "siteName": "CNBC"
-        }
-      ]
-    },
-    {
       "id": "871740c0-ba56-4537-938f-7d7a45479347",
       "date": "2026-09-22",
       "headcount": 268,

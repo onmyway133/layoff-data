@@ -333,5 +333,11 @@
     "externalId": "ailayoffs:ff7873bd56703a0b9f75",
     "company": "Bentley Systems",
     "date": "2024-02-27"
+  },
+  {
+    "externalId": "curated:ddac08f73c8f98de9678",
+    "company": "Microsoft",
+    "date": "2026-10-26",
+    "note": "Not a layoff: a voluntary buyout offer; 60,000 is the eligible pool, not confirmed exits (CNBC, 2026-10-26)."
   }
 ]
