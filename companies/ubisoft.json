@@ -5,6 +5,28 @@
   "icon": "ubisoft.png",
   "events": [
     {
+      "id": "ubisoft-2026-10-14",
+      "date": "2026-10-14",
+      "headcount": 120,
+      "country": "France",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:b3e8423cf94a20dacd22",
+      "sources": [
+        {
+          "url": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore",
+          "title": "Ubisoft to close RedLynx, downsize Ubisoft Singapore",
+          "description": "The decisions will ultimately impact over 120 jobs between the two studios as part Ubisoft's ongoing restructuring efforts.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt31faab583a5d567e/6ad00247cc053f53500cdd3b/ss_6f8618deb72b344e1aad81c67423cd8ce7bd97ee.1920x1080.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Game Developer"
+        },
+        {
+          "url": "https://www.techinasia.com/news/ubisoft-cut-70-singapore-jobs-17b-annual-loss",
+          "title": "Tech in Asia - Connecting Asia's startup ecosystem"
+        }
+      ]
+    },
+    {
       "id": "6eaa4150-2a03-40ba-8528-94cde9fbacb6",
       "date": "2026-06-10",
       "headcount": 380,
