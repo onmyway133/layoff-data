@@ -247,6 +247,12 @@
     "date": "2026-05-12"
   },
   {
+    "externalId": "ailayoffs:a007043d9b31c4db5bab",
+    "company": "BBC",
+    "date": "2026-09-28",
+    "note": "Out of scope: not a tech company (BBC, public broadcaster), though the cut was in its tech teams."
+  },
+  {
     "externalId": "ailayoffs:a3cb0875df0d4490b38b",
     "company": "Kroger",
     "date": "2026-10-12"
