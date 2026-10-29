@@ -158,12 +158,6 @@
     "date": "2026-05-07"
   },
   {
-    "externalId": "ailayoffs:63540b8c5035a74afe09",
-    "company": "Cariad (Volkswagen)",
-    "date": "2026-09-30",
-    "note": "Out of scope: tech unit of a non-tech company (Cariad, Volkswagen)."
-  },
-  {
     "externalId": "ailayoffs:6c6682cbf07110ad676b",
     "company": "WiseTech Global",
     "date": "2025-07-23"
@@ -449,21 +443,9 @@
     "note": "Not a layoff: a collective voluntary mutual termination agreement at the Paris HQ (TechRadar)."
   },
   {
-    "externalId": "curated:98be4214e38c9b2775de",
-    "company": "Aldi DX",
-    "date": "2026-04-28",
-    "note": "Out of scope: tech unit of a non-tech company (Aldi DX, Aldi)."
-  },
-  {
     "externalId": "curated:ddac08f73c8f98de9678",
     "company": "Microsoft",
     "date": "2026-10-26",
     "note": "Not a layoff: a voluntary buyout offer; 60,000 is the eligible pool, not confirmed exits (CNBC, 2026-10-26)."
-  },
-  {
-    "externalId": "curated:f68ae6e04982650ae751",
-    "company": "DB Systel",
-    "date": "2026-02-19",
-    "note": "Out of scope: tech unit of a non-tech company (DB Systel, Deutsche Bahn)."
   }
 ]

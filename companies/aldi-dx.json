@@ -1,0 +1,23 @@
+{
+  "name": "Aldi DX",
+  "events": [
+    {
+      "id": "ed4c5265-3da1-46e3-981d-dfa2ff32536d",
+      "date": "2026-04-28",
+      "headcount": 1250,
+      "country": "Germany",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:98be4214e38c9b2775de",
+      "sources": [
+        {
+          "url": "https://www.derstandard.at/story/3000000318560/bericht-aldi-s252d-baut-mehr-als-1200-stellen-ab",
+          "title": "Bericht: Aldi Süd baut mehr als 1200 Stellen ab",
+          "description": "Der größte Teil davon entfällt auf die internationale IT- und Digitalsparte Aldi DX. Auch der internationale Einkauf ist vom Stellenabbau betroffen",
+          "image": "https://i.ds.at/s2EePQ/rs:fill:1200:600/plain/lido-images/2026/04/28/e9b6208c-5c48-415d-89b4-27d6008fdbae.jpg",
+          "siteName": "DER STANDARD"
+        }
+      ]
+    }
+  ]
+}
