@@ -13,10 +13,11 @@ Layoffs at tech companies and startups, reported by the press. One event is
 one announced round of cuts. We list layoffs of more than 100 people: an event
 with a `headcount` of 100 or fewer is refused by the check.
 
-- **Tech only.** Software, internet, hardware, semiconductors, telecom, games,
-  fintech, e-commerce and IT services companies. Banks, insurers, government,
-  traditional media, pharma, medical devices, carmakers and retailers are out,
-  even when the cut is in their tech unit or linked to AI.
+- **Tech only.** Layoffs at software, internet, hardware, semiconductors,
+  telecom, games, fintech, e-commerce and IT services companies. At other
+  companies (banks, insurers, government, media, pharma, carmakers, retailers)
+  a layoff counts only when the people cut are tech staff (IT, engineering, a
+  software unit) and the article says so; cuts linked to AI alone don't count.
 - **Layoffs only.** Involuntary job cuts. Voluntary buyouts or exit offers,
   attrition, hiring freezes and roles left unfilled are not layoffs.
 
