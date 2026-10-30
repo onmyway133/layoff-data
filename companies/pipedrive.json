@@ -1,0 +1,24 @@
+{
+  "name": "Pipedrive",
+  "industry": "Sales software",
+  "events": [
+    {
+      "id": "pipedrive-2026-10-29",
+      "date": "2026-10-29",
+      "headcount": 267,
+      "country": "Estonia",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:24892fd90b5c33e3363d",
+      "sources": [
+        {
+          "url": "https://news.err.ee/1610180296/estonian-unicorn-pipedrive-announces-major-restructuring-office-closures",
+          "title": "Estonian unicorn Pipedrive announces 'major' restructuring, office closures",
+          "description": "Estonian-founded customer relationship management (CRM) software firm Pipedrive is to significantly downsize, the company announced Thursday.",
+          "image": "https://s.err.ee/photo/crop/2026/10/29/3864517h05a0t24.jpg",
+          "siteName": "ERR"
+        }
+      ]
+    }
+  ]
+}

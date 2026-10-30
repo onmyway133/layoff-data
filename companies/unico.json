@@ -1,0 +1,25 @@
+{
+  "name": "Unico",
+  "industry": "Identity verification software",
+  "events": [
+    {
+      "id": "unico-2026-10-29",
+      "date": "2026-10-29",
+      "headcount": 175,
+      "percent": 25,
+      "country": "Brazil",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:9291bb3ac8b605302ff9",
+      "sources": [
+        {
+          "url": "https://www.bloomberglinea.com.br/startups/unico-transforma-selfie-em-identidade-global-aumenta-produtividade-com-ia-e-reduz-time/",
+          "title": "Unico transforma selfie em identidade global, aumenta produtividade com IA e reduz time",
+          "description": "Com patente depositada nos EUA, tecnologia gera um número único a partir da selfie e sustenta a meta de a empresa virar infraestrutura global de identidade em até 18 meses; a reorganização inclui desligamento de 25% o quadro de funcionários",
+          "image": "https://www.bloomberglinea.com/resizer/v2/IGIQXD7GG5AW7AE6V5AI34MEFA.jpeg?auth=8d4e13f9fa50589dc334eeefb0f69468a612289838b1aa32a8b97f8db967cf64&width=1200&height=630&quality=80&smart=true",
+          "siteName": "Bloomberg Línea Brasil"
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,25 @@
   "icon": "dropbox.png",
   "events": [
     {
+      "id": "dropbox-2026-10-28",
+      "date": "2026-10-28",
+      "headcount": 200,
+      "percent": 9,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:4cf1d6ee8506922c2316",
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/dropbox-layoffs-job-cuts-ceo-memo-ashraf-alkarmi-2026-10",
+          "title": "Dropbox is laying off roughly 9% of its workforce. Read the memo.",
+          "description": "Co-CEO Ashraf Alkarmi said Dropbox is profitable but needs to make \"hard choices\" about where it spends its money.",
+          "image": "https://i.insider.com/6ae20737e793e12971426396?width=1200&format=jpeg",
+          "siteName": "Business Insider"
+        }
+      ]
+    },
+    {
       "id": "82494521-be7c-453a-9e73-3a5fb4c6bf86",
       "date": "2024-10-30",
       "headcount": 528,
