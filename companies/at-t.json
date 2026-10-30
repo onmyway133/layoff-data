@@ -1,0 +1,24 @@
+{
+  "name": "AT&T",
+  "industry": "Telecom",
+  "events": [
+    {
+      "id": "at-t-2026-10-30",
+      "date": "2026-10-30",
+      "headcount": 3700,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:ee70dbc7bf3c34149e26",
+      "sources": [
+        {
+          "url": "https://www.lightreading.com/ai-machine-learning/at-t-and-verizon-normalize-layoffs-as-8-000-jobs-go-in-a-quarter",
+          "title": "AT&T and Verizon normalize layoffs as 8,000 jobs go in a quarter",
+          "description": "Together, AT&T and Verizon now employ fewer people than AT&T alone did in 2020, but cuts so far seem to have had little to do with AI.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt775f6abf68f20993/6980baeb40bae8799045df31/Dan_Schulman.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Light Reading"
+        }
+      ]
+    }
+  ]
+}
