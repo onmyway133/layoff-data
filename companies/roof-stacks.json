@@ -1,0 +1,23 @@
+{
+  "name": "Roof Stacks",
+  "industry": "Games",
+  "events": [
+    {
+      "id": "roof-stacks-2026-01-24",
+      "date": "2026-01-24",
+      "headcount": 220,
+      "country": "Turkey",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:7e50d8d2eed9134e0aa6",
+      "sources": [
+        {
+          "url": "https://www.ekonomimanset.com/erdogan-in-mektup-arkadasinin-sirketinde-isci-kiyimi-yasa-disi-bahisten-tutuklanmisti",
+          "title": "Erdoğan'ın mektup arkadaşının şirketinde işçi kıyımı! Yasa dışı bahisten tutuklanmıştı",
+          "description": "Cumhurbaşkanı Erdoğan’a çocukken mektup göndermesiyle tanınan HAR Group sahibi Burak Soylu’nun tutuklanmasının ardından, ROOFSTACKS A.Ş.’de 220 çalışan aynı gün işten çıkarıldı.",
+          "image": "https://api.ekonomimanset.com.tr/uploads/wp/burak-soylu-1769268833288911430.webp"
+        }
+      ]
+    }
+  ]
+}

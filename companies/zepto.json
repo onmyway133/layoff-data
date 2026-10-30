@@ -1,0 +1,24 @@
+{
+  "name": "Zepto",
+  "industry": "E-commerce",
+  "events": [
+    {
+      "id": "zepto-2025-10-17",
+      "date": "2025-10-17",
+      "headcount": 200,
+      "country": "India",
+      "reason": "ai_automation",
+      "dataset": "curated",
+      "externalId": "curated:b28eaa91e40346bb617e",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/exclusive-hundreds-lose-jobs-amid-zeptos-automation-push/",
+          "title": "Exclusive: Hundreds Lose Jobs Amid Zepto’s Automation Push",
+          "description": "Zepto is on an aggressive automation push, which has resulted in hundreds of employees losing their jobs over the past six months",
+          "image": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/ola-krutim-Soc.jpg",
+          "siteName": "Inc42 Media"
+        }
+      ]
+    }
+  ]
+}

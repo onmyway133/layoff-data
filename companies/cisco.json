@@ -34,6 +34,24 @@
       ]
     },
     {
+      "id": "cisco-2025-08-19",
+      "date": "2025-08-19",
+      "headcount": 221,
+      "country": "United States",
+      "reason": "other",
+      "dataset": "curated",
+      "externalId": "curated:a460e2308d3f9f3d7d46",
+      "sources": [
+        {
+          "url": "https://www.sfchronicle.com/tech/article/cisco-oracle-layoffs-bay-area-20824135.php",
+          "title": "Silicon Valley tech giants to cut hundreds of Bay Area jobs",
+          "description": "These Bay Area layoffs come as both tech companies post solid financial results.",
+          "image": "https://s.hdnux.com/photos/01/54/24/53/28396253/5/rawImage.jpg",
+          "siteName": "San Francisco Chronicle"
+        }
+      ]
+    },
+    {
       "id": "eaf54229-2a3e-4e95-a40a-b7b2129d1390",
       "date": "2024-08-14",
       "headcount": 6328,

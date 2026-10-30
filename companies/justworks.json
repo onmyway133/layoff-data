@@ -1,0 +1,24 @@
+{
+  "name": "Justworks",
+  "industry": "HR software",
+  "events": [
+    {
+      "id": "justworks-2025-02-10",
+      "date": "2025-02-10",
+      "headcount": 200,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:72bd0eaafd3e75ceefb6",
+      "sources": [
+        {
+          "url": "https://www.informationweek.com/it-leadership/tech-company-layoffs-the-covid-tech-bubble-bursts-sep-14",
+          "title": "Major tech layoffs: An updated tracker",
+          "description": "As COVID drove workers online, companies hired like crazy. Now tech giants are cutting jobs. Keep up to date with our tech layoffs tracker.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/bltbf06263940b69a5e/668da1beeb4ff69673df3f17/BubbleBurst-Brian_Jackson-CFMK07-CP.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Information Week"
+        }
+      ]
+    }
+  ]
+}

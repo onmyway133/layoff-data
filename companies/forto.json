@@ -1,0 +1,24 @@
+{
+  "name": "Forto",
+  "industry": "Logistics software",
+  "events": [
+    {
+      "id": "forto-2025-04-14",
+      "date": "2025-04-14",
+      "headcount": 200,
+      "country": "Germany",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:780821954fbf19ceb783",
+      "sources": [
+        {
+          "url": "https://www.businessinsider.de/gruenderszene/automotive-mobility/forto-entlassungen-gruende/",
+          "title": "200 Entlassungen trotz Mega-Funding: Was ist bei Forto los?",
+          "description": "Branchenkenner beobachten schon länger Schwierigkeiten der \"digital-first Speditionen\". Hintergründe und Details hier.",
+          "image": "https://cdn.businessinsider.de/wp-content/uploads/2025/04/Schnelle-Aufmacher-3.jpg?ver=1744300759",
+          "siteName": "Business Insider"
+        }
+      ]
+    }
+  ]
+}
