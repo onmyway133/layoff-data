@@ -449,9 +449,21 @@
     "note": "Not a layoff: a collective voluntary mutual termination agreement at the Paris HQ (TechRadar)."
   },
   {
+    "externalId": "curated:a58d3796f61d33c8bb32",
+    "company": "Verizon",
+    "date": "2026-10-30",
+    "note": "Not a layoff: a quarterly headcount decline (97,600 in June to 93,300 in September, Light Reading); the 4,300 is not stated and can include attrition."
+  },
+  {
     "externalId": "curated:ddac08f73c8f98de9678",
     "company": "Microsoft",
     "date": "2026-10-26",
     "note": "Not a layoff: a voluntary buyout offer; 60,000 is the eligible pool, not confirmed exits (CNBC, 2026-10-26)."
+  },
+  {
+    "externalId": "curated:ee70dbc7bf3c34149e26",
+    "company": "AT&T",
+    "date": "2026-10-30",
+    "note": "Not a layoff: a quarterly headcount decline (\"AT&T had similarly cut another 3,700 jobs over the same three-month period\", Light Reading), which can include attrition."
   }
 ]
