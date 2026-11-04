@@ -1,0 +1,20 @@
+{
+  "name": "Heineken",
+  "industry": "Brewing",
+  "events": [
+    {
+      "id": "heineken-2026-02-11",
+      "date": "2026-02-11",
+      "headcount": 5000,
+      "country": "Netherlands",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:d19782e49da4e16ea428",
+      "sources": [
+        {
+          "url": "https://www.theheinekencompany.com/newsroom/download/77d23296-7009-42fe-829e-a9b009fb3835/heinekenn.v.2025fypressrelease.pdf"
+        }
+      ]
+    }
+  ]
+}

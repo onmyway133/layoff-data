@@ -1,0 +1,23 @@
+{
+  "name": "O2 Telefónica",
+  "industry": "Telecommunications",
+  "events": [
+    {
+      "id": "o2-telef-nica-2026-07-09",
+      "date": "2026-07-09",
+      "headcount": 1100,
+      "country": "Germany",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:2ed340fe0f17721ceb1e",
+      "sources": [
+        {
+          "url": "https://www.telefonica.de/news/corporate/2026/07/transformationsprogramm-telefonica-deutschland-richtet-unternehmen-auf-nachhaltiges-wachstum-aus.html",
+          "title": "Transformationsprogramm | Telefónica Deutschland richtet Unternehmen auf nachhaltiges Wachstum aus",
+          "description": "Mit einer operativen und strategischen Neuausrichtung adressiert der Telekommunikationsanbieter veränderte Marktbedingungen",
+          "image": "https://www.telefonica.de/file/public/1576/20170610037-o2-tower-muenchen-zentrale-1280x720.jpg"
+        }
+      ]
+    }
+  ]
+}

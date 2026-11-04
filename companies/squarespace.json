@@ -1,0 +1,25 @@
+{
+  "name": "Squarespace",
+  "industry": "Software",
+  "events": [
+    {
+      "id": "squarespace-2026-11-02",
+      "date": "2026-11-02",
+      "headcount": 300,
+      "percent": 19,
+      "country": "United States",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:6759c62f86f78f647cc3",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+          "title": "Web host Squarespace lays off 19% of its employees | TechCrunch",
+          "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675",
+          "siteName": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}

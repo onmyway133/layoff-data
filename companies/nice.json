@@ -1,0 +1,25 @@
+{
+  "name": "NICE",
+  "industry": "Customer experience and contact-centre software",
+  "events": [
+    {
+      "id": "nice-2026-11-03",
+      "date": "2026-11-03",
+      "headcount": 481,
+      "percent": 5,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:380c98f87c1e0db07a87",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-nice-to-lay-off-500-amid-ai-transition-1001561821",
+          "title": "Nice to lay off 500 amid AI transition",
+          "description": "The Israeli software company is shedding 500 employees as part of a strategic reorganization.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1753711680/direct/%D7%A1%D7%A7%D7%95%D7%98_%D7%A8%D7%90%D7%A1%D7%9C_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%A0%D7%99%D7%99%D7%A1_kexx3y.jpg",
+          "siteName": "Globes"
+        }
+      ]
+    }
+  ]
+}

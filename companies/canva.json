@@ -1,0 +1,44 @@
+{
+  "name": "Canva",
+  "industry": "Software",
+  "domain": "canva.com",
+  "icon": "canva.jpg",
+  "events": [
+    {
+      "id": "canva-2026-11-04",
+      "date": "2026-11-04",
+      "headcount": 1271,
+      "percent": 22,
+      "country": "Australia",
+      "reason": "restructuring",
+      "dataset": "curated",
+      "externalId": "curated:3e9df813a076d3e5e681",
+      "sources": [
+        {
+          "url": "https://www.cityam.com/canva-announces-sweeping-job-cuts-after-hardest-year-yet/",
+          "title": "Canva announces sweeping job cuts after 'hardest year yet'",
+          "description": "Design software giant Canva has announced a sweeping restructuring affecting more than a fifth of its global workforce",
+          "image": "https://www.cityam.com/wp-content/uploads/2026/11/appshunter-io-zmtjzMb4lbo-unsplash-e1793791411301.jpg",
+          "siteName": "City AM"
+        },
+        {
+          "url": "https://www.theinformation.com/briefings/canva-lays-workers-ai-rollout-problems"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+          "title": "Canva lays off over 1,200 people amid slowing growth | TechCrunch",
+          "description": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2263283392.jpg?resize=1200,786",
+          "siteName": "TechCrunch"
+        },
+        {
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+          "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+          "description": "Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff",
+          "image": "https://i.guim.co.uk/img/media/1df62ce1cc8ffecf2d4291f28ff2212397c08553/473_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7b5b88c0a93861253074c5f831d2cc4",
+          "siteName": "the Guardian"
+        }
+      ]
+    }
+  ]
+}

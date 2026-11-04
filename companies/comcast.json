@@ -1,0 +1,24 @@
+{
+  "name": "Comcast",
+  "industry": "Telecom",
+  "events": [
+    {
+      "id": "comcast-2026-11-02",
+      "date": "2026-11-02",
+      "headcount": 994,
+      "country": "United States",
+      "reason": "cost_cutting",
+      "dataset": "curated",
+      "externalId": "curated:a0eb2a074fed094af66e",
+      "sources": [
+        {
+          "url": "https://www.lightreading.com/cable-technology/comcast-state-level-layoff-warnings-start-to-roll-in",
+          "title": "Comcast state-level layoff warnings start to roll in",
+          "description": "WARN filings show that show Comcast is laying off 634 people in Philadelphia, 159 in Washington, 119 in New Jersey and 82 in California.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltfed2c896a0c76b29/652c1ee1490bec308f10344c/Comcast_truck_wtih_Comcast_logo_on_hood.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Light Reading"
+        }
+      ]
+    }
+  ]
+}

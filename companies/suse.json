@@ -1,0 +1,25 @@
+{
+  "name": "SUSE",
+  "industry": "Open-source enterprise software",
+  "events": [
+    {
+      "id": "suse-2026-11-02",
+      "date": "2026-11-02",
+      "headcount": 190,
+      "percent": 10,
+      "country": "Germany",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:49837ed6a688ea256a95",
+      "sources": [
+        {
+          "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+          "title": "SUSE to cut one in ten employees because of... AI",
+          "description": "'Modern tooling is already changing our daily workflows' says CEO at open source biz",
+          "image": "https://image.theregister.com/5243339.jpg?imageId=5243339&x=0&y=2.5&cropw=100&croph=71.67&panox=0&panoy=2.5&panow=100&panoh=71.67&width=1200&height=683",
+          "siteName": "theregister"
+        }
+      ]
+    }
+  ]
+}
