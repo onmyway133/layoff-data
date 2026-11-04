@@ -1,0 +1,27 @@
+{
+  "name": "Virgin Media O2",
+  "industry": "Telecommunications (broadband, mobile and TV)",
+  "events": [
+    {
+      "id": "virgin-media-o2-2026-10-31",
+      "date": "2026-10-31",
+      "headcount": 4000,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:8a9608980d446fd7e1ef",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/virgin-media-o2-reportedly-set-095459362.html"
+        },
+        {
+          "url": "https://www.lightreading.com/finance/vmo2-to-axe-30-of-staff-costs-halt-fiber-build-in-800m-savings-plan",
+          "title": "VMO2 to axe staff costs, halt fiber build in £800M savings plan",
+          "description": "UK operator VMO2 unveiled a savings plan that will reduce staff costs by 30% and pause fiber build in response to a tough economic environment.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt70dac59911a6d37e/653fa79c139351040a0f5ebe/virgin_media_O2_logo_(sourceMaureen_McLeanAlamy_Stock_Photo).jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Light Reading"
+        }
+      ]
+    }
+  ]
+}
