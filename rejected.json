@@ -321,6 +321,12 @@
     "date": "2026-07-06"
   },
   {
+    "externalId": "ailayoffs:d19782e49da4e16ea428",
+    "company": "Heineken",
+    "date": "2026-02-11",
+    "note": "Out of scope: not a tech company (Heineken, brewer)."
+  },
+  {
     "externalId": "ailayoffs:d1b373bc5abee77668e9",
     "company": "Telus",
     "date": "2025-02-13"
@@ -334,6 +340,12 @@
     "externalId": "ailayoffs:dbe27fd2aea0e63b9781",
     "company": "Oracle",
     "date": "2026-06-22"
+  },
+  {
+    "externalId": "ailayoffs:dc0b34a1d4611c70a3d6",
+    "company": "ITA Airways",
+    "date": "2026-10-29",
+    "note": "Out of scope: not a tech company (ITA Airways, airline)."
   },
   {
     "externalId": "ailayoffs:dc893706ee2d22d97814",
