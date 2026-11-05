@@ -27,34 +27,6 @@
       ]
     },
     {
-      "id": "ebay-2026-10-20",
-      "date": "2026-10-20",
-      "headcount": 1000,
-      "percent": 9,
-      "country": "United States",
-      "reason": "other",
-      "externalId": "ailayoffs:95cd142e03882672a1de",
-      "sources": [
-        {
-          "url": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
-          "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
-          "description": "EBay will lay off 9% of its workforce, or about 1,000 employees, as it works to focus on its \"top strategic priorities.\"",
-          "image": "https://image.cnbcfm.com/api/v1/image/108178367-1753794734349-gettyimages-2227347324-img_0593.jpeg?v=1753794770&w=1920&h=1080",
-          "siteName": "CNBC"
-        },
-        {
-          "url": "https://www.pymnts.com/personnel/2026/ebay-cuts-1100-jobs-pivot-toward-high-growth-markets/",
-          "title": "EBay Cuts 1,100 Jobs to Pivot Toward High-Growth Markets | PYMNTS.com",
-          "description": "EBay plans to lay off 9% of its workforce, or about 1,100 people, as it sharpens its focus on faster-growing markets, Reuters reported Wednesday (Oct.",
-          "image": "https://www.pymnts.com/wp-content/uploads/2024/09/eBay.jpg",
-          "siteName": "PYMNTS.com"
-        },
-        {
-          "url": "https://sg.finance.yahoo.com/news/ebay-reveals-another-layoff-round-003700946.html"
-        }
-      ]
-    },
-    {
       "id": "0233bcd6-fbb3-416c-a3af-37f709abe2f0",
       "date": "2026-02-26",
       "headcount": 800,

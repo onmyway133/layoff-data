@@ -38,21 +38,6 @@
           "siteName": "the Guardian"
         }
       ]
-    },
-    {
-      "id": "canva-2026-11-03",
-      "date": "2026-11-03",
-      "headcount": 1271,
-      "percent": 22,
-      "country": "Australia",
-      "reason": "ai_automation",
-      "externalId": "ailayoffs:6342cf3b8baca9ce6ecc",
-      "sources": [
-        {
-          "url": "https://www.msn.com/en-au/money/general/canva-rules-out-ai-replacement-amid-sweeping-job-cuts/ar-AA2gH9tE",
-          "title": "MSN"
-        }
-      ]
     }
   ]
 }

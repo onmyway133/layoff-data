@@ -158,6 +158,12 @@
     "date": "2026-05-07"
   },
   {
+    "externalId": "ailayoffs:6342cf3b8baca9ce6ecc",
+    "company": "Canva",
+    "date": "2026-11-03",
+    "note": "Duplicate of canva-2026-11-04 (same 1,271-person cut, dated a day earlier)."
+  },
+  {
     "externalId": "ailayoffs:6c6682cbf07110ad676b",
     "company": "WiseTech Global",
     "date": "2025-07-23"
@@ -221,6 +227,12 @@
     "note": "Out of scope: not a tech company (Volkswagen, carmaker)."
   },
   {
+    "externalId": "ailayoffs:895b2cdef14f0c12dd01",
+    "company": "NICE",
+    "date": "2026-11-03",
+    "note": "Duplicate of nice-2026-11-03 (same 481-person cut, same Globes article)."
+  },
+  {
     "externalId": "ailayoffs:8e2b0028d2148312dc29",
     "company": "Barclays",
     "date": "2026-10-22",
@@ -235,6 +247,12 @@
     "externalId": "ailayoffs:95a71735695cd52e6b68",
     "company": "Clifford Chance",
     "date": "2025-11-21"
+  },
+  {
+    "externalId": "ailayoffs:95cd142e03882672a1de",
+    "company": "eBay",
+    "date": "2026-10-20",
+    "note": "Duplicate of the eBay 2026-10-21 event (same 1,000-person cut, same CNBC article)."
   },
   {
     "externalId": "ailayoffs:95d445a744ec7ae92b10",
