@@ -10,7 +10,6 @@
       "headcount": 209,
       "country": "Australia",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:467b8566cb73f0869e2f",
       "sources": [
         {
@@ -34,7 +33,6 @@
       "headcount": 550,
       "country": "Australia",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:6470e7acee89f8647284",
       "sources": [
         {
@@ -52,7 +50,6 @@
       "percent": 9,
       "country": "Australia",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:8b4c2156c15a4d84007c",
       "sources": [
         {

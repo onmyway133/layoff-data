@@ -7,7 +7,6 @@
       "headcount": 123,
       "country": "United States",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:cdc961f89a189a30461d",
       "sources": [
         {

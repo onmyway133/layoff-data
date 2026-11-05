@@ -10,7 +10,6 @@
       "headcount": 250,
       "country": "Germany",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:0e6d3e16e9e4e7fc8eb1",
       "sources": [
         {

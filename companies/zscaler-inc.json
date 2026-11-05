@@ -11,7 +11,6 @@
       "percent": 3,
       "country": "United States",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:2d99d58a6e87e98ae93c",
       "sources": [
         {

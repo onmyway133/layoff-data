@@ -7,7 +7,6 @@
       "headcount": 2000,
       "country": "Germany",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:83d06c9056bc0e30b15e",
       "sources": [
         {

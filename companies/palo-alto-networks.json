@@ -7,7 +7,6 @@
       "headcount": 500,
       "country": "United States",
       "reason": "acquisition",
-      "dataset": "curated",
       "externalId": "curated:cad83a7bab4e24848620",
       "sources": [
         {

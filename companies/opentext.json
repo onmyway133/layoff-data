@@ -11,7 +11,6 @@
       "percent": 2,
       "country": "Canada",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:b1b6e7dabdb24619e1ed",
       "sources": [
         {
@@ -30,7 +29,6 @@
       "percent": 4,
       "country": "Canada",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:5f083b78d60ddcade846",
       "sources": [
         {
@@ -48,7 +46,6 @@
       "headcount": 1600,
       "country": "Canada",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:ecfe619d4ab1daf77d1f",
       "sources": [
         {

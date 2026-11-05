@@ -11,7 +11,6 @@
       "headcount": 253,
       "country": "Finland",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:8289ea0b960ed6950bb3",
       "sources": [
         {
@@ -28,7 +27,6 @@
       "headcount": 1600,
       "country": "China",
       "reason": "market_downturn",
-      "dataset": "curated",
       "externalId": "curated:57ccb4abb97723ed083d",
       "sources": [
         {

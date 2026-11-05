@@ -25,7 +25,6 @@
       "headcount": 200,
       "country": "United States",
       "reason": "other",
-      "dataset": "curated",
       "externalId": "curated:6ee016fccf0e969631ff",
       "sources": [
         {

@@ -10,7 +10,6 @@
       "headcount": 250,
       "country": "Israel",
       "reason": "acquisition",
-      "dataset": "curated",
       "externalId": "curated:2c7df3191d81a23a6970",
       "sources": [
         {

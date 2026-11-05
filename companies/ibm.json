@@ -10,7 +10,6 @@
       "headcount": 2700,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:3f824e2c9950c35682de",
       "sources": [
         {
@@ -28,7 +27,6 @@
       "headcount": 206,
       "country": "France",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:7fb6023a6077ba9823e7",
       "sources": [
         {

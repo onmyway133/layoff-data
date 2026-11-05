@@ -10,7 +10,6 @@
       "headcount": 250,
       "country": "India",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:b752fc05ca2c0ebb11b8",
       "sources": [
         {
@@ -24,7 +23,6 @@
       "headcount": 600,
       "country": "India",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:f949fe889ad95b681d43",
       "sources": [
         {

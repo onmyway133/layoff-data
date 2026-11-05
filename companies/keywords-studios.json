@@ -10,7 +10,6 @@
       "headcount": 128,
       "country": "United States",
       "reason": "other",
-      "dataset": "curated",
       "externalId": "curated:491c9ec955dcdfdc74a1",
       "sources": [
         {

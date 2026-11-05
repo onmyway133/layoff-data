@@ -10,7 +10,6 @@
       "headcount": 1200,
       "country": "Belgium",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:9b34a17f1797704fed8f",
       "sources": [
         {

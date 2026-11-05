@@ -12,7 +12,6 @@
       "percent": 35,
       "country": "United States",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:4410b1e8819da22d8497",
       "sources": [
         {

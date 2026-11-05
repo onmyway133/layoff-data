@@ -8,7 +8,6 @@
       "headcount": 400,
       "country": "India",
       "reason": "other",
-      "dataset": "curated",
       "externalId": "curated:dc01da5ef294435f7fa9",
       "sources": [
         {
@@ -26,7 +25,6 @@
       "headcount": 180,
       "country": "India",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:8f2cabe01285ffc62eec",
       "sources": [
         {

@@ -8,7 +8,6 @@
       "headcount": 300,
       "country": "India",
       "reason": "market_downturn",
-      "dataset": "curated",
       "externalId": "curated:823272afa2aa35ad42a2",
       "sources": [
         {

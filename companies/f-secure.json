@@ -10,7 +10,6 @@
       "headcount": 145,
       "country": "Finland",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:f4cca7746d0a5fe6ce29",
       "sources": [
         {

@@ -9,7 +9,6 @@
       "percent": 9,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:05dbb0e514bfbaebd276",
       "sources": [
         {
@@ -34,7 +33,6 @@
       "percent": 9,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:95cd142e03882672a1de",
       "sources": [
         {
@@ -63,7 +61,6 @@
       "percent": 6,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:60c391298ad1b2e69c1f",
       "sources": [
         {
@@ -81,7 +78,6 @@
       "headcount": 200,
       "country": "Israel",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:b1b03335e4a575834d86",
       "sources": [
         {

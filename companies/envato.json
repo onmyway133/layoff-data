@@ -10,7 +10,6 @@
       "headcount": 200,
       "country": "Australia",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:f1190fd2c9b84ac36215",
       "sources": [
         {

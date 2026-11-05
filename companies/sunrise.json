@@ -10,7 +10,6 @@
       "headcount": 450,
       "country": "Switzerland",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:37e7a51da5ab2f77b4d7",
       "sources": [
         {
@@ -29,7 +28,6 @@
       "percent": 7,
       "country": "Switzerland",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:a2660856325d5012f139",
       "sources": [
         {

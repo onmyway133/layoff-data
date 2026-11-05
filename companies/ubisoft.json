@@ -10,7 +10,6 @@
       "headcount": 120,
       "country": "France",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:b3e8423cf94a20dacd22",
       "sources": [
         {
@@ -32,7 +31,6 @@
       "headcount": 380,
       "country": "France",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:7fc2a903b3781e93818b",
       "sources": [
         {
@@ -57,7 +55,6 @@
       "headcount": 105,
       "country": "United States",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:dc760b25157334dea51a",
       "sources": [
         {

@@ -9,7 +9,6 @@
       "percent": 5,
       "country": "Israel",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:380c98f87c1e0db07a87",
       "sources": [
         {
@@ -28,7 +27,6 @@
       "percent": 5,
       "country": "Israel",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:895b2cdef14f0c12dd01",
       "sources": [
         {

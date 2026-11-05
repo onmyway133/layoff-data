@@ -11,7 +11,6 @@
       "percent": 5,
       "country": "United Kingdom",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:a44743cf9d6c0af626c6",
       "sources": [
         {
@@ -32,7 +31,6 @@
       "headcount": 500,
       "country": "United Kingdom",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:27576ece2c4120192272",
       "sources": [
         {

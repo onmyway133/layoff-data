@@ -10,7 +10,6 @@
       "headcount": 250,
       "country": "Canada",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:d40c858944cb3927efaf",
       "sources": [
         {

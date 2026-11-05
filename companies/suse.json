@@ -9,7 +9,6 @@
       "percent": 10,
       "country": "Germany",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:49837ed6a688ea256a95",
       "sources": [
         {
