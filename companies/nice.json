@@ -20,6 +20,39 @@
           "siteName": "Globes"
         }
       ]
+    },
+    {
+      "id": "nice-2026-11-03-2",
+      "date": "2026-11-03",
+      "headcount": 481,
+      "percent": 5,
+      "country": "Israel",
+      "reason": "ai_automation",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:895b2cdef14f0c12dd01",
+      "sources": [
+        {
+          "url": "https://en.globes.co.il/en/article-nice-to-lay-off-500-amid-ai-transition-1001561821",
+          "title": "Nice to lay off 500 amid AI transition",
+          "description": "The Israeli software company is shedding 500 employees as part of a strategic reorganization.",
+          "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1753711680/direct/%D7%A1%D7%A7%D7%95%D7%98_%D7%A8%D7%90%D7%A1%D7%9C_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%A0%D7%99%D7%99%D7%A1_kexx3y.jpg",
+          "siteName": "Globes"
+        },
+        {
+          "url": "https://www.ynetnews.com/business/article/hj4dhkw6ge",
+          "title": "Israeli software giant NICE to lay off 500 employees worldwide, 5% of workforce",
+          "description": "As AI transforms customer service, the Israeli software giant is restructuring following its $1 billion acquisition of German startup Cognigy; its roughly 1,000 employees in Israel are expected to be largely spared, as quarterly earnings approach",
+          "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/24/BkP00IOWZZx/BkP00IOWZZx_1_18_490_276_0_large.jpg",
+          "siteName": "ynetglobal"
+        },
+        {
+          "url": "https://www.rttnews.com/story.aspx?Id=3709417",
+          "title": "NiCE Boosts FY26 Adj. EPS Outlook; To Cut 5% Workforce - Update",
+          "description": "While reporting financial results for the third quarter on Wednesday, NiCE Ltd. (NICE) raised its adjusted earnings guidance for the full-year 2026, while reiterating annual adjusted revenue outlook.",
+          "image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+          "siteName": "RTTNews"
+        }
+      ]
     }
   ]
 }
