@@ -10,7 +10,6 @@
       "headcount": 350,
       "country": "India",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:6a7a43003fd8c6ef38dc",
       "sources": [
         {

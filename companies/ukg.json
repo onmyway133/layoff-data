@@ -11,7 +11,6 @@
       "percent": 6,
       "country": "United States",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:587f377dbf4ee6747013",
       "sources": [
         {
@@ -25,7 +24,6 @@
       "headcount": 300,
       "country": "Uruguay",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:ed678eced044cd7d77bb",
       "sources": [
         {

@@ -9,7 +9,6 @@
       "percent": 3,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:6e69986e4470ec177578",
       "sources": [
         {
@@ -48,7 +47,6 @@
       "headcount": 300,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:3a17697b0a107cbf2ccd",
       "sources": [
         {

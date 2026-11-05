@@ -11,7 +11,6 @@
       "headcount": 268,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:88b58d3a06c9a8ef84a6",
       "sources": [
         {
@@ -37,7 +36,6 @@
       "percent": 2.1,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:be703db060b3e30d3aac",
       "sources": [
         {
@@ -69,7 +67,6 @@
       "headcount": 9000,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:2c0961d1f322fa66f138",
       "sources": [
         {
@@ -94,7 +91,6 @@
       "headcount": 305,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:a12dd6180847b5448c43",
       "sources": [
         {
@@ -113,7 +109,6 @@
       "percent": 3,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:a1e5eb0072d9e54c4847",
       "sources": [
         {

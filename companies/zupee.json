@@ -8,7 +8,6 @@
       "percent": 40,
       "country": "India",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:1c811a272cb2ab21b806",
       "sources": [
         {
@@ -27,7 +26,6 @@
       "percent": 30,
       "country": "India",
       "reason": "market_downturn",
-      "dataset": "curated",
       "externalId": "curated:41ca6affd64b06a409cf",
       "sources": [
         {

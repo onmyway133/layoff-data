@@ -10,7 +10,6 @@
       "headcount": 500,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:df3ea2fa9e4567240cef",
       "sources": [
         {
@@ -36,7 +35,6 @@
       "percent": 13,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:402f1fbfa34794468fa1",
       "sources": [
         {

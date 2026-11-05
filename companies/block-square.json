@@ -10,7 +10,6 @@
       "headcount": 4000,
       "country": "United States",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:a35a8cc3c6ebad46a3b0",
       "sources": [
         {
@@ -29,7 +28,6 @@
       "percent": 8,
       "country": "United States",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:89dde5d4ef590aef910d",
       "sources": [
         {

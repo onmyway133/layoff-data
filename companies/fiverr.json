@@ -11,7 +11,6 @@
       "percent": 30,
       "country": "Israel",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:664f9ffb631c3a6113a2",
       "sources": [
         {

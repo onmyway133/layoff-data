@@ -10,7 +10,6 @@
       "headcount": 10000,
       "country": "United Kingdom",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:1420b09d927cf9fe5f82",
       "sources": [
         {

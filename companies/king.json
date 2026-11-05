@@ -8,7 +8,6 @@
       "headcount": 200,
       "country": "Sweden",
       "reason": "ai_automation",
-      "dataset": "curated",
       "externalId": "curated:9aa4e8b069c5f3daf86e",
       "sources": [
         {

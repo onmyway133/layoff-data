@@ -10,7 +10,6 @@
       "headcount": 359,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:42cf19a580367727015c",
       "sources": [
         {
@@ -35,7 +34,6 @@
       "percent": 15,
       "country": "Ireland",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:7e59ad49c96fbde46507",
       "sources": [
         {
@@ -53,7 +51,6 @@
       "headcount": 101,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:bffcb6c5547d76a823dc",
       "sources": [
         {
@@ -71,7 +68,6 @@
       "headcount": 161,
       "country": "United States",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:f9c6e60af82ac12ed937",
       "sources": [
         {
@@ -85,7 +81,6 @@
       "headcount": 289,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:ad2c43f090889f9de10a",
       "sources": [
         {

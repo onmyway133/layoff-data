@@ -11,7 +11,6 @@
       "percent": 7,
       "country": "Spain",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:064538e21691e458d8fb",
       "sources": [
         {
@@ -30,7 +29,6 @@
       "percent": 7,
       "country": "France",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:82d3f8f7272e5649dca7",
       "sources": [
         {

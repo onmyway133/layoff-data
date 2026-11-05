@@ -10,7 +10,6 @@
       "headcount": 200,
       "country": "United States",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:01dba1e3672af0f0883b",
       "sources": [
         {

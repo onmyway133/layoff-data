@@ -10,7 +10,6 @@
       "headcount": 250,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:3e2defc42384fad8beda",
       "sources": [
         {
@@ -28,7 +27,6 @@
       "headcount": 300,
       "country": "Ireland",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:085e65814e33366f5fad",
       "sources": [
         {
@@ -46,7 +44,6 @@
       "headcount": 150,
       "country": "Germany",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:5ab0da70784d3620f787",
       "sources": [
         {
@@ -60,7 +57,6 @@
       "headcount": 300,
       "country": "Ireland",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:cece45947f8df34081e2",
       "sources": [
         {

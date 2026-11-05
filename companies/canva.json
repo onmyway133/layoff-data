@@ -11,7 +11,6 @@
       "percent": 22,
       "country": "Australia",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:3e9df813a076d3e5e681",
       "sources": [
         {
@@ -47,7 +46,6 @@
       "percent": 22,
       "country": "Australia",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:6342cf3b8baca9ce6ecc",
       "sources": [
         {

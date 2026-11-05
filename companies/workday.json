@@ -11,7 +11,6 @@
       "percent": 2.5,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:0311da3fc82580ed4bc8",
       "sources": [
         {
@@ -30,7 +29,6 @@
       "percent": 2,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:2a079e9ef95b21db9dcc",
       "sources": [
         {
@@ -49,7 +47,6 @@
       "percent": 8.5,
       "country": "United States",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:81c6bbe70b3ba3f8c443",
       "sources": [
         {

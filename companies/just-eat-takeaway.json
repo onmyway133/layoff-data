@@ -10,7 +10,6 @@
       "headcount": 450,
       "country": "Netherlands",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:32d10b7077e96cd82dd8",
       "sources": [
         {

@@ -12,7 +12,6 @@
       "percent": 10,
       "country": "United States",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:7dc37c578d0946d9c451",
       "sources": [
         {
@@ -40,7 +39,6 @@
       "headcount": 198,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:6d18dbab6fb0b0dd4a1f",
       "sources": [
         {
@@ -65,7 +63,6 @@
       "headcount": 700,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:04c25fb1fa1849e60e39",
       "sources": [
         {
@@ -83,7 +80,6 @@
       "headcount": 1000,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:e24ad44b9264b671d88f",
       "sources": [
         {
@@ -108,7 +104,6 @@
       "headcount": 600,
       "country": "United States",
       "reason": "other",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:cfe21aa5104606931c28",
       "sources": [
         {
@@ -127,7 +122,6 @@
       "percent": 5,
       "country": "United States",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:eec7ceee4ea17c152ae8",
       "sources": [
         {

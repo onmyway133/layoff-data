@@ -10,7 +10,6 @@
       "headcount": 900,
       "country": "Sweden",
       "reason": "cost_cutting",
-      "dataset": "curated",
       "externalId": "curated:f02a28bfcf4b8fc06a17",
       "sources": [
         {

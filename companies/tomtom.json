@@ -11,7 +11,6 @@
       "percent": 6,
       "country": "Netherlands",
       "reason": "restructuring",
-      "dataset": "curated",
       "externalId": "curated:8fb002f267734a2118b1",
       "sources": [
         {
@@ -30,7 +29,6 @@
       "percent": 10,
       "country": "Netherlands",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:9f24bd7c70150b919df6",
       "sources": [
         {

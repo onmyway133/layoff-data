@@ -9,7 +9,6 @@
       "percent": 25,
       "country": "Brazil",
       "reason": "ai_automation",
-      "dataset": "ai-layoffs-index",
       "externalId": "ailayoffs:9291bb3ac8b605302ff9",
       "sources": [
         {

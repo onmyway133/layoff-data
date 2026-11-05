@@ -11,7 +11,6 @@
       "percent": 23,
       "country": "United States",
       "reason": "ai_automation",
-      "dataset": "curated",
       "externalId": "curated:bea24fbf08ada284e788",
       "sources": [
         {
