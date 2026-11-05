@@ -148,6 +148,16 @@ function isCompanyOwnedUrl(url, company) {
   )
 }
 
+// Two events of one company report the same layoff when dated within a week with the same
+// headcount or a shared source (isSameLayoff in packages/shared/src/data.ts).
+const SAME_LAYOFF_WINDOW_DAYS = 7
+function isSameLayoff(a, b) {
+  const days = Math.abs(Date.parse(a.date) - Date.parse(b.date)) / 86_400_000
+  if (days > SAME_LAYOFF_WINDOW_DAYS) return false
+  const urls = new Set(a.sources.map((s) => s.url))
+  return a.headcount === b.headcount || b.sources.some((s) => urls.has(s.url))
+}
+
 // ---- Cross-file checks (mirror checkDataset in layoff-tracker's packages/shared/src/data.ts) ----
 
 const eventIds = new Map()
@@ -192,6 +202,10 @@ for (const { slug, file } of companies) {
     })
     const previous = file.events[index - 1]
     if (previous && previous.date < event.date) add(where, `${at}: events must be sorted newest first`)
+    const same = file.events.slice(0, index).find((e) => isSameLayoff(e, event))
+    if (same) {
+      add(where, `${at}: same layoff as event ${same.id} (same headcount or source within ${SAME_LAYOFF_WINDOW_DAYS} days)`)
+    }
   })
 }
 
