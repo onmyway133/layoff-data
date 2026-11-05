@@ -1,0 +1,24 @@
+{
+  "name": "MasterD (Davante)",
+  "industry": "Vocational training and exam preparation",
+  "events": [
+    {
+      "id": "masterd-davante-2026-10-19",
+      "date": "2026-10-19",
+      "headcount": 231,
+      "country": "Spain",
+      "reason": "other",
+      "dataset": "ai-layoffs-index",
+      "externalId": "ailayoffs:e8f86a183eae6ad76613",
+      "sources": [
+        {
+          "url": "https://www.hoyaragon.es/economia/master-d-ere-zaragoza/20261019172824150104.html",
+          "title": "La empresa Davante-Master D plantea despedir hasta 231 personas, el 19% de su plantilla: crisis en su modelo comercial afincado en Zaragoza",
+          "description": "La compañía lo vincula a una revisión de sus modelos operativos y anuncia a la vez un cambio en el modelo retributivo del equipo comercial; no se conoce cuán...",
+          "image": "https://www.hoyaragon.es/media/hoyaragon/images/2026/10/19/2026101917262244124.jpg",
+          "siteName": "HOY ARAGÓN"
+        }
+      ]
+    }
+  ]
+}
