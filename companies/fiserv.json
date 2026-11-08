@@ -1,0 +1,25 @@
+{
+  "name": "Fiserv",
+  "industry": "Payments and financial technology",
+  "domain": "fiserv.com",
+  "icon": "fiserv.png",
+  "events": [
+    {
+      "id": "fiserv-2026-11-03",
+      "date": "2026-11-03",
+      "headcount": 3000,
+      "country": "United States",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:3facf0b4a01adc823ae1",
+      "sources": [
+        {
+          "url": "https://www.peoplematters.in/news/strategic-hr/fiserv-cuts-3000-jobs-reduces-senior-leadership-by-more-than-10percent-53196",
+          "title": "Fiserv cuts 3,000 jobs, reduces senior leadership by more than 10%",
+          "description": "Fiserv has reduced its workforce by 3,000 since June and doubled its Project Elevate savings target to $1 billion as it reviews costs and exits underperforming products.",
+          "image": "https://asset.peoplematters.in/images/759de0d3-9e5d-4dd8-861d-efda7536dfa5.jpeg",
+          "siteName": "People Matters"
+        }
+      ]
+    }
+  ]
+}
