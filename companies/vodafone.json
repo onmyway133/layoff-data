@@ -6,6 +6,36 @@
   "icon": "vodafone.png",
   "events": [
     {
+      "id": "vodafone-2026-11-09",
+      "date": "2026-11-09",
+      "headcount": 2300,
+      "country": "Germany",
+      "reason": "cost_cutting",
+      "externalId": "curated:441dbae4d419133a13ab",
+      "sources": [
+        {
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+          "title": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
+          "description": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
+          "image": "https://images.tagesschau.de/image/166ca868-0a0f-4ad9-9d5c-2d220ef48fcc/AAABocCm9EM/AAABnSSvrFg/16x9-big/vodafone-duesseldorf-100.jpg?width=1280",
+          "siteName": "tagesschau.de"
+        },
+        {
+          "url": "https://www.zeit.de/wirtschaft/2026-11/vodafone-stellenabbau-arbeitsplaetze-kuenstliche-intelligenz"
+        },
+        {
+          "url": "https://www.lightreading.com/finance/vodafone-has-much-more-to-do-in-germany-cuts-2300-jobs",
+          "title": "Vodafone has 'much more to do' in Germany, cuts 2,300 jobs",
+          "description": "Vodafone reports strong growth on group level but headwinds persist in Germany, its biggest market, where it now plans to cut 2,300 jobs.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt2fc3b1f33dd0d92c/650c93d4e1f1ed0da49ca897/Vodafone_logo_sign_in_front_of_store.jpeg?disable=upscale&width=1200&height=630&fit=crop",
+          "siteName": "Light Reading"
+        },
+        {
+          "url": "https://www.datacenterdynamics.com/en/news/vodafone-progresses-cost-savings-strategy-but-ceo-warns-german-unit-not-yet-where-it-needs-to-be/"
+        }
+      ]
+    },
+    {
       "id": "b4951e10-a941-47f4-b272-ef9fb0a5fb6c",
       "date": "2023-05-15",
       "headcount": 11000,
