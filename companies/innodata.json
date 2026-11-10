@@ -1,0 +1,32 @@
+{
+  "name": "Innodata",
+  "industry": "AI data services",
+  "domain": "innodata.com",
+  "icon": "innodata.png",
+  "events": [
+    {
+      "id": "innodata-2026-10-26",
+      "date": "2026-10-26",
+      "headcount": 550,
+      "country": "India",
+      "reason": "other",
+      "externalId": "curated:eeb3dcf1f499ac7616d4",
+      "sources": [
+        {
+          "url": "https://www.peoplematters.in/news/strategic-hr/innodata-lays-off-nearly-550-employees-in-india-job-cuts-reported-in-the-philippines-53002",
+          "title": "InnoData lays off nearly 550 employees in India, job cuts reported in the Philippines",
+          "description": "Sudden system lockouts and termination emails marked the reported job cuts at InnoData, affecting employees in India and the Philippines.",
+          "image": "https://asset.peoplematters.in/images/58d12594-8a91-44ea-a8e3-6821449375c2.jpg",
+          "siteName": "People Matters"
+        },
+        {
+          "url": "https://startuptalky.com/news/innodata-cuts-nearly-550-indian-jobs/",
+          "title": "Innodata Cuts Nearly 550 Indian Jobs Amid Changes in AI Wave",
+          "description": "Innodata, AI services provider headquartered in the US, is said to have chopped approximately 550 jobs in India and the Philippines, the layoffs occurred on October 26. Affected personnel said they were abruptly locked out of business computers and then sent surprise emails of termination.",
+          "image": "https://static.startuptalky.com/2026/10/innodata-cuts-nearly-550-indian-jobs-Startuptalky.png",
+          "siteName": "StartupTalky- Business News, Insights and Stories"
+        }
+      ]
+    }
+  ]
+}

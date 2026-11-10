@@ -5,6 +5,30 @@
   "icon": "angi.png",
   "events": [
     {
+      "id": "angi-2026-11-03",
+      "date": "2026-11-03",
+      "headcount": 300,
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:99860284de255f5c6c13",
+      "sources": [
+        {
+          "url": "https://www.ibj.com/articles/angi-to-eliminate-300-jobs",
+          "title": "Angi to eliminate 300 jobs in new round of layoffs - Indianapolis Business Journal",
+          "description": "The job cuts mark the second major round of layoffs this year for the Denver-based company, which has significant operations in Indianapolis and New York City.",
+          "image": "https://www.ibj.com/wp-content/uploads/2019/01/rop-angieslist-100515-2col.jpg",
+          "siteName": "Indianapolis Business Journal"
+        },
+        {
+          "url": "https://www.tradingview.com/news/seekingalpha:92d5e86e9094b:0-angi-announces-300-job-cuts-to-generate-up-to-60m-in-annual-savings/",
+          "title": "Angi announces 300 job cuts to generate up to $60M in annual savings",
+          "description": "Content provided by Seeking Alpha is intended for information purposes only, and that Seeking Alpha does not offer any personalist investment advice and is not a licensed securities dealer, broker, US investment adviser or investment bank.",
+          "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+          "siteName": "TradingView"
+        }
+      ]
+    },
+    {
       "id": "71871e74-146b-4b8e-832c-93a924fa0445",
       "date": "2026-01-07",
       "headcount": 350,

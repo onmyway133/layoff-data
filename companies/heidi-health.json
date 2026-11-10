@@ -1,0 +1,26 @@
+{
+  "name": "Heidi Health",
+  "industry": "Health tech",
+  "domain": "heidihealth.com",
+  "icon": "heidi-health.png",
+  "events": [
+    {
+      "id": "heidi-health-2026-11-05",
+      "date": "2026-11-05",
+      "headcount": 108,
+      "percent": 18,
+      "country": "Australia",
+      "reason": "restructuring",
+      "externalId": "curated:aa6eb9456614cb1a1ecf",
+      "sources": [
+        {
+          "url": "https://www.smh.com.au/technology/ai-start-up-heidi-cuts-jobs-weeks-after-raising-475-million-20261105-p61bl8.html",
+          "title": "AI start-up Heidi cuts jobs weeks after raising $475 million",
+          "description": "The hyped Melbourne start-up is slashing more than 100 jobs in the same week two of its three co-founders said they were leaving the business.",
+          "image": "https://static.ffx.io/images/$zoom_0.3455%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_58%2C$y_73/t_crop_custom/q_86%2Cf_auto/6015fa96c46f83ea144a6262b7d9e9bb8d63d6f1",
+          "siteName": "The Sydney Morning Herald"
+        }
+      ]
+    }
+  ]
+}
