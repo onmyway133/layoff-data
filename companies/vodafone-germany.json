@@ -5,37 +5,6 @@
   "icon": "vodafone-germany.png",
   "events": [
     {
-      "id": "vodafone-germany-2026-11-09",
-      "date": "2026-11-09",
-      "headcount": 2300,
-      "percent": 19,
-      "country": "Germany",
-      "reason": "ai_automation",
-      "externalId": "ailayoffs:d0d9f526669c3b8793ea",
-      "sources": [
-        {
-          "url": "https://www.handelsblatt.com/technik/it-internet/telekommunikation-vodafone-streicht-in-deutschland-rund-2300-stellen/100268427.html",
-          "title": "Telekommunikation: Vodafone streicht in Deutschland rund 2300 Stellen",
-          "description": "Der Netzbetreiber reduziert seine Belegschaft deutlicher als je zuvor. Rund jeder fünfte Arbeitsplatz in Deutschland fällt weg. Was hinter dem Umbau steckt.",
-          "image": "https://images.handelsblatt.com/0vgaI6BIbo0i/cover/2048/1152/0/0/107/106/0.5/0.5/breitband-messe-anga-com.jpg"
-        },
-        {
-          "url": "https://www.berliner-zeitung.de/article/vodafone-streicht-2300-stellen-jeder-fuenfte-mitarbeiter-betroffen-10579844",
-          "title": "Vodafone streicht 2300 Stellen – jeder fünfte Mitarbeiter betroffen",
-          "description": "Trotz guter Umsätze will das Unternehmen Jobs streichen oder verlagern. Es ist die dritte Kürzung in kurzer Zeit. Aufgaben sollen an KI übergehen.",
-          "image": "https://berliner-zeitung-msp-prod.imgix.net/2026/11/09/0a35be69-adc5-4788-9508-5e27992cbdf0.jpg?rect=0,262,5035,2832&w=1200&h=630&fit=crop&auto=format&auto=compress",
-          "siteName": "Berliner Zeitung"
-        },
-        {
-          "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101519844/stellenabbau-bei-vodafone-deutschland-2300-arbeitsplaetze-gestrichen.html",
-          "title": "Fast jeder fünfte Arbeitsplatz fällt weg: Vodafone Deutschland streicht 2.300 Stellen",
-          "description": "Vodafone Deutschland hat einen umfassenden Unternehmensumbau angekündigt. Teil der Neuausrichtung ist auch ein massiver Stellenabbau.",
-          "image": "https://images.t-online.de/2026/11/C28xd9hEovxk/0x430:8256x4644/fit-in/1200x0/image.jpg",
-          "siteName": "t-online"
-        }
-      ]
-    },
-    {
       "id": "f3090065-91d7-49d1-9a7a-61f297cd8ad9",
       "date": "2024-03-26",
       "headcount": 2000,

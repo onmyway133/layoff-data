@@ -340,6 +340,12 @@
     "note": "Out of scope: not a tech company (Translation Bureau, Government of Canada)."
   },
   {
+    "externalId": "ailayoffs:d0d9f526669c3b8793ea",
+    "company": "Vodafone Germany",
+    "date": "2026-11-09",
+    "note": "Duplicate of the Vodafone 2026-11-09 event (same 2,300-person cut at Vodafone Germany)."
+  },
+  {
     "externalId": "ailayoffs:d11ae8e1a68659fda570",
     "company": "GB News",
     "date": "2026-07-06"
