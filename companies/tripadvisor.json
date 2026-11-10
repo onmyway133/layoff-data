@@ -1,0 +1,31 @@
+{
+  "name": "Tripadvisor",
+  "industry": "Online travel",
+  "events": [
+    {
+      "id": "tripadvisor-2026-11-04",
+      "date": "2026-11-04",
+      "headcount": 425,
+      "percent": 60,
+      "country": "United States",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:c46dd0537a4b9e76d72f",
+      "sources": [
+        {
+          "url": "https://www.bostonglobe.com/2026/11/09/business/tripadvisor-ceo-departure-matt-goldberg/",
+          "title": "Tripadvisor CEO, CFO on the way out amid broader restructuring - The Boston Globe",
+          "description": "Matt Goldberg is stepping down in February, while chief financial officer Mike Noonan is leaving as of Dec. 31.",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/X4DFVXQBRUI6TDUS3DLL4CMTZ4.jpg?auth=7c4356498ddf0a6082ce617ed1ecc5ca0ad48303352ac790287e8973c3f103ff&width=1440",
+          "siteName": "BostonGlobe.com"
+        },
+        {
+          "url": "https://www.marketscreener.com/news/tripadvisor-plunges-27-after-announcing-departure-of-two-top-executives-ce785fddda80ff24",
+          "title": "Tripadvisor plunges 27% after announcing departure of two top executives",
+          "description": "Tripadvisor announced the upcoming departure of its chief executive and chief financial officer, as revenue stagnates and competitive pressure linked to artificial intelligence intensifies. The US...",
+          "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2020-12-08T045103Z_1_LYNXMPEGB707Z_RTROPTP_3_TRIPADVISOR-RESULTS.JPG",
+          "siteName": "MarketScreener"
+        }
+      ]
+    }
+  ]
+}
