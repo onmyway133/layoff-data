@@ -356,6 +356,12 @@
     "date": "2025-02-13"
   },
   {
+    "externalId": "ailayoffs:d601c75d3117114cb0e8",
+    "company": "Qantas",
+    "date": "2026-11-09",
+    "note": "Out of scope: not a tech company (Qantas, airline)."
+  },
+  {
     "externalId": "ailayoffs:d972b1c67227cbcd1e65",
     "company": "McClatchy",
     "date": "2026-09-10"
