@@ -149,13 +149,15 @@ function isCompanyOwnedUrl(url, company) {
 }
 
 // Two events of one company report the same layoff when dated within a week with the same
-// headcount or a shared source (isSameLayoff in packages/shared/src/data.ts).
+// headcount or a shared source (isSameLayoff in packages/shared/src/data.ts). Headcounts only
+// match when both are stated: two layoffs reported without a figure need a shared source.
 const SAME_LAYOFF_WINDOW_DAYS = 7
 function isSameLayoff(a, b) {
   const days = Math.abs(Date.parse(a.date) - Date.parse(b.date)) / 86_400_000
   if (days > SAME_LAYOFF_WINDOW_DAYS) return false
   const urls = new Set(a.sources.map((s) => s.url))
-  return a.headcount === b.headcount || b.sources.some((s) => urls.has(s.url))
+  const sameCount = a.headcount !== undefined && a.headcount === b.headcount
+  return sameCount || b.sources.some((s) => urls.has(s.url))
 }
 
 // ---- Cross-file checks (mirror checkDataset in layoff-tracker's packages/shared/src/data.ts) ----
@@ -173,7 +175,8 @@ for (const { slug, file } of companies) {
   file.events.forEach((event, index) => {
     const at = `event ${event.id}`
     checkText(where, `/events/${index}`, event, ['country'])
-    if (!(event.headcount > HEADCOUNT_THRESHOLD)) {
+    // No headcount: the press reports the cut without a figure; listed, but counted in no total.
+    if (event.headcount !== undefined && !(event.headcount > HEADCOUNT_THRESHOLD)) {
       add(where, `${at}: headcount ${event.headcount} is not more than ${HEADCOUNT_THRESHOLD}; only larger layoffs are listed`)
     }
     const seen = eventIds.get(event.id)
