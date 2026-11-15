@@ -1,0 +1,38 @@
+{
+  "name": "APG",
+  "industry": "Financial services (pension administration and asset management)",
+  "events": [
+    {
+      "id": "apg-2025-12-09",
+      "date": "2025-12-09",
+      "headcount": 1000,
+      "percent": 27,
+      "country": "Netherlands",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:514c69b2c6dc3c356ecc",
+      "sources": [
+        {
+          "url": "https://nos.nl/l/2593872",
+          "title": "Pensioenuitvoerder APG schrapt komende jaren tot 1200 banen",
+          "description": "Na de overgang naar het nieuwe pensioenstel wil het bedrijf slagvaardiger worden en dus snijden in de kosten.",
+          "image": "https://images.cdn.nos.nl/4/A/u/K/e/o/MxEQ2iKuEt2LWy41guQzd2gWMGyrkTDSVNXDirE/0x0x4000x2250-1280x720.webp",
+          "siteName": "NOS.nl"
+        },
+        {
+          "url": "https://www.dutchnews.nl/2025/12/apg-to-cut-up-to-1200-jobs-as-new-pension-system-looms",
+          "title": "APG to cut up to 1,200 jobs as new pension system looms - DutchNews.nl",
+          "description": "APG, the Netherlands’ largest pension administrator, will cut between 1,000 and 1,200 jobs in the coming years to lower costs, streamline operations and strengthen its competitive position ahead of a major overhaul of the Dutch pension system. Chief executive Annette Mosman said in a statement on Wednesday that APG must become “faster and more efficient” to remain competitive. Automation, AI and standardisation are expected to play a major role in reaching the company’s goals. APG currently administers eight funds, including...",
+          "image": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2018/07/pensioners-bike-retirement.jpg",
+          "siteName": "DutchNews.nl"
+        },
+        {
+          "url": "https://www.ipe.com/news/apg-to-shed-over-1000-jobs-in-cost-cutting-drive/10134180.article",
+          "title": "APG to shed over 1,000 jobs in cost-cutting drive",
+          "description": "The pension administrator majority-owned by the Netherlands's largest pension fund ABP made an operational loss in 2023 and 2024 and has been under pressure to cut costs",
+          "image": "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/2/4/1/1339241_annettemosmanapg_481168.jpg",
+          "siteName": "IPE"
+        }
+      ]
+    }
+  ]
+}

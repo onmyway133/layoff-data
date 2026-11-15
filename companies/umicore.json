@@ -1,0 +1,30 @@
+{
+  "name": "Umicore",
+  "industry": "Chemicals / Materials (advanced materials and metals recycling)",
+  "events": [
+    {
+      "id": "umicore-2026-11-12",
+      "date": "2026-11-12",
+      "headcount": 350,
+      "country": "Belgium",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:b1633ac0e6f5b4f4e407",
+      "sources": [
+        {
+          "url": "https://www.vrt.be/vrtnws/en/2026/11/12/umicore-invests-millions-in-hoboken-antwerp-cuts-up-to-350-jo/",
+          "title": "Umicore invests millions in Hoboken (Antwerp), cuts up to 350 jobs worldwide | VRT NWS: news",
+          "description": "Belgian materials group and Bel20 heavyweight Umicore has confirmed that it is investing 450 million euros in its site in Hoboken (Antwerp). At the same time, the company has announced that up to 350 employees may lose their jobs over the next two years. It is not yet known at which sites this will take place.",
+          "image": "https://images.vrt.be/vrtnws_share/2021/03/18/5af4fcf4-87d9-11eb-b07d-02b7b76bf47f.jpg",
+          "siteName": "VRTNWS"
+        },
+        {
+          "url": "https://www.lalibre.be/economie/placements/2026/11/12/umicore-investit-un-demi-milliard-deuros-a-anvers-mais-licencier-350-personnes-6ERA57UOHZFWJEOWYTUH5WVLJE/",
+          "title": "Umicore investit un demi-milliard d'euros à Anvers, mais va licencier 350 personnes",
+          "description": "Le spécialiste des matériaux avancés et le recyclage veut une organisation plus flexible et prévoit de fortes économies au niveau du personnel d'ici 2028.",
+          "image": "https://www.lalibre.be/resizer/v2/46KRDENIHNCV7PHWL4WV55O2BE.jpg?auth=12fc05e789cee49d7028e8426baad9297a01e3113a9967510d2a36a308500f79&width=1200&height=630&quality=85&focal=256%2C170",
+          "siteName": "La Libre.be"
+        }
+      ]
+    }
+  ]
+}
