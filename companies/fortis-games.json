@@ -1,0 +1,23 @@
+{
+  "name": "Fortis Games",
+  "industry": "Games",
+  "events": [
+    {
+      "id": "fortis-games-2026-11-11",
+      "date": "2026-11-11",
+      "headcount": 440,
+      "country": "United States",
+      "reason": "other",
+      "externalId": "curated:11776f836b6066401635",
+      "sources": [
+        {
+          "url": "https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected",
+          "title": "Mobile publisher Fortis Games shuts down, up to 440 workers affected",
+          "description": "Co-founder says the firm was \"not able to achieve the goals\" since its founding",
+          "image": "https://assetsio.gnwcdn.com/3836d06b7f7004cb9f857e824ab3d56651505b21-1200x630.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "siteName": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

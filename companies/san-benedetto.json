@@ -1,0 +1,23 @@
+{
+  "name": "San Benedetto",
+  "industry": "Beverages (mineral water and soft drinks)",
+  "events": [
+    {
+      "id": "san-benedetto-2026-11-10",
+      "date": "2026-11-10",
+      "headcount": 120,
+      "percent": 12,
+      "country": "Italy",
+      "reason": "other",
+      "externalId": "ailayoffs:78e82ac9abcb97539170",
+      "sources": [
+        {
+          "url": "https://www.ilpost.it/2026/11/10/san-benedetto-licenziamenti-aumento-costi-adozione-ai/",
+          "title": "San Benedetto ha annunciato 120 licenziamenti e una riorganizzazione che prevede maggiore ricorso all'intelligenza artificiale",
+          "image": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/10/1794327653-ilpost_20261110171831762_90a5949332b6d69f5d6956ee59982271.jpg",
+          "siteName": "Il Post"
+        }
+      ]
+    }
+  ]
+}

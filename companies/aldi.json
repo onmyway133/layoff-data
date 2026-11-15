@@ -1,0 +1,22 @@
+{
+  "name": "Aldi",
+  "industry": "Grocery retail",
+  "events": [
+    {
+      "id": "aldi-2026-10-01",
+      "date": "2026-10-01",
+      "headcount": 150,
+      "country": "Germany",
+      "reason": "other",
+      "externalId": "ailayoffs:5b53674ac17aeca73c25",
+      "sources": [
+        {
+          "url": "https://www1.wdr.de/wirtschaft/unternehmen/aldi-sued-streicht-stellen-100.html",
+          "title": "Aldi Süd verschlankt die Verwaltung - Erneuter Stellenabbau in Mülheim geplant",
+          "description": "Der Discounter Aldi Süd baut in Mülheim erneut Stellen ab. Betroffen sind bis zu 150 Arbeitsplätze.",
+          "image": "https://www1.wdr.de/nrw/ruhrgebiet/muelheim/aldi-sued-zentrale-muelheim-100~_v-gseagaleriexl.jpg"
+        }
+      ]
+    }
+  ]
+}
