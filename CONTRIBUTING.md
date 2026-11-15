@@ -97,7 +97,9 @@ npm run validate
 - A new event's `id` is `<company>-<YYYY-MM-DD>`, then `-2`, `-3` for another
   event on the same day. Older events have UUIDs; keep them.
 - `date` is when the layoff was announced or reported, `YYYY-MM-DD`.
-- `headcount` is the number of jobs cut (a whole number above 100). `percent` is
+- `headcount` is the number of jobs cut (a whole number above 100). Leave it out
+  only when the press reports the cut without a figure: the layoff is listed as
+  undisclosed and counts toward no total. Never estimate one. `percent` is
   the share of the workforce (0 to 100), only when an article states it.
 - `country` is the country the cuts happened in, written out in English
   (`United States`, `Germany`).

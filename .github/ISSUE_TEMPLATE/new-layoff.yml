@@ -21,10 +21,10 @@ body:
     id: headcount
     attributes:
       label: Jobs cut
-      description: As stated in the articles. Don't estimate. Must be more than 100.
+      description: As stated in the articles. Don't estimate. Must be more than 100. Leave empty if the articles give no figure.
       placeholder: "120"
     validations:
-      required: true
+      required: false
   - type: input
     id: percent
     attributes:
