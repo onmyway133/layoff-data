@@ -3,6 +3,22 @@
   "industry": "Semiconductors",
   "events": [
     {
+      "id": "qualcomm-2026-10-20",
+      "date": "2026-10-20",
+      "country": "United States",
+      "reason": "other",
+      "externalId": "curated:37bf438f5aceb759c282",
+      "sources": [
+        {
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-qualcomm-to-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows",
+          "title": "Exclusive-Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+          "description": "Oct 20 (Reuters) - Qualcomm will cut jobs globally in a \"performance-focused reduction\" following its ⁠annual employee reviews, CEO Cristiano Amon told staff in a memo on Monday ‌reviewed by Reuters, with notifications set to begin in November.",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/10/20/4171846.jpg",
+          "siteName": "The Star"
+        }
+      ]
+    },
+    {
       "id": "qualcomm-2026-04-09",
       "date": "2026-04-09",
       "headcount": 104,

@@ -3,6 +3,22 @@
   "industry": "Software",
   "events": [
     {
+      "id": "automattic-2026-10-21",
+      "date": "2026-10-21",
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:b875e9433eadfc02d897",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+          "title": "Automattic begins layoffs following board upheaval and executive departures | TechCrunch",
+          "description": "Sources say more cuts could follow as the company looks to improve its finances.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v3.jpg?resize=1200,800",
+          "siteName": "TechCrunch"
+        }
+      ]
+    },
+    {
       "id": "automattic-2025-04-02",
       "date": "2025-04-02",
       "headcount": 281,

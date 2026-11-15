@@ -1,0 +1,24 @@
+{
+  "name": "Block",
+  "industry": "Fintech",
+  "domain": "block.xyz",
+  "icon": "block.png",
+  "events": [
+    {
+      "id": "block-2026-11-04",
+      "date": "2026-11-04",
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:6d3d2004cbb9b1c17552",
+      "sources": [
+        {
+          "url": "https://business-news-today.com/block-xyz-cuts-jobs-again-as-profits-soar-is-jack-dorseys-leaner-model-working/",
+          "title": "Block (XYZ) cuts jobs again as profits soar. Is Jack Dorsey's leaner",
+          "description": "Block cuts jobs again after a major workforce reset. Can Cash App and Square sustain growth without weakening service and risk controls?",
+          "image": "https://business-news-today.com/wp-content/uploads/2025/10/BNT-dark-blue-newsy.webp",
+          "siteName": "Business-News-Today.com"
+        }
+      ]
+    }
+  ]
+}

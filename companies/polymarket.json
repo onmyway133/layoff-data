@@ -1,0 +1,27 @@
+{
+  "name": "Polymarket",
+  "industry": "Prediction markets",
+  "domain": "polymarket.com",
+  "icon": "polymarket.png",
+  "events": [
+    {
+      "id": "polymarket-2026-11-11",
+      "date": "2026-11-11",
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:bf6f949df8ab1cf30039",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/polymarket-cuts-jobs-contracts-prediction-market-competition-heats-up-2026-11-11/"
+        },
+        {
+          "url": "https://www.933thedrive.com/2026/11/11/polymarket-cuts-jobs-contracts-as-prediction-market-competition-heats-up/",
+          "title": "Polymarket cuts jobs, contracts as prediction market competition heats up",
+          "description": "By Pritam Biswas Nov 11 (Reuters) - Polymarket has cut jobs and terminated several contractor agreements in a reorganization as the prediction market startup seeks to compete with rapidly growing rival ​Kalshi. An internal email from the company, endin...",
+          "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/11/2026-11-11T231818Z_1_LYNXNPEMAA222_RTROPTP_3_POLYMARKET-OUTAGE.JPG",
+          "siteName": "93.3 The Drive"
+        }
+      ]
+    }
+  ]
+}

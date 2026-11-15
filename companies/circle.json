@@ -1,0 +1,21 @@
+{
+  "name": "Circle",
+  "industry": "Fintech (stablecoins)",
+  "domain": "circle.com",
+  "icon": "circle.jpg",
+  "events": [
+    {
+      "id": "circle-2026-11-04",
+      "date": "2026-11-04",
+      "percent": 5,
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:28928e1cb354f0d8fe46",
+      "sources": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671"
+        }
+      ]
+    }
+  ]
+}
