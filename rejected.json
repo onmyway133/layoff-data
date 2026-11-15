@@ -113,6 +113,12 @@
     "date": "2026-08-03"
   },
   {
+    "externalId": "ailayoffs:514c69b2c6dc3c356ecc",
+    "company": "APG",
+    "date": "2025-12-09",
+    "note": "Out of scope: not a tech company (APG, pension administration)."
+  },
+  {
     "externalId": "ailayoffs:51f454e997b5c5c113c4",
     "company": "ING",
     "date": "2025-10-22"
@@ -141,6 +147,12 @@
     "externalId": "ailayoffs:5abf5acf658fa8d06b74",
     "company": "MARA Holdings",
     "date": "2026-04-02"
+  },
+  {
+    "externalId": "ailayoffs:5b53674ac17aeca73c25",
+    "company": "Aldi",
+    "date": "2026-10-01",
+    "note": "Out of scope: not a tech company (Aldi Süd, retailer; administration cuts in Mülheim, not Aldi DX)."
   },
   {
     "externalId": "ailayoffs:5c61e20fbe7dab4640ef",
@@ -188,6 +200,12 @@
     "externalId": "ailayoffs:737b6f2865a876cf043c",
     "company": "Ouest-France",
     "date": "2026-09-16"
+  },
+  {
+    "externalId": "ailayoffs:78e82ac9abcb97539170",
+    "company": "San Benedetto",
+    "date": "2026-11-10",
+    "note": "Out of scope: not a tech company (San Benedetto, beverages)."
   },
   {
     "externalId": "ailayoffs:7b7a5d425b8e00becdc6",
@@ -287,9 +305,21 @@
     "date": "2026-05-21"
   },
   {
+    "externalId": "ailayoffs:b1633ac0e6f5b4f4e407",
+    "company": "Umicore",
+    "date": "2026-11-12",
+    "note": "Out of scope: not a tech company (Umicore, materials and recycling)."
+  },
+  {
     "externalId": "ailayoffs:b534d689250dbeef8c49",
     "company": "The Bancorp",
     "date": "2026-09-04"
+  },
+  {
+    "externalId": "ailayoffs:b5b6046e20edca9ae90f",
+    "company": "ABN AMRO",
+    "date": "2025-11-25",
+    "note": "Out of scope: not a tech company (ABN AMRO, bank)."
   },
   {
     "externalId": "ailayoffs:b5bc755d9688adc4ff20",

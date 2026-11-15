@@ -6,6 +6,26 @@
   "icon": "amazon.png",
   "events": [
     {
+      "id": "amazon-2026-10-28",
+      "date": "2026-10-28",
+      "headcount": 250,
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:d03a1b1958bab6780ca1",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/world-at-work/amazon-cuts-more-jobs-devices-unit-after-flurry-product-rollouts-2026-10-28/"
+        },
+        {
+          "url": "https://cordcuttersnews.com/amazon-cuts-about-250-jobs-in-devices-unit-after-recent-product-launches/",
+          "title": "Amazon Cuts About 250 Jobs in Devices Unit After Recent Product Launches | Cord Cutters News",
+          "description": "Amazon has eliminated roughly 250 positions in its devices and services division, a move that arrived only days after the company released a cluster of new consumer hardware products. The reductions, carried out on Wednesday, primarily affected software development roles within the unit responsible for Kindle e-readers, Echo speakers, Fire tablets, and the Alexa voice […]",
+          "image": "https://cordcuttersnews.com/wp-content/uploads/2019/09/amazon-logo.jpg",
+          "siteName": "Cord Cutters News"
+        }
+      ]
+    },
+    {
       "id": "amazon-2026-09-01",
       "date": "2026-09-01",
       "headcount": 148,
