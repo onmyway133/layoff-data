@@ -1,0 +1,38 @@
+{
+  "name": "Fortnox",
+  "industry": "Accounting and business software",
+  "events": [
+    {
+      "id": "fortnox-2026-11-16",
+      "date": "2026-11-16",
+      "headcount": 200,
+      "percent": 18,
+      "country": "Sweden",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:55d8bd22e565e77dd364",
+      "sources": [
+        {
+          "url": "https://www.tv4.se/artikel/tt-261116-fortnox1-1008f759/fortnox-varslar-satsar-miljarder-pa-ai",
+          "title": "Fortnox varslar – satsar miljarder på AI",
+          "description": "Nyheter från TV4: Fortnox varslar – satsar miljarder på AI",
+          "image": "https://images.ctfassets.net/4y9sz8tapgok/tt-sdlmpGoX7Al8zQ/c420916c3fb61ea15181173004597688/Fortnox_lagger_ett_varsel_som_beror_200_tjanster__meddelar_bolaget._Arkivbild._",
+          "siteName": "TV4 Nyheterna"
+        },
+        {
+          "url": "https://www.realtid.se/bors-finans/fortnox-varslar-satsar-miljarder-pa-ai/",
+          "title": "Fortnox varslar – satsar miljarder på AI",
+          "description": "Fortnox investerar 5 miljarder kronor i AI och varslar samtidigt 200 anställda när bolaget ställer om hela verksamheten.",
+          "image": "https://images.realtid.se/app/uploads/2026/11/fortnox-lagger-ett-varsel-som-beror-200.jpg?width=1200&quality=75&aspect_ratio=16%3A9",
+          "siteName": "Realtid"
+        },
+        {
+          "url": "https://efn.se/fortnox-miljardinvesterar-i-ai-200-tjanster-ska-bort",
+          "title": "Fortnox miljardinvesterar i AI – 200 tjänster ska bort",
+          "description": "Bokföringsbolaget Fortnox planerar att göra sig av med 200 tjänster för att ge utrymme åt en miljardinvestering i AI. Bolaget uppger att man inlett förhandlingar med berörda fackförbund. – Vi kommer att genomföra processen med respekt och omsorg, säger vd Tommy Eklund i ett pressmeddelande.",
+          "image": "https://delivery2.objectic.io/ncDCPjqO3MTHdg7wODCN8l/AM0AL7jZa0n7/ZvOiRu6RuNEDMke7lxpauv2yHRRFV9Oww9AQ8WOM.jpg?crop=16:9,smart&format=jpg&width=1920&quality=75",
+          "siteName": "EFN.se"
+        }
+      ]
+    }
+  ]
+}
