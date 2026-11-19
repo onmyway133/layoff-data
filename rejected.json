@@ -466,6 +466,12 @@
     "date": "2026-10-05"
   },
   {
+    "externalId": "ailayoffs:f2d1b481094be1ea88cc",
+    "company": "Imperial Brands",
+    "date": "2026-11-17",
+    "note": "Out of scope: not a tech company (Imperial Brands, tobacco)."
+  },
+  {
     "externalId": "ailayoffs:f457483c15e9ef8f4f50",
     "company": "KLM",
     "date": "2026-10-12"
