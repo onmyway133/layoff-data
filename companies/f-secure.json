@@ -5,6 +5,24 @@
   "icon": "f-secure.png",
   "events": [
     {
+      "id": "f-secure-2026-10-01",
+      "date": "2026-10-01",
+      "headcount": 108,
+      "percent": 18,
+      "country": "Finland",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:4173a0255b1fa42b9ad0",
+      "sources": [
+        {
+          "url": "https://www.inderes.fi/releases/f-secure-change-negotiations-have-concluded",
+          "title": "F-Secure change negotiations have concluded - Inderes",
+          "description": "F-Secure Corporation | Press release | 16 November 2026 at 08:00 EETF-Secure change negotiations have concludedF-Secure Corporation’s change negotiations announced on 1 October 2026 have concluded...",
+          "image": "https://www.inderes.se/cdn-cgi/image/format=auto/https://content.inderes.se/assets/0ebc676c-8b99-40af-886f-ac15f3f60174.png",
+          "siteName": "Inderes"
+        }
+      ]
+    },
+    {
       "id": "fbe0c67f-90dd-43d9-bd34-22c25965900a",
       "date": "2026-10-01",
       "headcount": 145,
