@@ -1,0 +1,25 @@
+{
+  "name": "Yelp",
+  "industry": "Internet",
+  "domain": "yelp.com",
+  "icon": "yelp.png",
+  "events": [
+    {
+      "id": "yelp-2026-11-18",
+      "date": "2026-11-18",
+      "percent": 5,
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:17965355d0b420967514",
+      "sources": [
+        {
+          "url": "https://sea.peoplemattersglobal.com/news/strategic-hr/yelp-to-cut-nearly-5percent-of-workforce-to-redirect-investment-towards-ai-53446",
+          "title": "Yelp to cut nearly 5% of workforce to redirect investment towards AI",
+          "description": "The restructuring is expected to cost $14 million–$16 million in severance and benefits across Q4 2026 and Q1 2027.",
+          "image": "https://asset.peoplematters.in/images/f51a1c44-8649-4100-a45c-ff392026825f.png",
+          "siteName": "People Matters"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Athenahealth",
+  "industry": "Healthcare software",
+  "domain": "athenahealth.com",
+  "icon": "athenahealth.png",
+  "events": [
+    {
+      "id": "athenahealth-2026-11-13",
+      "date": "2026-11-13",
+      "percent": 4,
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:9bf998c25b9c8ffee6c6",
+      "sources": [
+        {
+          "url": "https://www.bostonglobe.com/2026/11/16/business/athenahealth-layoff-4-percent-bain-capital/",
+          "title": "Athenahealth to lay off 4 percent of workers - The Boston Globe",
+          "description": "CEO Bob Segert said the number of visits to health care providers has “remained below our expectations.”",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BUCZVSRYWHHO43DVE7S5OX37VQ.JPG?auth=db7049cd66e0e3f65297c901f8200cfff193cf7b7d8388c1350fdf748e58785b&width=1440",
+          "siteName": "BostonGlobe.com"
+        }
+      ]
+    }
+  ]
+}

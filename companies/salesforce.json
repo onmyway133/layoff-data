@@ -6,6 +6,29 @@
   "icon": "salesforce.png",
   "events": [
     {
+      "id": "salesforce-2026-11-17",
+      "date": "2026-11-17",
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:04dd6e5d2654fecdae02",
+      "sources": [
+        {
+          "url": "https://cxtoday.com/in-brief/salesforce-begins-fresh-round-of-layoffs-reports-say-uWNoud7R5RpCLTX8PCKSyCw",
+          "title": "Salesforce Begins Fresh Round of Layoffs, Reports Say",
+          "description": "Salesforce has started another round of job cuts, Business Insider reports, citing internal Slack messages that point to staff across several teams and levels…",
+          "image": "https://cxtoday.com/brand/in-brief-og.jpg",
+          "siteName": "CX Today"
+        },
+        {
+          "url": "https://www.businessinsider.com/salesforce-starts-cutting-more-jobs-internal-messages-show-2026-11",
+          "title": "Salesforce has started cutting more jobs, internal messages show",
+          "description": "Employees discussed job cuts beginning this week in messages on an internal Slack channel viewed by Business Insider.",
+          "image": "https://i.insider.com/6afcb25368dc6b6660b83df2?width=1200&format=jpeg",
+          "siteName": "Business Insider"
+        }
+      ]
+    },
+    {
       "id": "salesforce-2026-08-07",
       "date": "2026-08-07",
       "headcount": 133,

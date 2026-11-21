@@ -1,0 +1,22 @@
+{
+  "name": "Sage",
+  "industry": "Business software",
+  "events": [
+    {
+      "id": "sage-2026-11-16",
+      "date": "2026-11-16",
+      "headcount": 300,
+      "country": "United Kingdom",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:d9100477c36ed8f9e3b2",
+      "sources": [
+        {
+          "url": "https://www.investegate.co.uk/announcement/rns/sage-group--sge/results-for-the-year-ended-30-september-2026/9882920",
+          "title": "Results for the year ended 30 September 2026 | Company Announcement | Investegate",
+          "description": "Comprehensive details of regulatory and non regulatory announcements from FTSE 100, 250, AIM and techMARK quoted companies",
+          "image": "https://assets.investegate.co.uk/public/assets/images/linkedin-investegate-logo.jpg"
+        }
+      ]
+    }
+  ]
+}

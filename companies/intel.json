@@ -5,6 +5,29 @@
   "icon": "intel.png",
   "events": [
     {
+      "id": "intel-2026-11-17",
+      "date": "2026-11-17",
+      "country": "United States",
+      "reason": "restructuring",
+      "externalId": "curated:8aaab402ea592fc0c54e",
+      "sources": [
+        {
+          "url": "https://www.notebookcheck.net/Intel-cuts-more-jobs-as-CEO-Lip-Bu-Tan-continues-efficiency-push.1453637.0.html",
+          "title": "Intel cuts more jobs as CEO Lip-Bu Tan continues efficiency push",
+          "description": "Intel has reportedly begun another round of layoffs, with employees saying the cuts hit its global IT team. The company has not said how many jobs were eliminated. The cuts appear to be part of CEO Lip-Bu Tan’s push to make Intel leaner by cutting costs and streamlining operations.",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/intel-logo-big39.jpg",
+          "siteName": "Notebookcheck"
+        },
+        {
+          "url": "https://www.businessinsider.com/intel-layoffs-restructuring-ceo-lip-bu-tan-2026-11",
+          "title": "Intel is laying off employees again",
+          "description": "After a series of layoffs over the last two years, Intel has laid off workers again, Business Insider has learned.",
+          "image": "https://i.insider.com/6afd01db04834674c81c70ac?width=1200&format=jpeg",
+          "siteName": "Business Insider"
+        }
+      ]
+    },
+    {
       "id": "intel-2025-04-23",
       "date": "2025-04-23",
       "headcount": 21000,
