@@ -1,0 +1,58 @@
+{
+  "name": "Enphase Energy",
+  "industry": "Solar and home energy equipment",
+  "events": [
+    {
+      "id": "enphase-energy-2026-11-20",
+      "date": "2026-11-20",
+      "headcount": 320,
+      "percent": 12,
+      "country": "United States",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:c43ddcf94b00a71b55f8",
+      "sources": [
+        {
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/8953179/enphase-energy-announces-restructuring-affecting-12-of-workforce/",
+          "title": "Enphase Energy Announces Restructuring Affecting 12% of Workforce",
+          "description": "Tipranks Press Release.",
+          "image": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=996",
+          "siteName": "The Globe and Mail"
+        },
+        {
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4710YL:0-enphase-energy-to-reduce-headcount-by-12-affecting-about-320-employees/",
+          "title": "Enphase Energy To Reduce Headcount By 12%, Affecting About 320 Employees",
+          "description": "Enphase Energy, Inc. NASDAQ:ENPH:",
+          "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+          "siteName": "TradingView"
+        }
+      ]
+    },
+    {
+      "id": "enphase-energy-2026-01-23",
+      "date": "2026-01-23",
+      "headcount": 160,
+      "country": "United States",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:c5a3fd421d4a0d84d5cb",
+      "sources": [
+        {
+          "url": "https://pv-magazine-usa.com/2026/02/02/enphase-energy-cuts-about-6-of-workforce/",
+          "title": "Enphase Energy cuts about 6% of workforce - pv magazine USA",
+          "description": "Amid a projected downturn following the expiration of federal solar tax credits, the microinverter and battery giant said it is prioritizing operational efficiency and AI-driven automation.",
+          "image": "https://pv-magazine-usa.com/wp-content/uploads/2016/08/enphase_offices_web.jpg",
+          "siteName": "pv magazine USA"
+        },
+        {
+          "url": "https://www.pv-tech.org/enphase-to-cut-160-jobs-globally-as-q4-microinverter-shipments-drop-to-682mw/"
+        },
+        {
+          "url": "https://taiyangnews.info/business/enphase-energy-q4-2025-revenue-drops-announces-layoffs",
+          "title": "Enphase Energy’s Q4 2025 Revenue Drops; Announces Layoffs",
+          "description": "Enphase Energy, the US-based microinverter and storage solutions provider, has announced plans to lay off nearly 6% of its global workforce",
+          "image": "https://media.assettype.com/taiyangnews%2F2026-02-04%2Fuk8evim3%2FPresentation1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "siteName": "TaiyangNews - All About Solar Power"
+        }
+      ]
+    }
+  ]
+}
