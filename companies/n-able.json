@@ -1,0 +1,24 @@
+{
+  "name": "N-able",
+  "industry": "Cybersecurity software",
+  "events": [
+    {
+      "id": "n-able-2026-08-10",
+      "date": "2026-08-10",
+      "headcount": 120,
+      "percent": 6,
+      "country": "United States",
+      "reason": "ai_automation",
+      "externalId": "ailayoffs:586bc133c9c6f63bc16e",
+      "sources": [
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/n-able-nabl-q2-2026-earnings-call-transcript/",
+          "title": "N-able (NABL) Q2 2026 Earnings Call Transcript | The Motley Fool",
+          "description": "Data protection gains offset by pricing pressure in endpoint markets.",
+          "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+          "siteName": "The Motley Fool"
+        }
+      ]
+    }
+  ]
+}

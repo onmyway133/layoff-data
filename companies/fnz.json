@@ -1,0 +1,24 @@
+{
+  "name": "FNZ",
+  "industry": "Fintech",
+  "events": [
+    {
+      "id": "fnz-2026-11-20",
+      "date": "2026-11-20",
+      "headcount": 1500,
+      "percent": 25,
+      "country": "United Kingdom",
+      "reason": "cost_cutting",
+      "externalId": "curated:885fe99d88d5aed66412",
+      "sources": [
+        {
+          "url": "https://www.cityam.com/wealth-fintech-fnz-to-axe-1500-roles-and-slash-office-footprint/",
+          "title": "Wealth fintech FNZ to axe 1,500 roles and slash office footprint",
+          "description": "Wealth fintech FNZ is to slash its headcount by a quarter and cut its global office footprint in a bid to reduce costs.",
+          "image": "https://www.cityam.com/wp-content/uploads/2026/11/1920_16_9_65f6902f-016d-4927-b122-f26ac20ffc72-1200x800-1.jpeg",
+          "siteName": "City AM"
+        }
+      ]
+    }
+  ]
+}
