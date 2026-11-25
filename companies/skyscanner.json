@@ -1,0 +1,24 @@
+{
+  "name": "Skyscanner",
+  "industry": "Online travel",
+  "events": [
+    {
+      "id": "skyscanner-2026-11-23",
+      "date": "2026-11-23",
+      "headcount": 150,
+      "percent": 10,
+      "country": "United Kingdom",
+      "reason": "other",
+      "externalId": "ailayoffs:e0ebd4d6c5256f45580c",
+      "sources": [
+        {
+          "url": "https://www.thenational.scot/news/26755781.edinburgh-based-skyscanner-cut-150-jobs-holidaymakers-turn-ai/",
+          "title": "Skyscanner to axe 150 jobs as holidaymakers turn to AI",
+          "description": "THE Scotland-based flight-comparison site Skyscanner is set to cut 150 jobs, it has been revealed ...",
+          "image": "https://www.thenational.scot/resources/images/20343612.jpg?type=og-image",
+          "siteName": "The National"
+        }
+      ]
+    }
+  ]
+}
